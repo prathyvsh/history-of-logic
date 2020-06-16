@@ -1,0 +1,21 @@
+* History of Logic
+
+*** Boole
+*** Augustus De Morgan
+*** Jevons
+*** Schröder
+*** Peirce
+*** Hilbert
+*** Ackermann
+*** Allan Marquand
+*** Sheffer
+*** Gentzen
+*** Alfred North Whitehead
+*** Schönfinkel
+*** Post
+*** Church
+*** Turing
+
+** Surveys
+*** [[https://www.elsevier.com/books/book-series/handbook-of-the-history-of-logic][Handbook of Logic]]
+A multivolume series with scholarship in the history of logic
