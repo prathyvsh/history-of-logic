@@ -1,28 +1,73 @@
 * History of Logic
 
-*** Boole
+*** Early Greeks
+
+*** Plato
+
+*** Aristotle
+
+*** Stoics
+
+*** George Boole
+
 *** Augustus De Morgan
+
 *** Jevons
+
 *** Schröder
+
 *** Frege
+
 *** Peirce
+
 *** Huntington
+
 *** Hilbert
+
 *** Ackermann
+
 *** Allan Marquand
+
 *** Sheffer
+
 *** Gentzen
+
 *** Russell
+
 *** Alfred North Whitehead
+
 *** Schönfinkel
+
+*** C. I. Lewis
+Has written a survey on symbolic logic.
+
 *** Post
+
 *** Church
+
 *** Turing
+
 *** Kleene
+
 *** Rosser
+
 *** Tarski
+
 *** Carnap
+
+*** Rosenbloom
+
+*** Freudenthal
+
 *** Quine
+
+*** Halmos
+
+*** Bourbaki
+
+*** Eilenberg
+
+*** Lawvere
 
 ** Surveys
 *** [[https://www.elsevier.com/books/book-series/handbook-of-the-history-of-logic][Handbook of Logic]]
