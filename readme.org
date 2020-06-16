@@ -4,17 +4,25 @@
 *** Augustus De Morgan
 *** Jevons
 *** Schröder
+*** Frege
 *** Peirce
+*** Huntington
 *** Hilbert
 *** Ackermann
 *** Allan Marquand
 *** Sheffer
 *** Gentzen
+*** Russell
 *** Alfred North Whitehead
 *** Schönfinkel
 *** Post
 *** Church
 *** Turing
+*** Kleene
+*** Rosser
+*** Tarski
+*** Carnap
+*** Quine
 
 ** Surveys
 *** [[https://www.elsevier.com/books/book-series/handbook-of-the-history-of-logic][Handbook of Logic]]
