@@ -8,17 +8,31 @@
 
 *** Stoics
 
+*** William Occam
+
+*** Antoine Arnauld
+
+*** Pierre Nicole
+
+*** Isaac Watts
+
 *** George Boole
 
 *** Augustus De Morgan
 
 *** Jevons
 
+*** Venn
+
 *** Schröder
+
+*** John Stuart Mill
 
 *** Frege
 
 *** Peirce
+
+*** Peano
 
 *** Huntington
 
@@ -26,11 +40,19 @@
 
 *** Ackermann
 
+*** Brouwer
+
 *** Allan Marquand
 
 *** Sheffer
 
 *** Gentzen
+
+*** Gödel
+
+*** Heyting
+
+*** Łukasiewcz
 
 *** Russell
 
