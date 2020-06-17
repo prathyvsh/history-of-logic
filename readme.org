@@ -58,6 +58,8 @@
 
 *** Łukasiewcz
 
+**** Many valued logic
+
 *** Russel
 
 *** Wittgenstein
@@ -76,6 +78,8 @@ Has written a survey on symbolic logic.
 *** Turing
 
 *** Kleene
+
+**** Three valued logic
 
 *** Rosser
 
@@ -97,6 +101,13 @@ Has written a survey on symbolic logic.
 
 *** Lawvere
 
+*** Belnap
+
+**** Four valued logic
+
 ** Surveys
 *** [[https://www.elsevier.com/books/book-series/handbook-of-the-history-of-logic][Handbook of Logic]]
 A multivolume series with scholarship in the history of logic
+
+*** [[http://www.columbia.edu/%7Eav72/papers/JANCL_2003.pdf][The Geometry of Negation]]
+Negation as a rotation of polygons/polyhedra. Also gives a brief survey of different kinds of logic systems and the kind of group actions implicit in their structures.
