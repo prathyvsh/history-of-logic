@@ -106,6 +106,8 @@ Has written a survey on symbolic logic.
 **** Four valued logic
 
 ** Surveys
+
+*** [[https://amzn.to/2N79N6q][A Survey of Symbolic Logic - C. I. Lewis]]
 *** [[https://www.elsevier.com/books/book-series/handbook-of-the-history-of-logic][Handbook of Logic]]
 A multivolume series with scholarship in the history of logic
 
