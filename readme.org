@@ -119,7 +119,11 @@ Has written a survey on symbolic logic.
 
 ** Notes
 
-There seems to be a link between how Kempe influence Royce and Peirce, which ends up influencing Sheffer in arriving at his “notational relativity” programme.
+There seems to be a link between how Kempe influenced Peirce, both influenced Royce, which ends up influencing Sheffer in arriving at his “notational relativity” programme.
+
+C. I. Lewis was the student of Royce, whose book Post reads and becomes an aid in formulating at his linguistic approach to logic to arrive at string rewriting systems.
+
+Chomsky learns of Post’s work via Rosenbloom’s book.
 
 ** Surveys
 
