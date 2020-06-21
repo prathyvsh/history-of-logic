@@ -1,111 +1,111 @@
 * History of Logic
 
-*** Early Greeks
+** Early Greeks
 
-*** Plato
+** Plato
 
-*** Aristotle
+** Aristotle
 
-*** Stoics
+** Stoics
 
-*** William Occam
+** William Occam
 
-*** Antoine Arnauld
+** Antoine Arnauld
 
-*** Pierre Nicole
+** Pierre Nicole
 
-*** Isaac Watts
+** Isaac Watts
 
-*** George Boole
+** George Boole
 
-**** A mathematical analysis of logic (1847)
-**** The calculus of logic (1848)
-**** The laws of thought (1854)
+*** A mathematical analysis of logic (1847)
+*** The calculus of logic (1848)
+*** The laws of thought (1854)
 
-*** Augustus De Morgan
+** Augustus De Morgan
 
-*** Jevons
+** Jevons
 
-*** Venn
+** Venn
 
-*** Schröder
+** Schröder
 
-*** John Stuart Mill
+** John Stuart Mill
 
-*** Frege
+** Frege
 
-*** Peirce
+** Peirce
 
-*** Peano
+** Peano
 
-*** Huntington
+** Huntington
 
-*** Hilbert
+** Hilbert
 
-*** Ackermann
+** Ackermann
 
-*** Brouwer
+** Brouwer
 
-*** Allan Marquand
+** Allan Marquand
 
-*** Sheffer
+** Sheffer
 
 *** [[./refs/the-general-theory-of-notational-relativity.pdf][The General Theory of Notational Relativity]]
 
-*** Gentzen
+** Gentzen
 
-*** Gödel
+** Gödel
 
-*** Heyting
+** Heyting
 
-*** Łukasiewcz
+** Łukasiewcz
 
-**** Many valued logic
+*** Many valued logic
 
-*** Russel
+** Russel
 
-*** Wittgenstein
+** Wittgenstein
 
-*** Alfred North Whitehead
+** Alfred North Whitehead
 
-*** Schönfinkel
+** Schönfinkel
 
-*** C. I. Lewis
+** C. I. Lewis
 Has written a survey on symbolic logic.
 
-*** Post
+** Post
 
-*** Church
+** Church
 
-*** Turing
+** Turing
 
-*** Kleene
+** Kleene
 
-**** Three valued logic
+*** Three valued logic
 
-*** Rosser
+** Rosser
 
-*** Tarski
+** Tarski
 
-*** Carnap
+** Carnap
 
-*** Rosenbloom
+** Rosenbloom
 
-*** Freudenthal
+** Freudenthal
 
-*** Quine
+** Quine
 
-*** Halmos
+** Halmos
 
-*** Bourbaki
+** Bourbaki
 
-*** Eilenberg
+** Eilenberg
 
-*** Lawvere
+** Lawvere
 
-*** Belnap
+** Belnap
 
-**** Four valued logic
+*** Four valued logic
 
 ** Surveys
 
