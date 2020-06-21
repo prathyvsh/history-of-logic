@@ -97,6 +97,8 @@ Has written a survey on symbolic logic.
 
 ** Tarski
 
+*** [[https://www.academia.edu/12410865/Alfred_Tarskis_What_are_Logical_Notions_Edited_and_introduced_by_John_Corcoran_][What are the logical notions? (Lecture Delivered: 1966 / Published: 1986)]]
+
 ** Carnap
 
 ** Rosenbloom
