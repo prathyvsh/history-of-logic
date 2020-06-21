@@ -34,6 +34,14 @@
 
 ** Frege
 
+** Kempe
+
+** Josaiah Royce
+
+*** ∑ System
+**** [[https://www.ams.org/journals/tran/1905-006-03/S0002-9947-1905-1500718-9/S0002-9947-1905-1500718-9.pdf][The Relation of the Principles of Logic to the Foundations of Geometry (1905)]]
+
+
 ** Peirce
 
 ** Peano
@@ -67,6 +75,8 @@
 ** Wittgenstein
 
 ** Alfred North Whitehead
+
+** Veblen
 
 ** Schönfinkel
 
@@ -106,6 +116,10 @@ Has written a survey on symbolic logic.
 ** Belnap
 
 *** Four valued logic
+
+** Notes
+
+There seems to be a link between how Kempe influence Royce and Peirce, which ends up influencing Sheffer in arriving at his “notational relativity” programme.
 
 ** Surveys
 
