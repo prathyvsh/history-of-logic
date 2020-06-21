@@ -50,6 +50,8 @@
 
 *** Sheffer
 
+*** [[./refs/the-general-theory-of-notational-relativity.pdf][The General Theory of Notational Relativity]]
+
 *** Gentzen
 
 *** Gödel
