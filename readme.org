@@ -41,9 +41,17 @@ Credit by De Morgan as single handedly bringing about a revival in English schoo
 
 ** Frege
 
-** Kempe
+** Alfred Kempe
 
-*** A memoir on the theory of mathematical form
+*** [[https://royalsocietypublishing.org/doi/pdf/10.1098/rstl.1886.0002][A memoir on the theory of mathematical form (1886)]]
+
+*** Note to a memoir on the theory of mathematical form (1887)
+
+*** On the relation between the logical theory of classes and the geometrical theory of points (1889)
+
+*** The subject matter of exact thought (1890)
+
+*** The theory of mathematical form: a correction and clarification (1897)
 
 ** Josaiah Royce
 
