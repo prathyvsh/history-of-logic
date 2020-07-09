@@ -16,6 +16,8 @@
 
 ** Isaac Watts
 
+** Gottfried Wilhelm Leibniz
+
 ** George Boole
 
 *** A mathematical analysis of logic (1847)
