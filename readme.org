@@ -27,8 +27,12 @@
 **** [[https://amzn.to/38RNFak][Logic and Rehtoric in England (1500-1700) – Wilbur Samuel Howell (1956)]]
 
 ** Richard Whately
+
 *** Elements of Logic (1826)
 Credited by De Morgan as single handedly bringing about a revival in English school of logic
+
+**** Works on Whatley’s life
+***** [[https://digitalcollections.dordt.edu/faculty_work/230/][Richard Whately and the Revival of Syllogistic Logic in Great Britain in the Early Nineteenth Century – Calvin Jongsma (1982)]]
 
 ** George Boole
 
