@@ -167,6 +167,8 @@ Chomsky learns of Post’s work via Rosenbloom’s book.
 *** [[https://www.elsevier.com/books/book-series/handbook-of-the-history-of-logic][Handbook of Logic]]
 A multivolume series with scholarship in the history of logic
 
+*** [[https://projecteuclid.org/euclid.rml/1204834850][Historical Development of Modern Logic - Jean van Heijenoort (1992)]]
+
 *** [[https://amzn.to/2BQsWHX][The Development of Logic — Kneale and Kneale (1985)]]
 
 *** [[http://www.columbia.edu/%7Eav72/papers/JANCL_2003.pdf][The Geometry of Negation]]
