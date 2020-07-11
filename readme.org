@@ -137,6 +137,12 @@ Has written a survey on symbolic logic.
 
 ** Rosenbloom
 
+** Skolem
+
+** Löwenheim
+
+** Herbrand
+
 ** Freudenthal
 
 ** Quine
