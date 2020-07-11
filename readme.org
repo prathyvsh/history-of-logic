@@ -164,6 +164,7 @@ Chomsky learns of Post’s work via Rosenbloom’s book.
 ** Surveys
 
 *** [[https://amzn.to/2N79N6q][A Survey of Symbolic Logic - C. I. Lewis]]
+*** [[https://amzn.to/2Ct4vQr][The Search for Mathematical Roots, 1870-1940 – I. Grattan-Guinness (2000)]]
 *** [[https://www.elsevier.com/books/book-series/handbook-of-the-history-of-logic][Handbook of Logic]]
 A multivolume series with scholarship in the history of logic
 
