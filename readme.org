@@ -184,3 +184,10 @@ Negation as a rotation of polygons/polyhedra. Also gives a brief survey of diffe
 *** [[https://www.semanticscholar.org/paper/Negating-as-turning-upside-down-Skowron-Kubi's/0ef270e35018919a2dcdd3fc84263e37504cee7b][Negation as turning upside down]]
 
 Links logic with category theory and adjointness
+
+*** [[https://www.springer.com/gp/book/9783034874045][Russel and the Origins of the Set-Theoretic ‘paradoxes’]]
+
+** Historians
+
+*** William Calvert Kleene
+*** I. Grattan Guinness
