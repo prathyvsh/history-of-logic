@@ -171,6 +171,9 @@ Chomsky learns of Post’s work via Rosenbloom’s book.
 
 *** [[https://amzn.to/2N79N6q][A Survey of Symbolic Logic - C. I. Lewis]]
 *** [[https://amzn.to/2Ct4vQr][The Search for Mathematical Roots, 1870-1940 – I. Grattan-Guinness (2000)]]
+
+*** [[https://amzn.to/327EYXX][Medieval Logic An Outline of Its Development from 1250 to c. 1400 - Philotheus Boehner]]
+
 *** [[https://www.elsevier.com/books/book-series/handbook-of-the-history-of-logic][Handbook of Logic]]
 A multivolume series with scholarship in the history of logic
 
