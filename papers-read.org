@@ -1,12 +1,20 @@
 * Papers Read
 
 ** May 2020
+
 *** [[https://sites.ualberta.ca/~francisp/Phil428.526/UrquhartPost.pdf][Emil Post – Alasdair Urquhart (2008)]]
 
 ** June 2020
 
 *** [[http://www.columbia.edu/%7Eav72/papers/JANCL_2003.pdf][Geometry of Negation]]
+
 *** [[https://archive.org/details/jstor-27900610][Image of Creation]]
+
+** July 2020
+
+*** [[http://www.commens.org/bibliography/journal_article/seibert-charles-h-2005-charles-peirce%E2%80%99s-reading-richard-whately%E2%80%99s][Charles Peirce’s Reading of Richard Whately’s Elements of Logic (2004)]]
+
+Charles H. Seibert 
 
 ** On Process
 
