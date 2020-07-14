@@ -19,8 +19,10 @@ Read 11 July 2020
 
 *** [[https://www.jstor.org/stable/pdf/27900607.pdf][The Logical Work of Leibniz (1916)]]
 Philip E. B. Jourdain
-
 Read 12 July 2020
+
+A good article briefing on the work of Leibniz. Need to trace the work of Jourdain further in logic.
+He seems to be a regular author for Quarterly Journal of Mathematics.
 
 ** On Process
 
