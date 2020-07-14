@@ -35,6 +35,10 @@ Credited by De Morgan as single handedly bringing about a revival in English sch
 **** Works on Whatley’s life
 ***** [[https://digitalcollections.dordt.edu/faculty_work/230/][Richard Whately and the Revival of Syllogistic Logic in Great Britain in the Early Nineteenth Century – Calvin Jongsma (1982)]]
 
+** Charles Babbage
+
+** Charles Graves
+
 ** George Boole
 
 [[Boole’s portrait from his 1865 obituary][./img/boole.png]]
