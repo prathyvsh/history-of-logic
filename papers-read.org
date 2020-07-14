@@ -24,6 +24,16 @@ Read 12 July 2020
 A good article briefing on the work of Leibniz. Need to trace the work of Jourdain further in logic.
 He seems to be a regular author for Quarterly Journal of Mathematics.
 
+*** [[https://www.jstor.org/stable/23940478][Leibniz and the Picture Theory of Language]]
+William Kneale, 1966
+
+- Parallels between the logical picture of Wittgenstein and Leibniz’s work is drawn.
+- First order and second order natural signs are detailed.
+- Poryphry’s exposition of Aristotle’s Categories and it finding a main audience in philosophy through the work of Boethius.
+- Natural signs in the soul were called intentiones.
+- Leibniz’ idea of costructing a scientific language that will form a thread of meditation (filum meditandi) is outlined.
+- The idea that when a dyadical relation is introduced, the relationship modifying each of the two entities involved is detailed, that is the paternity of David to Solomon, grants Solomon the sonship of David.
+
 ** On Process
 
 *** Conceptual Roots of Mathematics
