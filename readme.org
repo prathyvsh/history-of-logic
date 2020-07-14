@@ -37,7 +37,7 @@ Credited by De Morgan as single handedly bringing about a revival in English sch
 
 ** George Boole
 
-[[Boole’s portrait from his 1865 obituary][./boole.png]]
+[[Boole’s portrait from his 1865 obituary][./img/boole.png]]
 [[https://archive.org/details/illustratedlondov46lond/page/60/mode/2up][Source]]
 
 *** A mathematical analysis of logic (1847)
