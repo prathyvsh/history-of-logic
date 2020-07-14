@@ -41,7 +41,17 @@ Credited by De Morgan as single handedly bringing about a revival in English sch
 
 [[https://archive.org/details/illustratedlondov46lond/page/60/mode/2up][Image source]]
 
+First published work of Boole in mathematics was on analysis. Follow of Trinity College in Cambridge called Gregory would help Boole to publish this paper in Transactions of The Cambridge Philosophical Society in 1844. This paper would go on to win the society’s gold medal thereby establishing Boole’s reputation. The paper is a work on calculus of operations.
+
+Boole was inspired to take up work in logic after seeing a dispute between De Morgan and Hamilton in one of the periodicals. He would go on to apply this calculus of operators to logic, thereby algebraizing logic and creating the domain of algebra of logic.
+
+TODO: Trace if these letters of dispute between De Morgan and Hamilton is available.
+
 *** A mathematical analysis of logic (1847)
+
+His first pamphlet was called a mathematical analysis of logic, that was published on 29th October, 1847. He first sent it to Rev. Charles Graves at the Cambridge University, who approved it and is said to make some ingenious additions.
+TODO: Trace what these additions where.
+
 *** The calculus of logic (1848)
 *** The laws of thought (1854)
 
