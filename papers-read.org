@@ -12,6 +12,8 @@
 
 ** July 2020
 
+*** [[https://www.maa.org/press/periodicals/convergence/origins-of-boolean-algebra-in-the-logic-of-classes-george-boole-john-venn-and-c-s-peirce][Introduction article to Origins of Boolean Algebra in the logic of classes]]
+
 *** [[http://www.commens.org/bibliography/journal_article/seibert-charles-h-2005-charles-peirce%E2%80%99s-reading-richard-whately%E2%80%99s][Charles Peirce’s Reading of Richard Whately’s Elements of Logic (2004)]]
 Charles H. Seibert
 
@@ -33,6 +35,16 @@ William Kneale, 1966
 - Natural signs in the soul were called intentiones.
 - Leibniz’ idea of costructing a scientific language that will form a thread of meditation (filum meditandi) is outlined.
 - The idea that when a dyadical relation is introduced, the relationship modifying each of the two entities involved is detailed, that is the paternity of David to Solomon, grants Solomon the sonship of David.
+
+** [[https://www.jstor.org/stable/2250689][Boole and the Revival of Logic]]
+William Kneale, 1948
+
+This is supposedly Kneale’s first work on the history of logic.
+
+Read Part 1 out of 3. The rest two are expositions of his work, which I am deciding to read after perusing his work on logic.
+Part 1 was a good read that shows the histiriographical works available on his life and his moral standings among other details on his life.
+
+TODO: Read Part 2 and 3
 
 ** On Process
 
