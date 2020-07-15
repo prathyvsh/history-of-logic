@@ -194,6 +194,13 @@ A good introduction into the life of George Boole.
 
 *** Many valued logic
 
+** Logicism
+
+*** Papers on the movement
+
+**** [[https://www.jstor.org/stable/27900598][Logistic and the Reduction of Mathematics to Logic]]
+James Bymie Shaw, 1916
+
 ** Russel
 
 ** Wittgenstein
