@@ -79,6 +79,8 @@ Credited by De Morgan as single handedly bringing about a revival in English sch
 
 ** Charles Babbage
 
+** Ada Lovelace
+
 ** Charles Graves
 
 ** George Peacock
@@ -124,6 +126,12 @@ A good introduction into the life of George Boole.
 ** Augustus De Morgan
 
 *** On the Syllogism (1686, Unpublished)
+
+*** On the foundation of algebra
+
+*** Works on De Morgan
+
+**** [[https://sites.tufts.edu/histmath/files/2015/11/richards-demorgan.pdf][Augustus De Morgan, the History of Mathematics, and the Foundations of Algebra]]
 
 ** Jevons
 
