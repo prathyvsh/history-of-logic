@@ -56,6 +56,8 @@ TODO: Trace if these letters of dispute between De Morgan and Hamilton is availa
 His first pamphlet was called a mathematical analysis of logic, that was published on 29th October, 1847. He first sent it to Rev. Charles Graves at the Cambridge University, who approved it and is said to make some ingenious additions.
 TODO: Trace what these additions where.
 
+A detailing of this work is available here: https://www.math.uwaterloo.ca/~snburris/htdocs/MAL.pdf
+
 *** The calculus of logic (1848)
 *** The laws of thought (1854)
 
