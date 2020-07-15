@@ -280,6 +280,12 @@ Links logic with category theory and adjointness
 
 *** [[https://www.springer.com/gp/book/9783034874045][Russel and the Origins of the Set-Theoretic ‘paradoxes’]]
 
+*** [[https://www.jstor.org/stable/301542][The Formation of Modern Conceptions of Formal Logic in the Development of Geometry (1939)]]
+Ernest Nagel
+
+*** [[Impossible Numbers]]
+Ernest Nagel (1935)
+
 ** Historians
 
 *** William Calvert Kleene
