@@ -284,3 +284,4 @@ Links logic with category theory and adjointness
 
 *** William Calvert Kleene
 *** I. Grattan Guinness
+*** P. E. B Jourdain
