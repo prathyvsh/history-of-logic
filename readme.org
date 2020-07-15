@@ -61,11 +61,11 @@ TODO: Trace what these additions where.
 
 *** Works on Boole
 
-**** [[https://academic.oup.com/mind/article-abstract/LVII/226/149/949579]][Boole and the Revival of Logic – Kneale 1942]]
+**** [[https://academic.oup.com/mind/article-abstract/LVII/226/149/949579][Boole and the Revival of Logic – Kneale 1942]]
+
+A good introduction into the life of George Boole.
 
 **** [[https://royalsocietypublishing.org/doi/10.1098/rsnr.1956.0006][Boole and the Algebra of Logic – Kneale 1956]]
-
-
 
 ** Augustus De Morgan
 
