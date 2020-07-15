@@ -87,6 +87,10 @@ Credited by De Morgan as single handedly bringing about a revival in English sch
 
 *** [[https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/xon-the-real-nature-of-symbolical-algebra/33822F167E8ECC7DFFEE2B01CA0F32F3][On the Real Nature of Symbolical Algebra – 1839]]
 
+*** Works on the life of Gregory
+
+**** [[https://pdfs.semanticscholar.org/ff7a/89c1843e3876461ca910ff6f19377fbc6500.pdf][Symbolical Algebra as a Foundation for Calculus: D. F. Gregory’s Contribution]]
+
 ** George Boole
 
 [[Boole’s portrait from his 1865 obituary][./img/boole.png]]
