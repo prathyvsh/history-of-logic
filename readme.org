@@ -4,11 +4,25 @@
 
 ** Plato
 
+** Scholastic Logic
+
 ** Aristotle
 
 ** Stoics
 
 ** William Occam
+
+** John Pagus (13th Century)
+
+** Lambert of Auxerre (13th Century)
+
+Summa Lamberti
+
+** Peter of Hispania (13th Century)
+
+Summulae Logicales
+
+** [[https://en.wikipedia.org/wiki/Supposition_theory][Supposition Theory]]
 
 ** Antoine Arnauld
 
