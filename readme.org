@@ -252,6 +252,11 @@ Has written a survey on symbolic logic.
 
 ** Löwenheim
 
+** Kripke
+
+Frames
+Kripke Semantics
+
 ** Herbrand
 
 ** Freudenthal
@@ -269,6 +274,35 @@ Has written a survey on symbolic logic.
 ** Belnap
 
 *** Four valued logic
+
+** Dana Scott
+
+** Paul Lorenzen
+Invented dialogical logic with Kuro Lorenz.
+Influenced semantical tableaux method
+
+** Kuno Lorenz
+
+** Evert W. Beth
+Introduced semantical tableux method in 1955.
+
+** Jean-Yves Girard
+
+** Samson Abramsky
+
+** Johan van Bentham
+
+** Andreas Blass
+
+** John Woods
+
+** Martin-Löf
+
+A good reading list of Martin Löf’s papers is available [[https://github.com/michaelt/martin-lof][here]].
+
+** Jaako Hintikka
+
+** Else M. Barth
 
 ** Notes
 
