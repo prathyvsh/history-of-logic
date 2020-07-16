@@ -178,6 +178,13 @@ A good introduction into the life of George Boole.
 
 ** Ackermann
 
+** Hugh MacColl (1831 – 1909)
+
+Created the first known variant of propositional calculus (Verify).
+Influenced C. I. Lewis in his modal logic.
+Explored pluralistic logical systems.
+
+
 ** Brouwer
 
 ** Allan Marquand
