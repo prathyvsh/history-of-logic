@@ -74,6 +74,12 @@ Attempted to develop a Cartesian Logic
 **** [[https://amzn.to/38RNFak][Logic and Rehtoric in England (1500-1700) – Wilbur Samuel Howell (1956)]]
 **** [[https://amzn.to/2Ogb7Eu][Equations from God: Pure Mathematics and Victorian Faith (2007)]]
 
+*** The Barbershop Paradox / The Alice Problem
+
+**** [[https://www.researchgate.net/profile/Amirouche_Moktefi/publication/280099042_Lewis_Carroll_and_the_British_nineteenth-century_logicians_on_the_barber_shop_problem/links/5773d06408ae1b18a7de37fd/Lewis-Carroll-and-the-British-nineteenth-century-logicians-on-the-barber-shop-problem.pdf][Lewis Carroll and the British nineteenth-century logicians on the barbershop problem]]
+
+
+
 ** Richard Whately
 
 *** Elements of Logic (1826)
