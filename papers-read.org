@@ -46,6 +46,10 @@ Part 1 was a good read that shows the histiriographical works available on his l
 
 TODO: Read Part 2 and 3
 
+** [[https://journals.openedition.org/philosophiascientiae/362?lang=en][H. MacColl and L. Carroll: Crosscurrents in geometry and logic]]
+
+Describes the influence in Hugh MacColl’s thinking as he read and reviewed the work of Lewis Carroll.
+
 ** On Process
 
 *** Conceptual Roots of Mathematics
