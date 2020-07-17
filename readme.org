@@ -188,7 +188,12 @@ A good introduction into the life of George Boole.
 - Created the first known variant of propositional calculus (Verify).
 - Influenced C. I. Lewis in his modal logic.
 - Explored pluralistic logical systems.
-- Worked on the [[https://www.researchgate.net/publication/233139704_McColl_and_Minimization][minimization problem]].
+- Worked on the [[https://www.researchgate.net/publication/233139704_McColl_and_Minimization][minimization problem]]
+
+*** Works
+
+**** [[https://www.jstor.org/stable/2248189][Linguistic Misunderstandings. Part I]]
+Contains a section on Axioms, 
 
 *** Works on MacColl
 
@@ -308,6 +313,10 @@ A good reading list of Martin Löf’s papers is available [[https://github.com/
 ** Jaako Hintikka
 
 ** Else M. Barth
+
+** Stewart Shapiro
+
+*** [[https://www.cambridge.org/core/journals/review-of-symbolic-logic/article/we-hold-these-truths-to-be-self-evident-but-what-do-we-mean-by-that/B494AB9D7C81EEAC48A9173EEE75D9A7][We hold these truths to be self-evident but what do we mean by that?]]
 
 ** Notes
 
