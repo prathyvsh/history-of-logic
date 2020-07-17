@@ -190,6 +190,11 @@ A good introduction into the life of George Boole.
 - Explored pluralistic logical systems.
 - Worked on the [[https://www.researchgate.net/publication/233139704_McColl_and_Minimization][minimization problem]].
 
+*** Works on MacColl
+
+**** [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.62.4830&rep=rep1&type=pdf][Hugh MacColl and the Tradition of Logic]]
+**** [[https://journals.openedition.org/philosophiascientiae/351?lang=en][Hugh MacColl after One Hundred Years]]
+
 ** Brouwer
 
 ** Allan Marquand
