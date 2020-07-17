@@ -1,112 +1,111 @@
 * History of Logic
 
-** Early Greeks
+* Early Greeks
 
-** Plato
+* Plato
 
-** Scholastic Logic
+* Scholastic Logic
 
-** Aristotle
+* Aristotle
 
-** Stoics
+* Stoics
 
-** Medieval Logic
+* Medieval Logic
 
-*** Books surverying medieval logic
+** Books surverying medieval logic
 Medieval Foundations of the Western intellectual Tradition (1976)
 Articulating Medieval Logic (2014)
 
-** William of Sherwood (1200 – 1272)
+* William of Sherwood (1200 – 1272)
 
-** Roger Bacon (1219/20 – 1292)
+* Roger Bacon (1219/20 – 1292)
 
-** William Occam (1287 – 1347)
+* William Occam (1287 – 1347)
 
-** Jean Buridan (1301 – 1359/62)
+* Jean Buridan (1301 – 1359/62)
 
-** Walter Burley (1275 – 1344/5)
+* Walter Burley (1275 – 1344/5)
 
-** Albert of Saxony (1320 – 1390)
+* Albert of Saxony (1320 – 1390)
 
-** John Pagus (13th Century)
+* John Pagus (13th Century)
 
-** Lambert of Auxerre (13th Century)
+* Lambert of Auxerre (13th Century)
 
 Summa Lamberti
 
-** Peter of Hispania (13th Century)
+* Peter of Hispania (13th Century)
 
 Summulae Logicales
 
-** [[https://en.wikipedia.org/wiki/Supposition_theory][Supposition Theory]]
+* [[https://en.wikipedia.org/wiki/Supposition_theory][Supposition Theory]]
 
-** William of Sherwood
+* William of Sherwood
 
-** Roger Bacon
+* Roger Bacon
 
-** Antoine Arnauld
+* Antoine Arnauld
 
-** Pierre Nicole
+* Pierre Nicole
 
-** Isaac Watts
+* Isaac Watts
 
-** John Wallis (1616 – 1703)
+* John Wallis (1616 – 1703)
 
-*** Institutio Logicae (1687)
+** Institutio Logicae (1687)
 
-** Johannes Clauberg (1622 – 1665)
+* Johannes Clauberg (1622 – 1665)
 
 Known as a Scholastic Cartesian
 Attempted to develop a Cartesian Logic
 
-** Gottfried Wilhelm Leibniz
+* Gottfried Wilhelm Leibniz
 
-** Johann Heinrich Lambert (1728 – 1777)
+* Johann Heinrich Lambert (1728 – 1777)
 
-*** Neues Organon (1764)
+** Neues Organon (1764)
 
-** English School of Logic
+* English School of Logic
 
-*** Books to read
-**** [[https://amzn.to/3fltEvg][Handbook of the History of Logic – Volume 4: British Logic in the Nineteenth Century (2008)]]
-**** [[https://amzn.to/303Wwlk][British Philosophy in the Seventeenth Century – Sarah Hutton (2015)]]
-**** [[https://amzn.to/326dfH2][Language and Logic in the Post-Medieval Period – E. J. Ashworth (1974)]]
-**** [[https://amzn.to/38RNFak][Logic and Rehtoric in England (1500-1700) – Wilbur Samuel Howell (1956)]]
-**** [[https://amzn.to/2Ogb7Eu][Equations from God: Pure Mathematics and Victorian Faith (2007)]]
+** Books to read
+*** [[https://amzn.to/3fltEvg][Handbook of the History of Logic – Volume 4: British Logic in the Nineteenth Century (2008)]]
+*** [[https://amzn.to/303Wwlk][British Philosophy in the Seventeenth Century – Sarah Hutton (2015)]]
+*** [[https://amzn.to/326dfH2][Language and Logic in the Post-Medieval Period – E. J. Ashworth (1974)]]
+*** [[https://amzn.to/38RNFak][Logic and Rehtoric in England (1500-1700) – Wilbur Samuel Howell (1956)]]
+*** [[https://amzn.to/2Ogb7Eu][Equations from God: Pure Mathematics and Victorian Faith (2007)]]
 
-*** The Barbershop Paradox / The Alice Problem
+** The Barbershop Paradox / The Alice Problem
 
-**** [[https://www.researchgate.net/profile/Amirouche_Moktefi/publication/280099042_Lewis_Carroll_and_the_British_nineteenth-century_logicians_on_the_barber_shop_problem/links/5773d06408ae1b18a7de37fd/Lewis-Carroll-and-the-British-nineteenth-century-logicians-on-the-barber-shop-problem.pdf][Lewis Carroll and the British nineteenth-century logicians on the barbershop problem]]
+*** [[https://www.researchgate.net/profile/Amirouche_Moktefi/publication/280099042_Lewis_Carroll_and_the_British_nineteenth-century_logicians_on_the_barber_shop_problem/links/5773d06408ae1b18a7de37fd/Lewis-Carroll-and-the-British-nineteenth-century-logicians-on-the-barber-shop-problem.pdf][Lewis Carroll and the British nineteenth-century logicians on the barbershop problem]]
 
+* Richard Whately
 
-
-** Richard Whately
-
-*** Elements of Logic (1826)
+** Elements of Logic (1826)
 Credited by De Morgan as single handedly bringing about a revival in English school of logic
 
-**** Works on Whatley’s life
-***** [[https://digitalcollections.dordt.edu/faculty_work/230/][Richard Whately and the Revival of Syllogistic Logic in Great Britain in the Early Nineteenth Century – Calvin Jongsma (1982)]]
+** Works on Whatley’s life
 
-** Charles Babbage
+*** [[https://digitalcollections.dordt.edu/faculty_work/230/][Richard Whately and the Revival of Syllogistic Logic in Great Britain in the Early Nineteenth Century – Calvin Jongsma (1982)]]
 
-** Ada Lovelace
+* Charles Babbage
 
-** Charles Graves
+* Ada Lovelace
 
-** George Peacock
+* Charles Graves
 
-** Sir William Hamilton, 9th Baronet
+* George Peacock
 
-** D.F. Gregory
+* Sir William Hamilton, 9th Baronet
 
-*** [[https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/xon-the-real-nature-of-symbolical-algebra/33822F167E8ECC7DFFEE2B01CA0F32F3][On the Real Nature of Symbolical Algebra – 1839]]
+* D.F. Gregory
 
-*** Works on the life of Gregory
+** [[https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/xon-the-real-nature-of-symbolical-algebra/33822F167E8ECC7DFFEE2B01CA0F32F3][On the Real Nature of Symbolical Algebra – 1839]]
 
-**** [[https://pdfs.semanticscholar.org/ff7a/89c1843e3876461ca910ff6f19377fbc6500.pdf][Symbolical Algebra as a Foundation for Calculus: D. F. Gregory’s Contribution]]
+** Works on the life of Gregory
 
-** George Boole
+*** [[https://pdfs.semanticscholar.org/ff7a/89c1843e3876461ca910ff6f19377fbc6500.pdf][Symbolical Algebra as a Foundation for Calculus: D. F. Gregory’s Contribution]]
+
+* George Boole
 
 [[Boole’s portrait from his 1865 obituary][./img/boole.png]]
 
@@ -118,217 +117,217 @@ Boole was inspired to take up work in logic after seeing a dispute between De Mo
 
 TODO: Trace if these letters of dispute between De Morgan and Hamilton is available.
 
-*** A mathematical analysis of logic (1847)
+** A mathematical analysis of logic (1847)
 
 His first pamphlet was called a mathematical analysis of logic, that was published on 29th October, 1847. He first sent it to Rev. Charles Graves at the Cambridge University, who approved it and is said to make some ingenious additions.
 TODO: Trace what these additions where.
 
 A detailing of this work is available here: https://www.math.uwaterloo.ca/~snburris/htdocs/MAL.pdf
 
-*** The calculus of logic (1848)
-*** The laws of thought (1854)
+** The calculus of logic (1848)
+** The laws of thought (1854)
 
-*** Works on Boole
+** Works on Boole
 
-**** [[https://academic.oup.com/mind/article-abstract/LVII/226/149/949579][Boole and the Revival of Logic – Kneale 1942]]
+*** [[https://academic.oup.com/mind/article-abstract/LVII/226/149/949579][Boole and the Revival of Logic – Kneale 1942]]
 
 A good introduction into the life of George Boole.
 
-**** [[https://royalsocietypublishing.org/doi/10.1098/rsnr.1956.0006][Boole and the Algebra of Logic – Kneale 1956]]
+*** [[https://royalsocietypublishing.org/doi/10.1098/rsnr.1956.0006][Boole and the Algebra of Logic – Kneale 1956]]
 
-** Augustus De Morgan
+* Augustus De Morgan
 
-*** On the Syllogism (1686, Unpublished)
+** On the Syllogism (1686, Unpublished)
 
-*** On the foundation of algebra
+** On the foundation of algebra
 
-*** Works on De Morgan
+** Works on De Morgan
 
-**** [[https://sites.tufts.edu/histmath/files/2015/11/richards-demorgan.pdf][Augustus De Morgan, the History of Mathematics, and the Foundations of Algebra]]
+*** [[https://sites.tufts.edu/histmath/files/2015/11/richards-demorgan.pdf][Augustus De Morgan, the History of Mathematics, and the Foundations of Algebra]]
 
-** Jevons
+* Jevons
 
-** Venn
+* Venn
 
-** Schröder
+* Schröder
 
-** Sylvester
+* Sylvester
 
-** John Stuart Mill
+* John Stuart Mill
 
-** Frege
+* Frege
 
-** Alfred Kempe
+* Alfred Kempe
 
-*** [[https://royalsocietypublishing.org/doi/pdf/10.1098/rstl.1886.0002][A memoir on the theory of mathematical form (1886)]]
+** [[https://royalsocietypublishing.org/doi/pdf/10.1098/rstl.1886.0002][A memoir on the theory of mathematical form (1886)]]
 
-*** Note to a memoir on the theory of mathematical form (1887)
+** Note to a memoir on the theory of mathematical form (1887)
 
-*** On the relation between the logical theory of classes and the geometrical theory of points (1889)
+** On the relation between the logical theory of classes and the geometrical theory of points (1889)
 
-*** The subject matter of exact thought (1890)
+** The subject matter of exact thought (1890)
 
-*** The theory of mathematical form: a correction and clarification (1897)
+** The theory of mathematical form: a correction and clarification (1897)
 
-** Josaiah Royce
+* Josaiah Royce
 
-*** ∑ System
-**** [[https://www.ams.org/journals/tran/1905-006-03/S0002-9947-1905-1500718-9/S0002-9947-1905-1500718-9.pdf][The Relation of the Principles of Logic to the Foundations of Geometry (1905)]]
+** ∑ System
+*** [[https://www.ams.org/journals/tran/1905-006-03/S0002-9947-1905-1500718-9/S0002-9947-1905-1500718-9.pdf][The Relation of the Principles of Logic to the Foundations of Geometry (1905)]]
 
-** Peirce
+* Peirce
 
-** Allan Marquand
+* Allan Marquand
 
-** Alexander Macfarlane
+* Alexander Macfarlane
 
-** Peano
+* Peano
 
-** Huntington
+* Huntington
 
-** Hilbert
+* Hilbert
 
-** Ackermann
+* Ackermann
 
-** Hugh MacColl (1831 – 1909)
+* Hugh MacColl (1831 – 1909)
 
 - Created the first known variant of propositional calculus (Verify).
 - Influenced C. I. Lewis in his modal logic.
 - Explored pluralistic logical systems.
 - Worked on the [[https://www.researchgate.net/publication/233139704_McColl_and_Minimization][minimization problem]]
 
-*** Works
+** Works
 
-**** [[https://www.jstor.org/stable/2248189][Linguistic Misunderstandings. Part I]]
+*** [[https://www.jstor.org/stable/2248189][Linguistic Misunderstandings. Part I]]
 Contains a section on Axioms, 
 
-*** Works on MacColl
+** Works on MacColl
 
-**** [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.62.4830&rep=rep1&type=pdf][Hugh MacColl and the Tradition of Logic]]
-**** [[https://journals.openedition.org/philosophiascientiae/351?lang=en][Hugh MacColl after One Hundred Years]]
+*** [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.62.4830&rep=rep1&type=pdf][Hugh MacColl and the Tradition of Logic]]
+*** [[https://journals.openedition.org/philosophiascientiae/351?lang=en][Hugh MacColl after One Hundred Years]]
 
-** Lewis Carroll / Charles Dodgson (1832 – 1898)
+* Lewis Carroll / Charles Dodgson (1832 – 1898)
 
-*** Symbolic Logic (1896)
+** Symbolic Logic (1896)
 
-** Brouwer
+* Brouwer
 
-** Allan Marquand
+* Allan Marquand
 
-** Sheffer
+* Sheffer
 
-*** [[./refs/the-general-theory-of-notational-relativity.pdf][The General Theory of Notational Relativity]]
+** [[./refs/the-general-theory-of-notational-relativity.pdf][The General Theory of Notational Relativity]]
 
-** Gentzen
+* Gentzen
 
-** Gödel
+* Gödel
 
-** Heyting
+* Heyting
 
-** Łukasiewcz
+* Łukasiewcz
 
-*** Many valued logic
+** Many valued logic
 
-** Logicism
+* Logicism
 
-*** Papers on the movement
+** Papers on the movement
 
-**** [[https://www.jstor.org/stable/27900598][Logistic and the Reduction of Mathematics to Logic]]
+*** [[https://www.jstor.org/stable/27900598][Logistic and the Reduction of Mathematics to Logic]]
 James Bymie Shaw, 1916
 
-** Russel
+* Russel
 
-** Wittgenstein
+* Wittgenstein
 
-** Alfred North Whitehead
+* Alfred North Whitehead
 
-** Veblen
+* Veblen
 
-** Schönfinkel
+* Schönfinkel
 
-** C. I. Lewis
+* C. I. Lewis
 Has written a survey on symbolic logic.
 
-** Post
+* Post
 
-** Church
+* Church
 
-** Turing
+* Turing
 
-** Kleene
+* Kleene
 
-*** Three valued logic
+** Three valued logic
 
-** Rosser
+* Rosser
 
-** Tarski
+* Tarski
 
-*** [[https://www.academia.edu/12410865/Alfred_Tarskis_What_are_Logical_Notions_Edited_and_introduced_by_John_Corcoran_][What are the logical notions? (Lecture Delivered: 1966 / Published: 1986)]]
+** [[https://www.academia.edu/12410865/Alfred_Tarskis_What_are_Logical_Notions_Edited_and_introduced_by_John_Corcoran_][What are the logical notions? (Lecture Delivered: 1966 / Published: 1986)]]
 
-** Carnap
+* Carnap
 
-** Rosenbloom
+* Rosenbloom
 
-** Skolem
+* Skolem
 
-** Löwenheim
+* Löwenheim
 
-** Kripke
+* Kripke
 
-Frames
-Kripke Semantics
+- Frames
+- Kripke Semantics
 
-** Herbrand
+* Herbrand
 
-** Freudenthal
+* Freudenthal
 
-** Quine
+* Quine
 
-** Halmos
+* Halmos
 
-** Bourbaki
+* Bourbaki
 
-** Eilenberg
+* Eilenberg
 
-** Lawvere
+* Lawvere
 
-** Belnap
+* Belnap
 
-*** Four valued logic
+** Four valued logic
 
-** Dana Scott
+* Dana Scott
 
-** Paul Lorenzen
+* Paul Lorenzen
 Invented dialogical logic with Kuro Lorenz.
 Influenced semantical tableaux method
 
-** Kuno Lorenz
+* Kuno Lorenz
 
-** Evert W. Beth
+* Evert W. Beth
 Introduced semantical tableux method in 1955.
 
-** Jean-Yves Girard
+* Jean-Yves Girard
 
-** Samson Abramsky
+* Samson Abramsky
 
-** Johan van Bentham
+* Johan van Bentham
 
-** Andreas Blass
+* Andreas Blass
 
-** John Woods
+* John Woods
 
-** Martin-Löf
+* Martin-Löf
 
 A good reading list of Martin Löf’s papers is available [[https://github.com/michaelt/martin-lof][here]].
 
-** Jaako Hintikka
+* Jaako Hintikka
 
-** Else M. Barth
+* Else M. Barth
 
-** Stewart Shapiro
+* Stewart Shapiro
 
-*** [[https://www.cambridge.org/core/journals/review-of-symbolic-logic/article/we-hold-these-truths-to-be-self-evident-but-what-do-we-mean-by-that/B494AB9D7C81EEAC48A9173EEE75D9A7][We hold these truths to be self-evident but what do we mean by that?]]
+** [[https://www.cambridge.org/core/journals/review-of-symbolic-logic/article/we-hold-these-truths-to-be-self-evident-but-what-do-we-mean-by-that/B494AB9D7C81EEAC48A9173EEE75D9A7][We hold these truths to be self-evident but what do we mean by that?]]
 
-** Notes
+* Notes
 
 There seems to be a link between how Kempe influenced Peirce, both influenced Royce, which ends up influencing Sheffer in arriving at his “notational relativity” programme.
 
@@ -336,39 +335,39 @@ C. I. Lewis was the student of Royce, whose book Post reads and becomes an aid i
 
 Chomsky learns of Post’s work via Rosenbloom’s book.
 
-** Surveys
+* Surveys
 
-*** [[https://amzn.to/2N79N6q][A Survey of Symbolic Logic - C. I. Lewis]]
-*** [[https://amzn.to/2Ct4vQr][The Search for Mathematical Roots, 1870-1940 – I. Grattan-Guinness (2000)]]
+** [[https://amzn.to/2N79N6q][A Survey of Symbolic Logic - C. I. Lewis]]
+** [[https://amzn.to/2Ct4vQr][The Search for Mathematical Roots, 1870-1940 – I. Grattan-Guinness (2000)]]
 
-*** [[https://amzn.to/327EYXX][Medieval Logic An Outline of Its Development from 1250 to c. 1400 - Philotheus Boehner]]
+** [[https://amzn.to/327EYXX][Medieval Logic An Outline of Its Development from 1250 to c. 1400 - Philotheus Boehner]]
 
-*** [[https://www.elsevier.com/books/book-series/handbook-of-the-history-of-logic][Handbook of Logic]]
+** [[https://www.elsevier.com/books/book-series/handbook-of-the-history-of-logic][Handbook of Logic]]
 A multivolume series with scholarship in the history of logic
 
-*** [[https://projecteuclid.org/euclid.rml/1204834850][Historical Development of Modern Logic - Jean van Heijenoort (1992)]]
+** [[https://projecteuclid.org/euclid.rml/1204834850][Historical Development of Modern Logic - Jean van Heijenoort (1992)]]
 
-*** [[https://amzn.to/2BQsWHX][The Development of Logic — Kneale and Kneale (1985)]]
+** [[https://amzn.to/2BQsWHX][The Development of Logic — Kneale and Kneale (1985)]]
 
-*** [[http://www.columbia.edu/%7Eav72/papers/JANCL_2003.pdf][The Geometry of Negation]]
+** [[http://www.columbia.edu/%7Eav72/papers/JANCL_2003.pdf][The Geometry of Negation]]
 Negation as a rotation of polygons/polyhedra. Also gives a brief survey of different kinds of logic systems and the kind of group actions implicit in their structures.
 
-*** [[https://research-repository.st-andrews.ac.uk/handle/10023/16114][Descartes critique of the syllogistic]]
+** [[https://research-repository.st-andrews.ac.uk/handle/10023/16114][Descartes critique of the syllogistic]]
 
-*** [[https://www.semanticscholar.org/paper/Negating-as-turning-upside-down-Skowron-Kubi's/0ef270e35018919a2dcdd3fc84263e37504cee7b][Negation as turning upside down]]
+** [[https://www.semanticscholar.org/paper/Negating-as-turning-upside-down-Skowron-Kubi's/0ef270e35018919a2dcdd3fc84263e37504cee7b][Negation as turning upside down]]
 
 Links logic with category theory and adjointness
 
-*** [[https://www.springer.com/gp/book/9783034874045][Russel and the Origins of the Set-Theoretic ‘paradoxes’]]
+** [[https://www.springer.com/gp/book/9783034874045][Russel and the Origins of the Set-Theoretic ‘paradoxes’]]
 
-*** [[https://www.jstor.org/stable/301542][The Formation of Modern Conceptions of Formal Logic in the Development of Geometry (1939)]]
+** [[https://www.jstor.org/stable/301542][The Formation of Modern Conceptions of Formal Logic in the Development of Geometry (1939)]]
 Ernest Nagel
 
-*** [[Impossible Numbers]]
+** [[Impossible Numbers]]
 Ernest Nagel (1935)
 
-** Historians
+* Historians
 
-*** William Calvert Kleene
-*** I. Grattan Guinness
-*** P. E. B Jourdain
+** William Calvert Kleene
+** I. Grattan Guinness
+** P. E. B Jourdain
