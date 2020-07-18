@@ -236,6 +236,9 @@ James Bymie Shaw, 1916
 
 ** Theory of Types
 
+*** [[https://macsphere.mcmaster.ca/bitstream/11375/12315/1/fulltext.pdf][A History of the Theory of Types]]
+Also, published as a book
+
 * Russell
 
 ** Principia Mathematica
