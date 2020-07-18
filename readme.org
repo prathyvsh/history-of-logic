@@ -234,7 +234,16 @@ Contains a section on Axioms,
 *** [[https://www.jstor.org/stable/27900598][Logistic and the Reduction of Mathematics to Logic]]
 James Bymie Shaw, 1916
 
-* Russel
+** Theory of Types
+
+* Russell
+
+** Principia Mathematica
+
+*** Works on Principia Mathematica
+
+*** [[https://amzn.to/2WwNiwQ][The Evolution of Principia Mathematica]]
+Bernard Linsky (2011)
 
 * Wittgenstein
 
