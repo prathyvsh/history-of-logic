@@ -339,6 +339,10 @@ A good reading list of Martin Löf’s papers is available [[https://github.com/
 
 ** [[https://www.cambridge.org/core/journals/review-of-symbolic-logic/article/we-hold-these-truths-to-be-self-evident-but-what-do-we-mean-by-that/B494AB9D7C81EEAC48A9173EEE75D9A7][We hold these truths to be self-evident but what do we mean by that?]]
 
+* John Reynolds
+
+** [[http://www.cs.cmu.edu/afs/cs/user/jcr/ftp/][Papers by John Reynolds]]
+
 * Notes
 
 There seems to be a link between how Kempe influenced Peirce, both influenced Royce, which ends up influencing Sheffer in arriving at his “notational relativity” programme.
