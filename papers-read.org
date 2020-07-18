@@ -52,6 +52,11 @@ Describes the influence in Hugh MacColl’s thinking as he read and reviewed the
 
 Read 18 July 2020
 
+** [[https://academic.oup.com/monist/article-abstract/21/4/564/2473154][Some Modern Advances in Logic]]
+2 pages
+
+A quick read on what advances where made by Frege, Peano, and Russell. Parallel is drawn between Euclid’s axioms and how modern logic differs from it. Empirical accent of the modern logic is stressed.
+
 ** On Process
 
 *** Conceptual Roots of Mathematics
