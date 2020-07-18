@@ -48,7 +48,9 @@ TODO: Read Part 2 and 3
 
 ** [[https://journals.openedition.org/philosophiascientiae/362?lang=en][H. MacColl and L. Carroll: Crosscurrents in geometry and logic]]
 
-Describes the influence in Hugh MacColl’s thinking as he read and reviewed the work of Lewis Carroll.
+Describes the influence in Hugh MacColl’s thinking as he read and reviewed the work of Lewis Carroll. MacColl’s interest in logic was rekindled after 13 years when one of his friends sent him a copy of Symbolic Logic by Lewis Carroll. He described this in a letter to Bertrand Russell. In spite of some conflicting views, each modified their arguments to make them more clarified. Interesting read to know about how MacColl corresponded with Carroll by reviewing his books for The Atheneum publication.
+
+Read 18 July 2020
 
 ** On Process
 
