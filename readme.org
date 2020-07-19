@@ -61,9 +61,24 @@ Attempted to develop a Cartesian Logic
 
 * Gottfried Wilhelm Leibniz
 
+* Gottfriend Plocquet (1716 – 1790)
+
+Teacher of Hegel. Developed squares to represent syllogisms.
+
 * Johann Heinrich Lambert (1728 – 1777)
 
+Worked on creating an intensional calculus of logic in connection with the tree of Porphyry.
+
+He introduced relative product which can be used to compose relations together to attain transitivity:
+X ```is a friend of``` Y ```is a friend of``` Z giving X ```is a friend of``` of Z.
+
 ** Neues Organon (1764)
+
+* Georg von Holland
+
+Took an extensional standpoint
+
+* Thomas Solly
 
 * English School of Logic
 
