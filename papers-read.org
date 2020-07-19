@@ -65,11 +65,14 @@ Read 18 July 2020
 Attention is drawn to the idea that making a parsimonious system of axioms following Okham’s dictum, is similar to having a least number of dependent variables in a linear system of equations as in the arithmetic.
 
 ** [[https://academic.oup.com/monist/article-abstract/25/4/633/2473106?redirectedFrom=fulltext][Mathematicians and Philosophers]]
-P. E. B. Jourdain
+P. E. B. Jourdain (1915)
+6 pages
 
 Details about the work of Berkeley that criticizes Newton, Hegel, and Kant and draws parallels between how then modern day (20th century) mathematics has surpassed these criticisms.
 
 ** [[https://academic.oup.com/monist/article-abstract/22/1/149/1021477][Mr. Bertrand Russell’s first work on the principles of mathematics]]
+P. E. B. Jourdain (1912)
+9 pages
 
 A good read on the work of Russell and how he unified the work of Frege and Peano by using the logic of relations.
 
