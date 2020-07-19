@@ -141,7 +141,9 @@ A good introduction into the life of George Boole.
 
 * Augustus De Morgan
 
-** On the Syllogism (1686, Unpublished)
+** Formal Logic (1847)
+
+** On the Syllogism (1868, Unpublished)
 
 ** On the foundation of algebra
 
