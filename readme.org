@@ -57,19 +57,11 @@ Summulae Logicales
 
 * [[https://en.wikipedia.org/wiki/Supposition_theory][Supposition Theory]]
 
-* William of Sherwood
+* William of Sherwood (1200 – 1272)
+
+* Roger Bacon (1219/20 – 1292)
 
 * Renaissance Logic
-
-* Roger Bacon
-
-* Port–Royal Logic
-
-* Antoine Arnauld
-
-* Pierre Nicole
-
-* Isaac Watts
 
 * Robert Sanderson (1587 – 1663)
 
@@ -87,6 +79,23 @@ Summulae Logicales
 
 Known as a Scholastic Cartesian
 Attempted to develop a Cartesian Logic
+
+
+* Port–Royal Logic
+
+* Antoine Arnauld (1612 – 1694)
+
+* La logique, ou l’art de penser (1662)
+
+* John Locke (1632 – 1704)
+
+** On the conduct of the understanding (1706)
+
+* Pierre Nicole (1625 – 1695)
+
+* Isaac Watts (1674 – 1748)
+
+** Logick, or the right use of reason (1725)
 
 * Gottfried Wilhelm Leibniz
 
