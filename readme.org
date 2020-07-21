@@ -445,6 +445,8 @@ A book released in Russia where it interprets the old work in medieval logic and
 
 A sourcebook which contains a curation of the significant papers that influenced the course of history of logic.
 
+** [[https://philpapers.org/archive/FINGAR-2.pdf][Greek and Roman Logic Survey - Oxford Bibliographies]]
+
 * Historians
 
 ** William Calvert Kleene
