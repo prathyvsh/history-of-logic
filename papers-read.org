@@ -96,6 +96,8 @@ Whately brought both algebra, and language closer to logic. He explictly draws a
 
 The nominalistic approach in the works of Hobbes is outlined as an earlier precursor to the nominalistic approach of Whately. In my research, I was able to trace this thread going through C.I. Lewis to influence Post to Rosenbloom to Chomsky.
 
+According to Van Evra, the distinction between the substative theory of reasoning and logic is that between a model and theory. Logic in Evra’s view to Whatley was the formal theory of theory of reasoning.
+
 ** On Process
 
 *** Conceptual Roots of Mathematics
