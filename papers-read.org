@@ -84,9 +84,9 @@ Read 19 July 2020
 
 ** [[https://www.tandfonline.com/doi/abs/10.1080/01445348408837059][Richard Whately and the Rise of Modern Logic]]
 
-Describes how Whately’s work was distinct from others of the period.
+Read 22 July 2020
 
-Draws attention to the work of Aldrich’s work and it acted as the primary reference point for departure for Whately.
+Describes how Whately’s work was distinct from others of the period. Draws attention to the work of Aldrich’s work and it acted as the primary reference point for departure for Whately.
 
 The social context is described in which there was a force against diminishing the value of scholastic logic was ongoing and Whately’s work as one which places logic on solid foundations by clearly forming a course of work attempting to delineate it’s subject of discourse. Author also describes how mischaracterization of logic’s value prior to Whately’s work was leading to it’s perception as having diminished value in education.
 
@@ -99,6 +99,8 @@ The nominalistic approach in the works of Hobbes is outlined as an earlier precu
 According to Van Evra, the distinction between the substative theory of reasoning and logic is that between a model and theory. Logic in Evra’s view to Whatley was the formal theory of theory of reasoning.
 
 Details are also drawn to the common origin of mistakenly treating both induction as a form of argument and syllogism as a kind of argument. Though I didn't fully understand this subtlety.
+
+The paper squarely locates Whately as the pioneering figure in influencing later developments in modern logic and wants to group him together with modern logic rather than among the scholastics which is what modern histories of logic tend to group him under.
 
 ** On Process
 
