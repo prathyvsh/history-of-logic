@@ -410,6 +410,7 @@ Ernest Nagel
 Ernest Nagel (1935)
 
 ** [[https://mitpress.mit.edu/books/history-mathematical-logic-leibniz-peano][History of Mathematical Logic from Leibniz to Peano]]
+A book released in Russia where it interprets the old work in medieval logic and interprets it in the light of modern logical concepts.
 
 * Historians
 
