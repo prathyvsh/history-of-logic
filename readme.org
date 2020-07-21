@@ -44,11 +44,21 @@ Summulae Logicales
 
 * Roger Bacon
 
+* Port–Royal Logic
+
 * Antoine Arnauld
 
 * Pierre Nicole
 
 * Isaac Watts
+
+* Robert Sanderson (1587 – 1663)
+
+** Logicae Artis Compendium (1615)
+
+* Richard Crakanthorpe (1567 – 1624)
+
+** Logicae libri quinque de Predicabilibus, Praedicamentis (1622)
 
 * John Wallis (1616 – 1703)
 
