@@ -412,6 +412,10 @@ Ernest Nagel (1935)
 ** [[https://mitpress.mit.edu/books/history-mathematical-logic-leibniz-peano][History of Mathematical Logic from Leibniz to Peano]]
 A book released in Russia where it interprets the old work in medieval logic and interprets it in the light of modern logical concepts.
 
+** [[https://amzn.to/2OKEfUB][From Frege to Gödel]]
+
+A sourcebook which contains a curation of the significant papers that influenced the course of history of logic.
+
 * Historians
 
 ** William Calvert Kleene
