@@ -64,6 +64,10 @@ Summulae Logicales
 
 A trend as new renaissance logic emerges is the start of sustained tension and critique between new forms of logic and that of traditional scholastic logic. Certain schools such as Oxford (in the form of individuals like Aldrich, Whately) gives support to the traditional logic, while alternatives cast in the tradition of Cartesian and Lockean modes of epistemology begins to criticize syllogisms and a mutual dialogue between them can be seen in this period.
 
+* John Argall (1540 – 1606)
+
+** Introductio ad artem Dialecticam (1605)
+
 * Robert Sanderson (1587 – 1663)
 
 ** Logicae Artis Compendium (1615)
