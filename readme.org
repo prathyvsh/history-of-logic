@@ -409,6 +409,8 @@ Ernest Nagel
 ** [[Impossible Numbers]]
 Ernest Nagel (1935)
 
+** [[https://mitpress.mit.edu/books/history-mathematical-logic-leibniz-peano][History of Mathematical Logic from Leibniz to Peano]]
+
 * Historians
 
 ** William Calvert Kleene
