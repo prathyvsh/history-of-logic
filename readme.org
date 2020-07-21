@@ -136,12 +136,14 @@ Took an extensional standpoint
 *** [[https://amzn.to/3hiqBo0][Eighteenth Century British Logic and Rhetoric]]
 *** [[https://amzn.to/2Ogb7Eu][Equations from God: Pure Mathematics and Victorian Faith (2007)]]
 *** [[https://amzn.to/3joWjSi][Medieval aftermath: Oxford logic and logicians of the seventeenth century - I. Thomas (1964)]]
+*** [[https://www.jstor.org/stable/23917977][The way of logic into mathematics]]
+*** [[https://www.jstor.org/stable/421117][19th Century Logic between Philosophy and Mathematics – Volker Peckhaus (1999)]]
 
 ** The Barbershop Paradox / The Alice Problem
 
 *** [[https://www.researchgate.net/profile/Amirouche_Moktefi/publication/280099042_Lewis_Carroll_and_the_British_nineteenth-century_logicians_on_the_barber_shop_problem/links/5773d06408ae1b18a7de37fd/Lewis-Carroll-and-the-British-nineteenth-century-logicians-on-the-barber-shop-problem.pdf][Lewis Carroll and the British nineteenth-century logicians on the barbershop problem]]
 
-* Richard Whately
+* Richard Whately (1787 – 1863)
 
 ** Elements of Logic (1826)
 Credited by De Morgan as single handedly bringing about a revival in English school of logic
@@ -149,6 +151,10 @@ Credited by De Morgan as single handedly bringing about a revival in English sch
 ** Works on Whatley’s life
 
 *** [[https://digitalcollections.dordt.edu/faculty_work/230/][Richard Whately and the Revival of Syllogistic Logic in Great Britain in the Early Nineteenth Century – Calvin Jongsma (1982)]]
+
+* William Hamilton, 9th Baronet (1788 – 1856)
+
+** Logic, in reference to the recent English treatises on that science (1833)
 
 * John Wallis (1616 – 1703)
 
