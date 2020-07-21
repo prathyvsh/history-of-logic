@@ -94,6 +94,8 @@ The idea here that logic was part of humanities at Oxford is a significant point
 
 Whately brought both algebra, and language closer to logic. He explictly draws an analogy between the letters he employed for the moods of the syllogistic with that of ones used in algebra.
 
+The nominalistic approach in the works of Hobbes is outlined as an earlier precursor to the nominalistic approach of Whately. In my research, I was able to trace this thread going through C.I. Lewis to influence Post to Rosenbloom to Chomsky.
+
 ** On Process
 
 *** Conceptual Roots of Mathematics
