@@ -21,7 +21,6 @@ The period roughly between 8th century B.C. to 6th century A.D
 
 * Chryssipus (279 – 206 B.C.)
 
-
 * Scholastic Logic
 
 * Stoics
@@ -80,12 +79,11 @@ Summulae Logicales
 Known as a Scholastic Cartesian
 Attempted to develop a Cartesian Logic
 
-
 * Port–Royal Logic
 
 * Antoine Arnauld (1612 – 1694)
 
-* La logique, ou l’art de penser (1662)
+** La logique, ou l’art de penser (1662)
 
 * John Locke (1632 – 1704)
 
