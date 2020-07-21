@@ -92,6 +92,8 @@ The social context is described in which there was a force against diminishing t
 
 The idea here that logic was part of humanities at Oxford is a significant point. Against the criticism of Playfair, Copleston defended that logic was neither an art nor a way to gain knowledge, thus dissociating it from Llull’s tradition of Ars Magna and Epistemology. He contented that Playfair had objected to a  a mistaken concept of logic.
 
+Whately brought both algebra, and language closer to logic. He explictly draws an analogy between the letters he employed for the moods of the syllogistic with that of ones used in algebra.
+
 ** On Process
 
 *** Conceptual Roots of Mathematics
