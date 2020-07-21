@@ -70,6 +70,8 @@ P. E. B. Jourdain (1915)
 
 Details about the work of Berkeley that criticizes Newton, Hegel, and Kant and draws parallels between how then modern day (20th century) mathematics has surpassed these criticisms.
 
+Read 19 July 2020
+
 ** [[https://academic.oup.com/monist/article-abstract/22/1/149/1021477][Mr. Bertrand Russell’s first work on the principles of mathematics]]
 P. E. B. Jourdain (1912)
 9 pages
@@ -77,6 +79,16 @@ P. E. B. Jourdain (1912)
 A good read on the work of Russell and how he unified the work of Frege and Peano by using the logic of relations.
 
 There are also interesting historical details and mathematical philosophical details that shine light on the evolution of formalism and work on Russell.
+
+Read 19 July 2020
+
+** [[https://www.tandfonline.com/doi/abs/10.1080/01445348408837059][Richard Whately and the Rise of Modern Logic]]
+
+Describes how Whately’s work was distinct from others of the period.
+
+Draws attention to the work of Aldrich’s work and it acted as the primary reference point for departure for Whately.
+
+The social context is described in which there was a force against diminishing the value of scholastic logic was ongoing and Whately’s work as one which places logic on solid foundations by clearly forming a course of work attempting to delineate it’s subject of discourse. Author also describes how mischaracterization of logic’s value prior to Whately’s work was leading to it’s perception as having diminished value in education.
 
 ** On Process
 
