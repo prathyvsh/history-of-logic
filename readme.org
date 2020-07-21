@@ -107,6 +107,10 @@ X ```is a friend of``` Y ```is a friend of``` Z giving X ```is a friend of``` of
 
 Took an extensional standpoint
 
+* Henry Aldrich (1647 – 1710)
+
+** Artis logicae compendium (1691)
+
 * Thomas Solly
 
 * English School of Logic
