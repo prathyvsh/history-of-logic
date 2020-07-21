@@ -98,6 +98,8 @@ The nominalistic approach in the works of Hobbes is outlined as an earlier precu
 
 According to Van Evra, the distinction between the substative theory of reasoning and logic is that between a model and theory. Logic in Evra’s view to Whatley was the formal theory of theory of reasoning.
 
+Details are also drawn to the common origin of mistakenly treating both induction as a form of argument and syllogism as a kind of argument. Though I didn't fully understand this subtlety.
+
 ** On Process
 
 *** Conceptual Roots of Mathematics
