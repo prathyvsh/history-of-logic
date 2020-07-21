@@ -1,5 +1,10 @@
 * History of Logic
 
+* Ancient Logic
+
+* Classical Period
+The period roughly between 8th century B.C. to 6th century A.D
+
 * Early Greeks
 
 * Plato (428/27/24/23 – 348/47 B.C)
@@ -16,11 +21,13 @@
 
 * Chryssipus (279 – 206 B.C.)
 
+
 * Scholastic Logic
 
 * Stoics
 
 * Medieval Logic
+Middle Ages are roughly the period between 6th century and 14th century
 
 ** Books surverying medieval logic
 Medieval Foundations of the Western intellectual Tradition (1976)
@@ -51,6 +58,8 @@ Summulae Logicales
 * [[https://en.wikipedia.org/wiki/Supposition_theory][Supposition Theory]]
 
 * William of Sherwood
+
+* Renaissance Logic
 
 * Roger Bacon
 
