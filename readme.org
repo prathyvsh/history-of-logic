@@ -68,6 +68,10 @@ A trend as new renaissance logic emerges is the start of sustained tension and c
 
 ** Introductio ad artem Dialecticam (1605)
 
+* George Bentham (1800 – 1884)
+
+** Outline of a new system of logic, with a critical examination of Dr. Whately’s ‘Elements of Logic’ (1827)
+
 * Robert Sanderson (1587 – 1663)
 
 ** Logicae Artis Compendium (1615)
@@ -227,7 +231,9 @@ A good introduction into the life of George Boole.
 
 * Sylvester
 
-* John Stuart Mill
+* John Stuart Mill (1806 – 1873)
+
+** System of Logic (1843)
 
 * Frege
 
