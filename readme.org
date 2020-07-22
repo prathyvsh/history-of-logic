@@ -505,7 +505,11 @@ A sourcebook which contains a curation of the significant papers that influenced
 
 ** [[https://amzn.to/2ONswVu][The Historic Development of Logic (1929) – Federigo Enriques]]
 
-** [[https://amzn.to/3g3OS17][Historical Sketch of Logic, from the Earliest Time to the Present Day]]
+** [[https://archive.org/details/historicalsketch00blak/page/n17/mode/2up][Historical Sketch of Logic, from the Earliest Time to the Present Day]]
+
+** [[https://archive.org/details/concisehistoryof00scho/][Concise history of logic - Heinrich Scholz]]
+
+** [[https://archive.org/details/systemlogicandh01lindgoog/page/n8/mode/2up][Systems of logic and history of logical doctrines - Freidrich Ueberweg (1871)]]
 
 * Historians
 
