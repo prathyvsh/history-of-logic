@@ -102,10 +102,18 @@ Details are also drawn to the common origin of mistakenly treating both inductio
 
 The paper squarely locates Whately as the pioneering figure in influencing later developments in modern logic and wants to group him together with modern logic rather than among the scholastics which is what modern histories of logic tend to group him under.
 
-** [[https://www.jstor.org/stable/10.1525/rh.1987.5.2.163][Richard Whately and the Revival of Logic in Nineteenth-Century England]]
+** [[https://www.jstor.org/stable/10.1525/rh.1987.5.2.163][Richard Whately and the Revival of Logic in Nineteenth-Century England (1987)]]
+
+Read 22 July 2020
 
 Details about the historical context in which Richard Whately’s book emerged.
 Precedents to the nominalist take in Whately’s work is linked to John Gillies translation of Aristotle and Richard Kirwan’s Logick.
+
+Towards the end of the paper McKerrow also, draws attention to the idea that the two books of Whatley on rhetoric and logic acts as two sides of a coin.
+
+A good description of how Whatley proscribed the limits of logic in his nominalist interpretation is given.
+
+McKerrow also compares the innovation of Whatley to that of Stephen Toulmin’s Uses of Argument (1958) and The New Rhetoric of Chaïm Perelman and Lucie Olbrechts-Tyteca (1969)
 
 ** On Process
 
