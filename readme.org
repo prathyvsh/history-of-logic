@@ -503,6 +503,8 @@ A sourcebook which contains a curation of the significant papers that influenced
 
 ** [[https://philpapers.org/archive/FINGAR-2.pdf][Greek and Roman Logic Survey - Oxford Bibliographies]]
 
+** [[https://amzn.to/2ONswVu][The Historic Development of Logic (1929) – Federigo Enriques]]
+
 * Historians
 
 ** William Calvert Kleene
