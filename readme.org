@@ -138,7 +138,7 @@ Took an extensional standpoint
 
 ** Artis logicae compendium (1691)
 
-* Thomas Solly
+* Thomas Reid (1710 – 1796)
 
 * English School of Logic
 
@@ -221,7 +221,7 @@ A good introduction into the life of George Boole.
 
 *** [[https://royalsocietypublishing.org/doi/10.1098/rsnr.1956.0006][Boole and the Algebra of Logic – Kneale 1956]]
 
-* Augustus De Morgan
+* Augustus De Morgan (1806 – 1871)
 
 ** Formal Logic (1847)
 
@@ -233,19 +233,23 @@ A good introduction into the life of George Boole.
 
 *** [[https://sites.tufts.edu/histmath/files/2015/11/richards-demorgan.pdf][Augustus De Morgan, the History of Mathematics, and the Foundations of Algebra]]
 
-* Jevons
-
-* Venn
-
-* Schröder
-
-* Sylvester
-
 * John Stuart Mill (1806 – 1873)
+
+* Thomas Solly (1816 – 1875)
+
+Presented an extensional logic
+
+* William Stanley Jevons (1835 – 1882)
+
+* John Venn (1834 – 1923)
+
+* Ernst Schröder (1841 – 1902)
+
+* James Joseph Sylvester (1814 – 1897)
 
 ** System of Logic (1843)
 
-* Frege
+* Gottlob Frege (1848 – 1925)
 
 * Alfred Kempe
 
@@ -264,11 +268,11 @@ A good introduction into the life of George Boole.
 ** ∑ System
 *** [[https://www.ams.org/journals/tran/1905-006-03/S0002-9947-1905-1500718-9/S0002-9947-1905-1500718-9.pdf][The Relation of the Principles of Logic to the Foundations of Geometry (1905)]]
 
-* Cantor
+* Georg Cantor (1845 – 1918)
 
-* Dedekind
+* Richard Dedekind (1831 – 1916)
 
-* Peirce
+* Charles Peirce (1839 – 1914)
 
 * Logic of Relatives
 
