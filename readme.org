@@ -185,6 +185,8 @@ Available in [[https://archive.org/details/discussiononphil00hamiuoft][Discussio
 
 ** Institutio logicae (1687)
 
+* Dugald Stewart (1753 – 1828)
+
 * Charles Babbage (1791 – 1871)
 
 * Ada Lovelace (1815 – 1852)
