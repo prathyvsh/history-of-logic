@@ -102,6 +102,11 @@ Details are also drawn to the common origin of mistakenly treating both inductio
 
 The paper squarely locates Whately as the pioneering figure in influencing later developments in modern logic and wants to group him together with modern logic rather than among the scholastics which is what modern histories of logic tend to group him under.
 
+** [[https://www.jstor.org/stable/10.1525/rh.1987.5.2.163][Richard Whately and the Revival of Logic in Nineteenth-Century England]]
+
+Details about the historical context in which Richard Whately’s book emerged.
+Precedents to the nominalist take in Whately’s work is linked to John Gillies translation of Aristotle and Richard Kirwan’s Logick.
+
 ** On Process
 
 *** Conceptual Roots of Mathematics
