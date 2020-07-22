@@ -146,6 +146,10 @@ Translated Aristotle’s work and gave a nominalist defense of his logic.
 
 ** A Brief Account of Aristotle’s Logic (1774)
 
+* Richard Kirwan (1733 – 1812)
+
+** Logick (1807)
+
 * English School of Logic
 
 ** Resources
@@ -181,15 +185,15 @@ Available in [[https://archive.org/details/discussiononphil00hamiuoft][Discussio
 
 ** Institutio logicae (1687)
 
-* Charles Babbage
+* Charles Babbage (1791 – 1871)
 
-* Ada Lovelace
+* Ada Lovelace (1815 – 1852)
 
-* Charles Graves
+* Charles Graves (1812 – 1899)
 
-* George Peacock
+* George Peacock (1791 – 1858)
 
-* D.F. Gregory
+* D.F. Gregory (1813 – 1844)
 
 ** [[https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/xon-the-real-nature-of-symbolical-algebra/33822F167E8ECC7DFFEE2B01CA0F32F3][On the Real Nature of Symbolical Algebra – 1839]]
 
@@ -197,7 +201,7 @@ Available in [[https://archive.org/details/discussiononphil00hamiuoft][Discussio
 
 *** [[https://pdfs.semanticscholar.org/ff7a/89c1843e3876461ca910ff6f19377fbc6500.pdf][Symbolical Algebra as a Foundation for Calculus: D. F. Gregory’s Contribution]]
 
-* George Boole
+* George Boole (1815 – 1864)
 
 [[Boole’s portrait from his 1865 obituary][./img/boole.png]]
 
