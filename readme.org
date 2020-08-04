@@ -11,6 +11,10 @@ The period roughly between 8th century B.C. to 6th century A.D
 
 * Aristotle (385 – 323 B.C.)
 
+* Categories
+
+* Classes
+
 * Eudemus of Rhodes (370 – 300 B.C.)
 
 * Theophrastus (371 – 287 B.C.)
@@ -292,26 +296,9 @@ Presented an extensional logic
 
 * Alexander Macfarlane
 
-* Quantification / Quotification
-
-* Quantifier free first order logic
-
-* Primitive Recursive Arithmetic
-
-* Finitary perspective
-Hilbert’s Program
-
-* Metamathematics
-
-* Proof Theory
-
 * Peano
 
-* Huntington
-
-* Hilbert
-
-* Ackermann
+* Edward Huntington
 
 * Hugh MacColl (1831 – 1909)
 
@@ -336,6 +323,29 @@ Contains a section on Axioms,
 
 * Brouwer
 
+* Hilbert
+
+** Recursive Schemes
+
+* Ackermann
+
+* Rózsa Péter
+
+* Paul Bernays
+
+* Quantification / Quotification
+
+* Quantifier free first order logic
+
+* Primitive Recursive Arithmetic
+
+* Finitary perspective
+Hilbert’s Program
+
+* Metamathematics
+
+* Proof Theory
+
 * Allan Marquand
 
 * Sheffer
@@ -344,7 +354,9 @@ Contains a section on Axioms,
 
 * Gentzen
 
-* Gödel
+* Kurt Gödel
+
+** General Recursiveness
 
 * Heyting
 
@@ -377,11 +389,11 @@ Also, published as a book
 *** [[https://amzn.to/2WwNiwQ][The Evolution of Principia Mathematica]]
 Bernard Linsky (2011)
 
-* Wittgenstein
+* Ludwig Wittgenstein
 
 * Alfred North Whitehead
 
-* Veblen
+* Oswald Veblen
 
 * Schönfinkel
 
@@ -390,21 +402,21 @@ Has written a survey on symbolic logic.
 
 * Post
 
-* Church
+* Alonzo Church
 
-* Turing
+* Alan Turing
 
-* Kleene
+* Stephen Kleene
 
 ** Three valued logic
 
-* Rosser
+* Barkley Rosser
 
-* Tarski
+* Alfred Tarski
 
 ** [[https://www.academia.edu/12410865/Alfred_Tarskis_What_are_Logical_Notions_Edited_and_introduced_by_John_Corcoran_][What are the logical notions? (Lecture Delivered: 1966 / Published: 1986)]]
 
-* Carnap
+* Rudolf Carnap
 
 * Rosenbloom
 
@@ -417,7 +429,6 @@ Has written a survey on symbolic logic.
 * Satisfiability
 As in Model Theory
 * Completeness
-
 
 * Löwenheim
 
