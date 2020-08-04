@@ -286,6 +286,8 @@ Presented an extensional logic
 
 * Georg Cantor (1845 – 1918)
 
+** Characteristic Function
+
 * Richard Dedekind (1831 – 1916)
 
 * Charles Peirce (1839 – 1914)
