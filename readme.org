@@ -366,10 +366,6 @@ Hilbert’s Program
 
 * Logicism
 
-* Effective Calculability
-
-** Papers on the movement
-
 *** [[https://www.jstor.org/stable/27900598][Logistic and the Reduction of Mathematics to Logic]]
 James Bymie Shaw, 1916
 
@@ -405,6 +401,18 @@ Has written a survey on symbolic logic.
 * Alonzo Church
 
 * Alan Turing
+
+* Effective Calculability
+
+* Computability
+
+** Recursive Functions
+
+** Computable Functions
+
+** Papers on the movement
+
+** Decidability
 
 * Stephen Kleene
 
