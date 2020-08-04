@@ -292,6 +292,8 @@ Presented an extensional logic
 
 * Alexander Macfarlane
 
+* Quantification / Quotification
+
 * Peano
 
 * Huntington
@@ -341,6 +343,8 @@ Contains a section on Axioms,
 
 * Logicism
 
+* Effective Calculability
+
 ** Papers on the movement
 
 *** [[https://www.jstor.org/stable/27900598][Logistic and the Reduction of Mathematics to Logic]]
@@ -350,6 +354,8 @@ James Bymie Shaw, 1916
 
 *** [[https://macsphere.mcmaster.ca/bitstream/11375/12315/1/fulltext.pdf][A History of the Theory of Types]]
 Also, published as a book
+
+* Computation
 
 * Russell
 
@@ -391,7 +397,16 @@ Has written a survey on symbolic logic.
 
 * Rosenbloom
 
-* Skolem
+* Thoralf Skolem (1887 – 1963)
+
+** Begründung Der Elementaren Arithmetik Durch Die Rekurrierende Denkweise Ohne Anwendung Scheinbarer Veranderlichen Mit Unendlichem Ausdehnungsbereich (1923)
+** The development of recursive arithmetic (1946)
+
+* Consistency
+* Satisfiability
+As in Model Theory
+* Completeness
+
 
 * Löwenheim
 
