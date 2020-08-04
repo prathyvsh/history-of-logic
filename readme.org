@@ -327,6 +327,14 @@ Contains a section on Axioms,
 
 ** Recursive Schemes
 
+* Finitary Mathematics
+
+* Entscheidungsproblem
+
+** First appeared in Grundzüge der theoretischen Logik (1928)
+
+* Model Theory
+
 * Ackermann
 
 * Rózsa Péter
