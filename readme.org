@@ -294,6 +294,17 @@ Presented an extensional logic
 
 * Quantification / Quotification
 
+* Quantifier free first order logic
+
+* Primitive Recursive Arithmetic
+
+* Finitary perspective
+Hilbert’s Program
+
+* Metamathematics
+
+* Proof Theory
+
 * Peano
 
 * Huntington
