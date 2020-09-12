@@ -156,6 +156,14 @@ Translated Aristotle’s work and gave a nominalist defense of his logic.
 
 ** A Brief Account of Aristotle’s Logic (1774)
 
+* Immanuel Kant
+
+** Critique of Pure Reason
+
+* Hegel
+
+* Fitche
+
 * Richard Kirwan (1733 – 1812)
 
 ** Logick (1807)
@@ -263,6 +271,7 @@ Presented an extensional logic
 
 * William Stanley Jevons (1835 – 1882)
 
+
 * John Venn (1834 – 1923)
 
 * Ernst Schröder (1841 – 1902)
@@ -284,6 +293,8 @@ Presented an extensional logic
 ** The subject matter of exact thought (1890)
 
 ** The theory of mathematical form: a correction and clarification (1897)
+
+* F. H. Bradley (1864 – 1924)
 
 * Josaiah Royce
 
