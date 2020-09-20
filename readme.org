@@ -272,8 +272,11 @@ A good introduction into the life of George Boole.
 
 Presented an extensional logic
 
-* William Stanley Jevons (1835 – 1882)
+* Logic of Relatives
 
+* Lattice Theory
+
+* William Stanley Jevons (1835 – 1882)
 
 * John Venn (1834 – 1923)
 
@@ -450,6 +453,8 @@ Has written a survey on symbolic logic.
 
 * Barkley Rosser
 
+* Lindenbaum
+
 * Alfred Tarski
 
 ** [[https://www.academia.edu/12410865/Alfred_Tarskis_What_are_Logical_Notions_Edited_and_introduced_by_John_Corcoran_][What are the logical notions? (Lecture Delivered: 1966 / Published: 1986)]]
@@ -485,7 +490,9 @@ As in Model Theory
 
 * Bourbaki
 
-* Eilenberg
+* Samuel Eilenberg
+
+* Saunders Mac Lane
 
 * Lawvere
 
