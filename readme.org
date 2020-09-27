@@ -431,7 +431,10 @@ Bernard Linsky (2011)
 * C. I. Lewis
 Has written a survey on symbolic logic.
 
-* Post
+* Emil Post
+
+** Functional completeness theorem
+Article on completeness theorem: http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=16D208C94D8F16914F1921B765820E42?doi=10.1.1.89.2460&rep=rep1&type=pdf
 
 * Alonzo Church
 
