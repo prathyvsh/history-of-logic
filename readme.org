@@ -553,6 +553,7 @@ Chomsky learns of Post’s work via Rosenbloom’s book.
 * Surveys
 
 ** [[https://amzn.to/2N79N6q][A Survey of Symbolic Logic - C. I. Lewis]]
+
 ** [[https://amzn.to/2Ct4vQr][The Search for Mathematical Roots, 1870-1940 – I. Grattan-Guinness (2000)]]
 
 ** [[https://amzn.to/327EYXX][Medieval Logic An Outline of Its Development from 1250 to c. 1400 - Philotheus Boehner]]
@@ -563,6 +564,9 @@ A multivolume series with scholarship in the history of logic
 ** [[https://projecteuclid.org/euclid.rml/1204834850][Historical Development of Modern Logic - Jean van Heijenoort (1992)]]
 
 ** [[https://amzn.to/2BQsWHX][The Development of Logic — Kneale and Kneale (1985)]]
+
+** [[https://amzn.to/3d3r8cu][Elements of Symbolic Logic (1947)]]
+Hans Reichenbach
 
 ** [[DigitizedbytheInternetArchivein2011withfundingfromLyrasisMembersandSloanFoundationhttp://www.archive.org/details/historyofformallOOboch][History of Formal Logic]]
 I. M. Bochenski
