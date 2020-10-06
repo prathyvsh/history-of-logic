@@ -597,6 +597,9 @@ A sourcebook which contains a curation of the significant papers that influenced
 
 ** [[https://philpapers.org/archive/FINGAR-2.pdf][Greek and Roman Logic Survey - Oxford Bibliographies]]
 
+** [[https://amzn.to/2Gw2tBE][The Development of Modern Logic]]
+Leila Haaparanta
+
 ** [[https://amzn.to/2ONswVu][The Historic Development of Logic (1929) – Federigo Enriques]]
 
 ** [[https://archive.org/details/historicalsketch00blak/page/n17/mode/2up][Historical Sketch of Logic, from the Earliest Time to the Present Day]]
