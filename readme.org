@@ -11,6 +11,9 @@ The period roughly between 8th century B.C. to 6th century A.D
 
 * Aristotle (385 – 323 B.C.)
 
+** Syllogistic
+** Enthymeme
+
 * Categories
 
 * Classes
