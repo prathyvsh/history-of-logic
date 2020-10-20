@@ -7,12 +7,34 @@ The period roughly between 8th century B.C. to 6th century A.D
 
 * Early Greeks
 
+* Parmenides
+
+* Zeno of Elea
+
+* Sophists
+
+* Gorgias
+
+* Hippias
+
+* Prodicus
+
+* Protagoras
+
+* Socrates
+
 * Plato (428/27/24/23 – 348/47 B.C)
+
+** Dialectic
 
 * Aristotle (385 – 323 B.C.)
 
+** Categories
 ** Syllogistic
 ** Enthymeme
+** De interpretatione
+** Prior Analytics
+** Posterior Analytics
 
 * Categories
 
@@ -20,17 +42,27 @@ The period roughly between 8th century B.C. to 6th century A.D
 
 * Eudemus of Rhodes (370 – 300 B.C.)
 
-* Theophrastus (371 – 287 B.C.)
+* Theophrastus of Eresus (371 – 287 B.C.)
 
 * Philo the Dilectician (300 B.C.)
+
+* Megarians
+
+Followers of Eucild of Megara
+
+* Stoics
+
+* Zeno of Citium (336 – 265 B.C.)
 
 * Diodorus Cronus (? – 284 B.C.)
 
 * Chryssipus (279 – 206 B.C.)
 
+* John Philoponus (490 – 570  A.D.)
+
 * Scholastic Logic
 
-* Stoics
+
 
 * Medieval Logic
 
