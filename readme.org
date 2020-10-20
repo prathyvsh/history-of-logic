@@ -145,6 +145,8 @@ Because they put emphasis on term logic
 
 * Peter Abelard (1079 – 1142)
 
+* Modism
+
 * Summulists
 
 * Peter of Hispania (13th Century)
@@ -171,15 +173,22 @@ Because they put emphasis on term logic
 
 * William of Ockham (1285 – 1347)
 
-* Jean Buridan (1301 – 1359/62)
-
 * Walter Burley (1275 – 1344/5)
 
+** De puritate artis logicae
+
+* Jean Buridan (1301 – 1359/62)
+
 * Albert of Saxony (1320 – 1390)
+
+** Perutilis logica
 
 * John Pagus (13th Century)
 
 * [[https://en.wikipedia.org/wiki/Supposition_theory][Supposition Theory]]
+
+Took shape by 12th century, then neglected for a while until Burley in England and Buridan in France revived it in the 14th century.
+Was the main vehicle for semantic analysis in the middle ages.
 
 * William of Sherwood (1200 – 1272)
 
