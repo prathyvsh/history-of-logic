@@ -128,9 +128,40 @@ Articulating Medieval Logic (2014)
 
 * Garland, the Computist (~ 1040 A.D.)
 
+* St. Anselm of Canterbury (1033 – 1109 A.D.)
+
+* James of Venice
+
+* Sophismata
+
+* Syncategoremata
+
+* Insolubilia
+
+* Obligationes
+
+* Terminist logic
+Because they put emphasis on term logic
+
 * Peter Abelard (1079 – 1142)
 
+* Summulists
+
+* Peter of Hispania (13th Century)
+
+** Summulae Logicales
+
+* Lambert of Auxerre (13th Century)
+
+** Summa Lamberti
+
 * William of Sherwood (1200 – 1272)
+
+** Introductiones in Logicam
+
+* Thomas Aquinas (1224/25 - 1274)
+
+* John Duns Scotus (1266 – 1308)
 
 * Roger Bacon (1219/20 – 1292)
 
@@ -138,7 +169,7 @@ Articulating Medieval Logic (2014)
 
 * Thomas Aquinas (1225 – 1274)
 
-* William Occam (1287 – 1347)
+* William of Ockham (1285 – 1347)
 
 * Jean Buridan (1301 – 1359/62)
 
@@ -147,14 +178,6 @@ Articulating Medieval Logic (2014)
 * Albert of Saxony (1320 – 1390)
 
 * John Pagus (13th Century)
-
-* Lambert of Auxerre (13th Century)
-
-Summa Lamberti
-
-* Peter of Hispania (13th Century)
-
-Summulae Logicales
 
 * [[https://en.wikipedia.org/wiki/Supposition_theory][Supposition Theory]]
 
