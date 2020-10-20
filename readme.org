@@ -11,6 +11,8 @@ The period roughly between 8th century B.C. to 6th century A.D
 
 * Zeno of Elea
 
+* Epimenides
+
 * Sophists
 
 * Gorgias
@@ -48,21 +50,41 @@ The period roughly between 8th century B.C. to 6th century A.D
 
 * Megarians
 
-Followers of Eucild of Megara
+Followers of Euclid of Megara
+
+* Diodorus Cronus (? – 284 B.C.)
+
+* Philo of Megara
+
+* Eubulides of Miletus
+
+** Liar’s paradox
 
 * Stoics
 
 * Zeno of Citium (336 – 265 B.C.)
 
-* Diodorus Cronus (? – 284 B.C.)
-
 * Chryssipus (279 – 206 B.C.)
+
+* Galen, the physician (129 – 199 A.D.)
+
+* Alexander of Aphrodisias (~ 200 A.D.)
+
+* Poryphry of Tyre (232-4 – 305-6 A.D.)
+
+* Ammonius Hermeiou
+
+* Simplicius
 
 * John Philoponus (490 – 570  A.D.)
 
+* Sextus Empiricus
+
+* Diogenes Laërtius
+
+Commentator
+
 * Scholastic Logic
-
-
 
 * Medieval Logic
 
