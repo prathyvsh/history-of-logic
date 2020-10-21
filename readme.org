@@ -264,11 +264,21 @@ Replacement for the Protestant logic of Melanchthon
 
 ** Oblique syllogisms
 
+* François Viète (1540 – 1603)
+
+** Character Universalis
+
 * Johann Heinrich Alsted (1588 – 1638)
 
 * René Descartes (1596 – 1650)
 
 ** Regulae ad directionem ingenii (Rules for the direction of the Mind) (1628)
+
+** Mathesis Universalis
+
+** George Dalgarno (1616 – 1687)
+
+** Character Universalis
 
 * John Wallis (1616 – 1703)
 
@@ -301,9 +311,22 @@ Influential discussion of definitions that was inspired byt he work of French ma
 
 * Gottfried Wilhelm Leibniz (1646 – 1716)
 
+** De arte combinatoria (1666)
+
+** Lingua Characteristica Universalis
+
+** Calculus Ratiocinator
+
+* Jakob Bernoulli (1654 – 1705)
+
+Published a work on parallels of logic and algebra.
+Gave algebraic examples of categorical statements.
+
 * Gerolamo Saccheri (1667 - 1733)
 
 ** Logica Demonstriva (1697)
+
+* Christian Wolff (1679 – 1754)
 
 * Arnold Geulinx (1624 – 1649)
 
