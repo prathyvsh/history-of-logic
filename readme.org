@@ -303,6 +303,11 @@ Influential discussion of definitions that was inspired byt he work of French ma
 
 * Blaise Pascal (1623 - 1662)
 
+* Arnold Geulinx (1624 – 1649)
+
+** Logica fundamentis suis restituta (1662)
+Tried to reinstitute the rich detail of scholastic logic
+
 * John Locke (1632 – 1704)
 
 ** Essay concerning Human Understanding (1690)
@@ -326,14 +331,14 @@ Gave algebraic examples of categorical statements.
 
 ** Logica Demonstriva (1697)
 
+* Isaac Watts (1674 – 1748)
+
 * Christian Wolff (1679 – 1754)
 
-* Arnold Geulinx (1624 – 1649)
+* Johann Andreas von Segner (1704 – 1777)
+Was influenced by Wolff’s exposition of Leibniz
 
-** Logica fundamentis suis restituta (1662)
-Tried to reinstitute the rich detail of scholastic logic
-
-* Isaac Watts (1674 – 1748)
+* Joachim Georg Darjs (1714 – 1791)
 
 ** Logick, or the right use of reason (1725)
 
