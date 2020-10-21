@@ -289,21 +289,23 @@ Influential discussion of definitions that was inspired byt he work of French ma
 
 ** La logique, ou l’art de penser (1662)
 
+* Pierre Nicole (1625 – 1695)
+
+* Blaise Pascal (1623 - 1662)
+
 * John Locke (1632 – 1704)
 
 ** Essay concerning Human Understanding (1690)
 
 ** On the conduct of the understanding (1706)
 
-* Pierre Nicole (1625 – 1695)
-
-* Blaise Pascal (1623 - 1662)
+* Gottfried Wilhelm Leibniz (1646 – 1716)
 
 * Gerolamo Saccheri (1667 - 1733)
 
 ** Logica Demonstriva (1697)
 
-* Arnold Geulinx
+* Arnold Geulinx (1624 – 1649)
 
 ** Logica fundamentis suis restituta (1662)
 Tried to reinstitute the rich detail of scholastic logic
@@ -311,8 +313,6 @@ Tried to reinstitute the rich detail of scholastic logic
 * Isaac Watts (1674 – 1748)
 
 ** Logick, or the right use of reason (1725)
-
-* Gottfried Wilhelm Leibniz
 
 * Gottfriend Plocquet (1716 – 1790)
 
