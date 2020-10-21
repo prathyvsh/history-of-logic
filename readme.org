@@ -237,6 +237,8 @@ Nicholai Ivanovich Styazhkin identifies three main branches that spun off during
 
 * Philipp Melanchthon (1497 – 1560)
 
+* Juan Luis Vives (1492 – 1540)
+
 * Petrus Ramus (1515 – 1572)
 
 * Robert Sanderson (1587 – 1663)
@@ -251,6 +253,10 @@ Nicholai Ivanovich Styazhkin identifies three main branches that spun off during
 
 ** Logicae libri quinque de Predicabilibus, Praedicamentis (1622)
 
+* John Argall (1540 – 1606)
+
+** Introductio ad artem Dialecticam (1605)
+
 * René Descartes (1596 – 1650)
 
 ** Regulae ad directionem ingenii (Rules for the direction of the Mind) (1628)
@@ -259,9 +265,7 @@ Nicholai Ivanovich Styazhkin identifies three main branches that spun off during
 
 ** Institutio Logicae (1687)
 
-* John Argall (1540 – 1606)
-
-** Introductio ad artem Dialecticam (1605)
+* Johann Heinrich Alsted (1588 – 1638)
 
 * Johannes Clauberg (1622 – 1665)
 
