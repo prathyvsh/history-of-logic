@@ -161,27 +161,27 @@ Because they put emphasis on term logic
 
 ** Introductiones in Logicam
 
-* Thomas Aquinas (1224/25 - 1274)
-
-* John Duns Scotus (1266 – 1308)
-
 * Roger Bacon (1219/20 – 1292)
 
-* Ramon Llull (1232 – 1315)
+* Thomas Aquinas (1224/25 - 1274)
 
 * Thomas Aquinas (1225 – 1274)
 
+* Ramon Llull (1232 – 1315)
+
+* John Duns Scotus (1266 – 1308)
+
+* Peter Aureoli (1280 – 1322)
+
+Modality linked with time
+
 * William of Ockham (1285 – 1347)
+
+Developed theory of modality
 
 * Walter Burley (1275 – 1344/5)
 
 ** De puritate artis logicae
-
-* Jean Buridan (1301 – 1359/62)
-
-* Albert of Saxony (1320 – 1390)
-
-** Perutilis logica
 
 * John Pagus (13th Century)
 
@@ -193,6 +193,30 @@ Was the main vehicle for semantic analysis in the middle ages.
 * William of Sherwood (1200 – 1272)
 
 * Roger Bacon (1219/20 – 1292)
+
+* Jean Buridan (1301 – 1359/62)
+
+* Albert of Saxony (1316/20 – 1390)
+
+** Perutilis logica
+
+* Marsilius of Inghen (1340 – 1399)
+
+* Pierre d'Ailly (1351 – 1420)
+
+** Conceptus et insolubilia (1372)
+
+* Henry Hopton (~ 1357)
+
+* John Wycliffe (1320/31 – 1384)
+
+* Richard Lavenham (~ 1380, died > 1399)
+
+* Ralph Strode (1350 – 1400)
+
+* Richard Ferrybridge/Feribrigge (~ 1360)
+
+* John Venator/Huntman/Hunter (~ 1373)
 
 * Renaissance Logic
 
