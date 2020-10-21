@@ -257,6 +257,15 @@ Nicholai Ivanovich Styazhkin identifies three main branches that spun off during
 
 ** Introductio ad artem Dialecticam (1605)
 
+* Joachim Jung/Jungius/Junge (1587 – 1657)
+
+** Logica Hamburgenis
+Replacement for the Protestant logic of Melanchthon
+
+** Oblique syllogisms
+
+* Johann Heinrich Alsted (1588 – 1638)
+
 * René Descartes (1596 – 1650)
 
 ** Regulae ad directionem ingenii (Rules for the direction of the Mind) (1628)
@@ -265,14 +274,16 @@ Nicholai Ivanovich Styazhkin identifies three main branches that spun off during
 
 ** Institutio Logicae (1687)
 
-* Johann Heinrich Alsted (1588 – 1638)
-
 * Johannes Clauberg (1622 – 1665)
 
 Known as a Scholastic Cartesian
 Attempted to develop a Cartesian Logic
 
 * Port–Royal Logic
+
+Followed Ramus’ outline of concept, judgement, argument, and method. Had explicit distinction between comprehension and extension.
+
+Influential discussion of definitions that was inspired byt he work of French mathematician and philosopher Blaise Pascal.
 
 * Antoine Arnauld (1612 – 1694)
 
@@ -285,6 +296,17 @@ Attempted to develop a Cartesian Logic
 ** On the conduct of the understanding (1706)
 
 * Pierre Nicole (1625 – 1695)
+
+* Blaise Pascal (1623 - 1662)
+
+* Gerolamo Saccheri (1667 - 1733)
+
+** Logica Demonstriva (1697)
+
+* Arnold Geulinx
+
+** Logica fundamentis suis restituta (1662)
+Tried to reinstitute the rich detail of scholastic logic
 
 * Isaac Watts (1674 – 1748)
 
@@ -364,8 +386,6 @@ Credited by De Morgan as single handedly bringing about a revival in English sch
 ** Logic, in reference to the recent English treatises on that science (1833)
 Available in [[https://archive.org/details/discussiononphil00hamiuoft][Discussions on Philosophy and literature (1861)]]
 
-* John Wallis (1616 – 1703)
-
 ** Institutio logicae (1687)
 
 * Dugald Stewart (1753 – 1828)
@@ -437,6 +457,8 @@ A good introduction into the life of George Boole.
 *** [[https://sites.tufts.edu/histmath/files/2015/11/richards-demorgan.pdf][Augustus De Morgan, the History of Mathematics, and the Foundations of Algebra]]
 
 * John Stuart Mill (1806 – 1873)
+
+** A System of Logic (1843)
 
 * Thomas Solly (1816 – 1875)
 
