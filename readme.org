@@ -175,6 +175,8 @@ Because they put emphasis on term logic
 
 Modality linked with time
 
+* Pseudo Scotus (?)
+
 * William of Ockham (1285 – 1347)
 
 Developed theory of modality
@@ -226,6 +228,16 @@ Was the main vehicle for semantic analysis in the middle ages.
 * Renaissance Logic
 
 A trend as new renaissance logic emerges is the start of sustained tension and critique between new forms of logic and that of traditional scholastic logic. Certain schools such as Oxford (in the form of individuals like Aldrich, Whately) gives support to the traditional logic, while alternatives cast in the tradition of Cartesian and Lockean modes of epistemology begins to criticize syllogisms and a mutual dialogue between them can be seen in this period.
+
+Nicholai Ivanovich Styazhkin identifies three main branches that spun off during Renaissance. The Traditional logic that remained conserved in religious institutions, reform logic of Melanchthon and Ramus, and mystical tradition beginning from Ramón Llull.
+
+* Martin Luther (1483 – 1546)
+
+* Desiderius Erasmus (1466 – 1536)
+
+* Philipp Melanchthon (1497 – 1560)
+
+* Petrus Ramus (1515 – 1572)
 
 * Robert Sanderson (1587 – 1663)
 
