@@ -314,6 +314,16 @@ Tried to reinstitute the rich detail of scholastic logic
 
 ** On the conduct of the understanding (1706)
 
+* Johann C. Sturm (1635 – 1703)
+
+** Universalia Euclidea (1661)
+
+Used diagrams like Euler circles
+
+* Johann C. Lange (1670 – 1744)
+
+Extensively used Euler circles
+
 * Gottfried Wilhelm Leibniz (1646 – 1716)
 
 ** De arte combinatoria (1666)
@@ -342,6 +352,10 @@ Gave algebraic examples of categorical statements.
 * Johann Andreas von Segner (1704 – 1777)
 
 Was influenced by Wolff’s exposition of Leibniz
+
+* Leonard Euler (1707 – 1783)
+
+Introduced Euler circles
 
 * Thomas Reid (1710 – 1796)
 
