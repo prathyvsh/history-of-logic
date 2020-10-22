@@ -610,6 +610,16 @@ Schröder borrowed quantifiers from Peirces for his influential treatise on the 
 
 * Gottlob Frege (1848 – 1925)
 
+** Begriffschrift (1879)
+
+Introduced first-order predicate logic.
+
+Predicates are described as functions, suggestive of the technique of Lambert.
+
+** Grundgesetze der Arithmetik (1893–1903)
+
+** Die Grundlagen der Arithmetik (1884)
+
 * Alfred Kempe (1849 – 1922)
 
 ** [[https://royalsocietypublishing.org/doi/pdf/10.1098/rstl.1886.0002][A memoir on the theory of mathematical form (1886)]]
