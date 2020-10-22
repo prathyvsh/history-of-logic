@@ -594,6 +594,15 @@ Peirce introduced quantifiers briefly in 1870.
 
 Schröder borrowed quantifiers from Peirces for his influential treatise on the algebra of logic which was adopted by Peano from Schröder.
 
+** Der Operations-kreis des Logikkalkulus (1877)
+Equational algebraic logic influenced by Boole and Grassmann
+
+** Vorlesungen über die Algebra der Logik (1890 – 1905)
+
+** Idea of logical domains (Gebiete)
+
+** Idea of duality
+
 * Works on Peirce
 
 ** [[https://core.ac.uk/download/pdf/82687196.pdf][Putnam on Peirce]]
