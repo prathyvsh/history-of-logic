@@ -322,6 +322,10 @@ Tried to reinstitute the rich detail of scholastic logic
 
 ** Calculus Ratiocinator
 
+* Henry Aldrich (1647 – 1710)
+
+** Artis logicae compendium (1691)
+
 * Jakob Bernoulli (1654 – 1705)
 
 Published a work on parallels of logic and algebra.
@@ -336,7 +340,12 @@ Gave algebraic examples of categorical statements.
 * Christian Wolff (1679 – 1754)
 
 * Johann Andreas von Segner (1704 – 1777)
+
 Was influenced by Wolff’s exposition of Leibniz
+
+* Thomas Reid (1710 – 1796)
+
+** A Brief Account of Aristotle’s Logic (1774)
 
 * Joachim Georg Darjs (1714 – 1791)
 
@@ -371,17 +380,9 @@ Intensional system with terms standing for concepts instead of individuals.
 
 Took an extensional standpoint
 
-* Henry Aldrich (1647 – 1710)
-
-** Artis logicae compendium (1691)
-
 * John Gillies (historian) (1747 – 1836)
 
 Translated Aristotle’s work and gave a nominalist defense of his logic.
-
-* Thomas Reid (1710 – 1796)
-
-** A Brief Account of Aristotle’s Logic (1774)
 
 * Immanuel Kant
 
