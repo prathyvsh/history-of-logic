@@ -353,9 +353,21 @@ Worked on creating an intensional calculus of logic in connection with the tree 
 He introduced relative product which can be used to compose relations together to attain transitivity:
 X ```is a friend of``` Y ```is a friend of``` Z giving X ```is a friend of``` of Z.
 
+He also introduce ideas like newConcept = fn :: anotherConcept
+where :: means a function fn applied to another concept. This is said to have possibly influenced Frege’s work.
+
+** Sechs Versuche einer Zeichenkunst in der Vernunftlehre (1777)
+Six Attempts at a Symbolic Method in the Theory of Reason
+
+Intensional system with terms standing for concepts instead of individuals.
+
+** Idea of genus and differentia
+
 ** Neues Organon (1764)
 
-* Georg von Holland
+* Georg von Holland (1742 – 1784)
+
+* Christian August Semler (1767 – 1825)
 
 Took an extensional standpoint
 
