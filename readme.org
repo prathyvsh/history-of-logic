@@ -428,9 +428,23 @@ Translated Aristotle’s work and gave a nominalist defense of his logic.
 
 * Moritz Wilhelm Drobisch (1802 – 1896)
 
-* Hermann Günther Grassmann
+* Hermann Günther Grassmann (1809 – 1877)
 
-Work on theory of extension.
+** Ausdehnungslehre
+Work on theory of extension
+
+* Robert Grassmann (1815 – 1901)
+
+Brother of Hermann Grassmann
+
+** Die Begriffslehre oder Logik (1872)
+
+* Friedrich Adolf Trendelenburg (1802 – 1872)
+
+* Alois Riehl (1844 – 1924)
+
+** Die englische Logik der Gegenwart (1876)
+Introduced German speakers to the work of Boole, De Morgan, and Jevons
 
 * English School of Logic
 
@@ -553,38 +567,18 @@ Presented an extensional logic
 
 * Lattice Theory
 
-* William Stanley Jevons (1835 – 1882)
-
-* John Venn (1834 – 1923)
-
 * James Joseph Sylvester (1814 – 1897)
 
 ** System of Logic (1843)
 
-* Gottlob Frege (1848 – 1925)
+* William Stanley Jevons (1835 – 1882)
 
-* Alfred Kempe
-
-** [[https://royalsocietypublishing.org/doi/pdf/10.1098/rstl.1886.0002][A memoir on the theory of mathematical form (1886)]]
-
-** Note to a memoir on the theory of mathematical form (1887)
-
-** On the relation between the logical theory of classes and the geometrical theory of points (1889)
-
-** The subject matter of exact thought (1890)
-
-** The theory of mathematical form: a correction and clarification (1897)
-
-* F. H. Bradley (1864 – 1924)
-
-* Josaiah Royce
+* John Venn (1834 – 1923)
 
 ** ∑ System
 *** [[https://www.ams.org/journals/tran/1905-006-03/S0002-9947-1905-1500718-9/S0002-9947-1905-1500718-9.pdf][The Relation of the Principles of Logic to the Foundations of Geometry (1905)]]
 
-* Georg Cantor (1845 – 1918)
-
-** Characteristic Function
+* F. H. Bradley (1864 – 1924)
 
 * Richard Dedekind (1831 – 1916)
 
@@ -604,7 +598,9 @@ Schröder borrowed quantifiers from Peirces for his influential treatise on the 
 
 ** [[https://core.ac.uk/download/pdf/82687196.pdf][Putnam on Peirce]]
 
-* Allan Marquand
+* Georg Cantor (1845 – 1918)
+
+** Characteristic Function
 
 * O. H. Mitchell (1851 – 1889)
 
@@ -612,7 +608,25 @@ Schröder borrowed quantifiers from Peirces for his influential treatise on the 
 
 * Christine Ladd Franklin (1847 – 1930)
 
+* Gottlob Frege (1848 – 1925)
+
+* Alfred Kempe (1849 – 1922)
+
+** [[https://royalsocietypublishing.org/doi/pdf/10.1098/rstl.1886.0002][A memoir on the theory of mathematical form (1886)]]
+
+** Note to a memoir on the theory of mathematical form (1887)
+
+** On the relation between the logical theory of classes and the geometrical theory of points (1889)
+
+** The subject matter of exact thought (1890)
+
+** The theory of mathematical form: a correction and clarification (1897)
+
+* Josaiah Royce (1855 – 1916)
+
 * Alexander Macfarlane
+
+* Allan Marquand
 
 * Peano
 
