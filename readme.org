@@ -349,6 +349,10 @@ Gave algebraic examples of categorical statements.
 
 * Christian Wolff (1679 – 1754)
 
+* John Wesley (1703 – 1791)
+
+Founder of Methodism
+
 * Johann Andreas von Segner (1704 – 1777)
 
 Was influenced by Wolff’s exposition of Leibniz
@@ -398,11 +402,19 @@ Took an extensional standpoint
 
 Translated Aristotle’s work and gave a nominalist defense of his logic.
 
-* Immanuel Kant
+* Joseph Diez Gergonne (1771 – 1859)
+
+** Developed the method of Euler
+
+* Immanuel Kant (1724 – 1804)
 
 ** Critique of Pure Reason
 
-* Hegel
+** The Mistaken Subtlety of the Four Syllogistic Figures (1762)
+
+* Georg Wilhelm Friedrich Hegel (1770 – 1831)
+
+** Science of Logic (1812 – 1816)
 
 * Fitche
 
@@ -427,7 +439,11 @@ Translated Aristotle’s work and gave a nominalist defense of his logic.
 
 *** [[https://www.researchgate.net/profile/Amirouche_Moktefi/publication/280099042_Lewis_Carroll_and_the_British_nineteenth-century_logicians_on_the_barber_shop_problem/links/5773d06408ae1b18a7de37fd/Lewis-Carroll-and-the-British-nineteenth-century-logicians-on-the-barber-shop-problem.pdf][Lewis Carroll and the British nineteenth-century logicians on the barbershop problem]]
 
+* Sir Wililam Hamilton (1730 – 1803)
+
 * Richard Whately (1787 – 1863)
+
+Whately’s work is said to have arose from the tradition of Henry Aldrich, Isaac Watts, and John Wesley.
 
 ** Elements of Logic (1826)
 Credited by De Morgan as single handedly bringing about a revival in English school of logic
@@ -471,13 +487,15 @@ Available in [[https://archive.org/details/discussiononphil00hamiuoft][Discussio
 
 [[https://archive.org/details/illustratedlondov46lond/page/60/mode/2up][Image source]]
 
-First published work of Boole in mathematics was on analysis. Follow of Trinity College in Cambridge called Gregory would help Boole to publish this paper in Transactions of The Cambridge Philosophical Society in 1844. This paper would go on to win the society’s gold medal thereby establishing Boole’s reputation. The paper is a work on calculus of operations.
+First published work of Boole in mathematics was on analysis. Fellow of Trinity College in Cambridge called Gregory would help Boole to publish this paper in Transactions of The Cambridge Philosophical Society in 1844. This paper would go on to win the society’s gold medal thereby establishing Boole’s reputation. The paper is a work on calculus of operations.
 
 Boole was inspired to take up work in logic after seeing a dispute between De Morgan and Hamilton in one of the periodicals. He would go on to apply this calculus of operators to logic, thereby algebraizing logic and creating the domain of algebra of logic.
 
+Boole’s logic on deductive logic is but one half with inductive logic and probability theory being the other half of his works in 1847 and 1854.
+
 TODO: Trace if these letters of dispute between De Morgan and Hamilton is available.
 
-** [[https://archive.org/details/mathematicalanal01bool/page/n3/mode/2up][A mathematical analysis of logic (1847)]]
+** [[https://archive.org/details/mathematicalanal01bool/page/n3/mode/2up][The mathematical analysis of logic (1847)]]
 
 His first pamphlet was called a mathematical analysis of logic, that was published on 29th October, 1847. He first sent it to Rev. Charles Graves at the Cambridge University, who approved it and is said to make some ingenious additions.
 
@@ -501,7 +519,7 @@ A good introduction into the life of George Boole.
 
 * Augustus De Morgan (1806 – 1871)
 
-** Formal Logic (1847)
+** Formal Logic; or, the Calculus of Inference, Necessary and Probable (1847)
 
 ** On the Syllogism (1868, Unpublished)
 
@@ -516,6 +534,8 @@ A good introduction into the life of George Boole.
 ** A System of Logic (1843)
 
 * Thomas Solly (1816 – 1875)
+
+** A Syllabus of Logic (1839)
 
 Presented an extensional logic
 
