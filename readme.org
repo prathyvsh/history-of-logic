@@ -422,6 +422,16 @@ Translated Aristotle’s work and gave a nominalist defense of his logic.
 
 ** Logick (1807)
 
+* Salomon Maimon (1753 – 1800)
+
+* August Detlev Twesten (1789 - 1876)
+
+* Moritz Wilhelm Drobisch (1802 – 1896)
+
+* Hermann Günther Grassmann
+
+Work on theory of extension.
+
 * English School of Logic
 
 ** Resources
@@ -547,8 +557,6 @@ Presented an extensional logic
 
 * John Venn (1834 – 1923)
 
-* Ernst Schröder (1841 – 1902)
-
 * James Joseph Sylvester (1814 – 1897)
 
 ** System of Logic (1843)
@@ -582,9 +590,27 @@ Presented an extensional logic
 
 * Charles Peirce (1839 – 1914)
 
+Peirce tried to unite the algebraic logic of Boole and quantified relational inferences of De Morgan. Peirce moved away from equational logic and tried to bring a logic of relatives.
+
+Peirce introduced quantifiers briefly in 1870.
+
 * Logic of Relatives
 
+* Ernst Schröder (1841 – 1902)
+
+Schröder borrowed quantifiers from Peirces for his influential treatise on the algebra of logic which was adopted by Peano from Schröder.
+
+* Works on Peirce
+
+** [[https://core.ac.uk/download/pdf/82687196.pdf][Putnam on Peirce]]
+
 * Allan Marquand
+
+* O. H. Mitchell (1851 – 1889)
+
+** [[https://www.jstor.org/stable/40320486?seq=1][The Life and Logical Contributions of O. H. Mitchell, Peirce’s Gifted Student]]
+
+* Christine Ladd Franklin (1847 – 1930)
 
 * Alexander Macfarlane
 
@@ -645,8 +671,6 @@ Hilbert’s Program
 * Metamathematics
 
 * Proof Theory
-
-* Allan Marquand
 
 * Sheffer
 
@@ -726,6 +750,8 @@ Article on completeness theorem: http://citeseerx.ist.psu.edu/viewdoc/download;j
 * Lindenbaum
 
 * Alfred Tarski
+
+Demonstrated that Boolean algebra without quantifiers were inadequate.
 
 ** [[https://www.academia.edu/12410865/Alfred_Tarskis_What_are_Logical_Notions_Edited_and_introduced_by_John_Corcoran_][What are the logical notions? (Lecture Delivered: 1966 / Published: 1986)]]
 
