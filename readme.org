@@ -736,7 +736,7 @@ Predicates are described as functions, suggestive of the technique of Lambert.
 
 * Brouwer
 
-* Hilbert
+* David Hilbert
 
 ** Recursive Schemes
 
@@ -766,6 +766,8 @@ Predicates are described as functions, suggestive of the technique of Lambert.
 
 * Illative logic
 
+* Quantifier free first order logic
+
 * Logic with quantification over individuals
 
 This is known in different names as:
@@ -774,9 +776,30 @@ This is known in different names as:
 ** Quantification theory
 ** Lower predicate calculus
 
-* Quantification over higher order objects
+* Plurality of copula
 
-* Quantifier free first order logic
+In first order logic, to be is ambiguous. It can stand for:
+
+** Predication
+Tomato is red
+IsRed(tomato)
+
+** Identity
+
+Tomato is pomodoro in Italian
+tomato = pomodoro
+
+** Existence
+
+Tomato is / Tomato exists
+ThereExists x : x = Tomato
+
+** Class inclusion
+
+Tomato is a fruit
+ForAll(x) : Tomato(x) subsetOf Fruit(x)
+
+* Quantification over higher order objects
 
 * Primitive Recursive Arithmetic
 
