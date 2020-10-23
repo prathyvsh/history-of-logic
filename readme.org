@@ -756,6 +756,26 @@ Predicates are described as functions, suggestive of the technique of Lambert.
 
 * Quantification / Quotification
 
+* Subjects
+
+* Objects
+
+* Properties of objects and relations between objects/properties
+
+* Predicates
+
+* Illative logic
+
+* Logic with quantification over individuals
+
+This is known in different names as:
+** First order logic
+** First order predicate logic
+** Quantification theory
+** Lower predicate calculus
+
+* Quantification over higher order objects
+
 * Quantifier free first order logic
 
 * Primitive Recursive Arithmetic
@@ -764,6 +784,10 @@ Predicates are described as functions, suggestive of the technique of Lambert.
 Hilbert’s Program
 
 * Metamathematics
+
+* Higher order logics
+
+The distinction between logical systems in which quantification is allowed over higher-order entites and first order was accomplished largely by the efforts of David Hilbert and his associates. It is expounded in Grundzüge der Theoretischen Logik.
 
 * Proof Theory
 
