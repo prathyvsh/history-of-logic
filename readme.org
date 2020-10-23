@@ -591,10 +591,25 @@ Presented an extensional logic
 
 * John Venn (1834 – 1923)
 
-** ∑ System
-*** [[https://www.ams.org/journals/tran/1905-006-03/S0002-9947-1905-1500718-9/S0002-9947-1905-1500718-9.pdf][The Relation of the Principles of Logic to the Foundations of Geometry (1905)]]
-
 * Richard Dedekind (1831 – 1916)
+
+* Hugh MacColl (1831 – 1909)
+
+- Created the first known variant of propositional calculus (Verify).
+- Influenced C. I. Lewis in his modal logic.
+- Explored pluralistic logical systems.
+- Worked on the [[https://www.researchgate.net/publication/233139704_McColl_and_Minimization][minimization problem]]
+
+** Works
+
+*** [[https://www.jstor.org/stable/2248189][Linguistic Misunderstandings. Part I]]
+Contains a section on Axioms, 
+
+** Works on MacColl
+
+*** [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.62.4830&rep=rep1&type=pdf][Hugh MacColl and the Tradition of Logic]]
+*** [[https://journals.openedition.org/philosophiascientiae/351?lang=en][Hugh MacColl after One Hundred Years]]
+
 
 * Lewis Carroll / Charles Dodgson (1832 – 1898)
 
@@ -654,6 +669,8 @@ Predicates are described as functions, suggestive of the technique of Lambert.
 
 ** Die Grundlagen der Arithmetik (1884)
 
+* John Cook Wilson (1849 – 1915)
+
 * Louis Liard (1846 – 1917)
 
 * Alfred Kempe (1849 – 1922)
@@ -668,32 +685,20 @@ Predicates are described as functions, suggestive of the technique of Lambert.
 
 ** The theory of mathematical form: a correction and clarification (1897)
 
-* Josaiah Royce (1855 – 1916)
+* Alexander Macfarlane (1851 – 1913)
 
-* Alexander Macfarlane
+* Josiah Royce (1855 – 1916)
 
-* Allan Marquand
+** ∑ System
+*** [[https://www.ams.org/journals/tran/1905-006-03/S0002-9947-1905-1500718-9/S0002-9947-1905-1500718-9.pdf][The Relation of the Principles of Logic to the Foundations of Geometry (1905)]]
 
-* Peano
+* William Ernest Johnson (1858 – 1931)
 
-* Edward Huntington
+* Allan Marquand (1853 – 1924)
 
-* Hugh MacColl (1831 – 1909)
+* Giuseppe Peano (1858 – 1932)
 
-- Created the first known variant of propositional calculus (Verify).
-- Influenced C. I. Lewis in his modal logic.
-- Explored pluralistic logical systems.
-- Worked on the [[https://www.researchgate.net/publication/233139704_McColl_and_Minimization][minimization problem]]
-
-** Works
-
-*** [[https://www.jstor.org/stable/2248189][Linguistic Misunderstandings. Part I]]
-Contains a section on Axioms, 
-
-** Works on MacColl
-
-*** [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.62.4830&rep=rep1&type=pdf][Hugh MacColl and the Tradition of Logic]]
-*** [[https://journals.openedition.org/philosophiascientiae/351?lang=en][Hugh MacColl after One Hundred Years]]
+* James Edwin Creighton (1861 – 1924)
 
 * Cesare Burali-Forti (1861 – 1931)
 
@@ -701,11 +706,21 @@ Contains a section on Axioms,
 
 * F. H. Bradley (1864 – 1924)
 
+* Horace William Brindley Joseph (1867 – 1943)
+
 * Louis Couturat (1868 – 1914)
 
 ** De l’Infini mathematique (1896)
 
 ** Algèbre de la logique (1905)
+
+* Edward Huntington (1874 – 1952)
+
+* Ralph Monroe Eaton (1892 – 1932)
+
+* Lizzie Susan Stebbing (1885 – 1943)
+
+* Daniel Sommer Robinson (1888 - 1977)
 
 * V. V. Bobyin
 
@@ -855,6 +870,8 @@ As in Model Theory
 * Quine
 
 * Halmos
+
+* Charles West Churchman (1913 – 2004)
 
 * Bourbaki
 
