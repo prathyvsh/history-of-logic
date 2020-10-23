@@ -669,9 +669,11 @@ Predicates are described as functions, suggestive of the technique of Lambert.
 
 ** Die Grundlagen der Arithmetik (1884)
 
+* Louis Liard (1846 – 1917)
+
 * John Cook Wilson (1849 – 1915)
 
-* Louis Liard (1846 – 1917)
+* Felix Klein (1849 – 1925)
 
 * Alfred Kempe (1849 – 1922)
 
@@ -696,7 +698,15 @@ Predicates are described as functions, suggestive of the technique of Lambert.
 
 * Allan Marquand (1853 – 1924)
 
+* Henri Poincaré (1854 – 1912)
+
 * Giuseppe Peano (1858 – 1932)
+
+** Calcolo geometrico secondo l’Ausdehnungslehre di H. Grassman (1888)
+
+** Peano postulates
+
+* Alessandro Padoa (1868 – 1937)
 
 * James Edwin Creighton (1861 – 1924)
 
