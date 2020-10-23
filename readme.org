@@ -752,7 +752,7 @@ Predicates are described as functions, suggestive of the technique of Lambert.
 
 * Rózsa Péter
 
-* Paul Bernays
+* Paul Bernays (1888 - 1977)
 
 * Quantification / Quotification
 
@@ -824,9 +824,11 @@ The distinction between logical systems in which quantification is allowed over 
 
 * Gentzen
 
-* Kurt Gödel
+* Kurt Gödel (1906 - 1978)
 
 ** General Recursiveness
+
+* Neumann-Bernays-Gödel set theory
 
 * Heyting
 
@@ -973,6 +975,36 @@ As in Model Theory
 * Ernest Zermelo (1871 – 1953)
 
 ** Zermelo-Fraenkel set theory
+
+Eliminated comprehension principle and brought in construction of set using iterative method.
+
+** Axiom of extensionality
+Two sets are identical if they have the same members
+
+** Axiom of elementary sets
+There exists a set with no elements.
+For any a and b, there exists sets with just a and be as their elements.
+
+** Axiom of separation
+A set can be partitioned based on the property it has.
+
+** Power-set axiom
+If S is a set, there is another set PowerSet(S) that contains all and only the subsets of S.
+
+** Union axiom
+If S is a set of sets, then there is another UnionOfChildren(S) which contains a set with all the elements of the subsets of S.
+
+** Axiom of choice
+If S is a non-empty set with mutually exclusive sets, then there is a set that contains pairs of members from each sets of S.
+
+** Axiom of inifinity
+There is at least one set that contains an infinity number of members.
+
+* Abraham Fraenkel (1891 – 1965)
+
+* John von Neumann (1903 – 1957)
+
+** Foundation axiom
 
 * Solomon Feferman (1928 – 2016)
 
