@@ -736,7 +736,7 @@ Predicates are described as functions, suggestive of the technique of Lambert.
 
 * Brouwer
 
-* David Hilbert
+* David Hilbert (1862 – 1943)
 
 ** Recursive Schemes
 
@@ -799,6 +799,10 @@ ThereExists x : x = Tomato
 Tomato is a fruit
 ForAll(x) : Tomato(x) subsetOf Fruit(x)
 
+First order logic cannot express all the concepts and modes of reasoning in mathematics such as:
+- Equinumerosity / Equicardinality
+- Infinity
+
 * Quantification over higher order objects
 
 * Primitive Recursive Arithmetic
@@ -842,9 +846,26 @@ Also, published as a book
 
 * Computation
 
-* Russell
+* Bertrand Russell
 
 ** Principia Mathematica
+
+Used a higher order logic.
+Intended to reduce arithmetic to logic.
+Defined number of a class as the class of classes equinumerous with it.
+A number as all the classes of objects with the same cardinality. This is quoted often as said by Quine.
+
+Following arithmetization of analysis, a lot of mathematics was shown to be linked with arithmetic.
+
+** Russell’s paradox
+
+** Simple theory of types
+
+** Vicious circle principle
+
+** Ramified theory of types
+
+** Axiom of reducibility
 
 *** Works on Principia Mathematica
 
@@ -857,9 +878,14 @@ Bernard Linsky (2011)
 
 ** A Treatise on Universal Algebra (1898)
 
-* Oswald Veblen
+* Oswald Veblen (1880 – 1960)
+Founding member of Institute of Advanced Study
 
-* Schönfinkel
+* Moses Schönfinkel
+
+* Frank Ramsey (1903 – 1930)
+
+Showed how Principia Mathematica could be casted differently by taking a purely extensional view of higher order objects such as properties, relations, and classes.
 
 * C. I. Lewis
 Has written a survey on symbolic logic.
@@ -899,6 +925,12 @@ Demonstrated that Boolean algebra without quantifiers were inadequate.
 
 ** [[https://www.academia.edu/12410865/Alfred_Tarskis_What_are_Logical_Notions_Edited_and_introduced_by_John_Corcoran_][What are the logical notions? (Lecture Delivered: 1966 / Published: 1986)]]
 
+* Leon Henkin (1921 – 2006)
+
+** Standard and nonstandard models of formal logic
+
+Formalized the distinction that all classes can mean all classes that are composable of their members or all the classes definable in a given language.
+
 * Rudolf Carnap
 
 * Rosenbloom
@@ -937,6 +969,12 @@ As in Model Theory
 * Saunders Mac Lane
 
 * Lawvere
+
+* Ernest Zermelo (1871 – 1953)
+
+** Zermelo-Fraenkel set theory
+
+* Solomon Feferman (1928 – 2016)
 
 * Belnap
 
