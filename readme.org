@@ -746,6 +746,8 @@ Predicates are described as functions, suggestive of the technique of Lambert.
 
 ** First appeared in Grundzüge der theoretischen Logik (1928)
 
+* Continuum Hypothesis
+
 * Model Theory
 
 * Ackermann
@@ -822,9 +824,19 @@ The distinction between logical systems in which quantification is allowed over 
 
 ** [[./refs/the-general-theory-of-notational-relativity.pdf][The General Theory of Notational Relativity]]
 
-* Gentzen
+* Gerhard Gentzen (1909 – 1945)
+
+** Sequent Calculus
+
+** Consistency of arithmetic with certain nonfinitistic assumptions
 
 * Kurt Gödel (1906 - 1978)
+
+Gödel proved that the negation of continuum hypothesis cannot be proved in ZF set theory.
+
+** Axiom of constructibility
+
+** Constructible universe
 
 ** General Recursiveness
 
@@ -883,7 +895,7 @@ Bernard Linsky (2011)
 * Oswald Veblen (1880 – 1960)
 Founding member of Institute of Advanced Study
 
-* Moses Schönfinkel
+* Moses Schönfinkel (1889 – 1942)
 
 * Frank Ramsey (1903 – 1930)
 
@@ -897,9 +909,13 @@ Has written a survey on symbolic logic.
 ** Functional completeness theorem
 Article on completeness theorem: http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=16D208C94D8F16914F1921B765820E42?doi=10.1.1.89.2460&rep=rep1&type=pdf
 
-* Alonzo Church
+* Alonzo Church (1903 – 1995)
 
 * Alan Turing
+
+* Paul Cohen (1934 – 2007)
+
+Proved that continuum hypothesis cannot be proved in ZF.
 
 * Effective Calculability
 
@@ -916,6 +932,10 @@ Article on completeness theorem: http://citeseerx.ist.psu.edu/viewdoc/download;j
 * Stephen Kleene
 
 ** Three valued logic
+
+* William Craig (1918 – 2016)
+
+* Roger Lyndon (1917 – 1988)
 
 * Barkley Rosser
 
@@ -942,9 +962,18 @@ Formalized the distinction that all classes can mean all classes that are compos
 ** Begründung Der Elementaren Arithmetik Durch Die Rekurrierende Denkweise Ohne Anwendung Scheinbarer Veranderlichen Mit Unendlichem Ausdehnungsbereich (1923)
 ** The development of recursive arithmetic (1946)
 
+* Jean van Heijenoort (1912 – 1986)
+
+** Distinction of logic as language vs. logic as calculus
+
+* Meta Logic
+
 * Consistency
+
 * Satisfiability
+
 As in Model Theory
+
 * Completeness
 
 * Löwenheim
@@ -958,7 +987,7 @@ As in Model Theory
 
 * Freudenthal
 
-* Quine
+* Williard Van Orman Quine
 
 * Halmos
 
@@ -976,7 +1005,7 @@ As in Model Theory
 
 ** Zermelo-Fraenkel set theory
 
-Eliminated comprehension principle and brought in construction of set using iterative method.
+A first order theory Eliminated comprehension principle and brought in construction of set using iterative method.
 
 ** Axiom of extensionality
 Two sets are identical if they have the same members
@@ -1012,7 +1041,15 @@ There is at least one set that contains an infinity number of members.
 
 ** Four valued logic
 
-* Dana Scott
+* Cumulative Hierarchy
+
+* Haskell Curry (1900 – 1982)
+
+** Combinatory Calculus
+
+* Dana Scott (1932)
+
+** Denotational Semantics
 
 * Paul Lorenzen
 Invented dialogical logic with Kuro Lorenz.
@@ -1028,6 +1065,12 @@ Introduced semantical tableux method in 1955.
 * Samson Abramsky
 
 * Johan van Bentham
+
+* Hugo Steinhaus (1887 – 1972)
+
+* Jan Mycielski (Born 1932)
+
+** Axiom of determinateness
 
 * Andreas Blass
 
