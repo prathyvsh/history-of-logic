@@ -968,6 +968,13 @@ Proved that continuum hypothesis cannot be proved in ZF.
 
 * Andrey Muchnik (Born 1934 – 2019)
 
+Contributed to the view of intuitionism as “calculus of problems”
+
+Proved the lattice of Muchnik degrees is Brouwerian.
+
+** Muchnik degrees
+
+
 * Roger Lyndon (1917 – 1988)
 
 * Barkley Rosser
