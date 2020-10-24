@@ -750,6 +750,11 @@ Predicates are described as functions, suggestive of the technique of Lambert.
 
 * Model Theory
 
+An axiomatic system can be thought of as a system that describes a part of the world by employing a set of models.
+These models can be thought of as interpretations of the system in which all the axioms are tautological.
+
+A proposition specifies a class of models.
+
 * Ackermann
 
 * Rózsa Péter
@@ -834,11 +839,18 @@ The distinction between logical systems in which quantification is allowed over 
 
 Gödel proved that the negation of continuum hypothesis cannot be proved in ZF set theory.
 
+** Über formal unentscheidbare Satze der Principia Mathematica und verwandter Systeme (1931)
+
 ** Axiom of constructibility
 
 ** Constructible universe
 
 ** General Recursiveness
+
+** Incompleteness theorems
+
+It was assumed that descriptive completeness and deductive completeness coincide.
+This was a central assumption in the metalogical project of proving the consistency of arithmetic.
 
 * Neumann-Bernays-Gödel set theory
 
@@ -911,6 +923,8 @@ Article on completeness theorem: http://citeseerx.ist.psu.edu/viewdoc/download;j
 
 * Alonzo Church (1903 – 1995)
 
+** Semantic completeness and resulting undecidability of first order logic
+
 * Alan Turing
 
 * Paul Cohen (1934 – 2007)
@@ -929,6 +943,8 @@ Proved that continuum hypothesis cannot be proved in ZF.
 
 ** Decidability
 
+* Diagonal lemma
+
 * Stephen Kleene
 
 ** Three valued logic
@@ -941,13 +957,19 @@ Proved that continuum hypothesis cannot be proved in ZF.
 
 * Lindenbaum
 
-* Alfred Tarski
+* Alfred Tarski (1901 – 1983)
 
 Demonstrated that Boolean algebra without quantifiers were inadequate.
+
+** The Concept of Truth in Formalized Languages (1933)
+
+Introduced object language vs. metalanguage distinction
 
 ** [[https://www.academia.edu/12410865/Alfred_Tarskis_What_are_Logical_Notions_Edited_and_introduced_by_John_Corcoran_][What are the logical notions? (Lecture Delivered: 1966 / Published: 1986)]]
 
 * Leon Henkin (1921 – 2006)
+
+Presented an improved version of the completeness proof of first order logic
 
 ** Standard and nonstandard models of formal logic
 
@@ -976,7 +998,20 @@ As in Model Theory
 
 * Completeness
 
-* Löwenheim
+** Descriptive completeness / Axiomatizability
+
+** Semantical completeness
+
+** Deductive Completeness
+
+If a formal logic that the axiomatization uses is semantically complete, deductive completeness
+usually coincides with descriptive completeness.
+
+** Maximal completeness
+
+If adding new elements to one of its models leads to a violation of the other axioms.
+
+* Leopold Löwenheim (1878 – 1957)
 
 * Kripke
 
@@ -1057,7 +1092,7 @@ Influenced semantical tableaux method
 
 * Kuno Lorenz
 
-* Evert W. Beth
+* Evert W. Beth (1908 – 1964)
 Introduced semantical tableux method in 1955.
 
 * Jean-Yves Girard
