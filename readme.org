@@ -851,6 +851,8 @@ Gödel proved that the negation of continuum hypothesis cannot be proved in ZF s
 
 ** General Recursiveness
 
+Functions that are effectively calculable are called general recursive
+
 ** Incompleteness theorems
 
 It was assumed that descriptive completeness and deductive completeness coincide.
@@ -920,16 +922,23 @@ Showed how Principia Mathematica could be casted differently by taking a purely 
 * C. I. Lewis
 Has written a survey on symbolic logic.
 
-* Emil Post
+* Emil Post (1897 – 1954)
 
 ** Functional completeness theorem
 Article on completeness theorem: http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=16D208C94D8F16914F1921B765820E42?doi=10.1.1.89.2460&rep=rep1&type=pdf
+
+** Post’s problem
+
+* Degrees of unsolvability
+** Equivalence classes of Turing reducibility
 
 * Alonzo Church (1903 – 1995)
 
 ** Semantic completeness and resulting undecidability of first order logic
 
-* Alan Turing
+* Alan Turing (1912 – 1954)
+
+* Andrey Andreyevich Markov Jr. (1903 – 1979)
 
 * Paul Cohen (1934 – 2007)
 
@@ -949,11 +958,15 @@ Proved that continuum hypothesis cannot be proved in ZF.
 
 * Diagonal lemma
 
-* Stephen Kleene
+* Stephen Cole Kleene (1909 – 1994)
 
 ** Three valued logic
 
 * William Craig (1918 – 2016)
+
+* Richard Friedberg (Born 1935)
+
+* Andrey Muchnik (Born 1934 – 2019)
 
 * Roger Lyndon (1917 – 1988)
 
@@ -1034,7 +1047,9 @@ If adding new elements to one of its models leads to a violation of the other ax
 - Frames
 - Kripke Semantics
 
-* Herbrand
+* Jacques Herbrand (1908 – 1931)
+
+* Recursion Theory
 
 * Freudenthal
 
@@ -1142,6 +1157,12 @@ Found out that Gentzen-type proofs could be interpreted as frustrated counter-mo
 * Andreas Blass
 
 * John Woods
+
+* Yury Vladimirovich Matiyasevich (Born 1947)
+
+* Julia Robinson (1919 – 1985)
+
+* Martin Davis (Born 1928)
 
 * Martin-Löf
 
