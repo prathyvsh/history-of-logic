@@ -738,6 +738,10 @@ Predicates are described as functions, suggestive of the technique of Lambert.
 
 * David Hilbert (1862 – 1943)
 
+** Epsilon Calculus
+
+Shows the dynamical aspect of the meaning of quantifiers
+
 ** Recursive Schemes
 
 * Finitary Mathematics
@@ -975,7 +979,15 @@ Presented an improved version of the completeness proof of first order logic
 
 Formalized the distinction that all classes can mean all classes that are composable of their members or all the classes definable in a given language.
 
-* Rudolf Carnap
+* Rudolf Carnap (1891 – 1970)
+
+Presented a systematic theory of semantics
+
+** Logische Syntax der Sprache (1934)
+
+** Introduction to Semantics (1942)
+
+** Meaning and Necessity (1947)
 
 * Rosenbloom
 
@@ -983,6 +995,8 @@ Formalized the distinction that all classes can mean all classes that are compos
 
 ** Begründung Der Elementaren Arithmetik Durch Die Rekurrierende Denkweise Ohne Anwendung Scheinbarer Veranderlichen Mit Unendlichem Ausdehnungsbereich (1923)
 ** The development of recursive arithmetic (1946)
+
+** Skolem functions
 
 * Jean van Heijenoort (1912 – 1986)
 
@@ -1013,6 +1027,8 @@ If adding new elements to one of its models leads to a violation of the other ax
 
 * Leopold Löwenheim (1878 – 1957)
 
+* Abraham Robinson (1918 – 1974)
+
 * Kripke
 
 - Frames
@@ -1021,6 +1037,20 @@ If adding new elements to one of its models leads to a violation of the other ax
 * Herbrand
 
 * Freudenthal
+
+* Infinitary logics
+
+Encouraged the development of noncompositional truth definitions, initially formulated in terms of a selection game.
+
+The paradigm of using games to define truth eventually lead to the development of game-theoretic semantics.
+
+* Game semantics
+
+* Carol Karp (1926 – 1972)
+
+* Saharon Shelah (Born 1945)
+
+* Stability Theory
 
 * Williard Van Orman Quine
 
@@ -1086,14 +1116,16 @@ There is at least one set that contains an infinity number of members.
 
 ** Denotational Semantics
 
-* Paul Lorenzen
+* Paul Lorenzen (1915 – 1994)
 Invented dialogical logic with Kuro Lorenz.
 Influenced semantical tableaux method
 
-* Kuno Lorenz
+* Kuno Lorenz (Born 1932)
 
 * Evert W. Beth (1908 – 1964)
+
 Introduced semantical tableux method in 1955.
+Found out that Gentzen-type proofs could be interpreted as frustrated counter-model constructions.
 
 * Jean-Yves Girard
 
@@ -1115,7 +1147,11 @@ Introduced semantical tableux method in 1955.
 
 A good reading list of Martin Löf’s papers is available [[https://github.com/michaelt/martin-lof][here]].
 
-* Jaako Hintikka
+* Jaako Hintikka (1929 – 2015)
+
+** Introduced independence-friendly first order logic
+
+Lead to making equinumerosity, infinity, and truth being expressible in first-order language
 
 * Else M. Barth
 
