@@ -57,7 +57,7 @@ Read 18 July 2020
 
 A quick read on what advances where made by Frege, Peano, and Russell. Parallel is drawn between Euclid’s axioms and how modern logic differs from it. Empirical accent of the modern logic is stressed.
 
-** [[https://academic.oup.com/monist/article-abstract/29/3/450/2335466][The Logical Significance of ”Okham’s Razor”]]
+** [[https://academic.oup.com/monist/article-abstract/29/3/450/2335466][The Logical Significance of “Okham’s Razor”]]
 2 pages
 
 Read 18 July 2020
