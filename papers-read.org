@@ -115,6 +115,11 @@ A good description of how Whatley proscribed the limits of logic in his nominali
 
 McKerrow also compares the innovation of Whatley to that of Stephen Toulmin’s Uses of Argument (1958) and The New Rhetoric of Chaïm Perelman and Lucie Olbrechts-Tyteca (1969)
 
+** [[https://link.springer.com/chapter/10.1007/11780342_59][Gödel and Computability Theory]]
+Richard Zach (2006)
+Read 13 January 2021
+
+Short read on the links between ideas of Gödel and Computability and Complexity Theory
 ** On Process
 
 *** Conceptual Roots of Mathematics
