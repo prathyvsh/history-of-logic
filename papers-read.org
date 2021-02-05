@@ -120,6 +120,13 @@ Richard Zach (2006)
 Read 13 January 2021
 
 Short read on the links between ideas of Gödel and Computability and Complexity Theory
+
+** [[https://www.vordenker.de/ggphilosophy/mcculloch_what-is-a-number.pdf][What is a number, that a man may know it, and a man, that he may know a number?]]
+Warren McCulloch
+Read 5 February 2021
+
+A nice read on the life and work of McCulloch. Assumes a good knowledge of the history of logic and the role played by the recent innovations since Charles Peirce. There are some parts about probabilistic logic that I couldn't quite follow. Would need immersal in the work of McCulloch to learn to work with it.
+
 ** On Process
 
 *** Conceptual Roots of Mathematics
