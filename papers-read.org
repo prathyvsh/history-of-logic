@@ -127,7 +127,7 @@ Read 5 February 2021
 
 A nice read on the life and work of McCulloch. Assumes a good knowledge of the history of logic and the role played by the recent innovations since Charles Peirce. There are some parts about probabilistic logic that I couldn't quite follow. Would need immersal in the work of McCulloch to learn to work with it.
 
-** Calculus Ratiocinator vs. Characteristica Universalis? The Two Traditions in Logic, Revisited
+** [[https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.2244&rep=rep1&type=pdf][Calculus Ratiocinator vs. Characteristica Universalis? The Two Traditions in Logic, Revisited]]
 Volker Peckhaus
 Read
 
@@ -136,6 +136,10 @@ Author goes on to differentiate between two schools of logic: the algebraic scho
 Quine locates the idea of quantification theory as the emergence of logic as a substantial branch of mathematics.
 
 Works of Jean van Heijenoort (1976b) of dividing “logic as calculus” and “logic as language” is cited. This is said to be developed by the work of Jaakko Hintikka to “languages as caluculs” and “language as a universal medium”.
+
+The two ideas are not disjunctive but rather have overlaps in that Frege himself notes that the inferring calculations as a necessary component of a concept script. The concept script as per Peckhaus was meant to emphasize the lingua characterica aspect of logic.
+
+With quantification theory acting as the central powerhorse, lingua characterica is considered by Heijenoort to constitute a language powerful enough perhaps to represent all of scientific knowledge.
 
 ** On Process
 
