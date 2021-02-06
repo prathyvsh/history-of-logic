@@ -127,6 +127,16 @@ Read 5 February 2021
 
 A nice read on the life and work of McCulloch. Assumes a good knowledge of the history of logic and the role played by the recent innovations since Charles Peirce. There are some parts about probabilistic logic that I couldn't quite follow. Would need immersal in the work of McCulloch to learn to work with it.
 
+** Calculus Ratiocinator vs. Characteristica Universalis? The Two Traditions in Logic, Revisited
+Volker Peckhaus
+Read
+
+Author goes on to differentiate between two schools of logic: the algebraic school and the mathematical logic school. The question involves the usefulness of algebra in the actual shape of logic. People like Arthur Prior, Michael Dummett, and W. V. O. Quine are evidenced as people who challenged the primacy of algebraic school of logic.
+
+Quine locates the idea of quantification theory as the emergence of logic as a substantial branch of mathematics.
+
+Works of Jean van Heijenoort (1976b) of dividing “logic as calculus” and “logic as language” is cited. This is said to be developed by the work of Jaakko Hintikka to “languages as caluculs” and “language as a universal medium”.
+
 ** On Process
 
 *** Conceptual Roots of Mathematics
