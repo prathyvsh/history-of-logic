@@ -141,6 +141,14 @@ The two ideas are not disjunctive but rather have overlaps in that Frege himself
 
 With quantification theory acting as the central powerhorse, lingua characterica is considered by Heijenoort to constitute a language powerful enough perhaps to represent all of scientific knowledge.
 
+Algebraic calculus uses model-theoretic approach where interpretations of operations and categories (classes of concepts) are needed. They can be divided into a structural/syntactic and a semantic side. The latter providing interpretation of the figures used.
+
+The main features of Fregean system is identified as: quantification, universality, internal semantics, a closed/fixed universe of discourse.
+
+Leibniz envisioned an ars characteristica which will represent letters according to the models of mathematics and the notation allows for calculating with concepts according to a set of rules. It allows for mechanically deducing all possible truths from the list of simple thoughts. Characteristic is responsible for the semantic part and calculus ratiocinator forms the syntact part of the lingua rationalis.
+
+In the initial period of partial realizations of this program, the systems of characters allow various interprations. In the final (utopian) stage after having reached at the complete designation of all possible simple thoughts, the system would be categorical in nature.
+
 ** On Process
 
 *** Conceptual Roots of Mathematics
