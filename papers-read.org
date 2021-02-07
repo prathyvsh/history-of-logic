@@ -129,7 +129,9 @@ A nice read on the life and work of McCulloch. Assumes a good knowledge of the h
 
 ** [[https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.2244&rep=rep1&type=pdf][Calculus Ratiocinator vs. Characteristica Universalis? The Two Traditions in Logic, Revisited]]
 Volker Peckhaus
-Read
+Read 7 February 2021
+
+A really good paper that outlines how the two themes in the work of Leibniz: Calculus ratiocinator and Characteristica Universalis went on to influence later developments in the 19th and 20th century.
 
 Author goes on to differentiate between two schools of logic: the algebraic school and the mathematical logic school. The question involves the usefulness of algebra in the actual shape of logic. People like Arthur Prior, Michael Dummett, and W. V. O. Quine are evidenced as people who challenged the primacy of algebraic school of logic.
 
@@ -148,6 +150,10 @@ The main features of Fregean system is identified as: quantification, universali
 Leibniz envisioned an ars characteristica which will represent letters according to the models of mathematics and the notation allows for calculating with concepts according to a set of rules. It allows for mechanically deducing all possible truths from the list of simple thoughts. Characteristic is responsible for the semantic part and calculus ratiocinator forms the syntact part of the lingua rationalis.
 
 In the initial period of partial realizations of this program, the systems of characters allow various interprations. In the final (utopian) stage after having reached at the complete designation of all possible simple thoughts, the system would be categorical in nature.
+
+Peckhaus locates the idea of Schröder with an external semantics to be more close to the Leibnizian idea of lingua rationalis.
+
+The article comes to a close by showing how Schröder was influenced by the work of Charles Peirce and his student Oscar Howard Mitchell in creating his own style of quantification in the algebraic school which is close to infinitary logic. Peckhaus uses this idea to underline that quantification theory cannot be taken to be the distinguishing factor for the two traditions in the history of logic
 
 ** On Process
 
