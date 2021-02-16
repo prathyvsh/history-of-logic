@@ -183,6 +183,18 @@ He divide logic into theory and practice. This practice was associated with the 
 
 Richard Whately posited that the ground for discourse of logic is like objective sciences Chemistry or Mathematics in that its point is the enunciation of principle apart from application.
 
+For Richard Whately logic was not an engine of discover or “an aart of rightly employing rational faculaties” but was an inquiry into the formal structures. He considered logic to be about lanugage rather than valuely considered “thought”.
+
+Whately is said to have given logic the characteristic form. He eliminated some assocations and gave it a precise definition making it closer to how grammar is to language.
+
+Bernard Bolzano wrote Theory of Science (Wissenschaftslehre) in 1837.
+
+Introduced the idea of the content which is  asserted or denied by a proposition is a ‘proposition in itself’.
+
+Propositions are introduced first and any component of a proposition that is not a proposition itself is a Vorstellung (idea or representation ; sounds like an atompic component / primitive in modern parlance).
+
+Bolzano noted that no one had successfully defined the type of combination of terms that generates a proposition. Several of the attempts he examined did not distinguish propositions from complex terms and others defined it in terms of “acts of the mind”, “contaminating” logic with psychology.
+
 ** On Process
 
 *** Conceptual Roots of Mathematics
