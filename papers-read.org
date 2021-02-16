@@ -155,6 +155,19 @@ Peckhaus locates the idea of Schröder with an external semantics to be more clo
 
 The article comes to a close by showing how Schröder was influenced by the work of Charles Peirce and his student Oscar Howard Mitchell in creating his own style of quantification in the algebraic school which is close to infinitary logic. Peckhaus uses this idea to underline that quantification theory cannot be taken to be the distinguishing factor for the two traditions in the history of logic
 
+** [[http://www.blackwellpublishing.com/content/BPL_Images/Content_Store/WWW_Content/9780631216711/003.pdf][The Rise of Modern Logic]]
+Rolf George and James Vans Evra
+
+A tapestry of logical systems as having dominated before the first half of 20th century.
+
+The book starts with the work of Peter Ramus which identified Dialectic with Logic and which lead to logic to be understood as art of rhetoric and disputation. This therefore, lead to the works in philosophy and literature not advancing or concerning themselves with the subject much.
+
+Francis Bacon, Descartes, and John Locke is said to have hold the opinion that scholastic logic as holding us back from the inquiry into truth. Hume continued Locke’s attack and (one of ?) the most widely read work of that period article in Encylcopédie by Denis Diderot also bashed logic.
+
+Gottfried Wilhelm Leibniz was the great exception to this. In his correspondence with Locke, latter’s representative Philateles eventually admits as being able to percieve logic as universal mathematics.
+
+Theory of terms or concepts, their combination into judgements, and the composition of syllogisms from judegments. (Roughly: Primitives -> Interpretive statements -> Structures).
+
 ** On Process
 
 *** Conceptual Roots of Mathematics
