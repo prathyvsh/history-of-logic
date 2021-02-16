@@ -168,6 +168,21 @@ Gottfried Wilhelm Leibniz was the great exception to this. In his correspondence
 
 Theory of terms or concepts, their combination into judgements, and the composition of syllogisms from judegments. (Roughly: Primitives -> Interpretive statements -> Structures).
 
+The elucidation of the structure of logic was prefaced by a discussion of some epistemological preliminaries: the origin of concepts as inherent in the mind or deriving from sensation and perception. The authors claim that inorder for logic to take the shape of modern logical theory.
+
+Kant and Whately are said to be the prime movers who played a role in eliminating some material and reorienting logic towards its modern conception.
+
+Kant changed his mind from Locke’s book de intellectu is the ground of all true logica to Locke “speaks of the origin of concepts, but this really does not belong to logic”. While claiming earlier that the logician must know the human soul and cannot proceed without psychology, he now held that “pure logic derives nothing from psychology”.
+
+Organon: Attemps to codify methods of discovery.
+Canon: A method of evaluation of the discoveries
+
+He held that there is no universal method of discovery and logic to be catering only to form and not to content, and that it can only be a canon (diiudicatio).
+
+He divide logic into theory and practice. This practice was associated with the skill of reasoning and disputation while logic proper as a theoretical inquiry.
+
+Richard Whately posited that the ground for discourse of logic is like objective sciences Chemistry or Mathematics in that its point is the enunciation of principle apart from application.
+
 ** On Process
 
 *** Conceptual Roots of Mathematics
