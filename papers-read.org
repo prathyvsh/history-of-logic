@@ -187,6 +187,8 @@ For Richard Whately logic was not an engine of discover or “an aart of rightly
 
 Whately is said to have given logic the characteristic form. He eliminated some assocations and gave it a precise definition making it closer to how grammar is to language.
 
+Syllogisms : Articulated Argument :: Grammar : Language
+
 Bernard Bolzano wrote Theory of Science (Wissenschaftslehre) in 1837.
 
 Introduced the idea of the content which is  asserted or denied by a proposition is a ‘proposition in itself’.
@@ -194,6 +196,54 @@ Introduced the idea of the content which is  asserted or denied by a proposition
 Propositions are introduced first and any component of a proposition that is not a proposition itself is a Vorstellung (idea or representation ; sounds like an atompic component / primitive in modern parlance).
 
 Bolzano noted that no one had successfully defined the type of combination of terms that generates a proposition. Several of the attempts he examined did not distinguish propositions from complex terms and others defined it in terms of “acts of the mind”, “contaminating” logic with psychology.
+
+Hobbes and Condillac identified propositions with equations. They further maintained that the principle on which all syllogisms rest is that two things equal to a third are equal to each other.
+
+But Bolzano notes that while all equations are propositions, not all propositions are equations and paid no further attention to this doctrine.
+
+Identifying propositions with equations demanded adjustments like the quantification of the predicate. Ploucquet thought that in an affirmative proposition the predicate cannot be different from the subjects: All lions are animals as All lions are some animals.
+All X are Y as All of X = Part of Y (George Bentham on a commentary to Whately’s book)
+This doctrine is usually associated with the name of William Hamilton who gave it wider currency.
+
+Bolzano contributed the idea of logical consequence using the mathematical technique of substitution on variables.
+
+The unusual triadic construction of consequence also allows for enthymemes or partly ‘material’ consequences, where only a subset of extralogical terms is varied.
+
+Laws of thought: Identity, Contradition, and Excluded Middle
+
+Bolzano agreed that these principles are true. Logic he maintained, objeys these laws, but they are not its first principles (or axioms in modern parlance).
+
+Bolzano took mathematics to be a purely conceptual science and disagreed with Kant’s view that it was founded on intuition.
+
+John Stuart Mill attacked logic claiming that formal principles, especially the syllogism, are a petitio principii since they can generate no new knowledge.
+
+Mill claimed that the truths of geometry and arithmetic are empirically discovered by the simplest inductive method, that is enumeration.
+
+Mill took the empiricism and psychological approach to logic, whose “theoretic grounds are wholly borrowed from psychology, and included as much of that science as is required to justify the rules of the logical art”. This holds in particular for the “laws of thought”, which are grounded either in our psychological constitution, or in universal experience.
+
+System of Logic by Mill is best known for formulating rules for the discovery of the causes, his famous ‘canon’: the methods of agreement, difference, residues, and concomitant variation. Popularity of this text in England lend support to the view that logic is methodology and the art of discovery.
+
+Logic was turned into a strong branch of mathematics under the expertise of George Boole, not of philosophy. This would excise methodology, rhetoric, and epistemology. Logic was cast in a symbolic language.
+
+Syllogisms can now be calculated by using arithmetic, specifically by maneuvering the middle term into a position where it can be eliminated. Syllogistics becomes part of the algebra of classes and thus an area of mathematics. If every argument can be formulated as a syllogism, then all of logic is a part of algebra.
+
+Short comings of Boole’s rendition:
+
+Existential propositions where represented as v = xy where v stands for a non-empty class. But how can one define such a class?
+
+His logic was a logic of terms
+
+Recognition of negation came only later in the century
+
+Changing the status of standard copular — is — Augustus De Morgan showed how the bounds of categorical statements could be widened into the realm of relational statements.
+
+”Every man is an animal. Therefore the head of a man is the head of an animal” cannot be accomodated in traditional syllogistic logic.
+
+De Morgan introduced the concept of “universe of discourse”, which targeted statemetns to a class of objects under discussion rather than the entire universe.
+
+Charles Sanders Peirce first thought logic to be part of semiotics, but then took it to be that theory, and while talking logic to be descriptive first, he later thought it to address cognitive norms.
+
+
 
 ** On Process
 
