@@ -243,7 +243,42 @@ De Morgan introduced the concept of “universe of discourse”, which targeted 
 
 Charles Sanders Peirce first thought logic to be part of semiotics, but then took it to be that theory, and while talking logic to be descriptive first, he later thought it to address cognitive norms.
 
+Gottlob Frege attempted to derive arithmetic from logical concepts.
 
+In his work, a function symbol refers to / denotes a concept, the name/argument an object. Concepts and objects belong to distinct ontological categories. When a concept term is an argument in a sentence, the sentence is said to be on a higher level than those whose arguments refer to objects.
+
+Conceptual structures are used to determine if certain configurations “fall under” them. For a concept: () is a planet, the object Merccury, when substituted in the structure gives Mercury is a planet which is said to map to true and hence to fall under the structure while Sirius is a planet fails to and doesn't fall under it.
+
+Another profound innovation of Frege was the quantifier. In mathematics, quantification is usually tacit: x + 0 = x, means that for all x, it is a true identity. Wherease to denote the opposite of it, one can say x + 0 != x, but for cases where “Not everything is F” cannot be done so and for that a special sign, a quantifier with a scope is needed. This allows to distinguish between:
+
+not(ForAll(x, F(x))) : Not everything is F(x)
+ForAll(x, not(F(x))) : Everything is not(F(x))
+
+Frege took quantifiers to be higher level functions. There is a planet was translated as There is at least one thing such that [() is a planet]. The quantifier here is constructed as a function that has another function as its argument.
+
+Frege emphasized the importance of the deductive method. Claims in a deductive science must be justified by a proof which is a sequence of propositions, each of which is either an assumption, or follows from previous members of the sequence by clearly articulated steps of deduction.
+
+With this understanding of the structure of propositions, of quantification, and of the nature of a proof. Begriffsschrift develops an axiomatic system of sentential logic, based on two sets of axioms: one on conditionals and the other on negation.
+
+The rule of modus ponens is employed to generate the first consistent and complete system (proved later) system of sentential logic.
+
+A third principle, substitutivity, is introduced: if a = b, then F(a) is equivalent (as we now say) to F(b). With the introduction of a fourth principle, now ‘universal instantiation’ or ForAll-elimination, a system of second order predicate logic is developed.
+
+Substitutivity fails in so-called oblique/opaque contexts. According to Frege, they are dependent clauses introduced by words as ‘to say’, ‘to hear’, ‘to believe’, ‘to be convinced’, ‘to conclude’ and the like.
+
+‘N believes that the morning star is a planet’ may be true while ‘N believes that the evening star is a planet’ false even though the two heavely bodies are identical violating the principle of substitutivity.
+
+To save this principle, Frege introduced sense (sinn) and reference (Bedeutung).
+
+Morning star and evening star may refer to the same object, but they have a different sense.
+
+In opaque contexts such expressions do not name an object, but their own sense, allowing substitution with any name of identical sense.
+
+Sentences in oblique contexts have as their reference not their truth value, but the thought or sense they express. In this way, substitutivity, for Frege an incontrovertible principle of logic, can be made to work in opaque contexts.
+
+In Foundations of Arithmetic, Frege attempted to define the sense of a sentence in which a number word occurs. This is associated with the ‘linguistic turn’ foreshadowing and inspiring 20th century analytic philosophy: the question how we come to know numbers is transformed into one about the meaning of sentences in which number words occur.
+
+Context principle: Only in the context of a sentence does a word have meaning.
 
 ** On Process
 
