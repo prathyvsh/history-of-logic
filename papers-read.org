@@ -158,6 +158,8 @@ The article comes to a close by showing how Schröder was influenced by the work
 ** [[http://www.blackwellpublishing.com/content/BPL_Images/Content_Store/WWW_Content/9780631216711/003.pdf][The Rise of Modern Logic]]
 Rolf George and James Vans Evra
 
+Read 17 February 2021
+
 A tapestry of logical systems as having dominated before the first half of 20th century.
 
 The book starts with the work of Peter Ramus which identified Dialectic with Logic and which lead to logic to be understood as art of rhetoric and disputation. This therefore, lead to the works in philosophy and literature not advancing or concerning themselves with the subject much.
@@ -299,6 +301,46 @@ Mereology is different from set theor in that an element of a class is not a par
 Alexius Meinong, another of Brentano’s students inquired into the nature of intentional acts that lack existing objects and are ‘beyond being and non-being.’
 
 He is credited with inpsiring free logic.
+
+Bertrand Russel gave a distinction between proper names and expressions which he titled definite descriptions.
+
+The present king of France is bald was analyzed into:
+
+1) location(atLeast(King, 1), France)
+2) location(atMost(King, 1), France)
+3) isBald(King, True)
+
+Now each of these condition can be violated giving no king, more than one king and non-bald king.
+
+This logical phrasing style is evidenced to convey the idea that there’s misleading ‘surface structure’ of the sentence which disguises the logical structure.
+
+I feel the idea of ‘present king’ in the temporal aspect is elevated to an eternal status here.
+
+Russell concludes that definite descriptions are not names, as Frege had thought. If so, then they would lead to ontological “excesses” as posited by Meinong.
+
+Natural language structure and grammar are misleading and must be distinguished from the deeper logical structure. This is said to have lead philosophers to argue that metaphysical and political convictions often gain their plausibility from deceptive natural language expressions.
+
+Expressions like definite description, but not only they, can be defined only in their contexts, by definitions in use.
+
+Russell held that logicism could be made to work if the comprehension axiom were restricted. He proposed several solution,s eventually the theory of types, through which Frege’s contributions entered the mainstream of logic.
+
+The theory of types stratifies expressions in a hierarchical order so that elements of a set are on a lower level than the set, making it impossible for a set to be a member of itself. A ‘ramified’ theory of types is introduced to solve as well the so-called semantic paradoxes like the liar paradox.
+
+Type theory is said to have the burden of having to recognize a separate definition for truth at each type level and the inability to define a number as the set of all similar (2 membered, 3 membered etc.) sets. They resolve this by using symbols that are ‘systematically ambiguous’ between types.
+
+Russell and Whitehead did succed in deriving a significant portion of mathematics from their principles: a comprehensive theory of relations and order, Cantor’s set theory, and a large portion of (finite and transfinite) arithmetic.
+
+Principia was meant to be a kind of Lingua Universalis, a canonical language pure enough to permit construction of disciplined discourse on the skeleton it provided.
+
+In summary, several distinct areas of study were advanced under the name of logic:
+
+- As an investigation on cognitive performence/scientific methodology
+- Strategy of discovery
+- Branch of rhetoric
+
+Including these, there were two distinct types of theory: syntactical / proof theory and semantic definition of logical consequence, which does not dwell on the process of derivation.
+
+The most important development of logic after Principia was to bring these two strands together. In propositional logic, for instance, truth tables (introduced by Wittgenstein in 1922) allow a semantic test for the validity of formulas and proofs, a continuation of Bolzano’s project. It was then proved that the Principia version of propositional logic is complete, that is to say that every semantically valid formula can be derived in it and that it is consistent, that is only such formulas (and hence no contradiction) can be derived. Kurt Gödel later proved that first order predicate logic is complete as well, but that higher order logic is not. Since the latter is needed to define arithmetic concepts, it is said that this spelled the end of the logicist project.
 
 ** On Process
 
