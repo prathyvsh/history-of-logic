@@ -280,6 +280,26 @@ In Foundations of Arithmetic, Frege attempted to define the sense of a sentence 
 
 Context principle: Only in the context of a sentence does a word have meaning.
 
+Hume’s Principle: “When two numbers are so combined as that the one has always a unit answering to every unit of the other, we pronunce them equal”
+
+Fifth principle: Unrestricted comprehension (or abstraction) axiom.
+
+Bertrand Russell’s discovery showed that the axioms of arithmetic (now commonly stated in the form Guiseppe Peano gave them) cannot be formally and consistently derived from Frege’s principles. Only  in recent years has it been shown that these axioms follow from the principles of logic (minus the ill-fated Fifth) together with Hume’s Principle. This is now called ‘Frege’s Theorem.’
+
+Franz Brentano observed that all ‘psychological phenomena’ are targeted on some object: when we think, we think of something. These are intentional objects whose existence or nonexistence need not be an issue.
+
+Brentano shied away from allowing the contents of mental acts to have a form of being as this is to be an unseemly Platonism.
+
+His students Kasimir Twardowksi and Edmund Husserl distinguished content from object with the object determined by the content. This is analogues to sense and reference.
+
+Students of Twardowski formed the school of Polish logicians. Lesniewsky was one of them who explored mereology.
+
+Mereology is different from set theor in that an element of a class is not a part of it, though a subset is. Importantly, membership is not transitive: if elementOf(s, t) and elementOf(t, u), then s is not an element of u whereas a part of a part is a part of the whole.
+
+Alexius Meinong, another of Brentano’s students inquired into the nature of intentional acts that lack existing objects and are ‘beyond being and non-being.’
+
+He is credited with inpsiring free logic.
+
 ** On Process
 
 *** Conceptual Roots of Mathematics
