@@ -1,8 +1,11 @@
 * History of Logic
 
+A repo that keeps track of the history of logic. It chronicles the eminent personalities, schools of thought, ideas of each epoch.
+
 * Ancient Logic
 
 * Classical Period
+
 The period roughly between 8th century B.C. to 6th century A.D
 
 * Early Greeks
