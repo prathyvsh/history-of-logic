@@ -211,7 +211,7 @@ Bolzano contributed the idea of logical consequence using the mathematical techn
 
 The unusual triadic construction of consequence also allows for enthymemes or partly ‘material’ consequences, where only a subset of extralogical terms is varied.
 
-Laws of thought: Identity, Contradition, and Excluded Middle
+Laws of thought: Identity, Contradiction, and Excluded Middle
 
 Bolzano agreed that these principles are true. Logic he maintained, objeys these laws, but they are not its first principles (or axioms in modern parlance).
 
