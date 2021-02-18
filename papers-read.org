@@ -342,6 +342,186 @@ Including these, there were two distinct types of theory: syntactical / proof th
 
 The most important development of logic after Principia was to bring these two strands together. In propositional logic, for instance, truth tables (introduced by Wittgenstein in 1922) allow a semantic test for the validity of formulas and proofs, a continuation of Bolzano’s project. It was then proved that the Principia version of propositional logic is complete, that is to say that every semantically valid formula can be derived in it and that it is consistent, that is only such formulas (and hence no contradiction) can be derived. Kurt Gödel later proved that first order predicate logic is complete as well, but that higher order logic is not. Since the latter is needed to define arithmetic concepts, it is said that this spelled the end of the logicist project.
 
+** [[http://www.blackwellpublishing.com/content/BPL_Images/Content_Store/WWW_Content/9780631216711/002.pdf][History of Logic: Medieval]]
+
+Read 19 February 2021
+
+Seven liberal arts were the curriculum at a medieval arts faculty.
+
+Three trivial arts (Trivium): Grammar, Logic (Dialectica), and Rhetoric
+Four Mathematical Arts (Quadrivium): Geometry, Arithmetic, Astronomy, and Harmony
+
+Aristotle did not use the Greek logikè for the logical art but preferred ta analytic (from the verb analuo: to resolve (into premises or principles))
+
+The Greek logos stands for the smallest meaningful parts of speech.
+
+Greek logical terminology was latinized by Cicero and Boethius.
+
+Cicero is credited with the honor of having named the subject Logica.
+
+Dialectica the alternative Platonic and Stoic name for logic as part of the trivium derives from Greek for conversation as thinking was seen as the soul’s conversation with itself.
+
+The dialectician investigates relations between external ideas which have to be respected if the thinking were to be proper.
+
+Aristotle’s works
+Categories
+On Interpretation
+The Two Analytics
+The Topics
+On Fallacies
+
+came to be seen as an Organon. These were seen as instruments for reasoning.
+
+Logic was seen as the study of / use of words for making reasoned claims
+
+Analytics resolves reasoning into simpler parts in order to provide grounds.
+
+Dialectics grounds reasoning in (eternal) relations between logical entities whereas logic is thought of as an organon, it serves as the tool for multiplying knowledge through the use of reasoning.
+
+Today, formal logic is confined to theory of (logical) consequence between well-formed formulas. An analogous position within medieval logic would cover only the topics dealt with in the Prior Analytics.
+
+Topics addressed in medieval logic:
+Philosophy of language
+Eg: theories of signification and supposition (reference)
+Epistemology
+Theory of demonstration
+Philosophy of science / methodology
+Method of analysis and synthesis
+
+Formal logic vs. Material logic
+Theory of consequence vs Theory of demonstrations (proofs)
+
+Today’s logician is primarily a “dialectician” who studies relations among logical entities, be they meaningful sentences, (abstract) propositions, or the well-formed formulae of a formal language.
+
+The medieval logician, on the other hand, was primarily concerned with the exercise of the faculties of the intellect. The use of reasoning as part of the human act of demonstration was his main concern.
+
+Posterior Analytics was primary over Prior Analytics.
+
+The medieval logician does not primarily study consequence-relations between logical entities; his concern is the act of knowledge that is directed towards real things.
+
+As reasoning proceeds from judgements that are built from terms which are first apprehended as products of mental acts.
+
+I. Apprehension, Grasping -> Concept / Idea / Notion (Cognition) -> Term (Written)
+II. Judgement - Mental Proposition: S is P (Cognition) -> Assertion / Proposition (Written)
+III. Reasoning - Mental Inference (Cognition) -> Inference, Reasoning (Written)
+
+After Port Royal Logic (1662), there seems to be a fourth category on Of Method.
+
+Propositions are traditional subject/copula/predicate
+
+But modern propositions come from Bertrand Russell’s translation of Frege’s Gedanke (Thought).
+
+Thus modern propositions are not judgements but contents of judgements.
+
+In modern interpretation of proposition, one can write: that snow is white
+while for medieval propositions they are a combination of S and P.
+
+Such as:
+Snow is White
+Sortes is a Man
+
+14th century complex significabile though plays a role analogous to modern notions of proposition (content).
+
+In medieval logic there’s parallelism between thought and reality, between mind and world.
+
+The important idea of carrying out purely mechanical, formal proofs, irrespective of content emerges only with Leibniz.
+
+The medieval theories as to the truth of propositional combinations of terms - categorical predications - vary.
+
+According to identity theory, both terms are same when they stand for the same entity.
+
+The main rival of the identity theory of truth is the (intensional) inherence theory.
+Sortes is a man is true when humanity, the property of being a man ‘inheres’ in (is contained in) the nature of what Sortes stands for, namely, Socrates.
+
+Sometimes, both of the theories were used by philosophers.
+
+Substantival predication: Man is an animal, is held to be true because man and animal stand for the same entity, whereas the denominative predication: A Man is white is deemed true because whiteness inheres in what man stands for.
+
+Categorical form: S is P
+Hypothetical Form: If J then K
+Disjunctive Judgments: J or K
+where J, K are judgments
+
+Poryphrian Tree
+
+Predication is transitive when climbing in a Poryphrian tree
+
+What is predicated of a predicate of a subject can also be predicated of the original subject.
+
+Sortes is a man and Man is a category does not give Sortes is a category
+
+In order to account for the failure of transitivity in the case of iterated predication, contemporary logical semantics relies on a reference relation, both relate of which: the expression and its reference are construed as things.
+
+Medieval logic draws upon the two notions of references: signification and supposition.
+
+Stanislaw Lesniewski’s logic was closer to the medieval perspective with its S is P form rather than P(a) form of Fregean function/argument form.
+
+Formal languages were seen as signs where a sign signifies by making manifest its signification to mind. This is close to the notion of reference.
+
+Signification is context independent, and the context dependent variant is supposition.
+
+Supposition of a term is what it stands for in the context in question.
+
+In Man is a word, it has material supposition because it stands for the word and not a person as in Socrates is a man.
+
+Under the influence of Aristotle’s theory of hylomorphism, the subject S is seen as the content/matter of the categorical S is P proposition and the predicate is its form.
+
+Simple supposition is when the word stands for a species or a general category.
+
+Man is a category here stands for the species of man rather than an individual man.
+
+When there’s such supposition changes, there won’t be transitivity in the predicate and hence inferences cannot be drawn.
+
+Aristotle in Prior Analytics organized the syllogisms according to three figures and tried to reduce the valid modes in the later figures to the ‘perfect’ syllogisms in the first mode.
+
+Aristotelian terms were reached by epagogé (Aristotelian induction).
+
+Universal categorical judgments carry ‘existential import’
+
+ForAll(x, Swan(x) => White(x)). Therefore, ThereExists(x, Swan(x) and White(x)) which is not valid in modern logic.
+
+Valid inference here is ForAll(x, Swan(x) => White(x)) => ThereExists(x, Swan(x) => White(x))
+
+The inference from an affirmative universal proposition to an affirmative particular one is an example of ‘alternation’.
+
+The medievals liberated themselves from term-logical straitjacket of the Aristotelian syllogistics by considering singular judgements.
+
+The so called expository syllogism.
+
+Mixed Hypothetical Syllogisms:
+If P then Q, and if Q, then R. Therefore, If P, then R.
+
+Here the connections are not between terms but between propositions. This shift in perspective led to the appearance of a new logical genre by about 1300.
+
+Implication, consequence, inference, and causal grounding.
+
+Implication: Propositional connection between propositional contents
+Follows from, is a consequence of
+Thus, therefore, indicates inference. From premise judgements / assertions to conclusion judgement (assertion).
+Because, is a causal ground / reason for are indicator words for causal grounding, which is a relation between events or state of affairs.
+
+In medieval logic, if (si), therefore(igitur), sequitur (follows), and quia (because) are all indicator-words for one and the same notion of a consequentia.
+
+This survives in modern logic under two guises, as the notion of logical consequence between WFFS, that derive from Bolzano’s Albeitbarkeit which was made famous by Tarski and one the other hand, as the sequence (Sequenzen) that was used by Gentzen.
+
+The medieval theory of consequences can be seen as a partial anticipation of contemporary sequent-calculus renderings of logical systems.
+
+Formal consequence in medieval theory has something that holds in all terms:
+
+All men are mortal. Sortes is a man. Therefore: Sortes is a mortal.
+
+This consequence remains valid under all (uniform) substitutions (salva congruitate) of other terms put in the place of Sortes, mortal, and man.
+
+Formal consequence is opposed to material consequence which in contemporary notion can be compared to Carnap’s meaning postulates.
+
+A late addition to medieval logic is the theory of obligations, which is concerned with the proper rules for disputation and questioning.
+
+This is said to be closer to the current dialogicial approach to logic and semantics as designed by Lorenzen and Lorenz, or the game-theoretical semantics that is owed to Hintikka.
+
+In medieval period, philosophy served as ancilla theologicae (‘a servant of theology’).
+
+Commentaries on Peter Lombard’s Sentences often contain material that is highly illuminating from a logical point of view.
+
 ** On Process
 
 *** Conceptual Roots of Mathematics
