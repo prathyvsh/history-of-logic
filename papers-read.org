@@ -343,6 +343,7 @@ Including these, there were two distinct types of theory: syntactical / proof th
 The most important development of logic after Principia was to bring these two strands together. In propositional logic, for instance, truth tables (introduced by Wittgenstein in 1922) allow a semantic test for the validity of formulas and proofs, a continuation of Bolzano’s project. It was then proved that the Principia version of propositional logic is complete, that is to say that every semantically valid formula can be derived in it and that it is consistent, that is only such formulas (and hence no contradiction) can be derived. Kurt Gödel later proved that first order predicate logic is complete as well, but that higher order logic is not. Since the latter is needed to define arithmetic concepts, it is said that this spelled the end of the logicist project.
 
 ** [[http://www.blackwellpublishing.com/content/BPL_Images/Content_Store/WWW_Content/9780631216711/002.pdf][History of Logic: Medieval]]
+E.P. Bos and B. G. Sundholm
 
 Read 19 February 2021
 
