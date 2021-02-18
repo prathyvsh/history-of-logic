@@ -81,11 +81,11 @@ Followers of Euclid of Megara
 
 * Marius Victorinus
 
-* St. Augustine
+* St. Augustine (354–430)
 
 * Martianus Capella
 
-* Boethius (480 – 524/524 A.D.)
+* Boethius (480 – 524 A.D.)
 
 * Simplicius
 
@@ -146,13 +146,25 @@ Articulating Medieval Logic (2014)
 * Terminist logic
 Because they put emphasis on term logic
 
-* Peter Abelard (1079 – 1142)
+* Abbo of Fluery
+
+* Garlandus Compostita
+
+* Peter Abelard/Abailard (1079 – 1142)
+
+* Adam Parvipontanus
+
+* Gilbert of Poitiers (1080 – 1154)
+
+* Alberic van Reims
+
+* John of Salisbury (1120 – 1180)
 
 * Modism
 
 * Summulists
 
-* Peter of Hispania (13th Century)
+* Peter of Hispania/Spain (d. 1277)
 
 ** Summulae Logicales
 
@@ -160,11 +172,25 @@ Because they put emphasis on term logic
 
 ** Summa Lamberti
 
-* William of Sherwood (1200 – 1272)
+* William of Sherwood (1200/1210? – 66/70/72)
 
 ** Introductiones in Logicam
 
-* Roger Bacon (1219/20 – 1292)
+* Robert Kilwardby (d. 1279)
+
+* Albert the Great (1200–80)
+
+* Roger Bacon (1215/19/20 – 1292/94)
+
+* Boethius of Dacia (c. 1270)
+
+* Henry of Ghent (c. 1217-93)
+
+* Ralph Brito (c. 1290–1330)
+
+* Siger of Kortrijk (d. 1341)
+
+* Simon of Faversham (c. 1300)
 
 * Thomas Aquinas (1224/25 - 1274)
 
@@ -172,7 +198,7 @@ Because they put emphasis on term logic
 
 * Ramon Llull (1232 – 1315)
 
-* John Duns Scotus (1266 – 1308)
+* John Duns Scotus (1265/66 – 1308/9)
 
 * Peter Aureoli (1280 – 1322)
 
@@ -184,9 +210,15 @@ Modality linked with time
 
 Developed theory of modality
 
-* Walter Burley (1275 – 1344/5)
+* Walter Burley/Burleigh (1275 – 1344/5)
 
 ** De puritate artis logicae
+
+* Robert Holkot (c. 1290 – 1349)
+
+* William of Heytesbury (d. 1272/3)
+
+* Gregory of Rimini (c. 1300 – 1358)
 
 * John Pagus (13th Century)
 
@@ -201,17 +233,25 @@ Was the main vehicle for semantic analysis in the middle ages.
 
 * Jean Buridan (1301 – 1359/62)
 
+* Nicholas of Autrecourt (c. 1300 – after 1358)
+
+* Richard Billingham (c. 1350–60)
+
 * Albert of Saxony (1316/20 – 1390)
 
 ** Perutilis logica
 
-* Marsilius of Inghen (1340 – 1399)
+* Marsilius of Inghen (1340 – 1396/99)
 
 * Pierre d'Ailly (1351 – 1420)
 
 ** Conceptus et insolubilia (1372)
 
 * Henry Hopton (~ 1357)
+
+* Vincent Ferrer (c. 1350 – 1420)
+
+* Peter of Ailly (1350–1420/1)
 
 * John Wycliffe (1320/31 – 1384)
 
@@ -225,6 +265,10 @@ Was the main vehicle for semantic analysis in the middle ages.
 
 ** Logica parva
 ** Logica magna
+
+* Paul of Pergola (1380 – 1455)
+
+* Peter of Mantua (d. 1400)
 
 * John Venator/Huntman/Hunter (~ 1373)
 
