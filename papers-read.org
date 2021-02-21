@@ -671,7 +671,25 @@ Chrysippus is said to have developed a full-fledged sentential logic which was a
 
 The author closes the article by saying that logical theories are closely entwined with a difference in philosophical standpoint.
 
+* On Process
 
-** On Process
+** Conceptual Roots of Mathematics
 
-*** Conceptual Roots of Mathematics
+* To Read
+
+** John Corcoran’s work on Aristotle and Ancient Logic
+
+*** Aristotle’s Natural Deduction System (1972)
+*** Aristotle’s Semiotic Triangles and Pyramids (2015)
+*** A Mathematical Model of Aristotle’s syllogistic (1973)
+*** Completeness of an Ancient Logic (1972)
+*** Aristotle’s “whenever three terms” (2013)
+*** Aristotle’s Demonstrative Logic (2009)
+*** Notes on the Founding of Logic and Metalogic (2007)
+*** Aristotle’s Prior Analytics and Boole’s Laws of Thought (2003)
+*** Meanings of Form (2008)
+*** Aristotle’s Many Sorted Logic (2008)
+*** The Founding of Logic: Modern Interpretations of Aristotle’s Logic (1994)
+*** Aristotelian Syllogisms: Valid Arguments or True Universalized Conditionals? (1974)
+*** Ancient logic and its modern interpretations (1973)
+*** Conceptual Structure of Classical Logic (1972)
