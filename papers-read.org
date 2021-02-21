@@ -523,6 +523,155 @@ In medieval period, philosophy served as ancilla theologicae (‘a servant of th
 
 Commentaries on Peter Lombard’s Sentences often contain material that is highly illuminating from a logical point of view.
 
+** [[http://www.blackwellpublishing.com/content/BPL_Images/Content_Store/WWW_Content/9780631216711/001.pdf][Ancient Greek Philosophical Logic]]
+Robin Smith
+
+Read 22 February 2021
+
+Ancient Greek logic was inseparable from ancient Greek philosophy. Greek philosophical logic is said to originate with Parmenides.
+His views set the agenda out of which meany things in Greek philosophy including logic later arose.
+
+Change as the coming to be of what is not and the not being of what is.
+Multiplicity: Saying that there are two things is to say that something is not something else.
+The conclusion is that what is, is one: unchanging, uniform, without distinctions.
+
+Greek philosophy is an effort to avoid these consequences and defend the coherence of talk of motion and multiplicity.
+
+Zeno as the originator of the dialectic.
+
+It has three features:
+1) Directed at someone else
+2) Takes its start from the premises accepted by the other party
+3) its goal is the refutation of a view of that other party
+
+Sophists participated in oratory teaching. Their teaching along with lessons on style and diction also includes training in argumentation. It ranged from teaching set pieces of argument useful for specific contexts, all the way upto devising arguments according to principles.
+
+One them that emerges in several sophistic thinkers is a kind of relativism about truth.
+
+This is put forward by Protagoras who says: “Man is the measure of all things; of things that are, that they are, and of things that are not, that they are not.”
+
+Plato interprets this in Theaetetus to mean that whatever seems to be true to anyone is try to that person: that he denied that there is any truth apart from the opinions of individuals.
+
+In Protagoras’ world, persuasive speech creates not merely belief but also truth.
+
+Herodotus’ history of the Persian Wars present a picture of opinions about right and wrong as merely matters of custom by displaying the variability in customs from one people to another.
+
+Dissoi Logoi (Twofold Arguments) gives a series of arguments for and against each of a group of propositions; the implication is that argument can equally well support any view and its contradictory.
+
+Plato in Theaetetus argues that Protagoras’ relativistic concept of truth is self-refuting in that if applied to itself, it becomes meaningless and moreover it implies that the same opinions are both true and false simultaneously.
+
+Plato partially rejects Parmenides’ thesis that only what is can be thought by distinguishing a realm of “becoming” that is not non-being but but cannot also said to be without qualification.
+
+Plato’s theory of Forms/Ideas: Theory of predication — tells what it is for a thing to have a property or attribute.
+
+For an x to be F, say Socrates to be Tall, is for x to stand in a participatory relation to an entity: ‘the tall itself’ (Tallness?)
+
+In Sophist, Plato begins to develop a semantic theory for predications. He observes that truth and falsehood are not properties of names standing alone, but of sentences produced by combining words.
+
+“Theatetus” and ”is sitting” in isolation indicate ideas, but their combination becomes a proposition which can be judged. This I think is the beginning of apprehension/proposition/judgement triad.
+
+This is said to provide a ground for understanding falsehoods as meaningful.
+
+Aristotle follows Plato’s line of development and analyses simple sentences into noun and verb or subject and predicate.
+
+He develops it in greater detail and extends it to sentences which have general or universal subjects and predicates (katholou: ‘of a whole’).
+
+Aristotle in Metaphysics argues that there is a proposition which is in a way prior to every other truth: “it is impossible for the same thing to be both affirmed and denied of the same thing at the same time and in the same way”.
+
+When Aristotle presupposes principle of non-contradiction, he appeals to a more general thesis concerning demonstration of proof: no system of demonstrations can prove its own first principles.
+
+Posterior Analytics is considered as the oldest extant treatise on the nature of mathematical proof.
+
+Subject of Posterior Analytics is demonstrative sciences: a demonstrative science is a body of knowledge organized into demonstrations (proofs) which in turn are deductive arguments from premises already established.
+
+Proofs are neither a means of finding out new truths nor an expository or pedagogical device for presenting results, but rather are constitutive of knowledge: if a truth is demonstrable, then it is to posses its demonstration.
+
+This means that nothing can be demonstrated except what is necessary and that has a cause/explanation.
+
+Syllogism: an argument in which some things being supposed, something else follows of necessity because of the things supposed. Thus syllogisms captures the idea of a valid argument.
+
+Aristotle thought that all valid arguments could be ‘reduced’ to a relatively limited set of valid forms which he usually refers to as ‘arguments in the figures’ which modern terminology refers to as ‘syllogisms’.
+
+Aristotle maintained that a single proposition was always either the affirmation or the denial of a single predicate of a single subject.
+
+‘Socrates is bathing’ affirms ‘bathing’ of Socrates.
+
+‘Plato is not wrestling’ denies ‘wrestling’ of Plato
+
+He also regarded sentences with general subjects as predications. This is at odds with Frege’s idea of modern logic where they have a radically different structure from predications.
+
+General predications are divided according as the predicate is affirmed or denied of all (universal) or some (particular) of its subject.
+
+Affirmed, Universal: All cars have wheels
+Affirmed, Particular: Some cars have wheels
+Denied, Universal: No cars have wheels
+Denied, Particular: Not every car has wheels
+
+Aristotle then explores combination of two premises that share a term will imply a third sentences having the two non-shared terms as its subject and predicate.
+
+He distinguishes three possibilities based on the role of the shared term (the ‘middle’ in his terminology) in the premises: it can be predicated of one and subject of the other (the first figure), predicate of both (second figure), or subject of both (third figure).
+
+Aristotle then uses these structure to show that from any valid form of argument can be extracted a figured argument.
+
+The author uses the preceding ideas to evidence that Aristotle’s theory developed in Prior Analytics was developed largely to serve the needs of Aristotle’s theory of demonstration. Especially that the logical theory arose to meet the needs of the philosophy of mathematics.
+
+The Regress argument of Posterior Analytics is shown as one of the central concerns of Aristotle in identifying the first causes.
+
+Euclid’s Elements comes a century after Aristotle. We do not know of its contents, Hippocrates of Chios composed an elements in the late fifth or early forth century BCE, and Theudius of Magnesia put together a treatise during Aristotle’s lifetime that incorporated work by a number of other prominent mathematicians including Archytas, Eudoxus, Leodamas, Theaetetus, and Menaechmus.
+
+Common conceptions: Koinai ennoiai
+And some things asked for: aitemata (customary translation is ‘postulates’).
+
+Further propositions are added to the system by logical deduction from these first propositions and any others already proved; these are called theorems.
+
+This kind of logical structure assumes first propositions which are not demonstrated, or even demonstrable, in that system. Aristotle argues that for such structures.
+
+Aristotle’s response to the regress argument appears at first to be a mere assertion: that there are first principles that can be known without being demonstrated.
+
+Aristotle uses a great deal of argument trying to prove that the regress of premises always ‘comes to a stop’. It is in this argument that he needs the results established in the Prior Analytics.
+
+In Aristotle’s logic it is possible for there to be true propositions which cannot be deduced from any other set of true propositions whatsoever that does not already contain them.
+
+Aristotle calls true but uneducable sentence ‘unmiddled’ (amesos: standard translation immediate, though etymologically correct, is highly misleading).
+
+Since an unriddled proposition cannot be deduced from anything, it obviously cannot be the object of a demonstration. Moreover, any premise regress that encounters such a proposition will come to a stop at that point. If every premise regress comes to a stop in unriddled premises, then it might seem that we have a serious problem for the notion of demonstration, just as the anti-demonstrators of Aristotle’s regress argument claimed.
+
+Given the sum total of all the true propositions, we can apply a set of mechanical procedures to find out which ones are unmiddled. Aristotle in effect gives us such a set of procedures in Prior Analytics I.27. If we did have knowledge of just exactly the unmiddled propositions, then since they are the propositions in which every regress comes to a stop, and since a regress can be reversed to become a deduction, we would have knowledge of premises from which every other proposition could be deduced. Since unmiddled propositions cannot be known except by non-demonstrative means, it follows that the possibility of non-demonstrative knowledge of the unmiddled propositions is both a necessary and a sufficient condition for the possibility of demonstrations.
+
+Since there is no middle term explaining why an unmiddled proposition is true, there is no explanation of its truth: it is, in effect, uncaused and unexplained.
+
+Aristotle’s view is precisely this: demonstrations, which give the causes why their conclusions must be true, ultimately rest on first premises for the truth for which there is no further explanation or cause.
+
+Author remarks that in Parmenides view possibility and necessity collapse into one another. It is said to appear to lead to a universal determinism or fatalism.
+
+Aristotle ascribes the view that the modalities all collapse into one another to ”the Megarians”.
+
+Kleinomachus of Thurri is said to have been the first to write on ‘predications and propositions’. Eubulides is credited with the discovery of a number of paradoxes including the Liar’s paradox and the Sorites.
+
+Aristotle thought that the solution to Eleatic and Megarian arguments against motion and change could be found in a robust notion of potentiality.
+
+Antiphasis: two propositions with the same subject, one of which denies of that subject exactly what the other affirms of it.
+
+*** The Megarian Triad
+1. What is past is necessary
+2. The impossible does not follow from the possible
+3. There is something possible which neither is nor will be true
+
+Aristotle restricts the application of law of excluded middle to future contigent propositions, thought it is said that it’s not entirely clear how.
+
+For Chrysippus, a proposition that is affirmed or denied is really an incorporeal entity, roughly meaning of a sentence that expresses it. Stoics called this a lekton (sayable), which is claimed by the author to be close to ‘meaning’ or ‘sense’.
+
+Chrysippus considered that propositions about subjects specified by demonstratives/indexicals ceased to exist when the subject ceases to exist.
+
+Using this idea, Chrysippus establishes that it is possible for something impossible to follow from something possible.
+
+Such logical explorations are said to be attempts to philosophically reconcile their views about determinism.
+
+Chrysippus is said to have developed a full-fledged sentential logic which was absent in Aristotle’s work according to the author. This is said to have been so because of Aristotle’s commitment to his notion of potentiality. It works bust with subject-predicate sentences, where possibility can be seen as a matter of the subject possessing a potentiality; it is said to be very difficult to extend it to compound propositions.
+
+The author closes the article by saying that logical theories are closely entwined with a difference in philosophical standpoint.
+
+
 ** On Process
 
 *** Conceptual Roots of Mathematics
