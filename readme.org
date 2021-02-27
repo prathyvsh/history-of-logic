@@ -1110,10 +1110,23 @@ If adding new elements to one of its models leads to a violation of the other ax
 
 * Abraham Robinson (1918 – 1974)
 
-* Kripke
+* Saul Kripke (1940 – Present)
+Formulated relational semantics for modal logic.
 
 - Frames
 - Kripke Semantics
+
+* Dov Gabbay
+
+* Krister Segerberg
+
+* Robert Goldblatt
+
+* S. K. Thomason
+
+* Henrik Sahlqvist
+
+* Johan van Benthem
 
 * Jacques Herbrand (1908 – 1931)
 
