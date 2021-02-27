@@ -979,6 +979,8 @@ Showed how Principia Mathematica could be casted differently by taking a purely 
 * C. I. Lewis
 Has written a survey on symbolic logic.
 
+Proposed to extend classical logic with modalities.
+
 * Emil Post (1897 – 1954)
 
 ** Functional completeness theorem
@@ -1031,7 +1033,6 @@ Proved the lattice of Muchnik degrees is Brouwerian.
 
 ** Muchnik degrees
 
-
 * Roger Lyndon (1917 – 1988)
 
 * Barkley Rosser
@@ -1047,6 +1048,9 @@ Demonstrated that Boolean algebra without quantifiers were inadequate.
 Introduced object language vs. metalanguage distinction
 
 ** [[https://www.academia.edu/12410865/Alfred_Tarskis_What_are_Logical_Notions_Edited_and_introduced_by_John_Corcoran_][What are the logical notions? (Lecture Delivered: 1966 / Published: 1986)]]
+
+** [[https://www.dimap.ufrn.br/~jmarcos/papers/AoT-McKinsey_Tarski.pdf][The Algebra of Topology]]
+Established connection between modal logic S4 and topological and metric spaces.
 
 * Leon Henkin (1921 – 2006)
 
