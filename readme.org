@@ -286,7 +286,7 @@ Nicholai Ivanovich Styazhkin identifies three main branches that spun off during
 
 * William of Heytesbury (1313 – 1372/1373)
 
-* Richard Swineshead (~1340/1354)
+* Richard Swineshead/Sussieth (~1340/1354)
 
 * Martin Luther (1483 – 1546)
 
@@ -478,6 +478,30 @@ Popularly known as Neues Organon
 * Georg von Holland (1742 – 1784)
 
 Took an extensional standpoint
+
+* Johann Jakob Brucker
+
+* Gottlob Benjamin Jäsche
+Produced a compilation of logic lectures of Kant including the logical diagrams used
+
+* Johann August Heinrich Ulrich
+Used linear diagrams
+
+* Gotthelf Samuel Steinbart
+Used linear diagrams
+
+* Johann Gebhardt Ehrenreich Maaß
+Used triangles in his logic based on Lambert’s line diagrams
+
+* Johann Gottfried Kiesewetter
+Used circle diagrams to illustrate rules of conversion
+
+* Georg Samuel Albert Mellin
+Linked Kant’s The False Subtlety of the Four Syllogistic Figures with Euler’s and Lambert’s logic
+
+* Heinrich Wilhelm Clemm
+
+* Wilhelm Ludwig Gottlob von Eberstein
 
 * Christian August Semler (1767 – 1825)
 
