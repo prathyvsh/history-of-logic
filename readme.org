@@ -295,6 +295,16 @@ Nicholai Ivanovich Styazhkin identifies three main branches that spun off during
 * Philipp Melanchthon (1497 – 1560)
 
 * Juan Luis Vives (1492 – 1540)
+De censura veri et falsi
+
+* Nicolaus Reimers (1551 – 1600)
+
+* Bartholomäus Keckermann
+
+** Systema Logicæ: Sompendiosa methodo
+** Systema Logicæ: Tribus Libris Adornatvm
+
+** Metamorphosis Logicae (1589)
 
 * Petrus Ramus (1515 – 1572)
 
@@ -356,6 +366,8 @@ Influential discussion of definitions that was inspired byt he work of French ma
 
 ** La logique, ou l’art de penser (1662)
 
+** Erhard Weigel (1625 – 1699)
+
 * Pierre Nicole (1625 – 1695)
 
 * Blaise Pascal (1623 - 1662)
@@ -377,9 +389,17 @@ Tried to reinstitute the rich detail of scholastic logic
 
 Used diagrams like Euler circles
 
+* Christian Weise
+
+* Samuel Grosser
+
 * Johann C. Lange (1670 – 1744)
 
 Extensively used Euler circles
+
+** Nucleus Logicae Weisianae
+
+700 page commentary on the Weise’s handbook of logic. These comments contain numerous diagrams.
 
 * Gottfried Wilhelm Leibniz (1646 – 1716)
 
@@ -430,6 +450,10 @@ Introduced Euler circles
 
 Teacher of Hegel. Developed squares to represent syllogisms.
 
+** Fundamenta Philosophiae Speculativae (1759)
+
+Used squares for logic diagrams
+
 * Johann Heinrich Lambert (1728 – 1777)
 
 Worked on creating an intensional calculus of logic in connection with the tree of Porphyry.
@@ -447,7 +471,9 @@ Intensional system with terms standing for concepts instead of individuals.
 
 ** Idea of genus and differentia
 
-** Neues Organon (1764)
+** Neues Organon oder Gedanken über die Erforschung und Bezeichnung des Wahren und dessen Unterscheidung vom Irrtum und Schein (1764)
+
+Popularly known as Neues Organon
 
 * Georg von Holland (1742 – 1784)
 
