@@ -1402,6 +1402,42 @@ Publisher: Felix Meiner Verlag
 ** Epistemic Logic in the Later Middle Ages (1993)
 Ivan Boh
 
+** Realizing Reason: A Narrative of Truth and Knowing
+D. Macbeth (2014)
+
+** H.E. Allison (1973)
+The Kant-Eberhard-Controversy
+
+** Logische Studien: Ein Beitrag zur Neubegründung der formalen Logik und der Erkenntnistheorie
+F. A. Lange (1894)
+
+** Institutiones logicæ
+I. Denzinger (1824)
+
+** Lectures on Metaphysics and Logic
+Hamilton, W. (1860)
+Documents the work of Alsted on logical diagrams
+
+Contains details on the work of Vives
+
+** Reformversuche protestantischer Metaphysik im Zeitalter des Rationalismus
+Leinsle U. G. (1988)
+
+** De calculo logico
+Drobisch, M. W. (1827)
+
+** System der Logik und Geschichte der logischen Lehren
+Ueberweg, F. (1857)
+
+** Logik, Mathesis universalis und allgemeine Wissenschaft: Leibniz und die Wiederentdeckung der formalen Logik
+Peckhaus, V. (1997)
+
+** Erhard Weigel’s Contributions to the Formation of Symbolic Logic
+Bullynck, M. (2013)
+
+** Kant’s Conception of Logical Extension and Its Implications
+H. Lu-Adler (2012)
+
 * Historians
 
 ** William Calvert Kleene
