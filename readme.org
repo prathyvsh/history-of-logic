@@ -284,11 +284,17 @@ Nicholai Ivanovich Styazhkin identifies three main branches that spun off during
 
 * Thomas Bradwardine (1300 – 1349)
 
+* George of Trebizond / Georgius Trapezuntius (1395 – 1486)
+Book on dialectic
+Contains square of oppositions
+
 * William of Heytesbury (1313 – 1372/1373)
 
 * Richard Swineshead/Sussieth (~1340/1354)
 
 * Martin Luther (1483 – 1546)
+
+* Jakob Martini (1570 – 1649)
 
 * Desiderius Erasmus (1466 – 1536)
 
@@ -391,7 +397,14 @@ Used diagrams like Euler circles
 
 * Christian Weise
 
-* Samuel Grosser
+* Samuel Grosser (1664 – 1736)
+
+Pharus Intellectus, sive Logica electiva
+Gründliche  Anweisung zur Logica
+
+* Samuel Pufendorf
+
+* Jacob Thomasius
 
 * Johann C. Lange (1670 – 1744)
 
@@ -408,6 +421,14 @@ Extensively used Euler circles
 ** Lingua Characteristica Universalis
 
 ** Calculus Ratiocinator
+
+** De formæ logicæ comprobatione per linearum ductus
+
+** De cogitationum analysi
+
+Uses circle diagrams together with tree diagrams to represent the relation of concepts in jurisprudence.
+
+* Johannes Hospinianus Steinanus (1515 – 1575)
 
 * Henry Aldrich (1647 – 1710)
 
