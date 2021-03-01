@@ -391,7 +391,7 @@ Tried to reinstitute the rich detail of scholastic logic
 
 * Johann C. Sturm (1635 – 1703)
 
-** Universalia Euclidea (1661)
+** Universalia Euclidea. Accedunt ejusdem XII. Novi Syllogizandi Modi in propositionibus absolutis, cum XX. aliis in exclusivis, eâdem methodo Geometricâ demonstrates. Hagæ-Comitis (1661)
 
 Used diagrams like Euler circles
 
@@ -413,6 +413,18 @@ Extensively used Euler circles
 ** Nucleus Logicae Weisianae
 
 700 page commentary on the Weise’s handbook of logic. These comments contain numerous diagrams.
+
+* Johannes de Raey (1622 – 1702)
+
+* Bartholomaeus Schimpffer
+
+* Arch Deacon Jacob Ellrod
+
+* Weigelius
+
+** Philosophia Mathematica (1693)
+
+** Idea Matheseos universae (1669)
 
 * Gottfried Wilhelm Leibniz (1646 – 1716)
 
@@ -1453,11 +1465,53 @@ Ueberweg, F. (1857)
 ** Logik, Mathesis universalis und allgemeine Wissenschaft: Leibniz und die Wiederentdeckung der formalen Logik
 Peckhaus, V. (1997)
 
-** Erhard Weigel’s Contributions to the Formation of Symbolic Logic
-Bullynck, M. (2013)
+** Erhard Weigel’s Contributions to the Formation of Symbolic Logic (2013)
+Bullynck, M.
 
 ** Kant’s Conception of Logical Extension and Its Implications
 H. Lu-Adler (2012)
+
+** Cross-Examining Propositional Calculus and Set Operations
+Randolph, J.F. 1965
+
+** Der junge Leibniz I: Die wissenschaftstheoretische Problemstellung seines ersten Systementwurfs (1978)
+Moll, K.
+
+** Die Quantität des Inhalts: Zu Leibnizens Erfassung des Intensionsbegriffs durch Kalküle und Diagramme (1979)
+Thiel, C.
+
+** Leibnizens Synthese von Universalmathematik und Individualmetaphysik
+Mahnke, D. 1925
+
+** Handschriftlicher Nachlaß. Philosophische Vorlesungen. Erste Hälfte. Theorie des Erkennens
+Schopenhauer 1913
+
+** System der Logik und Geschichte der logischen Lehren
+Ueberweg 1857
+
+** Johann Christoph Sturm und Gottfried Wilhelm Leibniz (2004)
+Kratochwil, S.
+
+** Idea Matheseos universe cum speciminibus Inventionum Mathematicarum (1669)
+E. VVeigelus
+
+** Neu-erfundener Hauß-Rath/ so wohl zur Nothdurfft/ als zur Lust und Bequemligkeit/zu gebrauchen
+E. Weigelius
+
+** Grundprobleme der Logik. Elemente einer Kritik der formalen Vernunft
+Stekeler-Weithofer 1986
+
+** Music Theory and Mathematics
+Nolan 2002
+
+** Embodiments of Will. Anatomical and Physiological Theories of Voluntary Animal Motion from Greek Antiquity to the Latin Middle Ages, 400 B.C.–A.D. 1300
+Frampton, M. 2008
+
+** On the employment of geometrical diagrams for the sensible representation of logical propositions
+Venn, J. 1880
+
+** Sur l’histoire des diagrammes logiques, ‘figures géométriques
+E. Coumet 1977
 
 * Historians
 
