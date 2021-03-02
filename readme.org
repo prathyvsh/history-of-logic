@@ -90,11 +90,31 @@ Deduction and proof developing in Greek mathematics is said to have influenced A
 
 * Organon
 *** Categories
+This title means predications.
+It can mean one of:
+**** Substance (ousia)
+**** Quantity (poson)
+**** Quality (poion)
+**** Relation (pros ti)
+**** Location (pou)
+**** Time (pote)
+**** Position (keisthai)
+**** Possession (echein)
+**** Doing (poiein)
+**** Undergoing (paschein)
+
 *** De interpretatione
 *** Prior Analytics
 *** Posterior Analytics
 *** Topics
+Books (2 – 7) about how to find procedures/rules (topoi) to find an argument to establish/refute a thesis.
+
 *** Sophistical Refutations
+Systematical classification of logical fallacies
+**** Equivocation
+**** Secundum quid
+**** Affirming the consequent
+**** Begging the question
 
 ** Metaphysics Γ, Δ, Θ
 ** Poetics
