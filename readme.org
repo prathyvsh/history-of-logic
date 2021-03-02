@@ -52,7 +52,12 @@ The book is also said to be one of the primary records that shows the awareness 
 
 ** Dialectic
 
+** Sophist
+Analyzes simple statement as containing verb (rhêma / ῥῆμα) which indicates the action and noun (onoma / ὄνομᾰ).
+
 * Aristotle (385 – 323 B.C.)
+
+In Aristotle’s work, a subject (onoma) is linked to a verb (rhema), together which becomes a proposition (logos).
 
 ** Categories
 ** Syllogistic
