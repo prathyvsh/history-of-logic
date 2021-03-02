@@ -24,7 +24,27 @@ The period roughly between 8th century B.C. to 6th century A.D
 
 * Prodicus
 
-* Protagoras
+* Protagoras (490 – 420 B.C.)
+Distinguished between wish, question, answer, and command
+
+* Alcidamas (~4th Century B.C.)
+Pupil of Gorgias
+
+Distinguished between phasis (assertion) and apophasis (denial), and question and address (prosagoreusis)
+
+* Antisthenes (446 – 366 B.C.)
+Defined a sentence as that which indicates a thing was or is.
+
+* Dissoi Logoi (~400 B.C.)
+Also known as Dialexis.
+
+Book of unknown authorship
+
+Perhaps the earliest surviving piece of logical arguments.
+One of the key themes of the book seems to be that in order to act, one must be persuaded to choose one side or the other.
+This process is said to be accomplished through dissoid logoi
+
+The book is also said to be one of the primary records that shows the awareness that self-reflexive/self-referential use of the truth predicate can be problematic as seen in Liar’s paradox.
 
 * Socrates
 
