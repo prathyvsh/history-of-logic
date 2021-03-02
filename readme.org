@@ -108,6 +108,11 @@ It can mean one of:
 *** Posterior Analytics
 *** Topics
 Books (2 – 7) about how to find procedures/rules (topoi) to find an argument to establish/refute a thesis.
+4 kinds of relationship a predicate may have to subject known as predicables. It may grant it a:
+**** Definition
+**** Genus
+**** Unique property
+**** Accidental property
 
 *** Sophistical Refutations
 Systematical classification of logical fallacies
