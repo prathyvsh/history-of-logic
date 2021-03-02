@@ -104,6 +104,19 @@ It can mean one of:
 **** Undergoing (paschein)
 
 *** De interpretatione
+
+A declarative sentence (apophantikos logos) or declaration (apophansis) is different from other kinds of discourse like command or question. These can be judged for their truth value. They signify thoughts which are shared by humans and through these, indirectly, things. Written sentences signify spoken ones.
+
+Subjects and predicates are connected by a copula.
+
+Names can be singular terms or common nouns, both can be empty.
+Singular terms can take subject position.
+Verbs co-signify time.
+
+A declarative sentence can be affirmed or negated depending on its predicate.
+
+In terms of quantity, a sentence can be thought of as singular, particular, indefinite, universal.
+
 *** Prior Analytics
 *** Posterior Analytics
 *** Topics
@@ -127,6 +140,12 @@ Systematical classification of logical fallacies
 ** De Anima
 ** Syllogistic
 ** Enthymeme
+** Existential import
+Both universal and particular sentences contain a quantifier and both universal and particular affirmatives were taken to have existential import. This was not so the case for negations, as it is reflected in some of the work Sturm has done and Leibniz has said not to be in line with Aristotle’s work.
+
+** Contraries and Contradictories
+Contrary sentences cannot both be true
+Contradictory of a universal affirmative is the corresponding particular negative and conversely, for the universal negative.
 
 
 
@@ -1019,6 +1038,15 @@ This is known in different names as:
 ** First order predicate logic
 ** Quantification theory
 ** Lower predicate calculus
+
+* (Pure) Monadic Predicate Calculus
+Term logic can be expressed as monadic predicate calculus.
+It is completely decidable.
+
+* Monadic second-order logic
+Allows predicates of higher arity in formulas, but restricts second-order quantification to unary predicates.
+
+* The problem of multiple generality
 
 * Plurality of copula
 
