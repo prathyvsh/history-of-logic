@@ -14,6 +14,10 @@ The period roughly between 8th century B.C. to 6th century A.D
 
 * Zeno of Elea
 
+Argumentation had methods that resembled reduction ad absurdum
+
+A/this if B/that. But B/that is impossible, hence A/this is impossible.
+
 * Epimenides
 
 * Sophists
@@ -66,10 +70,17 @@ Think ‘is’ can have one more which is predication (The ball is red)
 
 He is also said to have anticipated the law of non-contradiction
 
+Deepening the studies on the structure of argumentation lead to Plato’s studies leading to reflection upon patterns of argumentation and giving form to valid and invalid structures and studying the ways in which correct inferences can be made.
+
 ** Dialectic
+Plato brought structure and rules to the argumentation that was conducted in antiquity.
 
 ** Sophist
 Analyzes simple statement as containing verb (rhêma / ῥῆμα) which indicates the action and noun (onoma / ὄνομᾰ).
+
+** Euthydemus
+
+Contains a large number of paradoxes
 
 * Aristotle (385 – 323 B.C.)
 
@@ -103,6 +114,8 @@ Followers of Euclid of Megara
 * Eubulides of Miletus
 
 ** Liar’s paradox
+
+** Sorites paradox
 
 * Stoics
 
