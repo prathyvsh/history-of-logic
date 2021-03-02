@@ -86,12 +86,24 @@ Contains a large number of paradoxes
 
 In Aristotle’s work, a subject (onoma) is linked to a verb (rhema), together which becomes a proposition (logos).
 
-** Categories
+Deduction and proof developing in Greek mathematics is said to have influenced Aristotle (Verify/validate, how exactly he was influenced by it).
+
+* Organon
+*** Categories
+*** De interpretatione
+*** Prior Analytics
+*** Posterior Analytics
+*** Topics
+*** Sophistical Refutations
+
+** Metaphysics Γ, Δ, Θ
+** Poetics
+** Rhetoric
+** De Anima
 ** Syllogistic
 ** Enthymeme
-** De interpretatione
-** Prior Analytics
-** Posterior Analytics
+
+
 
 * Categories
 
