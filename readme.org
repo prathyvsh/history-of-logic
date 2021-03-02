@@ -50,6 +50,22 @@ The book is also said to be one of the primary records that shows the awareness 
 
 * Plato (428/27/24/23 – 348/47 B.C)
 
+Distinguished between syntax (What is a statement?) and semantics (When is it true?).
+
+Something was considered to be a statement when it specifies a subject and says something about it. That is in other words, both the onoma and rhema (or subject and predicate) are present. Statements with empty subject-predicate relationships are excluded as statements.
+
+Plato is said to have produced a deflationist theory of truth by saying that when a statement is true when it says what is and false when it is not (Theatetus is flying).
+
+Negation is said to have a narrower scope than affirmation in that negation negates the predicate not whole sentences.
+
+Plato is said to have grappled with the ideas of multiple meanings of the word ‘is’:
+1/ to represent being (Example: There is a ball)
+2/ to represent equality (Archytas is the King of Greece)
+
+Think ‘is’ can have one more which is predication (The ball is red)
+
+He is also said to have anticipated the law of non-contradiction
+
 ** Dialectic
 
 ** Sophist
