@@ -1540,6 +1540,64 @@ A multivolume series with scholarship in the history of logic
 
 ** [[https://amzn.to/2BQsWHX][The Development of Logic — Kneale and Kneale (1985)]]
 
+** [[https://amzn.to/3endvb5][Ancient Formal Logic (1951)]]
+I. M. Bochenski
+
+** La Logique de Théophraste (1947)
+I. M. Bochenski
+
+** Aristotle’s Syllogistic from the Point of View of Modern Formal Logic (1957)
+J. Lukasiewicz
+
+** [[10.3390/axioms9020056][Aristotle’s Syllogistic as a Deductive System (15 May 2020)]]
+Piotr Kulicki
+
+** Stoic Logic (1961)
+B. Mates
+
+** Aristotle’s Theory of the Syllogism (1968; G. orign 1959)
+G. Patzig
+
+** Ancient Logic and its Modern Interpretations (1974)
+J. Corcoran (ed.)
+
+** Die stoische Logik (1974)
+Michael Frede
+
+** Stoic vs. Aristotelian Syllogistic
+Michael Frede
+
+in Ancient Philosophy (1987)
+
+** The Ancient Empiricists
+Michael Frede
+
+in Ancient Philosophy (1987)
+
+** [[https://archive.org/details/philodemusonmeth00phil?view=theater][Philodemus on Methods of Inference (1977)]]
+P. H. and E. A. De Lacy
+
+** Les Stoiciens et leur logic (1978)
+J. Brunschwig
+
+** The Origins of Non-deductive Inference
+M. Burnyeat
+
+in Science and Speculation (1982)
+
+** On Signs
+D. Sedley
+in Science and Speculation (1982) by J. Barnes and others (eds.)
+
+** [[https://www.amazon.com/griechische-Tradition-aristotelischen-Syllogistik-Spa%CC%88tantike/dp/3525251777][Die griechische Tradition der aristotelischen Syllogistk in der Spätantike (1984)]]
+T. S. Lee
+
+** Die Fragmente zur Dialektik der Stoiker (1987-8)
+Karlheinz Hülser
+
+** Theophrastus of Eresus: Sources for his Life, Writings, Thought and Influence
+P. M. Huby
+
 ** [[https://amzn.to/3d3r8cu][Elements of Symbolic Logic (1947)]]
 Hans Reichenbach
 
