@@ -31,6 +31,9 @@ A/this if B/that. But B/that is impossible, hence A/this is impossible.
 * Protagoras (490 – 420 B.C.)
 Distinguished between wish, question, answer, and command
 
+* Hippocrates (460 – 370 B.C.)
+Attempt at formulating principles of scientific research. This is said to be related to logic of induction.
+
 * Alcidamas (~4th Century B.C.)
 Pupil of Gorgias
 
@@ -86,6 +89,8 @@ Contains a large number of paradoxes
 
 In Aristotle’s work, a subject (onoma) is linked to a verb (rhema), together which becomes a proposition (logos).
 
+Initiated work on modal logic.
+
 Deduction and proof developing in Greek mathematics is said to have influenced Aristotle (Verify/validate, how exactly he was influenced by it).
 
 * Organon
@@ -117,7 +122,23 @@ A declarative sentence can be affirmed or negated depending on its predicate.
 
 In terms of quantity, a sentence can be thought of as singular, particular, indefinite, universal.
 
+Includes four forms of categorical statments:
+Every S is P
+No S is P
+Some S is P
+Some S is not P
+
+And the relations between them
+
+Based on this theory, he created the doctrine of the categorical syllogism, in Prior Analytics.
+
 *** Prior Analytics
+
+Contains variable letters A, B, C etc. to stand in place of terms
+Develops the syllogistic as a system of deductive inference
+
+By the theory of reduction, the syllogistic moods are shown to be interconnected so that all can ultimately be reduced to two: Barbara and Celarent.
+
 *** Posterior Analytics
 *** Topics
 Books (2 – 7) about how to find procedures/rules (topoi) to find an argument to establish/refute a thesis.
@@ -147,8 +168,6 @@ Both universal and particular sentences contain a quantifier and both universal 
 Contrary sentences cannot both be true
 Contradictory of a universal affirmative is the corresponding particular negative and conversely, for the universal negative.
 
-
-
 * Categories
 
 * Classes
@@ -157,31 +176,58 @@ Contradictory of a universal affirmative is the corresponding particular negativ
 
 * Theophrastus of Eresus (371 – 287 B.C.)
 
+Student of Aristotle.
+
+Made the theory of modal syllogisms consistent by peiorem rule
+
+Developed a theory of wholly hypothetical syllogisms based on a prototype of syllogisms composed of three conditional propositions. He thought these were reducible to categorical syllogisms though the method is said to have not survived.
+
 * Philo the Dilectician (300 B.C.)
 
 * Megarians
 
 Followers of Euclid of Megara
 
-* Diodorus Cronus (? – 284 B.C.)
-
-* Philo of Megara
-
 * Eubulides of Miletus
+Pupil of Euclid of Megara
 
 ** Liar’s paradox
 
 ** Sorites paradox
 
+* Diodorus Cronus (? – 284 B.C.)
+
+* Philo of Megara (fl. 300 B.C.)
+Gave a truth-functional definition of the connective ‘if…then…’
+
 * Stoics
 
+Systematized propositional logic inspired from Megarian logic.
+
+Used variables where the propositions themselves were variables not terms.
+
+And the signs employed for these were ordinal numbers (the first, the second) and not letters.
+
+Their syllogistic was grounded on five types of indemonstrable arguments as basic syllogisms and four ground rules (themata). Using these, all other syllogisms were claimed to be reducible to these indemonstrables.
+
+It is said to be independent of Aristotle’s term logic, but verify this claim.
+
 * Zeno of Citium (336 – 265 B.C.)
+
+* Epicureans
+Developed a theory of inductive inference
 
 * Chryssipus (279 – 206 B.C.)
 
 * Galen, the physician (129 – 199 A.D.)
 
+Tried to synthesize the logic of Stoics and Aristotle/Peripatetics
+
+Said to have introduced relational syllogism
+
 * Alexander of Aphrodisias (~ 200 A.D.)
+
+Commentator on Aristotle
 
 * Poryphry of Tyre (232-4 – 305-6 A.D.)
 
@@ -189,9 +235,9 @@ Followers of Euclid of Megara
 
 * Ammonius Hermeiou
 
-* Marius Victorinus
+Commentator on Aristotle
 
-* Apuleius (124 – 170 A.D.)
+* Marius Victorinus
 
 * St. Augustine (354–430)
 
@@ -203,9 +249,11 @@ Followers of Euclid of Megara
 
 * John Philoponus (490 – 570  A.D.)
 
+Commentator on Aristotle
+
 * Sextus Empiricus
 
-* Lucius Apuleius
+* Lucius Apuleius (124 – 170 A.D.)
 
 ** De philosophia rationali
 
@@ -1510,6 +1558,8 @@ Negation as a rotation of polygons/polyhedra. Also gives a brief survey of diffe
 Links logic with category theory and adjointness
 
 ** [[https://www.springer.com/gp/book/9783034874045][Russel and the Origins of the Set-Theoretic ‘paradoxes’]]
+
+** [[https://www.academia.edu/1145206/Entry_Logic_in_the_Oxford_Classical_Dictionary_Very_brief_][Entry Logic in Oxford Dictionary]]
 
 ** [[https://www.jstor.org/stable/301542][The Formation of Modern Conceptions of Formal Logic in the Development of Geometry (1939)]]
 Ernest Nagel
