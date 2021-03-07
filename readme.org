@@ -255,6 +255,8 @@ He is said to equate between possible and contingent.
 
 In Prior Analytics, he develops his modal syllogistic and develoops tests for all possible combination of premise pairs of sentences with necessity, contingency, or no modal operator: NN, CC, NU/UN, CU/UC, and NC/CN. Syllogisms with the last 3 types of premise combinations are called mixed modal syllogisms.
 
+Aristotle is said to have wavered between one-sided interpretation (where necessity implies possibility) and a two-sided interpretation (where possibility implies non-necessity).
+
 It is noted that appart from the NN category which maps on to unmodalized syllogisms (categorical syllogisms?), all categories contain dubious cases.
 
 ** Enthymeme
@@ -271,6 +273,10 @@ Contradictory of a universal affirmative is the corresponding particular negativ
 
 * Eudemus of Rhodes (370 – 300 B.C.)
 
+** Categories
+** Analytics
+** On Speech
+
 * Theophrastus of Eresus (371 – 287 B.C.)
 
 Student of Aristotle.
@@ -279,6 +285,12 @@ Made the theory of modal syllogisms consistent by peiorem rule
 
 Developed a theory of wholly hypothetical syllogisms based on a prototype of syllogisms composed of three conditional propositions. He thought these were reducible to categorical syllogisms though the method is said to have not survived.
 
+Wrote more logical treatises than Aristotle.
+
+Settled on a one-sided possibility, so that possibility no longer entails non-necessity.
+
+Theophrastus and Eudemus introduced the principle that in mixed modal syllogisms the conclusion alwasy has the same modal character as the weaker of the premises, where possibility is weaker than actuality, and actuality than necessity.
+
 * Philo the Dilectician (300 B.C.)
 
 * Megarians
@@ -286,6 +298,7 @@ Developed a theory of wholly hypothetical syllogisms based on a prototype of syl
 Followers of Euclid of Megara
 
 * Eubulides of Miletus
+
 Pupil of Euclid of Megara
 
 ** Liar’s paradox
