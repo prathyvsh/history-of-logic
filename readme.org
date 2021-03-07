@@ -220,6 +220,39 @@ iii) exposition or setting-out (ekthesis): Choosing or setting out some addition
 
 It is debated whether this newly introduced term represents a singular or a general term and whether exposition constitutes proof.
 
+First four figures are called:
+Barbara
+Celarent
+Darii
+Ferio
+
+Second figures are called:
+Camestres
+Cesare
+Festino
+Baroco
+
+Third figures
+Darapti
+Felapton
+Disamis
+Datisi
+Bocardo
+Ferison
+
+These names are mnemonics: each vowel or the first three in cases where the name has more than three, indicates the order in which the first and second premises and the conclusion (a, e, i, or o).
+
+Aristotle implicity recognized that by using the conversion rules on the conclusion we obtain eight further syllogisms and that of the premise combinations rejected as non-syllogistic, some five ones which yield a conclusion in which the minor term is predicated of the major.
+
+Aristotle reduced Darii and Ferio into Barbara and Celarent and later on in the Prior Analytics he invokes a type of cut-rule by which a multiple-premise syllogism can be reduced to two or more basic syllogisms.
+
+From a modern perspective, Aristotle’s system can be understood as a sequent logic in the style of natural deduction and as a fragment of first-order logic. It has been shown to be sound and complete (see Corcoran’s Completeness of an Ancient Logic), if one interprets the relations expressed by the categorical sentences set-theoretically as a system of non-empty classes as:
+AaB iff A contains B (all)
+AeB iff A and B are disjoint (none)
+AiB iff A and B are not disjoint (some)
+AoB iff A does not contain B (some are not)
+
+It is generally agreed that Aristotle’s syllogistic is a kind of relevance logic rather than classical.
 
 
 ** Enthymeme
