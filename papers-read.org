@@ -694,7 +694,7 @@ The author closes the article by saying that logical theories are closely entwin
 *** Ancient logic and its modern interpretations (1973)
 *** Conceptual Structure of Classical Logic (1972)
 
-** [[https://www.researchgate.net/publication/249861329_The_Mathematical_Origins_of_19th_Century_Algebra_of_Logic][The Mathematcial Orgiins of 19th century algebra of logic]]
+** [[https://www.researchgate.net/publication/249861329_The_Mathematical_Origins_of_19th_Century_Algebra_of_Logic][The Mathematical Origins of 19th century algebra of logic]]
 ** [[https://www.researchgate.net/publication/38373160_19th_Century_Logic_Between_Philosophy_and_Mathematics][19th Century Logic between Philosophy and Mathematics]]
 ** [[https://www.researchgate.net/publication/240529042_The_Development_of_Logic_as_Reflected_in_the_Fate_of_the_Syllogism_1600-1900][The Development of Logic as Reflected in the Fate of the Syllogism 1600 – 1900]]
 ** [[https://www.researchgate.net/publication/240529044_Charles_Peirce's_Reading_of_Richard_Whately's_Elements_of_Logic][Charles Peirce’s Reading of Richard Whately’s Elements of Logic]]
