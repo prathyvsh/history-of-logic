@@ -159,7 +159,69 @@ Systematical classification of logical fallacies
 ** Poetics
 ** Rhetoric
 ** De Anima
+
 ** Syllogistic
+*** Categorical Syllogistic
+
+Syllogism as an argument (logos) in which, certain things having been laid down, something different from what has been laid down follows of necessity because these things are so.
+
+The definition appears to require i) The syllogism consists of at least 2 premises (for Sorites, I think there can be more than 2 premises) and a conclusion.
+ii) The conclusion follows of necesitty from the premises
+iii) The conclusion differs from the premises
+
+Aristotle’s syllogistic is said to cover only a small part of all arguments that satisfy these conditions.
+
+Admissible truth-bearers are now defined as each containing two different terms (horoi) conjoined by a copula, of which one (the predicate terms) is said of the other (the subject term).
+
+Aristotle is said to have not clarified whether the terms are things or linguistic expressions for these things.
+
+Universal and particular sentences are said to be discussed and singular sentences are said to be excluded and indefinite sentences mostly ignored.
+
+Syllogistic also features the use of letters in place of terms. Thus initiating the tradition of using short symbols for variables.
+
+The four types of categorical sentences used by Aristotle are:
+
+A is precidated of *all* B (AaB)
+A is predicated of *no* B (AeB)
+A is predicated of *some* B (AiB)
+A is *not* predicated of *some* B (AoB)
+
+In Greek, I think these can be expressed in a different way rather than the asymmetrical way in which the not appears at the beginning of AoB.
+
+Syllogistic propositions consist of premises which share one common term called the middle term which disappears in the conclusion and only the other two terms, sometimes called the extremes are retained. Based on the position of the middle term, Aristotle classified all possible premise combinations into 3 figures (schêmata):
+
+I
+Subject - Middle Term
+Middle Term - Predicate
+
+II
+Middle Term - Subject
+Middle Term - Predicate
+
+III
+Subject - Middle Term
+Predicate - Middle Term
+
+Subject here is sometimes called the major term and Predicate the minor term.
+
+Each figure can be further classified based on whether the premises are universal or not.
+
+This is said to give 58 possible premise combinations (how?) and Aristotle showed that only 14 have a conclusion following of necessity from them, i.e. are syllogisms.
+
+He assumed that syllogisms of the first figure are complete and not in need of proof, since they are evident. He proves this by reducing the figures in the second and third to the first thereby ‘completing’ them. He uses:
+i) conversion (antistrophê): A sentence converted by interchanging its terms.
+AeB infer BeA
+AiB infer BiA
+AaB infer BiA
+
+ii) reductio ad impossible (apagôgê): Contradictory of an assumed conclusion together with one of the premises is used to deduce by a first figure syllogism a conclusion that is incompatible with the other premise. Thus using this semantic relation network, the earlier assumed conclusion is established
+
+iii) exposition or setting-out (ekthesis): Choosing or setting out some additional term that falls in the non-empty intersection delimited by two premises and using it to justify the inference from the premise to a particular conclusion.
+
+It is debated whether this newly introduced term represents a singular or a general term and whether exposition constitutes proof.
+
+
+
 ** Enthymeme
 ** Existential import
 Both universal and particular sentences contain a quantifier and both universal and particular affirmatives were taken to have existential import. This was not so the case for negations, as it is reflected in some of the work Sturm has done and Leibniz has said not to be in line with Aristotle’s work.
