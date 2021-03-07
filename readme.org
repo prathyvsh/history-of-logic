@@ -243,6 +243,19 @@ AoB iff A does not contain B (some are not)
 
 It is generally agreed that Aristotle’s syllogistic is a kind of relevance logic rather than classical.
 
+*** Modal Syllogistic
+
+Aristotle is also considered as the originator of modal logic.
+
+Apart from quality (affirmation or negation), quantity (singular, universal, particular, or indefinite), he also took categorical sentences to have a mode (actually, necessarily, possibly, contingently, impossibly). The latter four are expressed by modal operators that modify the predicate: It is possible for A to hold of some B; A necessarily holds of every B.
+
+In De Interpretatione, Aristotle concludes that modal operators modify the whole predicate (or the copula), not just the predicate term of a sentence.
+
+He is said to equate between possible and contingent.
+
+In Prior Analytics, he develops his modal syllogistic and develoops tests for all possible combination of premise pairs of sentences with necessity, contingency, or no modal operator: NN, CC, NU/UN, CU/UC, and NC/CN. Syllogisms with the last 3 types of premise combinations are called mixed modal syllogisms.
+
+It is noted that appart from the NN category which maps on to unmodalized syllogisms (categorical syllogisms?), all categories contain dubious cases.
 
 ** Enthymeme
 ** Existential import
