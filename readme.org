@@ -220,25 +220,14 @@ iii) exposition or setting-out (ekthesis): Choosing or setting out some addition
 
 It is debated whether this newly introduced term represents a singular or a general term and whether exposition constitutes proof.
 
-First four figures are called:
-Barbara
-Celarent
-Darii
-Ferio
-
-Second figures are called:
-Camestres
-Cesare
-Festino
-Baroco
-
-Third figures
-Darapti
-Felapton
-Disamis
-Datisi
-Bocardo
-Ferison
+| First Figure | Second Figure | Third Figure |
+|--------------+---------------+-------------|
+| Barbara | Camestres | Darapti |
+| Celarent | Cesare | Felapton |
+| Darii | Festino | Disamis |
+| Ferio | Baroco | Datisi |
+| | | Bocardo |
+| | | Ferison |
 
 These names are mnemonics: each vowel or the first three in cases where the name has more than three, indicates the order in which the first and second premises and the conclusion (a, e, i, or o).
 
