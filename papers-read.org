@@ -693,3 +693,19 @@ The author closes the article by saying that logical theories are closely entwin
 *** Aristotelian Syllogisms: Valid Arguments or True Universalized Conditionals? (1974)
 *** Ancient logic and its modern interpretations (1973)
 *** Conceptual Structure of Classical Logic (1972)
+
+** [[https://www.researchgate.net/publication/249861329_The_Mathematical_Origins_of_19th_Century_Algebra_of_Logic][The Mathematcial Orgiins of 19th century algebra of logic]]
+** [[https://www.researchgate.net/publication/38373160_19th_Century_Logic_Between_Philosophy_and_Mathematics][19th Century Logic between Philosophy and Mathematics]]
+** [[https://www.researchgate.net/publication/240529042_The_Development_of_Logic_as_Reflected_in_the_Fate_of_the_Syllogism_1600-1900][The Development of Logic as Reflected in the Fate of the Syllogism 1600 – 1900]]
+** [[https://www.researchgate.net/publication/240529044_Charles_Peirce's_Reading_of_Richard_Whately's_Elements_of_Logic][Charles Peirce’s Reading of Richard Whately’s Elements of Logic]]
+** [[https://www.researchgate.net/publication/243024941_French_logique_and_British_logic_On_the_origins_of_Augustus_De_Morgan's_early_logical_inquiries_1805-1835][French “logique” and British “logic”: On the origins of Augustus De Morgan’s early logical inquiries, 1805 – 1835]]
+** [[https://www.researchgate.net/publication/251471196_Richard_Whately_and_logical_theory][Richard Whately and logical theory]]
+** [[https://www.researchgate.net/publication/251471201_John_Venn_and_logical_theory][John Venn and logical theory]]
+** [[https://www.researchgate.net/publication/251471201_John_Venn_and_logical_theory][The Influence of Aristotelian Logic on Boole’s Philosophyo of Logic: The Reduction of Hypotheticals to Categoricals]]
+** [[https://www.researchgate.net/publication/267469436_Equations_from_God_Pure_mathematics_and_Victorian_Faith][Equations from God: Pure Mathematics and Victorian Faith]]
+** [[https://www.researchgate.net/publication/268662409_The_Mathematical_Background_of_George_Boole's_Mathematical_Analysis_of_Logic_1847][The Mathematical Background of George Boole’s Mathematical Analysis of Logic (1847)]]
+** [[https://www.researchgate.net/publication/287236695_The_logical_foundations_of_Bradley's_metaphysics_Judgment_inference_and_truth][The logical foundations of Bradley’s metaphysics: Judgement, Inference, and Truth]]
+** [[https://www.researchgate.net/publication/248526343_Minds_machines_and_economic_agents_Cambridge_receptions_of_Boole_and_Babbage][Minds, machines, and economic agents: Cambridge receptions of Boole and Babbage]]
+** [[https://www.researchgate.net/publication/37538625_Charles_Babbage_and_the_Emergence_of_Automated_Reason][Charles Babbage and the Emergence of Automated Reason]]
+** [[https://www.jstor.org/stable/40319851?seq=1][DeMorgan, Peirce, and the Logic of Relations]]
+** [[https://link.springer.com/book/10.1007/978-94-009-2047-7][Augustus DeMorgan and the Logic of Relations]]
