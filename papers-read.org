@@ -680,6 +680,7 @@ The author closes the article by saying that logical theories are closely entwin
 ** John Corcoran’s work on Aristotle and Ancient Logic
 
 *** Aristotle’s Natural Deduction System (1972)
+*** The Contemporary Relevance of Ancient Logical Theory (1982)
 *** Aristotle’s Semiotic Triangles and Pyramids (2015)
 *** A Mathematical Model of Aristotle’s syllogistic (1973)
 *** Completeness of an Ancient Logic (1972)
