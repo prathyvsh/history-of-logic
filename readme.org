@@ -1025,6 +1025,8 @@ Contains a section on Axioms,
 
 * Lewis Carroll / Charles Dodgson (1832 – 1898)
 
+** The Game of Logic (1887)
+
 ** Symbolic Logic (1896)
 
 * Charles Peirce (1839 – 1914)
