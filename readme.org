@@ -1857,6 +1857,14 @@ Venn, J. 1880
 ** Sur l’histoire des diagrammes logiques, ‘figures géométriques
 E. Coumet 1977
 
+** [[http://www.math.uwaterloo.ca/~snburris/htdocs/LOGIC/LOGICIANS/notes1.pdf][Contributions of the Logicians — Part I: From Richard Whately to William Stanley Jevons]]
+
+Stanley Burris (2001)
+
+** [[http://www.math.uwaterloo.ca/~snburris/htdocs/LOGIC/LOGICIANS/notes2.pdf][Contributions of the Logicians — Part II: From Richard Dedekind to Gerhard Gentzen]]
+
+Stanley Burris (2001)
+
 * Historians
 
 ** William Calvert Kleene
