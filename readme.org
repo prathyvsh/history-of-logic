@@ -1,5 +1,7 @@
 * History of Logic
 
+[[https://raw.githubusercontent.com/prathyvsh/prathyvsh/master/images/history-of-logic.png]]
+
 A repo that keeps track of the history of logic. It chronicles the eminent personalities, schools of thought, ideas of each epoch.
 
 * Ancient Logic
