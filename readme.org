@@ -1840,6 +1840,9 @@ E. Weigelius
 ** Grundprobleme der Logik. Elemente einer Kritik der formalen Vernunft
 Stekeler-Weithofer 1986
 
+** [[https://archive.org/details/historicalsketch00blak/page/n21/mode/2up][Historical sketch of logic, from earliest times to present day (1851]]
+Robert Blakely
+
 ** Music Theory and Mathematics
 Nolan 2002
 
