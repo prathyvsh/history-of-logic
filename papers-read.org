@@ -671,6 +671,20 @@ Chrysippus is said to have developed a full-fledged sentential logic which was a
 
 The author closes the article by saying that logical theories are closely entwined with a difference in philosophical standpoint.
 
+** [[https://www.researchgate.net/publication/38373160_19th_Century_Logic_Between_Philosophy_and_Mathematics][19th Century Logic between Philosophy and Mathematics]]
+
+The paper’s abstract says that it will be answering the following questions:
+
+Reasons for philosopher’s lack of interest in formal logic
+Reasons for mathematcian’s interest in logic
+Meaning of logic reform in the 19th century; Were the systems of mathematical logic initially regarded as contributions to a reform of logic
+Was mathematical logic regarded as art, as science or as both?
+
+Definitions of logic from 19th century:
+
+The Art and Science of Reasoning — Richard Whately
+Doctrine giving the normative rules of correct reasoning – Herbart
+
 * On Process
 
 ** Conceptual Roots of Mathematics
@@ -696,7 +710,6 @@ The author closes the article by saying that logical theories are closely entwin
 *** Conceptual Structure of Classical Logic (1972)
 
 ** [[https://www.researchgate.net/publication/249861329_The_Mathematical_Origins_of_19th_Century_Algebra_of_Logic][The Mathematical Origins of 19th century algebra of logic]]
-** [[https://www.researchgate.net/publication/38373160_19th_Century_Logic_Between_Philosophy_and_Mathematics][19th Century Logic between Philosophy and Mathematics]]
 ** [[https://www.researchgate.net/publication/240529042_The_Development_of_Logic_as_Reflected_in_the_Fate_of_the_Syllogism_1600-1900][The Development of Logic as Reflected in the Fate of the Syllogism 1600 – 1900]]
 ** [[https://www.researchgate.net/publication/240529044_Charles_Peirce's_Reading_of_Richard_Whately's_Elements_of_Logic][Charles Peirce’s Reading of Richard Whately’s Elements of Logic]]
 ** [[https://www.researchgate.net/publication/243024941_French_logique_and_British_logic_On_the_origins_of_Augustus_De_Morgan's_early_logical_inquiries_1805-1835][French “logique” and British “logic”: On the origins of Augustus De Morgan’s early logical inquiries, 1805 – 1835]]
