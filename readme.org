@@ -627,7 +627,7 @@ Replacement for the Protestant logic of Melanchthon
 
 * John Wallis (1616 – 1703)
 
-** Institutio Logicae (1687)
+** Institutio Logicae, Ad Communes Usus Accomodata (1687)
 
 * Johannes Clauberg (1622 – 1665)
 
@@ -716,7 +716,7 @@ Uses circle diagrams together with tree diagrams to represent the relation of co
 
 * Henry Aldrich (1647 – 1710)
 
-** Artis logicae compendium (1691)
+** Artis Logicae Compendium (1691)
 
 * Jakob Bernoulli (1654 – 1705)
 
@@ -728,6 +728,10 @@ Gave algebraic examples of categorical statements.
 ** Logica Demonstriva (1697)
 
 * Isaac Watts (1674 – 1748)
+
+** Logic: Or the Right Use of Reason in the Enquiry after Truth, with a Variety of rules to guard against Error, in the Affairs of Religion and Human Life, as well as in the Sciences (1725)
+
+** The Improvement of the Mind, or a Supplement to the Art of Logick: Containing a Variety of Remarks and Rules for the Attainment and Communication of useful Knowledge, in Religion, in the Sciences, and in common Life.
 
 * Christian Wolff (1679 – 1754)
 
@@ -746,6 +750,10 @@ Introduced Euler circles
 * Thomas Reid (1710 – 1796)
 
 ** A Brief Account of Aristotle’s Logic (1774)
+
+* Richard Murray (1725? – 1799)
+
+** Artis logicae compendium (1773)
 
 * Joachim Georg Darjs (1714 – 1791)
 
