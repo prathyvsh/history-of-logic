@@ -749,7 +749,19 @@ Introduced Euler circles
 
 * Thomas Reid (1710 – 1796)
 
+** An Essay on Quantity; occasioned by reading a treatise in which simple and compound rations are applied to virtue and merit
+
 ** A Brief Account of Aristotle’s Logic (1774)
+
+** An Inquiry into the Human Mind, on the Principles of Common Sense (1764)
+
+* David Hume (1711 – 1776)
+
+** Treatise on Human Nature (1739-40)
+
+* William Duncan
+
+** Elements of Logick (1748)
 
 * Richard Murray (1725? – 1799)
 
@@ -890,6 +902,10 @@ Introduced German speakers to the work of Boole, De Morgan, and Jevons
 *** [[https://www.researchgate.net/profile/Amirouche_Moktefi/publication/280099042_Lewis_Carroll_and_the_British_nineteenth-century_logicians_on_the_barber_shop_problem/links/5773d06408ae1b18a7de37fd/Lewis-Carroll-and-the-British-nineteenth-century-logicians-on-the-barber-shop-problem.pdf][Lewis Carroll and the British nineteenth-century logicians on the barbershop problem]]
 
 * Sir Wililam Hamilton (1730 – 1803)
+
+* Edward Copleston
+
+Tutor of Richard Whately
 
 * Richard Whately (1787 – 1863)
 
