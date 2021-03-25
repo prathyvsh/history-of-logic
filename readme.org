@@ -617,7 +617,9 @@ Replacement for the Protestant logic of Melanchthon
 
 * René Descartes (1596 – 1650)
 
-** Regulae ad directionem ingenii (Rules for the direction of the Mind) (1628)
+** Regulae ad directionem ingenii (Rules for the direction of the Mind) (1628, published 1701)
+
+** Discours de la méthode pour bien conduire sa raison, et chercher la verite dans les sciences (1637)
 
 ** Mathesis Universalis
 
@@ -642,7 +644,7 @@ Influential discussion of definitions that was inspired byt he work of French ma
 
 * Antoine Arnauld (1612 – 1694)
 
-** La logique, ou l’art de penser (1662)
+** La logique, ou l’art de penser: contenant, outre les règles communies, plusieurs observations nouvelles propres à former le jugement (1662)
 
 ** Erhard Weigel (1625 – 1699)
 
@@ -749,11 +751,27 @@ Introduced Euler circles
 
 * Thomas Reid (1710 – 1796)
 
+Helped establish the Aberdeen Philosophical Society in 1785
+
 ** An Essay on Quantity; occasioned by reading a treatise in which simple and compound rations are applied to virtue and merit
 
-** A Brief Account of Aristotle’s Logic (1774)
+** A Brief Account of Aristotle’s Logic, with Remarks (1774)
 
 ** An Inquiry into the Human Mind, on the Principles of Common Sense (1764)
+
+** Essays on the Intellectual Powers of Man (1785)
+
+* George Campbell (1719 – 1796)
+
+** Philosophy of Rhetoric (1776)
+
+* James Beattie
+
+** Essay on Truth (1770)
+
+* Henry Home, Lord Kames
+
+** Sketches on the History of Man (1774)
 
 * David Hume (1711 – 1776)
 
