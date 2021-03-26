@@ -731,6 +731,8 @@ Gave algebraic examples of categorical statements.
 
 * Isaac Watts (1674 – 1748)
 
+[[watts.jpg]]
+
 ** Logic: Or the Right Use of Reason in the Enquiry after Truth, with a Variety of rules to guard against Error, in the Affairs of Religion and Human Life, as well as in the Sciences (1725)
 
 ** The Improvement of the Mind, or a Supplement to the Art of Logick: Containing a Variety of Remarks and Rules for the Attainment and Communication of useful Knowledge, in Religion, in the Sciences, and in common Life.
@@ -754,6 +756,8 @@ Was influenced by Wolff’s exposition of Leibniz
 Introduced Euler circles
 
 * Thomas Reid (1710 – 1796)
+
+[[reid.jpg]]
 
 Helped establish the Aberdeen Philosophical Society in 1785
 
@@ -800,6 +804,11 @@ Teacher of Hegel. Developed squares to represent syllogisms.
 ** Fundamenta Philosophiae Speculativae (1759)
 
 Used squares for logic diagrams
+
+* Edward Tatham (1749 – 1834)
+
+** The Chart and Scale of Truth by which to find the Cause of Error (1790-92)
+Two volumes
 
 * Johann Heinrich Lambert (1728 – 1777)
 
@@ -930,6 +939,8 @@ Introduced German speakers to the work of Boole, De Morgan, and Jevons
 Tutor of Richard Whately
 
 * Richard Whately (1787 – 1863)
+
+[[whately.jpg]]
 
 Whately’s work is said to have arose from the tradition of Henry Aldrich, Isaac Watts, and John Wesley.
 
