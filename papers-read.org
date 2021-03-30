@@ -723,3 +723,53 @@ Doctrine giving the normative rules of correct reasoning – Herbart
 ** [[https://www.researchgate.net/publication/37538625_Charles_Babbage_and_the_Emergence_of_Automated_Reason][Charles Babbage and the Emergence of Automated Reason]]
 ** [[https://www.jstor.org/stable/40319851?seq=1][DeMorgan, Peirce, and the Logic of Relations]]
 ** [[https://link.springer.com/book/10.1007/978-94-009-2047-7][Augustus DeMorgan and the Logic of Relations]]
+
+* On Radar
+
+** [[https://socrates.sitehost.iu.edu/papers/What%20is%20Logical%20Form.pdf][What is Logical Form?]]
+** [[http://www.ub.edu/modeltheory/documentos/LOperations.pdf][Logical Operations and Invariance]]
+Enrique Casanovas
+
+** [[https://academic.oup.com/philmat/article/25/1/3/2669615][Abstraction and Four Kinds of Invariance (Or: What’s So Logical About Counting)]]
+Roy T. Cook
+
+** [[https://soundideas.pugetsound.edu/cgi/viewcontent.cgi?article=1481&context=summer_research][What Do We Mean By Logical Consequence?]]
+Jesse Endo Jenks
+
+** [[https://www.cs.bham.ac.uk/research/projects/cogaff/misc/logical-geography.html][Two Notions Contrasted: Logical Geography and Logical Topography]]
+Aaron Sloman
+
+** [[https://escholarship.org/content/qt2bt294j8/qt2bt294j8.pdf][What is Tarski’s Theory of Truth?]]
+
+** [[https://aporia.byu.edu/pdfs/richardson-nature_logical_constants.pdf][The Nature of Logical Constants]]
+Lauren Richardson
+
+** [[http://www.jyb-logic.org/papers/LogicaYB94%20-%20Beziau.pdf][Universal Logic]]
+Jean-Yves Bèziau
+
+** [[http://www.jyb-logic.org/papers12-11/semantics.pdf][What is Semantics? A brief note on a huge question]]
+
+** [[http://www.jyb-logic.org/bsl-identity.pdf][Identity, Structure, and Logic]]
+
+** [[http://www.jyb-logic.org/papers/logic%20algebra%20may%20be%20simple%20beziau.pdf][Logic May Be Simple: Logic, Congruence and Algebra]]
+
+** [[http://www.jyb-logic.org/papers/The%20mathematical%20structure%20of%20logical%20syntax.pdf][The Mathematical Structure of Logical Syntax]]
+
+** [[http://www.jyb-logic.org/half.pdf][Classical Negation can be Expressed by One of its Halves]]
+
+** [[http://www.jyb-logic.org/sep.pdf][New Light on the Square of Oppositions and its Nameless Corner]]
+
+** [[https://www.pdcnet.org/wcp22/content/wcp22_2008_0013_0009_0022][What is “Formal Logic”?]]
+
+** [[http://abstracta.oa.hhu.de/index.php/abstracta/article/view/150/134][Logic is Not Logic]]
+
+** [[http://www.jyb-logic.org/papers12-11/pequeno-beziau.pdf][Rules of the Game]]
+Tarcísio Penqueno, Jean-Yves Bèziau
+
+** [[http://www.jyb-logic.org/papers/nal.pdf][Is Modern Logic Non-Aristotelian?]]
+
+** [[http://www.jyb-logic.org/papirs/axiom.pdf][What is an axiom?]]
+
+** [[http://www.jyb-logic.org/papirs/iae.pdf][Is there an axiom for everything?]]
+
+** [[http://www.jyb-logic.org/papirs/DOGS.pdf][Are dogs logical animals?]]
