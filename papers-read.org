@@ -685,7 +685,7 @@ Definitions of logic from 19th century:
 The Art and Science of Reasoning — Richard Whately
 Doctrine giving the normative rules of correct reasoning – Herbart
 
-* The Mystery of the Fifth Logical Notion (Alice in the Wonderful Land of Logical Notions)
+* [[http://www.jyb-logic.org/papirs/alice5.pdf][The Mystery of the Fifth Logical Notion (Alice in the Wonderful Land of Logical Notions)]]
 Jean-Yves Bèziau
 
 Read on 30 March 2021
