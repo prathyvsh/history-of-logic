@@ -685,6 +685,70 @@ Definitions of logic from 19th century:
 The Art and Science of Reasoning — Richard Whately
 Doctrine giving the normative rules of correct reasoning – Herbart
 
+* The Mystery of the Fifth Logical Notion (Alice in the Wonderful Land of Logical Notions)
+Jean-Yves Bèziau
+
+Read on 30 March 2021
+
+Logical notions as presented by Tarski
+Presents a challenging fifth logical notion
+Context and origin of Tarski-Lindenbaum logical notions
+Notions in the simple case of a binary relation
+Examine in which sense these are considered as logical notions contrasting them with an example of a non-logical relation
+Formulations of the four logical notions in natural language and in first-order logic without equality, emphasizing the fact that 2 out of 4 logical notions cannot be expressed in this formal language.
+Relation between these notions using the theory of the square of opposition
+Notion of variety corresponding to all non-logical notions and it is argued that it can be considered as a logical notion because it is invariant, always referring to the same class of structures
+Presents an enigma: Is variety formalizable in first-order logic without equality?
+
+At the end of the 1920s, Tarski developed the theory of the consequence  operator, and form any years this theory was hardly known outside of Poland. The idea of this theory appeared for the first time in a two-page paper published in French in Poland in 1929. It was translated into English by R. Purdy and J. Zygmunt only in 2012!
+
+1. Logical Notions according to Tarski and Lindenbaum in the Perspective of a Childlike Methodology
+
+In “What are logical notions?” Tarski proposes to define logical notions as those invariant under any one-to-one transformation, something he presents as a generalization of an idea of Felix Klein (1849 – 1925), connected tot he so-called “Erlangen program”.
+
+As Tarski says in the paper, edited by Corcoran, the idea of characterizing logical notions in such a way already appears in a paper by Lindebaum and himself in 1934.
+
+Adolf Lindenbaum was the main collaborator and friend of Tarski when he was in Poland.
+
+** The Four Tarski-Lindenbaum Logical Notions in the Case of a Binary Relation
+
+It is possible to prove that any nary relation can be expressed / reduced to a binary relation.
+
+Kalmar 1932, 1936, 1939.
+
+Tarski identified, the universal relation, the empty relation, the identity relation, and diversity relation as the only logical binary relations between individuals. This is interesting because just these four relations were introduced and discussed in the theory of relations by Peirce, Schröder, and other logicians of the 19th century.
+
+Papy 1963-67, 1969
+
+** An Example of a Non-Logical Relation, Formulas and Models
+
+An example of a non-logical relation is illustrated.
+
+Using this example, models of a formula are introduce as different configurations described by it.
+
+Tarski 1954 - 55
+
+Tarski talks about individuals in the case of binary relations between individuals.
+
+The same formula that results in an isomorphic representation in the case of two individuals becomes non-isomorphic (and thereby non-categorical?).
+
+Categoricity is said to be a necessary and sufficient condition for logicality
+If a binary relation can be described by a categorical formula, it is sufficient to consider it to be a logical notion.
+
+Logical notions are defined by invariance.
+
+Hodges 1983
+
+The entities in the case of a binary relation which are not the logical notions are collectively called a variety.
+
+A variety is a complement of the logical notions.
+
+There is invariance in this variety: for every cardinality, it always refers to the same class of models, those not corresponding to logical notions.
+
+The notion of variety collects all the non-logical relations. Since it is an invariant, the variety is seen as a fifth logical notion.
+
+Tarski-Lindenbaum invariance is based on isomorphism, but it can be seen from the higher perspective of notions always referring to the same classes of models.
+
 * On Process
 
 ** Conceptual Roots of Mathematics
