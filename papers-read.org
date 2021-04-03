@@ -837,3 +837,46 @@ Tarcísio Penqueno, Jean-Yves Bèziau
 ** [[http://www.jyb-logic.org/papirs/iae.pdf][Is there an axiom for everything?]]
 
 ** [[http://www.jyb-logic.org/papirs/DOGS.pdf][Are dogs logical animals?]]
+
+** [[http://www.hep.upenn.edu/~johnda/Papers/Grundgedanke.pdf][Grungedanke]]
+John Alison
+
+** [[https://heinonline.org/HOL/LandingPage?handle=hein.journals/raju12&div=6&id=&page=][The Meanings of the Logical Constants in Deontic Logic]]
+Sean Coyle
+
+** [[http://www.ugr.es/~frapolli/Redefining%20logical%20constants%20-%20Frapolli%20Assimakopoulos.pdf][Redefining logical constants as inference markers]]
+María José Frápolli and Stavros Assimakopoulos
+
+** [[https://newprairiepress.org/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1032&context=biyclc][Understanding the logical constants and dispositions]]
+Corine Besson
+
+** [[https://oxford.universitypressscholarship.com/view/10.1093/0198250150.001.0001/acprof-9780198250159-chapter-9][Logical Form and Constants]]
+P. F. Strawson
+
+** [[https://journals.openedition.org/philosophiascientiae/965][A Critical Remark on the BHK Interpretation of Implication]]
+Wagner de Campos Sanz, Thomas Piecha
+
+** [[http://lumiere.ens.fr/~dbonnay/files/conference/LC/JvB2.pdf][Logical Constants: The Variable Fortunes of an elusive notion]]
+Johan van Bentham
+
+** [[https://escholarship.org/uc/item/7256r138][Logical Constants between inference and reference]]
+Sebastian Georg Werner Speitel
+Advisor: Gila G. Sher
+
+** [[https://gist.github.com/tel/b67e9c66b8cfa6969d7b][Notes on Per Martin Löf’s “On the Meanings of the Logical Constants and the Justifications of the Logical Laws”]]
+Joseph Abrahamson
+
+** [[https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-30/issue-3/Logical-constants-as-punctuation-marks/10.1305/ndjfl/1093635154.full][Logical Constants as Punctuation Marks]]
+Kosta Došen
+
+** [[https://link.springer.com/article/10.1007/BF00247187][Constructions, proofs and the meaning of logical constants]]
+Göran Sundholm
+
+** [[https://www.jstor.org/stable/2687733][The Problem of Logical Constants]]
+Mario Gómez-Torrente
+
+** [[http://www.nyu.edu/gsas/dept/philo/courses/concepts/meaning.html][The Meanings of Logical Constants]]
+Gilbert Harman
+
+** [[https://www.jstor.org/stable/2025420?seq=1][What is a logical constant?]]
+Christopher Peacocke
