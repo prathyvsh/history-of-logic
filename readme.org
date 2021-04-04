@@ -412,18 +412,80 @@ Systematized propositional logic inspired from Megarian logic.
 
 Used variables where the propositions themselves were variables not terms.
 
+Both Zeno and Cleanthes held knowledge of logic as a virtue and held it in high esteem
+
 And the signs employed for these were ordinal numbers (the first, the second) and not letters.
 
 Their syllogistic was grounded on five types of indemonstrable arguments as basic syllogisms and four ground rules (themata). Using these, all other syllogisms were claimed to be reducible to these indemonstrables.
 
-It is said to be independent of Aristotle’s term logic, but verify this claim.
+TODO: It is said to be independent of Aristotle’s term logic, but verify this claim.
+
+The subject matter of Stoic logic is the so-called sayables (lekta): they are the underlying meanings in everything we say and think., but like Frege’s senses, also subsist independently of us.
+
+They are distinguished from spoken and written linguistic expressions: what we utter are those expressions, but what we say are the sayables.
+
+Complete and deficient sayables.
+Deficient sayables, if said, make the hearer feel prompted to ask for a completion. E.g.: The sayable ‘writes’ makes the hearer prompted to enquire ‘who?’.
+Complete sayables, if said, do not make the hearer ask for a completion.
+
+Assertibles (axiômata)
+
+They include assertibles (Stoic equivalent of propositions0, imperativals, interrogatives, inquiries, exclamatives, hypotheses or suppositions, stipulations, oaths, curses, and more.
+
+According to Stoics, when we say a complete sayable, we perform three different acts: we utter a linguistic expression; we say the sayable; and we perform a speech-act.
+
+Truth is temporal and assertibles may change their truth-value.
+
+Stoic principle of bivalence is hence temporalized.
+
+Truth is introduced by example: the assertible ‘it is day’ is true when it is day, and at all other times false. This suggest some kind of deflationist view of truth, as does the fact that the Stoics identify true assertibles with facts, but define false assertibles simply as the contradictories of true ones.
+
+Assertibles are simple or non-simple. A simple predicative assertible like ‘Dion is wakilng’ is generated from the predicate ‘is walking’, which is a deficient assertible since it elicits the question ‘who?’, together with a nominative case, which the assertible presents as falling under the predicate.
+
+Thus there is no interchangeability of predicate and subject terms as in Aristotle; rather, predicates — but not the things that fall under them — are defined as deficient, and thus resemble propositional functions.
+
+Some stoics took the Fregean approach that singular terms had correlated saymables, others anticipated the notion of direct reference.
+
+Concerning indexicals, the Stoics took a simple definite assertible like ‘this one is walking’ to be true when the perso pointed at by the speaker is walking. When the thing pointed at ceases to be, so does the assertible, though the sentence used to express it remains.
+
+A simple indefinite assertible like ‘someone is walking’ is said to be true when a correspending definite assertible is true3
+
+Aristotelian universal affirmatives (Every A is B) were to be rephrased as conditionals:
+
+If something is A, it is B.
+
+Negations of simple assertibles are themselves simple assertibles.
+
+The Stoic negation of Dion is walking is It is not the case that Dion is walking and not ‘Dion is not walking’.
+
+The latter is analyzed in a Russelian manner as ‘Both Dion exists and not the case that Dion is walking’
+
+There are present tense, past tense, and future tense assertibles. The temporalized principle of bivalence holds for all of them. The past tense assertible ‘Dion walked’ is true when there is at least one past time instance in which ‘Dion is walking’ was true.
 
 * Zeno of Citium (336 – 265 B.C.)
+
+Studied with diodorus
+
+* Cleanthes of Assos (331/30 – 232/230 B.C.)
+Tried to solve the Master Argument by denying that every past truth is necessary
+
+Wrote books on paradoxes, dialectics, argument modes and predicates.
+
+* Chryssipus of Soli (280/279 – 207/206 B.C.)
+
+Wrote over 30 books on logic including speech act theory, sentence analysis, singular and plural expressions, types of predicates, indexicals, existential propositions, sentential connectives, negations, disjunctions, conditionals, logical consequence, valid argument forms, theory of deduction, propositional logic, modal logic, tense logic, epistemic logic, logic of suppositions, logic of imperatives, ambiguity, and logical paradoxes.
+
+Was aware of the use-mention distinction. He seems to have held that every denoting expression is ambiguous in that it denotes both its denotation and itself
+
+* Diogenes of Babylon (c. 240 – 152 B.C.)
+
+* Antipater of Tarsus (2nd century B.C.)
 
 * Epicureans
 Developed a theory of inductive inference
 
-* Chryssipus (279 – 206 B.C.)
+* Aulus Gellius (125 – after 180 A.D.)
+Roman author and Grammarian
 
 * Galen, the physician (129 – 199 A.D.)
 
