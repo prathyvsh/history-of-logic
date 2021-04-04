@@ -773,9 +773,13 @@ Helped establish the Aberdeen Philosophical Society in 1785
 
 ** Philosophy of Rhetoric (1776)
 
-* James Beattie
+* James Beattie (1735 - 1803)
 
 ** Essay on Truth (1770)
+
+** Elements of Moral Science
+
+** Essay on the Nature and Immutability of Truth, in Opposition to Sophistry and Scepticism (1770)
 
 * Henry Home, Lord Kames
 
@@ -788,6 +792,23 @@ Helped establish the Aberdeen Philosophical Society in 1785
 * William Duncan
 
 ** Elements of Logick (1748)
+
+* George Jardine
+
+** Synopsis of Lectures on Logic and Belles lettres, read in the University of Glasgow (1797)
+
+** Outlines of Philosophical Education, illustrated by the Method of Teaching the Logic, or First Class of Philosophy, in the University of Glasgow (1818)
+
+* Robert Eden Scott
+
+** Elements of Intellectual Philosophy or an Analysis of the Powers of the Human Understanding: tending to ascertain the Principles of a Rational Logic
+
+* William Barron
+
+** Lectures on Belles Lettres and Logic
+
+* William Spalding (1809 – 1859)
+St. Andrews Logician
 
 * Richard Murray (1725? – 1799)
 
@@ -959,6 +980,15 @@ Available in [[https://archive.org/details/discussiononphil00hamiuoft][Discussio
 ** Institutio logicae (1687)
 
 * Dugald Stewart (1753 – 1828)
+
+** Elements of the Philosophy of the Human Mind (1792)
+
+* Adam Smith
+
+** Essays on Philosophical Subjects (1795)
+Published posthumously.
+
+Contains a brief section on the history of ancient logic and metaphysics.
 
 * Charles Babbage (1791 – 1871)
 
