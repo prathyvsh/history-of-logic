@@ -388,6 +388,22 @@ Later Stoics introduced a non-truth functional inclusive disjunction.
 
 TODO: Find out how truth-functional and non truth-functional distinction was made here.
 
+Arguments are compounds of assertibles. They are defined as a system of at least two premises and a conclusion.
+
+An argument is valid if the Chrysippean conditional formed with the conjunction of its premises as antecedent and its conclusion as consequent is correct.
+An argument is sound when in addition to being valid it has true premises.
+
+The Stoics defined so-called argument modes as a sort of schema of an argument.
+The mode of an argument differs from the argument itself by having ordinal numbers taking the place of assertibles.
+
+If the 1st, the 2nd
+But not the 2nd
+Therefore not the 1st
+
+This is similar to figures/moods in Aristotelian logic.
+
+In terms of modern day logic, Stoic syllogistic is best understood as a substructural backwards-working Gentzen-style natural deduction system that consists of five kinds of axiomatic arguments (the indemonstrables) and four inference rules, called themata.
+
 * Diodorus Cronus (? – 284 B.C.)
 
 A conditional propositional is true if it neither was nor is possible that its antecedent is true and its consequent false. This is reminiscent of strict implication.
@@ -432,8 +448,6 @@ Used variables where the propositions themselves were variables not terms.
 Both Zeno and Cleanthes held knowledge of logic as a virtue and held it in high esteem
 
 And the signs employed for these were ordinal numbers (the first, the second) and not letters.
-
-Their syllogistic was grounded on five types of indemonstrable arguments as basic syllogisms and four ground rules (themata). Using these, all other syllogisms were claimed to be reducible to these indemonstrables.
 
 TODO: It is said to be independent of Aristotle’s term logic, but verify this claim.
 
