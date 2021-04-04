@@ -346,8 +346,6 @@ If p, then q.
 If q, then r.
 Therefore, if p, then r.
 
-* Philo the Dilectician (300 B.C.)
-
 * Megarians
 
 Followers of Euclid of Megara
@@ -360,10 +358,39 @@ Pupil of Euclid of Megara
 
 ** Sorites paradox
 
+* Stoic Logic
+
+Main logicians of this school were Philo and Diodorus. They are considered to be influenced by Eubulides of Miletus.
+
+A conditional (sunêmmenon) is a non-simple proposition composed of two propositions and the connecting particle ’if’.
+
+Definitions of modalities by both Diodorus and Philo satisy the following standard of requirements of modal logic:
+
+i) Necessity entails truth and truth entails possibility
+ii) Possibility and impossibility are contradictories, and so are necessity and non-necessity
+iii) Necessity and possibility are interdefinable
+iv) Every proposition is either necessary or impossible or both possible and non-necessary
+
 * Diodorus Cronus (? – 284 B.C.)
 
+A conditional propositional is true if it neither was nor is possible that its antecedent is true and its consequent false. This is reminiscent of strict implication.
+
+Philo and Diodorus considered four modalities: possibility, impossibility, necessity, and non-necessity.
+These were conceived of as modal proporties or modal values of propositions, not as modal operators.
+
+Possible is that which either is or will be true; impossible is that which is false and will not be true; necessary that which is true and will not be false; non-necessary that which either is false already or will be false.
+
 * Philo of Megara (fl. 300 B.C.)
+
 Gave a truth-functional definition of the connective ‘if…then…’
+
+A conditional is false when and only when its antecedent is true and its consequent is false
+
+The Philonian conditional resembles material implication, except that — since propositions were conceived of as functions of time that can have different truth-avlues at different times — it may change its truth-value over time.
+
+Diodorus’ conditional is Diodorean-true now if and only if it is Philonian-true at all times.
+
+Possible is that which is capable of being true by the proposition’s own nature… necessary is that which is true, and which, as far as it is in itself, is not capable of being false. Non-necessary is that which as far as it is in itself, is capable of being false, and impossibel is that which by its own nature is not capable of being true.
 
 * Stoics
 
