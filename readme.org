@@ -371,6 +371,23 @@ ii) Possibility and impossibility are contradictories, and so are necessity and 
 iii) Necessity and possibility are interdefinable
 iv) Every proposition is either necessary or impossible or both possible and non-necessary
 
+Main achievement of stoics was the development of a propositional logic: a system of deduction in which the smallest substantial unanalyzed expressions are propositions, or rather, assertibles.
+
+** Definition of negation
+The Stoics defined negation as assertibles that consiste of a negative particle and an assertible controlled by this particle.
+
+** Complex propositions
+
+Non-simple assertibles were defined as assertibles that consist of more than one assertible or of one assertible taken more than once and that are controlled by a connective particle. Both definitions can be understood as being recursive and allow for assertibles of indeterminate complexity.
+
+What type of assertible an assertible is, is determined by the connective or logical particle that controls it, i.e. that has the largest scope. This is similar in some ways to the Polish notation.
+
+Stoic negations and conjunctions are truth-functional.
+Stoic disjunction is exclusive and non-truth functional.
+Later Stoics introduced a non-truth functional inclusive disjunction.
+
+TODO: Find out how truth-functional and non truth-functional distinction was made here.
+
 * Diodorus Cronus (? – 284 B.C.)
 
 A conditional propositional is true if it neither was nor is possible that its antecedent is true and its consequent false. This is reminiscent of strict implication.
@@ -476,6 +493,15 @@ Wrote books on paradoxes, dialectics, argument modes and predicates.
 Wrote over 30 books on logic including speech act theory, sentence analysis, singular and plural expressions, types of predicates, indexicals, existential propositions, sentential connectives, negations, disjunctions, conditionals, logical consequence, valid argument forms, theory of deduction, propositional logic, modal logic, tense logic, epistemic logic, logic of suppositions, logic of imperatives, ambiguity, and logical paradoxes.
 
 Was aware of the use-mention distinction. He seems to have held that every denoting expression is ambiguous in that it denotes both its denotation and itself
+
+Like Philo and Diodorus, Chrysippus distinguished four modalities and considered them modal values of propositions rather than modal operators; they satisfy the same standard requirements of modal logic.
+
+An assertible is possible when it is both capable of being true and not hindered by external things from being true.
+An assertible is impossible when it is [either] not capable of being true [or is capable of being true, but hindered by external things from being true].
+An assertible is necessary when, being tru, it either is not capable of being false or is capable of being false, but hindered by external things from being false.
+An assertible is non-necessary when it is both capable of being false and not hindered by external things [from being false].
+
+Chrysippus’ modal notions differ from Diodorus’ in that they allow for future contingents and from Philo’s in that they go beyond mere conceptual possibility.
 
 * Diogenes of Babylon (c. 240 – 152 B.C.)
 
