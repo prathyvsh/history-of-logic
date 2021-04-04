@@ -380,6 +380,20 @@ These were conceived of as modal proporties or modal values of propositions, not
 
 Possible is that which either is or will be true; impossible is that which is false and will not be true; necessary that which is true and will not be false; non-necessary that which either is false already or will be false.
 
+** The Master Argument
+
+Diodorus’ definition of possibility rules out future contingents and implies the counterintuitive thesis that only the actual is possible. 
+
+i) Every past truth is necessary
+ii) The impossible does not follow from the possible
+iii) Something is possible which neither is nor will be true
+
+
+Some affinity with the arguments for logical determinism in Aristotle’s De Interpretatione 9 is likely.
+
+** Ambiguity
+Diodorus held that no linguistic expression is ambiguous. He supported this dictum by a theory of meaning based on speaker intention. Speakers generally intend to say only one thing when they speak. What is said when they speak is what they intend to say. Any discrepancy between speaker intention and listener decoding has its cause in the obscurity of what was said, not its ambiguity.
+
 * Philo of Megara (fl. 300 B.C.)
 
 Gave a truth-functional definition of the connective ‘if…then…’
