@@ -811,7 +811,7 @@ Gave algebraic examples of categorical statements.
 
 * Isaac Watts (1674 – 1748)
 
-[[watts.jpg]]
+[[./img/watts.jpg]]
 
 ** Logic: Or the Right Use of Reason in the Enquiry after Truth, with a Variety of rules to guard against Error, in the Affairs of Religion and Human Life, as well as in the Sciences (1725)
 
@@ -837,7 +837,7 @@ Introduced Euler circles
 
 * Thomas Reid (1710 – 1796)
 
-[[reid.jpg]]
+[[./img/reid.jpg]]
 
 Helped establish the Aberdeen Philosophical Society in 1785
 
@@ -1041,7 +1041,7 @@ Tutor of Richard Whately
 
 * Richard Whately (1787 – 1863)
 
-[[whately.jpg]]
+[[./img/whately.jpg]]
 
 Whately’s work is said to have arose from the tradition of Henry Aldrich, Isaac Watts, and John Wesley.
 
