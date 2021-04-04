@@ -293,6 +293,59 @@ Settled on a one-sided possibility, so that possibility no longer entails non-ne
 
 Theophrastus and Eudemus introduced the principle that in mixed modal syllogisms the conclusion alwasy has the same modal character as the weaker of the premises, where possibility is weaker than actuality, and actuality than necessity.
 
+** Prosleptic Syllogisms
+
+Prosleptic syllogisms have the form:
+
+For all X, if f(X), then g(X)
+
+where f(X) and g(X) stand for categorical sentences in which the variable X occurs in place of one of the terms
+
+Statements like these are:
+
+1. A holds of all of that of all of which B holds.
+
+ForAll(X) (BaX -> AaX)
+
+2. A holds of none of that which holds of all of B
+
+ForAll(X) (XaB -> AeX)
+
+Prosleptic syllogisms are composed of a prosleptic premise and the categorical premise obtained by instantiating a term (C) in the antecedent ‘open categorical sentence’ as premises, and the categorical sentences one obtains by putting in the same term (C) in the consequent ’open categorical sentence’ as conclusion:
+
+A holds of all of that of all of which B holds
+B holds of C
+Therefore, A holds of all C
+
+Theophrastus distinguished there figures of these syllogisms, depending on the position of the indefinite term.
+
+Theophrastus held that certain prospleptic premises were equivalent to certain categorical sentences, but not all of them. Thus prosleptic syllogisms increased the inferential power of Peripatetic logic.
+
+Theophrastus and Eudemus considered complex premises which they called ’hypothetical premises’ and which had one of the following two (or similar) forms:
+
+If something is F, it is G
+Either something is F or it is G (with exclusive or)
+
+They developed arguments with them which they called ‘mixed from a hypothetical premise and a probative premise’.
+
+These were forerunners of modus ponens and modus tollens.
+
+Theophrastus considered quantified sentences such as those containing ’more’, ‘fewer’, and ’the same’.
+
+** Wholly Hypothetical Syllogisms
+
+If [something is] A, [it is] B
+If [something is] B, [it is] C
+Therefore, if [something is] A, [it is] C
+
+At least one of these syllogisms were regarded as reducible to Aristotle’s categorical syllogisms.
+
+In later antiquity, after some intermediate stages, and possibly under Stoic influence, the wholly hypothetical syllogisms were interpreted as propositional-logical arguments of the kind
+
+If p, then q.
+If q, then r.
+Therefore, if p, then r.
+
 * Philo the Dilectician (300 B.C.)
 
 * Megarians
