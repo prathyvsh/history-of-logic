@@ -404,6 +404,10 @@ This is similar to figures/moods in Aristotelian logic.
 
 In terms of modern day logic, Stoic syllogistic is best understood as a substructural backwards-working Gentzen-style natural deduction system that consists of five kinds of axiomatic arguments (the indemonstrables) and four inference rules, called themata.
 
+An argument is a syllogism precisely if it either is an indemonstrable or can be reduced to one by means of the hemata. Thus syllogisms are certain kinds of formally valid arguments.
+
+Stoics explictly acknowledged that there are valid arguments that are not syllogisms; but assumed taht these could be somehow tarnsformed into syllogisms.
+
 * Diodorus Cronus (? – 284 B.C.)
 
 A conditional propositional is true if it neither was nor is possible that its antecedent is true and its consequent false. This is reminiscent of strict implication.
@@ -807,7 +811,13 @@ Replacement for the Protestant logic of Melanchthon
 
 * François Viète (1540 – 1603)
 
-** Character Universalis
+* Philippe Du Trieu (1580 – 1645)
+
+** Manductio ad logicam (1641)
+
+* Franco Burgersdicius (1590 – 1636)
+
+** Institutionem Logicarum (1634)
 
 * Johann Heinrich Alsted (1588 – 1638)
 
@@ -864,6 +874,13 @@ Tried to reinstitute the rich detail of scholastic logic
 ** Universalia Euclidea. Accedunt ejusdem XII. Novi Syllogizandi Modi in propositionibus absolutis, cum XX. aliis in exclusivis, eâdem methodo Geometricâ demonstrates. Hagæ-Comitis (1661)
 
 Used diagrams like Euler circles
+
+* Narcissus Marsh (1638 – 1713)
+
+** Institutio Logicae. In Usum Juventutis Academicae Dubliniensis (1679)
+
+
+** Manductio ad Logicam
 
 * Christian Weise
 
@@ -1021,6 +1038,10 @@ Teacher of Hegel. Developed squares to represent syllogisms.
 ** Fundamenta Philosophiae Speculativae (1759)
 
 Used squares for logic diagrams
+
+* Richard Murray (d. 1799)
+
+** Artis logicæ compendium (1759)
 
 * Edward Tatham (1749 – 1834)
 
