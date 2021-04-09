@@ -1121,7 +1121,7 @@ Translated Aristotle’s work and gave a nominalist defense of his logic.
 
 * Richard Kirwan (1733 – 1812)
 
-** Logick (1807)
+** Logick: or an Essay on the Elements, Principles, and Different Modes of Reasoning (1807)
 
 * Salomon Maimon (1753 – 1800)
 
@@ -1302,6 +1302,10 @@ Presented an extensional logic
 * James Joseph Sylvester (1814 – 1897)
 
 ** System of Logic (1843)
+
+* Thomas Kingsmill Abbott (1829 – 1913)
+
+** The Elements of Logic (1883)
 
 * William Stanley Jevons (1835 – 1882)
 
