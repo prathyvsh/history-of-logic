@@ -749,6 +749,67 @@ The notion of variety collects all the non-logical relations. Since it is an inv
 
 Tarski-Lindenbaum invariance is based on isomorphism, but it can be seen from the higher perspective of notions always referring to the same classes of models.
 
+* Turing’s Thesis
+Solomon Feferman
+
+Read Apr 10 2021
+
+Alan Turing spent the years 1936 – 1938 doing graduate work under the direction of Alonzo Church.
+
+Two years sufficed for him to complete a thesis and obtain the Ph. D.
+
+Systems of Logic based on Ordinals
+
+First systematic attempt to deal with the natural idea of overcoming Gödelian incompleteness of formal systems by iterating the adjunction of statements
+
+Turing’s dissertation in undergraduate was “On the Gaussian error function” which contained his independent rediscovery of the central limit theorem.
+
+He attended the class of topologist M. H. A. (Max) Newman. One of the problems from Newman’s course that captured Turing’s attention was the Entscheidungsproblem, the question whether there exists an effective method to decide, given any well-formed formula of first-order predicate calculus, whether or not it is valid in all possible interpretations (equivalently, whether or not its negation is satisfiable in some interpretation).
+
+Turing became convinced that the answer must be negative, but that in order to demonstrate the impossibility of a decision procedure, he would have to give an exact mathematical explanation of what it means to be computable by a strictly mechanical process.
+
+By mid-April 1936 Turing came up with an idea of Turing machine, an idealized computational device following a finite table of instructions (in essence, a program) in discrete effective steps without limitation on time or space that might be needed for a computation.
+
+Furthermore, he showed that even with such unlimited capacities, the answer to the general Entscheidungsproblem must be negative. Turing quickly prepared a draft of his work entitled “On computable numbers, with an application to the Entscheidungsproblem”
+
+Neither Newman nor Turing were aware at that point that there were already two other proposals under serious consideration for analyzing the general concept of effective computability: one by Gödel called general recursiveness, building on an idea of Herbrand, and the other by Church, in terms of what he called the Lambda Calculus.
+
+In answer to the question, “Which functions of natural numbers are effectively computable?”, the Herbrand-Gödel approach was formulated in terms of finite systems of equations from which the values of the functions are to be deduced using some elementary rules of inference; since the functions to be defined can occur on both sides of the equations, this constitutes a general form of recursion.
+
+But Gödel regarded general recursiveness only as a “heuristic principle” and was not himself willing to commit to that proposed analysis.
+
+Using a representation of the natural numbers in the lambda calculus, a function f is said to be lambda-definable if there is an expression t such that for each pair of numerals n and m, tn evaluates out to m if and only if f(n) = m. In conversations with Gödel, Church proposed lambda-definability as the precise explanation of effective computability (Church’s Thesis), but in Gödel’s view that was “thoroughly unsatisfactory”. It was only through a chain of equivalences that ended up with Turing’s analysis that Gödel later came to accept it, albeit indirectly.
+
+The first link in the chain was forged with the proof by Church and Kleene than lambda-definability is equivalent to general recursiveness. Thus when Church finally announced his “Thesis” in 1936, in An unsolvable problem of elementary number theory, it was in terms of the latter.
+
+In a follow-up paper, A note on the Entscheidungsproblem, Church proved the unsolvability of the Entscheidungsproblem for logic.
+
+The news reached Cambridge a month later, but Turing’s analysis was sufficiently different to still warrant publication.
+
+After submitting it for publication toward the end of May 1936, Turing tacked on an appendix in August of that year in which he sketched proof of equivalence of computability by a machine in his sense with that of lambda-definability, thus forging the second link in the chain of equivalences.
+
+Church reviewed Turing’s paper and he wrote that there are equivalences between three different notions: computability by a Turing machine, general recursiveness in the sense of Herbrand-Gödel-Kleene, and lambda-definability in the sense of Church-Kleene.
+
+From this was born what is now called the Church Turing Thesis, according to which the effectively computable functions are exactly those computable by a Turing machine.
+
+On Newman’s recommendation, Turing decided to spend a year studying with Church.
+
+In the spring of 1937, Turing worked up for publication a proof in greater detail of the equivalence of machine computability with lambda-definability. He also published two papers on group theory, including one on finite approximations of continuous groups that was of interest to von Neumann.
+
+Turing, who had just turned 25, returned to England for the summer of 1937, where he devoted himself to 3 projects: finishing the computability / lambda-definability paper, ordinal logics, and the Skewes number.
+
+Skewes had shown that li(x) < 10_3(34) (triple exponential to the base 10), if the Riemann Hypothesis is true. Turing hoped to lower Skewes’ bound or eliminate the Riemann Hypothesis; in the end he thought he had succeeded in doing both and prepared a draft but did not publish his work. A paper based on Turing’s ideas, with certain corrections, was published after his death by Cohen and Mayhew.
+
+Church would not knowingly tolerate imprecise formulations or proofs, let alone errors, and the published version of Turing’s thesis shows that he went far to meet such demands while retaining his distinctive voice and original ways of thinking.
+
+What Turing calls a logic is nowadays more usually called a formal system, i.e. one prescribed by an effective specification of a language, set of axioms and rules of inference.
+
+Couldn’t precisely follow the technical details section.
+
+One reason that reception of Turing’s paper may have been so limited is that it was formulated in terms of the lambda-calculus, which makes expressions for ordinals and formal systems very hard to understand. Feferman draws attention to the comment of Kleene who changed his notation to that of general recursiveness because of audience reception in 1933-35 period.
+
+Feferman has worked out a paper in which he has cast Turing’s work on ordinal logics as a formal system with notions cast in general recursive functions and recursive notions for ordinals rather than the lambda-calculus.
+
 * On Process
 
 ** Conceptual Roots of Mathematics
