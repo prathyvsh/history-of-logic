@@ -688,7 +688,7 @@ Doctrine giving the normative rules of correct reasoning – Herbart
 * [[http://www.jyb-logic.org/papirs/alice5.pdf][The Mystery of the Fifth Logical Notion (Alice in the Wonderful Land of Logical Notions)]]
 Jean-Yves Bèziau
 
-Read on 30 March 2021
+Read 30 March 2021
 
 Logical notions as presented by Tarski
 Presents a challenging fifth logical notion
@@ -813,7 +813,7 @@ Feferman has worked out a paper in which he has cast Turing’s work on ordinal 
 * The Algebra of Logic: What Boole Really Started
 Judy Green
 
-Read On
+Read 11 Apr 2021
 
 An algebra of logic of the 19th century was a scheme for symbolizing logical relationships as algebraic ones in such a way that logical deductions could be accomplished by algebraic manipulations. Boole wrote three works on logic and none of them is said to have adequately dealt with existential statements. None of Boole’s successors too is said to have adequately dealt with them either, although some of the later versions of the algebra of logic improved substantially on Boole’s treatment.
 
