@@ -810,6 +810,107 @@ One reason that reception of Turing’s paper may have been so limited is that i
 
 Feferman has worked out a paper in which he has cast Turing’s work on ordinal logics as a formal system with notions cast in general recursive functions and recursive notions for ordinals rather than the lambda-calculus.
 
+* The Algebra of Logic: What Boole Really Started
+Judy Green
+
+Read On
+
+An algebra of logic of the 19th century was a scheme for symbolizing logical relationships as algebraic ones in such a way that logical deductions could be accomplished by algebraic manipulations. Boole wrote three works on logic and none of them is said to have adequately dealt with existential statements. None of Boole’s successors too is said to have adequately dealt with them either, although some of the later versions of the algebra of logic improved substantially on Boole’s treatment.
+
+During the approximately 50 years that constituted the period in which the algebra of logic was the mainstream of mathematical research in logic, logicians never agreed upon a single notation system. Finally, around the turn of the century, the term “algebra of logic” began to be used in the modern sense of Boolean algebra and, because of that, what Boole started in 1847 is now essentially hidden.
+
+What George Boole really started was not Boolean algebra but the algebra of logic.
+
+It was not an algebraic structure defined in terms of operations and axioms that the operations satisfy rather an algebra of logic was a scheme for grounding logical relationships as algebraic ones in a way that logical deductions could be accomplished by algebraic manipulations.logical relationships as algebraic ones in a way that logical deductions could be accomplished by algebraic manipulations. Boole’s development of such a scheme was motivated by work in the calculus of operations in early 19th century Great Britain. 
+
+Boole was influenced by Duncan Gregory’s work on the calculus of operations.
+
+Boole quotes from Gregory’s work in “On a General Method in Analysis” and uses this principle in his work in The Mathematical Analysis of Logic. He states that laws of combination can be more general than the quantitative interpretation in which some forms are determined.
+
+Boole defines his symbols so that 1 represents his universe.
+Uppercase letters which only appear in the text as generic members of classes
+Lowercase letters are called elective symbols operate on classes.
+
+He states: “the symbol x operating upon any subject comprehending individuals or classes, shall be supposed to select from that subject all the Xs which it contains”.
+
+Also, when no subject is expressed, 1 (the Universe) is supposed to be the subject.
+
+x can be thought of as x * 1, where all Xs are thus selected.
+
+xy means the intersection of all Xs and Ys in modern terms
+
+Interpreting addition as disjoint union, Boole shows that his interpretation requires 3 rules:
+
+1. Distribution of Multiplication over Addition
+2. Commutativity of Multiplication
+3. Index Law (x ^ n = x)
+
+These rules are stated as being sufficient for the calculus
+
+The statements:
+
+All Xs are Ys and No Xs are Ys can be cast as x(1-y) = 0 and xy = 0 respectively.
+
+But Some Xs are Ys and Some Xs are not Ys makes use of a separate elective symbol v that roughly represents the operation of selecting all elements, V, of a nonempty subset of appropriate terms.
+
+In effect, when a logical premise is interpreted algebraically according to this scheme, the auxiliary equations or conditions become additional premises that carry existential interpretations.
+
+For example, the auxiliary equations for the expression Some Xs are not Ys carry the existential implications that there are Xs and there are not Ys. When an algebraic conclusion is to be reinterpreted in logical terms, the auxiliary conditions, and equations, must be satisfied.
+
+Boole algebraically derives syllogisms by eliminating the variable representing the middle term from the two equations representing the premises.
+
+After discussing the syllogism, Boole extends his 1847 system to deal with a calculus of propositions. As before, the lower case letters that appear in the formulas are given an operational interpretation, x, representing the operation of selecting those cases for which the proposition X is true and 1 - x selecting those for which it is false.
+
+Boole ends The Mathematical Analysis of Logic by considering elective functions and equations, that is functions and equations involving elective symbols, x, y, v, etc. In solving elective equations he uses techniques of the algebra of quantity, such as Maclaurin’s theorem and division, including division by 0.
+
+A discussion on interpretations that can be given to division by 0 and the fraction 0/0 was described by De Morgan in his “On the study and difficulties of mathematics (1831)”. This is then lead up to how Boole interpreted fractions like 0/0 and 1/0 in his work.
+
+It was suggested to Boole to use the copula of >, so that he can eliminate the need for the elective symbol v used for denoting when representing categorical statements that involve quantifier “some”.
+
+Boole gives two different interpretations of the statement No Xs are Ys and says that one is an assertion respecting a proposition and the other as a single categorical proposition.
+
+Boole in his 1854, The Laws of Thought, addresses both categorical and hypothetical propositions, this time referring to the categorical propositions, ones that express relations between things, as primary, and to the hypothetical propositions, ones that express relations between propositions, as secondary.
+
+There is also the suggestion of the theory of Boolean algebras as an algebraic structure.
+
+The logicians who followed Boole also relied heavily on the interpretations in which tehy were working.
+
+In the development and presentation of these algebras of logic, there was an ongoing interaction between the formulation of the calculus and its intended interpretation that is absent in the more modern formalistic view.
+
+Venn wanted to give particular statements a universal interpretation, while Boole, in his later works, gave his universal statements an existential import.
+
+Venn’s suggestion that a particular statement should be replaced by a reference to a specific object that has the required property bears some resemblance to the modern constructivist development of mathematics.
+
+Even though the successors of Boole were less strict on maintaining the analogy between algebra of logic and the algebra of quantity, their analyses blur some crucial distinctions.
+
+The logic of sets and propositions are often not distinguished from one another. At a more fundamental level, the algebra of logic never achieved separation between syntax and semantics, that is, between the rules of formation of formulas and their manipulation on the one hand, and the interpretation of the symbols on the other.
+
+This distinction was hinted at by Augustus De Morgan in “On the foundation of algebra” published in 1941 (Read on 9 December 1839).
+
+Algebra now consists of two parts, the technical, and the logical. Technical algebra is the art of using symbols under regulations which, when this part of the subject is considered independently of the other, are prescribed as the definitions of the symbols. Logical algebra is the science which investigates the method of giving meaning to the primary symbols, and of intepreting all subsequent symbolic results.
+
+De Morgan credits George Peacock as making the distinction between these two parts of algebra first.
+
+While Boole didn't use any other copula than the equality symbol, some of the systems developed by his people who came after him used such copula. Ladd writes about them:
+
+Algebras of Logic may be divided into two classes, according as they assign the expression of the “quantity” of propositions to the copula or to the subject. Algebras of the latter class use one copula only — the sign of equality; for an algebra of the former class two copulas are necessary, — one universal and one particular.
+
+The word quantity in the above quotation refers to the distinction between universal and existential statements, that is between statements that involve the concept all and the concept some.
+
+Venn’s Symbolic Logic included 25 different symbolic expressions for No S is P, reflecting not merely differing notational preferences but, in many cases, actual conceptual differences.
+
+Work that is generally considered to have presetned the algebra of logic in its most mature form is Ernst Schröder’s three volume Vorlesungen über die Algebra der Logik, published between 1890 and 1905.
+
+Both Schröder and Peirce recognized that the algebra of logic is not really an axiomatic system.
+
+Around the turn of the century, Whitehead and Huntington used the expression “algebra of logic” to denote the formal calculus that can be abstracted from the propositional calculus and naive set theory and that forms the basis of the theory of Boolean algebras.
+
+The term “Boolean algebra” was not used in this sense until H. M. Sheffer coined the term in his 1913 paper, “A Set of Five Independenent Postulates for Boolean Algebras, with Application to Logical Constants.”
+
+Although the term had been used by Peirce around 1880, he used it to refer to techniques of symbol manipulation, not to algebraic structures.
+
+The changing meaning and interchangeable use of the two expressions, “algebra of logic” and “Boolean algebra,” has tended to lead to an over-simplified historical picture of the 19th century algebra of logic, which was both less abstract and more ambitious than the theory of Boolean algebras.
+
 * On Process
 
 ** Conceptual Roots of Mathematics

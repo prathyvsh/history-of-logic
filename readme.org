@@ -1239,6 +1239,9 @@ Boole was inspired to take up work in logic after seeing a dispute between De Mo
 
 Boole’s logic on deductive logic is but one half with inductive logic and probability theory being the other half of his works in 1847 and 1854.
 
+What Boole started could be thought of as algebraizing logic rather than the algebraic structure that bears his name in modern logic. This is a way of constructing a formal system from which logical deductions could be drawn out by algebraic manipulations.
+
+
 TODO: Trace if these letters of dispute between De Morgan and Hamilton is available.
 
 ** [[https://archive.org/details/mathematicalanal01bool/page/n3/mode/2up][The mathematical analysis of logic (1847)]]
@@ -1261,7 +1264,10 @@ A good introduction into the life of George Boole.
 
 *** [[https://royalsocietypublishing.org/doi/10.1098/rsnr.1956.0006][Boole and the Algebra of Logic – Kneale 1956]]
 
-*** [[https://projecteuclid.org/download/pdf_1/euclid.rml/1204835162][The algebra of logic: What Boole really started (1994)]]
+*** [[https://projecteuclid.org/download/pdf_1/euclid.rml/1204835162][The algebra of logic: What Boole really started - Judy Green 1994]]
+
+*** Categoricals and hypotheticals in George Boole and his successors
+Arthur Prior, 1949
 
 * Augustus De Morgan (1806 – 1871)
 
@@ -1378,6 +1384,8 @@ This helps with modelling logic when classes themselves have other classes insid
 ** [[https://www.jstor.org/stable/40320486?seq=1][The Life and Logical Contributions of O. H. Mitchell, Peirce’s Gifted Student]]
 
 * Christine Ladd Franklin (1847 – 1930)
+
+** On the algebra of logic (1883)
 
 * Gottlob Frege (1848 – 1925)
 
