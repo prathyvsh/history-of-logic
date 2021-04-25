@@ -1270,6 +1270,9 @@ A good introduction into the life of George Boole.
 
 *** [[https://royalsocietypublishing.org/doi/10.1098/rsnr.1956.0006][Boole and the Algebra of Logic – Kneale 1956]]
 
+*** [[https://www.hf.uio.no/ifikk/forskning/publikasjoner/tidsskrifter/njpl/vol2no1/history.pdf][A Brief History of the Notation of Boole’s Algebra]]
+Michael Schoeder (1997)
+
 *** [[https://projecteuclid.org/download/pdf_1/euclid.rml/1204835162][The algebra of logic: What Boole really started - Judy Green 1994]]
 
 *** Categoricals and hypotheticals in George Boole and his successors
