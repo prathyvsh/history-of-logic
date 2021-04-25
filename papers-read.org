@@ -673,17 +673,161 @@ The author closes the article by saying that logical theories are closely entwin
 
 ** [[https://www.researchgate.net/publication/38373160_19th_Century_Logic_Between_Philosophy_and_Mathematics][19th Century Logic between Philosophy and Mathematics]]
 
+Read 25 April 2021
+
+In both book of Symbolic Logic, there is astonishingly no definition of the term “logic”.
+
+In 19th century, logic was defined as:
+The art and science of reasoning (Whately)
+Doctrine giving the normative rules of correct reasoning (Herbart)
+
+Symbolic logic arose from the old philosophical collective discipline of logic.
+
+The standard presentations of the history of logic ignore the relationship between the philosophical and mathematical side of its development; they sometimes even deny that there has been any development of philosophical logic at all.
+
+In The Development of Logic by Martha and William Kneale, they have written that “But our primary purpose has been to record the first appearances of these ideas which seem to us most important in the logic of our own day,” and these are the ideas leading to mathematical logic.
+
+J. M. Bochenski’s assessment of “modern classical logic” which he scheduled between the 16th and 19th century was a noncreative period in logic which can therefore justly be ignored in the problem history of logic. According to Bochenski classical logic was only a decadent form of this science, a dead period in its development.
+
+Such assessments show that authors adhered to the predominant views on logic of our time, i.e. actual systems of mathematical logic or symbolic logic. As a consequence, they have not been able to give reasons for the final divorce between philosophical and mathematical logic, because they have ignored the seed from which mathematical logic has emerged.
+
+There are also oversimplifications present in treatments like that of Carl B. Boyer where the periods are divided into 1) Greek Logic 2) Scholastic Logic 3) Mathematical Logic skipping over works like Kant’s transcendental logic, Hegel’s metaphysics and Mill’s inductive logic. Whately’s and others works of these period I think gets skimmed over too.
+
 The paper’s abstract says that it will be answering the following questions:
 
-Reasons for philosopher’s lack of interest in formal logic
-Reasons for mathematcian’s interest in logic
-Meaning of logic reform in the 19th century; Were the systems of mathematical logic initially regarded as contributions to a reform of logic
-Was mathematical logic regarded as art, as science or as both?
+- Reasons for philosopher’s lack of interest in formal logic
+- Reasons for mathematician’s interest in logic
+- Meaning of logic reform in the 19th century; Were the systems of mathematical logic initially regarded as contributions to a reform of logic
+- Was mathematical logic regarded as art, as science or as both?
 
-Definitions of logic from 19th century:
+British logicians regarded Germany as the logical paragon.
 
-The Art and Science of Reasoning — Richard Whately
-Doctrine giving the normative rules of correct reasoning – Herbart
+** 2 Contexts
+*** 2.1 The Philosophical Context in Great Britain
+
+The development of the new logic started in 1847, completely independent of earlier anticipations, e.g. by the German rationalist Gottfried Wilhelm Leibniz and his followers. In that year British mathematician George Boole published his pamphlet The Mathematical Analysis of Logic. Boole mentioned that it was the struggle for priority concerning the quantification of the predicate between the Edinburgh philosopher William Hamilton and the London mathematician Augustus De Morgan which encouraged his study.
+
+Hence, he referred to a startling philosophical discussion which indicated a vivid interest in formal logic in Great Britain. This interest was, however, a new interest, not even 20 years old. One can even say that neglect of formal logic could be regarded as a characteristic feature of British philosophy up to 1826 when Richard Whately published his Elements of Logic.
+
+Thomas Lindsay, the translator of Friedrich Ueberweg’s important System der Logik und Geschichte der logischen Lehren was very critical of the scientific qualities of Whately’s book, but he, nevertheless, emphasized its outstanding contribution for the renaissance of formal logic in Great Britain.
+
+One year after the publication of Whately’s book, George Bentham’s An Outline of a New System of Logic appeared which was to serve as a commentary to Whately. Bentham’s book was discussed by William Hamilton in a review article published in the Edinburgh Review (1833). With the help of this review Hamilton fuonded his reputation as the “first logical name in Britain, it may be in the world”. This was the opinion of De Morgan written in a letter to Spalding which was not sent. For George Boole, Hamilton was one of the “two greatest authorities in logic, modern and ancient”. The other authority is Aristotle.
+
+Hamilton propagated a revival of the Aristotelian scholastic formal logic without, however, one-sidedly preferring the syllogism. His logical conception was focused on a revision of the standard forms by quantifying the predicates of judgements.
+
+The controversy about priority arose, when De Morgan, in a lecture “On the Structure of the Syllogism” given to the Cambridge Philosophical Society on 9th November 1846, also proposed quantifying predicates.
+
+None had any priority, of course. Application of the diagrammatic methods of the syllogism proposed e.g., by the 18th century mathematicians and philosophers Leonard Euler, Gottfried Ploucquet, and Johann Heinrich Lambert, presupposed quantification of the predicate.
+
+German psychologistic logician Friedrich Eduard Beneke suggested quantifying the predicate in his books on logic of 1839 and 1842, the latter of which he sent to Hamilton.
+
+Releasing of The Elements of Logic by Whately revived the interest in formal logic. This interest represented only one side of the effect. Another line of research stood in the direct tradition of Humean empiricism and the philosophy of inductive sciences: the inductive logic of John Stuart Mill, Alexander Bain, and others. Boole’s logic was in clear opposition to inductive logic. It was Boole’s follower William Stanley Jevons who made this opposition explicit.
+
+*** 2.2 The Philosophical Context in Germany
+
+It seems clear that, in regard to the 18th century dichotomy between German and British philosophy represented by the philosophies of Kant and Hume, Hamilton and Boole stood on the Kantian side.
+
+In the preface to the second edition of his Kritik der reinen Vernunft of 1787, Kant wrote that logic has followed the safe course of a science since earliest times. For Kant this was evident because of the fact that logic had been prohibited from taking any steps backwards from the time of Aristotle. But he regarded it as curious that logic hadn’t taken a step forward either. Thus, logic seemed to be closed and complete. Formal logic, in Kant’s terminology the analytical part of general logic, did not play a prominent role in Kant’s system of transcendental philosophy. In any case it was a negative touchstone of truth, as he stressed. Georg Wilhelm Friedrich Hegel went further in denying any relevance of formal logic for philosophy.
+
+Referring to Kant, he maintained that from the fact that logic hadn’t changed since Aristotle one could infer that it needed a complete rebuilding. Hegel created a variant of logic as the foundational science of his philosophical system, defining it as “the science of the pure idea, i.e., the idea in the abstract element of reasoning”. Hegelian logic thus coincides with metaphysics.
+
+This was the situation when after Hegel’s death philosophical discussion on logic in Germany started. This discussion on logic reform stood under the label of “the logical question“, a term coined by the Neo-Aristotelian Adolf Trendelenburg. In 1842 he published “Zur Geschichte von Hegel”s Logick und dialektischer Methode” with the subtitle ºDie logische Frage in Hegel’s Systeme”. The logical question according to Trendelenburg was: “Is Hegel’s dialectical method of pure reasoning a scientific procedure?”. In answering this question in the negative, he provided the occasion of rethinking the status of formal logic within a theory of human knowledge without, however, proposing a return to the old (scholastic) formal logic. In consequence the term “the logical question” was subsequently used in a less specific way. Georg Leonard Rabus, the early chronicler of the discussion on logic reform, wrote that the logical question emerged from doubts concerning the justification of formal logic.
+
+Although this discussion was clearly connected to formal logic, the so-called reform did not concern formal logic. The reason was provided by the Neo-Kantian Wilhelm Windelband who wrote that the technique of correct thinking had been brought to perfection by Aristotelian philosophy.
+
+Windelband was very critical of English mathematical logic. Its quantification of the predicate allows the correct presentation of extensions in judgements, but it “drops hopelessly” the vivid sense of all judgement, which tend to claim or deny a material relationship between subject or predicate. It is “a logic of the conference table”, which cannot be used in the vivid life of science, a “logical sport” which has, however, its merits in exercising the final acumen.
+
+The philosophical reform efforts concerned primarily two areas:
+
+1. The problem of a foundation of logic which itself was approached by psychological and physiological means, leading to new discussion on the question of priority between logic and psychology, and to various forms of psychologism and anti-psychologism.
+2. The problem of logical applications focusing interest on the methodological part of traditional logic. The reform of applied logic attempted to bring philosophy in touch with the stormy development of mathematics and sciences of the time
+
+Both reform procedures had a destructive effect on the shape of logic and philosophy: The struggle with psychologism led to the departure of psychology form the body of philosophy at the beginning of the 20th century. Psychology became a new, autonomous scientific discipline. The debate on methodology emerged with the creation of the philosophy of science which was separated from the body of logic. The philosopher’s ignorance of the development of formal logic caused a third departure: Part of formal logic was taken from the domain of the competence of philosophy and incorporated into mathematics where it was instrumentalized for foundational tasks.
+
+** The Mathematical Context in Great Britain
+
+Most of the new logicians in the period where philosophical discussions influenced logic in Great Britain can be related to the so-called “Cambridge Network” (Cannon 1978), i.e. the movement which aimed at reforming British science and mathematics which started at Cambridge.
+
+Science in Culture: The Early Victorian Period (1978)
+
+One of the roots of this movement was the foundation of the Analytical Society in 1812 by Charles Babbage, George Peacock, and John Herschel.
+
+One of the first achievements of the Analytical Society was a revision of the Cambridge Tripos by adopting the Leibnitzian notation for the calculus and abandoning the customary Newtonian theory of fluxions. It may be assumed that this successful movement triggered off by a change in notation might have stimulated a new or at least revived interest in operating with symbols. This new research on the calculus had parallels in innovative approaches to algebra which were motivated by the reception of Laplacian analysis. 
+
+Firstly the development of symbolical algebra has to be mentioned. It was codified by George Peacock in his Treatise on Algebra (1830) and further propagated in his famous report for the British Association for the Advancement of Science.
+
+Peacock started by drawing a distinction between arithmetical and symbolical algebra, which was, however, still based on the common restrictive understanding of arithmetic as the doctrine of quantity. A generalization of Peacock’s concept can be seen in Duncan Gregory’s “calculus of operations”. Gregory was most interested in operations with symbols. He defined symbolical algebra as “the science which treats of the combination of operations defined not by their nature, that is by what they are or what they do, but by the laws of combinations to which they are subject”.  Boole made the calculus of operations the basic methodological tool for analysis. However in following Gregory, he went further, proposing more applications. He cited Gregory who wrote that a symbol is defined algebraically “when its laws of combination are given; and that a symbol represents a given operation when the laws of combination of the latter are the same as those of the former”. It is possible that a symbol for an arbitrary operation can be applied to the same operation (What does this mean?). It is thus necessary to distinguish between arithmetical algebra and symbolical algebra which has to take into account symbolical, but non-arithmetical fields of application. As an example Gregory mentioned the symbols a and +a. They are the same in arithmetic, but in geometry a can denote a point marked by a line, whereas +a denotes the direction of the line.
+
+Gregory deplored the fact that the unequivocity of notation didn't prevail as a result of the persistence of mathematical practice. Clear notation was only advantageous, and Gregory thought that our minds would be “more free from prejudice, if we never used in the general science symbols to which definite meanings had been appropriated in the particular science”. Boole adopted this criticism almost word for word. In his Mathematical Analysis of Logic he claimed that the reception of symbolic algebra and its principles was delayed by the fact that in most interpretations of mathematical symbols the idea of quantity was involved. He felt that these connotations of quantitative relationships were the result of the context of the emergence of mathematical symbolism, and not of a universal principle of mathematics.
+
+Boole read the principle of the permanence of the equivalent forms as a principle of independence from interpretation in an “algebra of symbols”. In order to obtain further affirmation, he tried to free the principle from the idea of quantity by applying the algebra of symbols to another field, the field of logic.
+
+Principle of the Permanence of Form was formulated by George Peacock.
+
+Boole expressed logical propositions in symbols whose laws of combination are based on the mental acts represented by them. Thus he attempted to establish a psychological foundation of logic, mediated, however, by language. The central mental act in Boole’s early logic is the act of election used for building cases. Man is able to separate objects from an arbitrary collection which belong to given classes, i order to distinguish them from others. The symbolic representation of these mental operations follows certain laws of combination which are similar to those of symbolic algebra. Logical theorems can thus be proven like mathematical theorems. Boole’s opinion has of course consequences for the place of logic in philosophy: “On the principle of a true classification, we ought no longer to associate Logic and Metaphysics, but Logic and Mathematics”.
+
+Although Boole’s logical considerations became increasingly philosophical with time, aiming at the psychological and epistemological foundations of logic itself, his initial interest was not to reform logic but to reform mathematics. He wanted to establish an abstract view on mathematical operations without regard to the objects of these operations. When claiming “a place among the acknowledged forms of Mathematical Analysis” for the calculus of logic, he didn't simply want to include logic in traditional mathematics. The superordinate discipline was a new mathematics. This is expressed in Boole’s writing: “It is not of the essence of mathematics to be conversant with the ideas of number and quantity”.
+
+** 2.4 The Mathematical Context in Germany
+
+
+The most important representative of the German algebra of logic was the mathematician Ernst Schröder who was regarded as having completed the Boolean period in logic. In his first pamphlet on logic, Der Operationskreis des Logikkalkuls (1877), he presented a critical revision of Boole’s logic of classes, stressing the idea of duality between logical addition and logical multiplication introduced by William Stanley Jevons in 1864. In 1890, Schröder started on the large project, his monumental Vorlesungen über die Algebra der Logick which remained unfinished although it increased to three volumes with four parts, of which one appeared only posthumously.
+
+Schröder’s own survey of his scientific aims and results contained a three part division:
+
+1. A number of papers dealing with some of the current problems of his science
+2. Studies concerned with creating an “absolute algebra”, i.e., a general theory of connections. Schröder stresed that such studies represent his “very own object of research” of which only little was published at that time
+3. Work on the reform and development of logic
+
+Schröder’s own division of his fields of research shows that he didn’t consider himself a logician: His “very own object of research” was “absolute algebra”, and in respect to its basic problems and fundamental assumptions similar to modern abstract or universal algebra. What was the connection between logic and algebra in Schröder’s research? From the passages quoted one could assume that they belong to two separate fields of research, but this in to the case. They were intertwined in the framework of his heuristic idea of a general science. In his autobiographical note he stressed:
+
+The disposition of schematizing, and the aspiration to condense practice to theory advised Schröder to prepare physics by perfecting mathematics. This required deepening-as of mechanics and geometry— above all of arithmetic and subsequently he became by the time aware of the necessity for a reform of the source of all these disciplines, logic.
+
+Schröder’s universal claim becomes obvious. His scientific efforts served to provide the requirements to found physics as the science of material nature by “deepening the foundations,” to quote a famous metaphor later used by David Hilbert in order to illustrate the objectives of his axiomatic programme. Schröder regarded the formal part of logic that can be formed as a “calculating logic,” using a symbolical notation, as a model of formal algebra that is called “absolute” in its last state of development.
+
+It has to be stressed that Schröder wrote his early considerations on formal algebra and logic without any knowledge of the results of his British predecessors. His sources were the textbooks of Martin Ohm, Herman Günther Graßmann, Hermann Hankel and Robert Graßmann. These sources show that Schröder was a representative of the tradition of German combinatorial algebra and algebraic analysis.
+
+Like the British tradition, but independent of it, the German algebra of logic was connected to new trends in algebra. It differed from its British counterpart in its combinatorial approach. In both traditions, algebra of logic was invented with the enterprise to reform basic notions of mathematics which led to the emergence of structural abstract mathematics. The algebraists wanted to design algebra as “pan-mathematics”, i.e. as a general discipline embracing all mathematical disciplines as special cases. The independent attempts in Great Britain and Germany were combined when Schröder learned about the existence of Boole’s logic in late 1873, early 1874. Finally he enriched the Boolean class logic by adopting Charles S. Peirce’s theory of quantification and adding a logic of relatives according to the model of Peirce and De Morgan.
+
+** 3. Accepting the New Logic
+
+Although created by mathematicians, the new logic was widely ignored by fellow mathematicians. Both Schröder and Boole received little recognition at the time of their publication. The situation changed after George Boole’s death in 1864.
+
+*** 3.1 William Stanley Jevons
+
+A broader international reception of Boole’s logic began when William Stanley Jevons made it the starting point for his influential Principles of Science of 1874. He used his own version of the Boolean calculus introduced in his Pure Logic of 1864.
+
+Jevons considered Mathematics as a derivative of Logic. This relationship between mathematics and logic representing an early logicistic attitude is said to be shared by Gottlob Frege, Hermann Rudolf Lotze, and Ernst Schröder.
+
+Jevons abandoned mathematical symbolism in logic, an attitude which was later take up by John Venn. Jevons attempted to free logic from the semblance of being a special mathematical discipline. He used the symbolic notation only as a means of expressing general truths. Logic became a tool for studying science, a new language providing symbols and structures. The change in notation brought the logic closer to the philosophical discourse of the time. The reconciliation was supported by the fact that Jevons formulated his Principles of Science as a rejoinder to John Stuart Mill’s A System of Logic of 1843, at that time the dominant work on logic and the philosophy of science in Great Britain.
+
+Although Mill called his logic A System of Logic Ratiocinative and Inductive, the deductive parts played only a minor role, used only to show that all inferences, all proofs and discovery of truths consisted of inductions and their interpretations. Mill claimed to have shown “that all our knowledge, not intuitive, comes to use exclusively from that source”. Mill concluded that the question as to what induction is, is the most important question of the science of logic, “the question which includes all others”. As a result the logic of induction covers by far the largest part of this work, a subject which we would today regard as belonging to the philosophy of science.
+
+Jevons defined induction as a simple inverse application of deduction. He began a direct argument with Mill in a series of papers entitled “Mill’s Philosophy Tested”.
+
+Another effect of the attention caused by Jevons was that British algebra of logic was able to cross the Channel. In 1877. Louis Liard, at that time professor at the Faculté de lettres at Bordeaux and a friend of Jevons, published two papers on the logical systems of Jevons and Boole.
+
+Although Herman Ulrici had published a first German review of Boole’s Laws of Thought as early as 1855, the knowledge of British symbolic logic was conveyed primarily by Alois Riehl, then professor at the University of Graz, in Astria. He published a widely read paper “Die englische Logik der Gegenwart” in 1877 which reported mainly Jevons’ logic and utilized it in a current German controversy on the possibility of scientific philosophy.
+
+** 3.2 Alexander Bain
+
+Alexander Bain was a Scottish philosopher who was an adherent of Mill’s logic. Bain’s Logic, first published in 1870, had two parts, the first on deduction and the second on induction. He shared the “[…] general conviction that the utility of the purely Formal Logic is but small; and that the rules of induction should be exemplified even in the most limited course of logical discipline”. The minor role of deduction showed up in Bain’s definition “Deduction is the application or extension of Induction to new cases”.
+
+Despite his reservations about deduction. Bain’s Logic was quite important for the reception of symbolic logic because of a chapter of 30 pages entitled “Recent Additions to the Syllogism”. In this chapter the contributions of William Hamilton, Augustus De Morgan, and George Boole were introduced. Presumably many more people became acquainted with Boole’s algebra of logic through Bain’s report than through Boole’s own writings. One example is Hugh MacColl, the pioneer of the calculus of propositions and of modal logic. He created his ideas independently of Boole, eventually realizing the existence of the Boolean calculus by means of Bain’s report. Tadeusz Batóg and Roman Murawksi (Stanisaw Pi atkiewicz and the Beginnings of Mathematical Logic in Poland, 1996) have shown that it was Bain”’s presentatino which motivated the first Polish algebraist of logic, Stanisaw Pi atkiewicz to begin his research on symbolic logic.
+
+The remarkable collaboration of mathematics and philosophy can be seen in the fact that a broader reception of symbolic logic commenced only when its relevance for the philosophical discussion of the time came to the fore.
+
+In Germany in the second half of the 19th century. Logic reform meant overcoming the Hegelian identification of logic and metaphysics. In Great Britain it meant enlarging the scope of the syllogism or elaborating the philosophy of science. Mathematicians were initially interested in utilizing logic for mathematical means, or they used it as a language for structuring and symbolizing extra-mathematical fields. Applications were for example:
+
+- The foundation of mathematics (Boole, Schröder, Frege)
+- The foundation of physics (Schröder)
+- The preservation of rigour in mathematics (Peano)
+- The theory of probabilities (Boole, Venn)
+- The philosophy of science (Jevons)
+- The theory of human relationships (Alexander Macfarlane)
+and juridical questions.
+
+The mathematicians’ preference for the organon aspect of formal logic seems to be the point of deviation between mathematicians and the philosophers who were not interested in elaborating logic as a tool.
 
 * [[http://www.jyb-logic.org/papirs/alice5.pdf][The Mystery of the Fifth Logical Notion (Alice in the Wonderful Land of Logical Notions)]]
 Jean-Yves Bèziau
@@ -1089,7 +1233,7 @@ Thus, at the very beginning of logic we find what has come to be known as the tr
 
 The adjectival phrase truth-and-consequence is elliptical for the more informative but awkward ‘established-truth-and-deduced-consequence’.
 
-Nevertheless, we still find otherwise competent logicians seeming to espouse the absurdity that a proposition that is a consequence of truths is proved. (Question to self: Why is this not true? Where does the absurdity arise from?) This is similar to Quine’s inadvertent statement that “If one statement is held to be true, each statement implied by it must also be held to be true” — which could be improved by changing “implied” to “held to be implied”.
+Nevertheless, we still find otherwise competent logicians seeming to espouse the absurdity that a proposition that is a consequence of truths is proved. (Question to self: Why is this not true? Where does the absurdity arise from? Ans: This is apparently because a consequence if not derived gaplessly, could not be a proof. I think Corcoran is alluding to such consequences here which can be held as consequence of the premises, but without self evident steps. I might need to substantiate this with an example. One good place to make sure this notion is correct is to read Corcoran’s other works on this matter.) This is similar to Quine’s inadvertent statement that “If one statement is held to be true, each statement implied by it must also be held to be true” — which could be improved by changing “implied” to “held to be implied”.
 
 Over and above the premises and conclusion, every proof has a chain-of-reasoning that shows that the (final) conclusion fc follows logically form the premises. An Aristotelian direct proof based on 3 premises: p1, p2, p3, and having a chain-of-reasoning with 3 intermediate conclusions ic1, ic2, ic3, can be pictured as:
 
@@ -1248,6 +1392,7 @@ Many-sorted logic with sortal variables is prominent in Hilbert (Foundations of 
 *** Boole’s Criteria for Validity and Invalidity (1980) (with Susan Wood)
 *** Notes on the Founding of Logic and Metalogic: Aristotle, Boole, and Tarski (2007)
 *** Aristotle’s Prior Analytics and Boole’s Laws of Thought (2003)
+*** Meanings of Inference, Deduction, and Derivation (2006)
 *** Meanings of Form (2008)
 *** Aristotle’s Many Sorted Logic (2008)
 *** The Founding of Logic: Modern Interpretations of Aristotle’s Logic (1994)
