@@ -911,6 +911,325 @@ Although the term had been used by Peirce around 1880, he used it to refer to te
 
 The changing meaning and interchangeable use of the two expressions, “algebra of logic” and “Boolean algebra,” has tended to lead to an over-simplified historical picture of the 19th century algebra of logic, which was both less abstract and more ambitious than the theory of Boolean algebras.
 
+* Notes on the Founding of Logics and Metalogic: Aristotle, Boole, and Tarski
+** John Corcoran (2007)
+
+Read 25 April 2021
+
+It is said to be a series of notes than a scholarly treatise. Notes presented here using concepts introduced or formalized by Tarski contribute toward two main goals:
+1) Comparing Aristotle’s system with one Boole constructed intending to broaden and to justify Aristotle’s
+2) Giving a modern perspective to both logics
+
+Aristotle is best representative of the earlier period
+Boole of the transitional period
+Tarski best of the most recent period
+
+Five great logicians:
+Aristotle
+George Boole
+Alfred Tarski
+Gottlob Frege
+Kurt Gödel
+
+Aristotle a prolific philosopher
+Boole an influential mathematical analyst
+Tarski an accomplished algebraist, geometer and set-theorist
+
+Aristotle founded logic as organon - as “formal epistemology”. He was the first to systematically attempt a theory of demonstrative proof and the first to develop criteria of validity and invalidity of premise-conclusion arguments. He was the first to treat formal deduction and the first to treat independence proofs. Boole founded logic as science – as “formal ontology”. He was the first to explicitly recognize the role of tautologies in deduction and to attempt a systematic treatment of “laws of thought” – his expression which was later used in essentially the same sense by Tarski. Tarski founded metalogic – the science explicitly conducted in the metalanguage and focusing among other things on syntax and semantics of idealized languages of sciences including logic. Much of Tarski’s theory of metalogic, or “formal methodology”, appeared in the 1933 truth-definition monograph, the 1936 consequence-definition paper, and the 1986 logical-notion-definition paper.
+
+Aristotle: Formal Epistemology
+Boole: Formal Ontology
+Tarski: Formal Methodology
+
+Tarski’s three important papers: truth-definition (1933), consequence-definition (1936), logical-notion-definition (1986).
+
+Other useful works of Tarski: Introduction to Logic and to the Methodology of Deductive Sciences (1941 / 1994)
+Truth and Proof (1969/1993)
+
+Tarski was probably the most prolific logician of all time.
+
+** Prior Analytics
+
+Prior Analytics presented the world’s first extant logical system. Its system, which could be called a logic today, involves 3 parts: 
+1. A limited domain of propositions expressed in a formalized canonical notation
+2. A method of deduction for establishing validity of arguments having unlimited number of premises
+3. An equally general method of counterarguments or countermodels for establishing invalidity
+
+Roughly speaking, these correspond respectively to the grammar, derivation system, and semantics of a modern logic.
+
+** Laws of Thought
+
+Laws of Thought presented the world’s first symbolic logic. Boole’s system, which does not fully merit being called a logic in the modern sense, involves a limited domain of propositions expressed in a formalized language as did Aristotle’s.
+
+Boole intended the class of propositions expressible in his formalized language not only to include but also to be far more comprehensive than that expressible in Aristotle’s. However he was not entirely successful in this.
+
+Moreover, where Aristotle had a method of deduction that satisfies the highest modern standards of cogency, soundness and completeness, Boole had a semi-formal method of derivation that is neither sound nor complete.
+
+It is termed semi-formal because Boole was far from clear about the algorithmic specifications of his own symbol manipulations.
+
+Aristotle’s discussion of goals and his conscientious persistence in their pursuit make soundness and completeness properties that a reader could hope, if not expect, to find his logic to have. In contrast, Boole makes it clear that his primary goal was to generate or derive solutions to sets of equations regarded as conditions on unknowns. The goal of gaplessly deducing conclusions from set of propositions regarded as premises, though mentioned by Boole, is not pursued.
+
+The idea that the premises of a valid argument could be regarded as equational conditions on unknowns while the conclusion could be regarded as a solution was revolutionary, unprecedented and totally original with Boole. The fact that it is not only gratuitous but flatly false is ignored by most modern writers, whether out of politeness or inattention.
+
+Gaplessness is designated in Aristotle’s Greek by teleios (complete, fulfilled, finished, perfect, etc.). Tarski uses the German vollständig (complete, entire, whole, etc.) or the English “complete”. But this aspect of logical inquiry is so far from Boole’s focus that he has no word for it. Accordingly, the deductive part of Boole’s algebraic equation-solving method is far from complete: associative laws are missing for his so-called logical addition and multiplication, to cite especially transparent but typical omissions.
+
+As for a possible third par of Boole’s logic, a method of establishing invalidity, nothing answers to this in the realm of equation-solving. Perhaps accordingly, essentially no discussion in Boole’s writings concerns independence proofs demonstrating that a given conclusion is not a consequence of given premises: certainly nothing like a method of countermodels (counterinterpretations, or counterarguments) is to be seen. Boole never mentions the ancient problem of showing that the parallel postulate does not follow from Euclid’s other premises.
+
+Nevertheless Boole’s formalized language went beyond Aristotle’s by including tautologies, or – in Boole’s phrase also used by Tarski — laws of thought, such as Boole’s law of non-contradiction. As Boole’s title emphasized, Laws of Thought brought into a logical system principles formerly thought to belong to philosophy, thereby opening the way to logic in Tarski’s sense quoted above. The idea that logic, not metaphysics, establishes general laws involving concepts common to all sciences was not seriously pursued before Boole showed the way.
+
+By setting forth in clear and systematic fashion the basic methods for establishing validity and for establishing invalidity, Aristotle became the founder of logic as formal epistemology. By making the first unmistakable steps toward opening logic to the study of “laws of thought” — tautologies and metalogical laws such as excluded middle and non-contradiction — Boole became the founder of logic as formal ontology. It is said that ironically, 25 years after Boole presented an expanded view of logic that included concern with logical truth along with the traditional concern with logical consequence, Frege adopted a restricted view of logic focused on logical truth and ignoring, perhaps excluding, logical consequence.
+
+Neither Aristotle nor Boole had much insight into “logicography”, the study of how a logical system is rigorously described, or into the basic methodological premises assumed in the descriptions of logical systems. Consequently perhaps, neither made any effort to determine whether their theories of deduction were satisfied by the “proofs”, or argumentations, that they themselves offered in support of their claims about the merits or adequacy of their systems.
+
+In short, neither applied to his own meta-deductions the standards they themselves had set forth for deduction of object-language conclusions from object-language premises. In effect neither asked of himself whether he was practicing what he was preaching. And there is no sign in either that their own “proofs” had been deliberately or inadvertently affected by their own theories of proof. This lapse of self-awareness resembles a self-excepting fallacy such as an inconsistent accusation of inconsistency or a communication of a claim that communication is impossible. Even more remarkable, none of their immediate successors, neither supporters not critics, understood the theories well enough to notice this now-glaring deficiency.
+
+More generally, neither Aristotle nor Boole had much awareness of the details of their own respective frameworks of terminology. Neither had much insight into meta-language or into what the epistemological-ontological status of its concepts and entities may be, into what we now call metalogic, in the broad sense, or formal methodology.
+
+More than any other logician, Tarski identified and addressed the need for a systematic metatheoretic study of logical theories. His 1933 truth-concept monograph made clear the conception of a formal-sentence language as a subset of a universe of strings – concatenation of characters over a finite “alphabet”. Tarski 1933 calls characters signs and strings expressions. Church calls characters symbols and strings formulas.
+
+Without precedent in the history of logic, it established axiomatic foundations of what is now called string theory – the mathematical theory presupposed by any definitions of fundamental concepts such as “truth”, “consequence”, “logical constant”, and “proof”.
+
+His monograph, a penetrating and innovative philosophical, mathematical, and logical work, clarified, integrated and advanced awareness of basic concepts, principles, and methods of metalogic or formal methodology to such an extent that it has come to occupy a place in the history of logic comparable to Prior Analytics and Laws of Thought. It contains the world’s first axiomatically presented metatheory.
+
+Moreover, although Aristotle took formal deducibility as  methodological criterion of consequence as did Boole and Tarski, and although Aristotle took presentation of a counterargument as a methodological criterion of independence (non-consequence) as did Tarski (but surprisingly not Boole), neither Aristotle nor Boole attempted a definition of the fundamental concept of consequence as Tarski did.
+
+Neither Aristotle nor Boole gave more than tantalizing hints as to what they meant by phrases such as ‘logically implies’, ‘follows of necessity from’, ‘is a logical consequence of’, and the like. Although Tarski was neither the first person to notice the need for a definition of consequence nor the first to attempt a definition, he constructed the conceptual framework within which modern definitions are situated, and his 1936 definition formed the paradigm for later attempts.
+
+Bernard Bolzano preceded Tarski in attempting to give a definition of logical consequence.
+
+In the 1936 consequence-definition paper Tarski identifies the chasm in pre-modern logic and, in the eyes of many, filled the chasm with a formally and materially adequate model-theoretic definition of consequence.
+
+Incidentally, one of the most fundamental achievements of Tarski’s 1933 truth-concept paper was to clarify and rigorously exemplify the important but subtle distinction between definitions and criteria (or decision-procedures).
+
+Tarski went on to give a partial criterion to truth: in order to recognize a proposition as true it is sufficient to deduce it from propositions known to be true. This point is highlighted by the title of his paper “Truth and Proof (1969)”.
+
+As Tarski repeatedly emphasized, having a definition of truth is not the same as having a criterion of truth; understanding what it means to say that a proposition is true is not the same as having a method for determining whether it is true.
+
+“The principles of logical inference are universally applied in every branch of systematic knowledge. For over 2000 years mathematicians have been making correct inferences of a systematic and intricate sort, and logicians and philosophers have been analyzing … valid arguments. It is therefore, somewhat surprising that a fully adequate formal theory of inference has been developed only in the last three or four decades. … The most important defect in the classical tradition was the failure to relate logic as the theory of inference to the kind of deductive reasonings that are continually used in mathematics.” — Patrick Suppes, Introduction to Logic (1957)
+
+Early use of deduction in mathematics began long before Aristotle. It has been traced by Immanuel Kant as far back as Thales, who is said to have deduced by logical reasoning from intuitively evident propositions the conclusion, far from intuitively evident, that every two triangles, no matter how different in size or shape, nevertheless have the same angle-sum. This is one of Aristotle’s favourite examples of the power of logical deduction. Its clarification was one goal of Hilbert’s 1899 axiomatization of geometry, as he revealed in a letter to Frege dated 29 December 1899.
+
+
+Prior Analytics addressed the 2 central problems of logic as formal epistemology: 
+1. How to show that a given conclusion follows from given premises that formally imply it
+2. How to show that a given conclusion does not follow from given premises that do not formally imply it. Aristotle wanted a decisive test or criterion for determining if the conclusion follows and also one for determining if the conclusion does not follow. Using other equally traditional terminology, Aristotle’s problems were how to establish validity and how to establish invalidity of an arbitrary argument, no matter how many premises or how complicated its propositions.
+
+An argument or, more fully, a premise-conclusion, argument is a two-part system composed of a set of propositions called the premises and a single proposition called the conclusion: Argument: <Premises, Conclusion>. An argument is valid if the conclusion is logically implied by the premise set, and it is invalid otherwise, i.e., if the conclusion contains information beyond that in the premise set. Whether an argument is valid is totally objective having no dependence on any subjective judgement or mental operations.
+
+In this sense, an argument contains no steps of deductive reasoning – in order to know that an argument is valid a person must produce an argumentation, often involving many steps and many intermediate conclusions. Of course,t here are other senses of the word ‘argument’. In fact mathematicians often use it as a synonym for ‘argumentation’ and in that sense an ‘argument’ contains a chain of steps of reasoning going beyond the premises set and ending with final conclusion.
+
+To understand how Boole changed the field of logic, note that Aristotle’s logic was confined to logical epistemology, to concern with determining validity and invalidity of premise-conclusion arguments. Today this is but one concern of logic despite many popular treatments of logic  claiming it to be logic’s exclusive concern.
+
+Aristotle’s definition of deduction (sullogismos, syllogism) is broad enough to include any chain of reasoning whose conclusion follows logically form its premise-set, regardless of number of premises, complexity of propositions, or subject-matter. Aristotle’s definition of syllogism is said to be broad to include any valid inference: A syllogism is an argument (logos) in which, when certain things are assumed, something different from what is assumed follows by necessity from the fact that these things are so”.
+
+Aristotle did not solve the problem of formal epistemology in its full generality, nor did he claim to, contrary to what Kant and a few logicians seemed to have thought.
+
+Aristotle would have never written what two respected American logicians wrote: “Given premises and conclusion, logic can determine whether this conclusion follows” (Lewis and Langford 1932)
+
+Mathematical logicians will realize that of its two principal readings one contradicts Gödel’s Incompleteness Theorem and one contradicts Church’s Theorem.
+
+As Boole saw, the case of the problem of formal epistemology that Aristotle did completely solve is a small fragment of what has been accomplished by modern logicians. The class of arguments he treated is just on the threshold of logic. Even though Boole made great progress, the class he treated is still very small by modern standards.
+
+Bertrand Russell was not exaggerating when he wrote: “Anyone in the present day who wishes to learn [modern] logic will be wasting his time if he reads Aristotle or any of his disciples”.
+
+It is of course impossible to identify or construct a method or criterion for recognizing instances of a relation or property without understanding the relation or property. Moreover, in order to understand a relation or property it is not necessary to have a formally and materially adequate definition of it. But such understanding is necessary for discovering a definition. In order to define “human being” it is necessary to understand the concept, to know what human beings are. Likewise, in order to understand a concept or have a definition of it, it is not necessary, or even usual, to have a criterion for determining that it applies in an arbitrary case.
+
+As Tarski noted, an adequate definition need not provide a criterion, and normally does not. In connection with truth definitions he said: “Whatever may be achieved by constructing an adequate definition of truth …, one fact seems to be certain: the definition does not carry with it a workable criterion for deciding whether … sentences … are true ( … it is not designed for this purpose).
+
+The word ‘criterion’ has an ambiguity that is worth attention. Although in the essay it is mentioned that Aristotle had a deductive criterion for validity and a radically non-deductive criterion of invalidity, it might be thought that a criterion for a given property, say validity, is automatically also a criterion for its complementary opposite, in this case invalidity. There are two sense of the word ‘criterion’: a weaker and a stronger. Following Tarski and others, Corcoran uses the word in the weaker sense in which a criterion for a property is a performable method for determining that a given entity has the property if it does. It is widely recognized that such a method may not determine anything if applied to an entity not having the property. In the stronger sense a criterion is a method which determines whether or not the property applies. In the stronger sense, but not in the weaker, every criterion for a given property is automatically a criterion for the complementary opposite. Hilbert and Ackermann use ‘criterion’ in the stronger sense.
+
+Although Aristotle is clear in presenting his two procedural criteria for what amounts to validity and for what amounts to invalidity, nevertheless he gives no hint of a definition of either concept, or of any functionally equivalent concept. More specifically, Aristotle nowhere recognizes a need to define the metalogical concepts “implies”, “consequence”, “follows from”, “valid”, or any of the concepts regarded as interdefineable with them. This raises the question of whether Aristotle may have subscribed in regard to these concepts to an operationalistic or behavioristic positivism that “identifies” concepts, or definitions of concepts, with procedures for detecting their instances, e.g. to a view that would take the meaning of ‘valid’ and that of ‘invalid’ to be respectively the method by which an argument is recognized as being valid and that by which one is recognized as being invalid. The hypothesis would be that Aristotle held an algorithmic or procedural view of metalogical concepts, a view that would repudiate or render futile any need for an explicit definition of validity or invalidity such as that proposed in the 1936 consequence paper. There is no evidence of this. Aristotle’s twin problems invite definitions that he does not supply. In view of Aristotle’s unusual sensitivity to the importance of definition,s the absence of discussion of definition of any metalogical concept such as “follows of necessity from” (or “is a consequence of”) or its negative must be regarded as significant. The issue of whether the absence of this definition was inadvertent or deliberate must remain for future scholars to decide. Moreover, the absence of definitions only increases the significance of the two criteria that he did give us.
+
+There are passages that point to Aristotle’s understanding of the consequence or implication relation. In Chapter 17 of Sophistical Refutations 176a32, he writes that the consequences of a thesis appear to be parts of the thesis itself.
+
+For the initial partial solution to the twin problems, Aristotle presented the world’s first extant logical system. Aristotle’s logic was not a comprehensive “grand logic” such as that of Frege 1879 or Whitehead-Russell 1910. His research strategy was like that of Archimedes in dealing with hydrostatics, a carefully delimited part of fluid mechanics that treats the special case of a fluid at rest. Hydrostatics is a necessary preparation for the wider study that includes hydrodynamics, the study of fluid in motion. The strategy is to deal with a simple, perhaps idealized or even fictitious, case first before attacking the problems in their full generality or perhaps before attacking more complicated special cases.
+
+Aristotle nowhere says that his particular system, the so-called assertoric categorical syllogistic, was a comprehensive and exhaustive logic. Kant is frequently criticized, even ridiculed, for making this claim on Aristotle’s behalf (Bolzano 1837/1972, Hilbert and Ackerman 1928/38/50, Cohen and Nagel 1934/62/93)
+
+Aristotle never said, as some of his less careful but more enthusiastic followers have said, that the syllogistic is adequate for propositional logic. And Aristotle certainly never said anything comparable to the pathetically irresponsible remark of John Stuart Mill that “The whole of Euclid, for example, might be thrown without difficulty into a series of syllogisms, regular in mood and figure.”
+
+The above paragraph addresses the question already raised by logicians and philosophers such as da Costa and Santos (per. comm.) of how to explain the gross inadequacy of the theory of propositions (or formal grammar) underlying Aristotle’s syllogistic and the apparently simplistic narrowness of the class of arguments it treats. These inadequacies have been widely noticed. They are nearly impossible to miss.
+
+They are often not described as virtues, which they clearly are, but as faults to be charged against Aristotle. Regrettably, Corcoran did it himself — ironically, in a paper that was somewhat predicated on the fact that simplifications, even oversimplifications, and unrealistic idealizations play legitimate and important roles in scientific and humanistic progress.
+
+Corcoran addressed this in a 1989 lecture “Logical methodology: Aristotle and Tarski”. He wrote there:
+
+Logical methodology is the study of methods in logic, most notably, methods for determining whether a given conclusion is a consequence of or is independent of a given premise-set. Aristotle pioneered logical methodology and Tarski was its most vigorous modern proponent. Aristotle’s most original, most influential, and most lasting contribution to logic was his methodological theory, not the logical system known as syllogistic logic, which he considered one of many exemplifications of logical methodology, by no means exhaustive of logical phenomena. … The method of deduction for establishing consequence and the method of reinterpretation for establishing independence both originated with Aristotle, who had already distinguished consequence from deducibility – notwithstanding the fact that Aristotle’s languages were always fully interpreted.
+
+In Tarski’s treatment deduction comes to have a syntactical character never envisioned by Aristotle, and consequence comes to have a semantic character hardly conceivable without set theory. In this paper some of Tarski’s most philosophical contributions to logic are explained as natural refinements of logical methods whose epistemic purpose has remained constant since Aristotle.
+
+Tarski never mentions details of the so-called Aristotelian syllogistic system, yet he fully embraces the central ideas of Aristotle’s logical methodology: recognizing validity by a formal step-by-step deduction and recognizing invalidity by a counterargument, or by what amounts to a counterargument. This acceptance of Aristotle’s two-part methodology of deduction and counterinterpretation continues in the most recent logic texts, e.g. Computability and Logic (Boolos, Burgess and Jeffrey 2002), and Deductive Logic (Goldfarb 2003).
+
+To reiterate: Aristotle’s system, which is somewhat similar to a modern logic, involves 3 parts:
+
+1. A limited domain of propositions expressed in a formalized language
+2. A formal method of deduction for establishing validity of arguments having an unlimited number of premises
+3. An equally general method of countermodel or counterargument for establishing invalidity
+
+Prior Analytics presupposes no previous logic on the part of the reader. However, it does require knowledge of basic plane geometry, including ability and experience in deducing non-evident theorems from intuitively evident premises such as those taken as axioms and postulates a generation or so later by Euclid. Especially important is familiarity with reductio ad absurdum or indirect deduction. Aristotle repeatedly refers to geometrical proofs, both direct and indirect. It also requires readers to ask themselves what is demonstrative knowledge, how do humans acquire it, what is a proof, and how is a proof made.
+
+** Proof Produces Knowledge: The Knowledge-Through-Proof Thesis
+
+For Aristotle a proof proves (to those for whom it is a proof) that its conclusion is true. For him, and for many modern logicians, in the strict sense of ‘prove’, there is no way to prove a false proposition. Cohen and Nagel are exceptions. And, through use of the unfortunate expression ‘proof from hypotheses’, Church is an apparent exception. Since ‘prove’ and its cognates are interchangeable respectively with ‘demonstrates’ and its cognates, this means that for Aristotle a demonstration demonstrates (to those for whom it is a demonstration) that its conclusion is true.
+
+Every proof produces demonstrative (apodictic) knowledge of its conclusion. The Socratic proof/persuasion distinction reappears in Aristotle along with the knowledge/belief distinction. A proof does not merely persuade; it produces knowledge, not merely belief. After all, fallacious argumentations produce belief.
+
+The fundamental knowledge-through-proof thesis, that proof establishes knowledge, was never doubted by Boole although he said little worth repeating on the topic. In full awareness that the thesis had been challenged in the years after Boole, Tarski reaffirmed and endorsed it in some of his writings. He wrote:
+
+The notion of proof … refers just to a procedure of ascertaining the truth … This procedure is an essential element of … the axiomatic method, the only method now used to develop mathematical disciplines.
+
+** Aristotle’s Truth-and-Consequence Conception of Proof
+
+Deduction should be discussed before proof. Deduction is more general. Every proof is a deduction, but not every deduction is a proof. — Aristotle, Prior Analytics
+
+For Aristotle a proof begins with premises that are known to be true and shows by means of chaining of evident steps that its conclusion is a logical consequence of its premises. Thus a proof is a step-by-step deduction whose premises are known to be true. For him, one of the main problems of logic (as opposed to, say, geometry) is to describe in detail the nature of the deductions and to say how the deductions come about.
+
+
+Thus, at the very beginning of logic we find what has come to be known as the truth-and-consequence conception of proof: a proof is a discourse or extended argument which begins with premises known to be truths and which involves a chain of reasoning showing by evident steps that its conclusion is a consequence of its premises.
+
+The adjectival phrase truth-and-consequence is elliptical for the more informative but awkward ‘established-truth-and-deduced-consequence’.
+
+Nevertheless, we still find otherwise competent logicians seeming to espouse the absurdity that a proposition that is a consequence of truths is proved. (Question to self: Why is this not true? Where does the absurdity arise from?) This is similar to Quine’s inadvertent statement that “If one statement is held to be true, each statement implied by it must also be held to be true” — which could be improved by changing “implied” to “held to be implied”.
+
+Over and above the premises and conclusion, every proof has a chain-of-reasoning that shows that the (final) conclusion fc follows logically form the premises. An Aristotelian direct proof based on 3 premises: p1, p2, p3, and having a chain-of-reasoning with 3 intermediate conclusions ic1, ic2, ic3, can be pictured as:
+
+p1
+p2
+p3
+?fc
+ic1
+ic2
+ic3
+fc
+QED
+
+Note that in such an Aristotelian proof the final conclusion occurs twice: once as a goal to be achieved and once as it has been inferred. This picture represents only a direct proof. The picture is significantly different for indirect proofs, for reduction-ad-impossible. To represent a simple indirect proof, ~fc (a contradictory opposite of the final conclusion) is added as a new assumption and the X indicates that the last intermediate conclusion ic3 contradicts one of the previous intermediate conclusions or one of the premises.
+
+p1
+p2
+p3
+?fc
+~fc
+ic1
+ic2
+ic3
+X
+QED
+
+If we use the word ‘argumentations’ for the genus for which proofs form a species, i.e., for a 3 part system composed of a premise-set, a conclusion to be reached, and a chain-of-reasoning, then the Aristotelian truth-and-consequence proof admits of easy definition in the traditional genus-et-defferentia form. In order for an argumentation to be a proof (of its conclusion to a given group of people) it is necessary and sufficient for the premises to be known to be true (by the group) and for its chain-of-reasoning to show (to the group) that its conclusion is a logical consequence of its premises. Every proof has established premises and cogent reasoning. In order for an argumentation to be fallacious (to a given group of people) it is necessary and sufficient for the premises to be not known to be true (by the group) or for its chain-of-reasoning to not show (to the group) that its conclusion is a logical consequence of its premises. Every fallacious “proof” has faulty premises or faulty reasoning.
+
+As suggested above, there is no way to understand Aristotle’s logic without being aware of his rigorous training and deep interest in geometry. The fact that axiomatic presentations of geometry were available to the Academy two generations before Euclid’s has been noted often. Ross points out that “there were already in Aristotle’s time Elements of Geometry”. According to Heath, “The geometrical textbook of the Academy was written by Theudius of Magnesia … [who] must be taken to be the immediate precursor of Euclid, and no doubt Euclid made full use of Theudius … and other available material”.
+
+It would be an exaggeration to suggest that an understanding of Aristotle’s goals and achievements in Prior Analytics would be impossible without attention to his many geometrical examples. Nevertheless, it is fair to criticize the many works on the history of logic which do not mention these examples or which do not mention the axiomatic treatments of geometry available to Aristotle. Even more deserving of criticism are those works on the history of logic, or on logic itself for that matter, which date the origin of the axiomatic method after Aristotle rather than before his time.
+
+Although Tarski does not make the above errors, he still fails to trace the axiomatic method back any farther than Euclid and he mentions Aristotle as the creator of logic without indicating Aristotle’s interests in geometrical proof or in the axiomatic method.
+
+Robin Smith’s description of the Analytics:
+
+From Aristotle’s viewpoint, the Prior Analytics is simply the first part of the Analytics: the second part is the work known to us as the Posterior Analytics. The subject of the latter is proof or demonstration (apodeixis), that is, argumentation which produces scientific understanding (epistēmē). Aristotle makes it clear from the start that this is also the subject of the entire Analytics, and thus of its first part, the Prior. Aristotle conceives of a demonstrative science as a system of demonstrations, which in turn are a type of deduction (sullogismos). Accordingly, the Prior Analytics gives an account of deductions in general and the Posterior discusses the specific character of those deductions which are demonstrations.
+
+Smith’s interpretation echoes that of Alexander, who first explained that Aristotle’s Prior Analytics and Posterior Analytics are about deductions and proofs, respectively, and then adds that the first is called Prior because its subject, deduction, “is by nature” prior to the subject, demonstration.
+
+The Analytics as a whole forms a treatise on scientific knowledge. On Aristotle’s view each item of scientific knowledge is initial, known directly in itself by experience in the broad sense (epagoge sometimes translated ‘induction’), or else it is derivative, deduced ultimately from initial items known in themselves.
+
+The Posterior Analytics deals with the acquisition and deductive organization of scientific knowledge. It is the earliest general treatise on axiomatic method in sciences. The Prior Analytics, on the other hand, develops the underlying logic used in the inference of deductively known scientific propositions from those known in themselves.
+
+Aristotle’s word for a proof or demonstration was apodeixis, from which we get our word ‘apodictic’. He called an ultimate premise of a demonstration an archê apodeixeôs, literally “demonstration beginning”, “beginning of a demonstration”, and less literally, “demonstrative or apodictic beginning”. According to D. Hitchcock (per. comm.), Aristotle seemed to have no special word for the conclusion of a proof per se; he used the same word sumperasma, literally “end”, “conclusion”, for the conclusion of a deduction whether or not it was a proof. Later writers who accepted Aristotle’s insights adopted other terminology for the distinction between the original premises and the conclusion of the demonstrations — some called the former axioms and called the latter theorems (Boole, Tarski); some called the former primary or ultimate propositions, or laws, and the latter secondary (Boole). 
+
+As far as can be determined from his published writings, Boole subscribed to the truth-and-consequence conception of proof. In the later 1970s and early 1980s toward the end of his life, Tarski also accepted it (per. comm.), although he does not seem to explicitly endorse it in his published writings. However, he was clear that the truth-and-consequence conception of proof is not implied by the knowledge-through-proof thesis.
+
+On at least two occasions separated by years, he said that he thought Euclid was actually “proving theorems” in some sense but not deducing them from premises and definitions.
+
+Tarski agreed with modern scholars that Euclid “smuggled premises”, i.e., used propositions not among his stated premises and definitions, and he was aware of occasions where Euclid proved something other than what is claimed (Euclid IX.20), thereby appearing to commit the fallacy of “ignoratio elenchi” or wrong-conclusion. But Tarski went on to point out that Euclid never said that his goal was to show that the theorems were logical consequences of his basic propositions (per.comm.). If Euclid accepted the knowledge-through-proof thesis while rejecting the truth-and-consequence conception, he was not the only important figure in the history of logic to do so.
+
+This view of Euclid might seem to conflict with what Tarski wrote in the 1960s about “the science of geometry as it was known to ancient Egyptians and Greeks in its early pre-Euclidean stage”. He wrote of the pre-Euclidean period: “A sentence was accepted as true either because it seemed intuitively evident or else because it was proved on the basis of some intuitively evident sentences, and thus was shown by means of intuitively certain argument to be a consequence of these other sentences”. Thus, Tarski seems to be attributing to pre-Euclidean geometers approximations of both knowledge-though-proof thesis and the truth-and-consequence conception of proof.
+
+** Aristotle’s Logic is Not Limited to Proof
+
+But the logic of the Prior Analytics is not designed solely for such demonstrative use. One the contrary, Aristotle subscribes to what may be called the epistemic-neutrality thesis, the thesis that the process of deduction is the same whether the premises are known to be true or whether the premise set contains a mere hypothesis not known to be true and not known to be false, or even if the premises are all known to be false. Aristotle says that whether a person is trying to demonstrate a conclusion from premises known to be true or trying to deduce it from premises merely assumed for purpose of reasoning “it will make no difference as to whether a deduction comes about …”
+
+One point is that scientific knowledge has an initial-plus-derived structure. This is not to say that initially known truths are all obvious to everyone, or even to everyone sufficiently acquainted with the subject matter. Likewise this is not to say that derivations from initially known truths are all obviously cogent to everyone, or even to everyone sufficiently acquainted with the subject matter.
+
+A second point is that the process of deduction is separate from the process of experiential acquisition of knowledge of the initial truths and, moreover, it is the same regardless of the nature of the subject-matter – logic is topic neutral. IN other words, and more generally, methods for determining validity and invalidity of premise-conclusion arguments stand apart from the sciences – some say logic underlies or is under or is foundational for the sciences; others say it transcends or is over or governs the sciences. From an Aristotelian point of view, which troubles some people, a person does not need to know science before learning logic, but a person must have inner knowledge of logic before making much progress in learning science. In the terms used by followers of Aristotle, logic is not a science per se; rather it is an instrument of science, an organon. In that logic stands apart from any science’s subject-matter, it may be considered to be a formal discipline.
+
+A related but third point is that deduction per se produces consequences of whatever it is applied to, deduction makes explicit the implicit content of premise sets; it does not produce new information about the subject-matter of the premises. Deduction per se is merely information processing and not knowledge producing – except in the sense of producing knowledge that a conclusion follows from premises.
+
+In my thinking, this is pretty close to what topology is about; in the sense that it is about information preserving transformations.
+
+This third point, which may be called the non-creativity of deduction, is dramatically illustrated by the contrast between the classical formal conception of proof due largely to Aristotle and the contentual, or cognitivist, conception vigorously articulated by some of Kant’s more independent followers as well as by Frege. To make this contrast it is convenient to use the word deduction as above for the process of coming to know that a given conclusion follows from given premises (without regard to whether the premises are known or not) in contrast with using inference for the process of coming to know that a conclusion is true based on previous knowledge of premises.
+
+The distinction between deduction and inference, often but not always using these very words, has been recognized, even emphasized by most major logicians. The truth of the premises is totally irrelevant to the cogency of a deduction, but there is no such thing as an inference based on false premises, or even on premises not known to be true.
+
+For the classical formalist a proof involves a deduction, a series of deductive steps, which in principle could be grasped and checked by someone who did not even understand much less have knowledge of the premises. In fact, in connection with checking an alleged “proof” to determine whether it is a [genuine] proof, classical formalists want to first determine whether it is even a deduction, and to do this they often recommend bracketing or disinterpreting the sentences expressing the premises, i.e. disregarding their meaning except for the purely formal aspects. For the cognitivist a proof is a series of inferences which are totally inaccessible to a person who did not have full knowledge of the truth of the premises.
+
+Misunderstanding of this third point, which involves the formality of deduction, alternates with understanding of it down through the ages. People who understand it tend to think that it is so obvious that it need not be mentioned. Boole could not have missed this point, but he never makes it. However, a few years after Boole’s 1854 Laws of Thought, Jevons – an English logician who continued the development of Boole’s work – seems very close when he wrote: “The very purpose of syllogism is to deduce a conclusion which will be true when the premises are true. They syllogism enables us to restate in a new form the information … contained in the premises, just as a machine may deliver to us in a new form the material … put into it”
+
+I have to note here that Jevons only says that the conclusion will be true when the premises are true. Note that it doesn't say anything about the situation when either/both of the premises are false.
+
+** Kazarinoff’s Convincing-argument Conception of Proof
+
+For Kazarinoff, a proof is an argument that has convinced and now convinces. It changes according to the standards of the time and place. A mathematical proof is a temporal, communicable phenomenon in the minds of living men.
+
+** Kant’s Constructive Conception of Proof
+
+For Aristotle, once the basic premises are set forth in a proof the fact that they are known to be true is irrelevant to what is done by the thinker thereafter – in the proof itself. Deduction of the conclusion from the premises is simply information processing which would be the same regardless of the cognitive status of the information. In fact, for Aristotle it is irrelevant whether the conclusion is deduced from the premises before the premises are established to be true or whether the premises are established to be true first and then the conclusion is deduced from them. Aristotle’s truth-and-consequence conception of proof could just as accurately be called the consequence-and-truth conception of proof. Moreover, any appeal to the nature of the subject-matter is also irrelevant. In order to deduce a conclusion from premises it is not necessary to be acquainted with the subject-matter of the premises and conclusion of the argument, but only with the logical form of the argument.
+
+A person who accepts the truth-and-consequence conception of proof expects Kant to say that the true method is to logically deduce the proposition from premises that have been established intuitively or experientially. But that is not what Kant says about the first person who discovered the method of proof:
+
+The true method, so he found, was not to inspect what he discerned either in the figure, or in the bare concept of it, and from this, as it were, to read off its properties; but to bring out what was necessarily implied in the concepts that he had himself formed a priori, and had put into the figure in the construction by which he presented it to himself. If he is to know anything with a priori certainty he must not ascribe to the figure anything save what necessarily follows from what he has himself set into it in accordance with his concept.
+
+Kant is saying nothing about starting with premises known to be true, nor about applying information-processing procedures to reveal the consequences implicit in those premises. On the contrary, he is talking about doing intuitive geometrical constructions — something totally irrelevant to Aristotle’s conception of proof. Kant is basing apodictic judgment on processing concepts, not propositions. Kant starts with concepts put into a figure previously constructed; Aristotle starts with propositions previously established. For Kant the diagram is essential; for Aristotle it is irrelevant.
+
+** Boole’s Laws of Thought
+
+It has been said that Galileo’s greatest achievement was to persuade the world’s scientists that physical reality is mathematical, or at least that science should be pursued mathematically. In his words, ‘The Book of Nature is written in mathematical characters’. In a strikingly similar spirit, Boole (1854, p.12) stated ‘it is certain that [logic’s] ultimate forms and processes are mathematical’. Perhaps Boole’s greatest achievement was to persuade the world’s logicians that logical reality is mathematical, or at least that logic should be pursued mathematically. — John Corcoran 2003
+
+Hilbert-Ackermann Principles of Mathematical Logic says: “The entire later development [of mathematical logic] goes back to Boole.”
+
+Corcoran says decades of historical research only confirm this conclusion about the origin of the continuous development of mathematical logic citing 19th Century Logic between Philosophy and Mathematics (Peckhaus 1999).
+
+If, as Aristotle tells us, we do not understand a thing until we see it growing from its beginning, then those who want to understand logic should study Prior Analytics and those who want to understand mathematical logic should also study Laws of Thought. There are many wonderful things about Laws of Thought besides its historical importance. Of all of the foundational writings concerning mathematical logic, this one is the most accessible.
+
+Contrary to appearances, by the expression ‘mathematical analysis of logic’, Boole did not mean that he was analyzing logic mathematically or using mathematics to analyze logic. Rather his meaning was that he had found logic to be a new form of mathematics, a new form of analysis, and that it was not a form of metaphysics or philosophy as had been thought previously.
+
+Long before Boole there had been “acknowledged forms of Mathematical Analysis” dealing separately with numbers, lengths, areas, volumes, time intervals, weights, and other quantities. But Boole thought of himself as advancing a new non-quantitative form of analysis that dealt with classes. And he somehow took it to be logic. It was this new form of “Mathematical Analysis” that Boole applied “to the expression of the operations of the mind in reasoning”.
+
+Russel says that “The development of mathematical logic dates from Boole’s Laws of Thought (1854).” Although this work begins mathematical logic, it does not begin logical theory. The construction of logical theory began, of course, with Aristotle, whose logical writings were known and admired by Boole. In fact, Boole explicitly accepted Aristotle’s logic as “a collection of scientific truths” and regarded himself as following in Aristotle’s footsteps. He thought that he was supplying a unifying foundation for Aristotle’s logic and at the same time expanding the ranges of propositions and of deductions formally treatable in logic.
+
+Boole thought that Aristotle’s logic was “not a science but a collection of scientific truths, too incomplete to form a system of themselves, and not sufficiently fundamental to serve as the foundation upon which a perfect system may rest”. He was one of many readers of Prior Analytics who failed to discern the intricate and fully developed logical system that Aristotle had devised.
+
+As has been pointed out by Grattan-Guinness, in 1854 Boole was less impressed with Aristotle’s achievement than he was earlier in 1847. In 1847 Aristotle’s logic plays the leading role, but in 1854 it occupies only one chapter of the 15 on logic. Although his esteem for Aristotle’s achievement waned as Boole’s own achievement evolved, Boole never found fault with anything that Aristotle produced in logic, with Aristotle’s positive doctrine.
+
+Philosophical concern with problems of understanding the nature of logical reasoning also predates Aristotle’s time. In a way, concern with understanding the nature of logical reasoning was brought to a climax by Socrates, who challenged people to devise a criterion, or test, for recognizing proofs, a method for determining of a given alleged proof whether it indeed is a proof, i.e., whether it proves to its intended audience that its conclusion is true, or whether, to the contrary, it is fallacious despite any persuasiveness the audience might find it to have (Phaedo 90b-90e). Despite Frege’s impetous claim, the Socratic challenge has still not been answered. Perhaps the identification of logic as a potential field of study, or as a possible branch of learning, should be taken as the time when humans, having discovered the existence of logical deduction, were able to perceive a difference between objective proof and subjective persuasion. As Gasser puts it: “One of the main objectives of logic is to distinguish between persuasion and proof, and belief and knowledge”.
+
+** Boole’s Philosophy
+
+Boole subscribed to Aristotle’s initial-plus-derivative conception of the structure of each science without reservation. In his own words: “All sciences consist of general truths, but of those truths some only are primary and fundamental, others are secondary and derived.” It is also evident, from the above and many other passages, that he also agreed with Aristotle’s pluralistic conception of the realm of scientific knowledge as composed of many separate sciences. What is not evident from the above quotation, but is nevertheless also true, is that Boole agreed with Aristotle on the fundamental ontological principle that each science had its own domain.
+
+** Aristotelian, Boolean, and Modern Logics
+The common view is that Aristotle’s logic conflicts with modern logic whereas Boole’s is in agreement with it.a This view could not be further from the truth. First, as noted above, Boole accepted as valid absolutely every argument accepted as valid in Aristotle’s system. Thus any conflict with modern logic found in Aristotle’s logic would be found in Boole’s to the extent that Boole’s logic is faithful to his own philosophy. Second, as first noted by Smiley (1962), if Aristotle’s logic is correctly translated into modern logic the fit is exact. If categorical sentences are translated into many-sorted symbolic logic according to Smiley’s method or either of the methods given below, an argument with arbitrarily many premises is valid according to Aristotle’s system if and only if its translation is valid according to modern standard many-sorted logic. As Parry showed Corcoran in 1973 (per. comm.), this result can be proved from the combination of Parry’s insights (1965) with Corcoran’s proof of the completeness of Aristotle’s categorical logic (1972).
+
+Quantification of the Predicate and Many-sorted Logic (Parry 1965)
+Syllogism and Quantification (Smiley 1962)
+
+Aristotelian Logic as Many-Sorted Symbolic Logic Using Sortal Variables: The ranges of the sortal variables are all non-empty as with ordinary one-sorted logic. Each range is assigned independently of all others.
+
+Using Range-Indicators (Common Nouns) with General (Non-Sortal) Variables: Each initial variable occurrence follows an occurrence of a range-indicator or “common noun” that determines the range of the variable in each of its occurrences bound by the quantifier preceding the range-indicator. This is reflected in the practice of Tarski and others of using variables as pronounces having as common nouns as antecedents as in “For every number x, x precedes x + 1”. The word ‘number’ in ‘number x’ determines the range of x in all three occurrences. To each range-indicator a non-empty set is assigned as its “extension”.
+
+A: Every sphere x is a polygon y.
+∀Sx∃Py x = y : For every sphere x there exists a polygon y such that x = y.
+
+E: Some sphere x is a polygon y.
+∃Sx∃Py x = y: For some sphere x there exists a polygon y such that x = y.
+
+I: No sphere x is a polygon y.
+∀Sx∀Py x ≠ y : For every sphere x, for every polygon y, x isn't y.
+
+O: Some sphere x is not any polygon y.
+∃Sx∃Py x = y : For some sphere x, every polygon y is such that x isn't y.
+
+Many-sorted logic with sortal variables is prominent in Hilbert (Foundations of Geometry, 1899) and merely described in Hilbert and Ackermann (Principles of Mathematical Logic 1938/1950, Introduction to Mathematical Logic, Church 1956). Many-sorted logic with range-indicators and non-sortal variables was pioneered by Anil Gupta in his Logic of Common Nouns (1980) book.
+
 * On Process
 
 ** Conceptual Roots of Mathematics
@@ -926,14 +1245,20 @@ The changing meaning and interchangeable use of the two expressions, “algebra 
 *** Completeness of an Ancient Logic (1972)
 *** Aristotle’s “whenever three terms” (2013)
 *** Aristotle’s Demonstrative Logic (2009)
-*** Notes on the Founding of Logic and Metalogic (2007)
+*** Boole’s Criteria for Validity and Invalidity (1980) (with Susan Wood)
+*** Notes on the Founding of Logic and Metalogic: Aristotle, Boole, and Tarski (2007)
 *** Aristotle’s Prior Analytics and Boole’s Laws of Thought (2003)
 *** Meanings of Form (2008)
 *** Aristotle’s Many Sorted Logic (2008)
 *** The Founding of Logic: Modern Interpretations of Aristotle’s Logic (1994)
 *** Aristotelian Syllogisms: Valid Arguments or True Universalized Conditionals? (1974)
+*** Gaps between Logical Theory and Mathematical Practice (1973)
 *** Ancient logic and its modern interpretations (1973)
 *** Conceptual Structure of Classical Logic (1972)
+*** Logical Methodology: Aristotle and Tarski (1992)
+*** Boole’s Solutions Fallacy (2004)
+*** Argumentations and Logic (1989)
+*** Logic form of quantifier phrases: quantifier-sortal-variable (1999)
 
 ** [[https://www.researchgate.net/publication/249861329_The_Mathematical_Origins_of_19th_Century_Algebra_of_Logic][The Mathematical Origins of 19th century algebra of logic]]
 ** [[https://www.researchgate.net/publication/240529042_The_Development_of_Logic_as_Reflected_in_the_Fate_of_the_Syllogism_1600-1900][The Development of Logic as Reflected in the Fate of the Syllogism 1600 – 1900]]
@@ -1042,3 +1367,21 @@ Gilbert Harman
 
 ** [[https://www.jstor.org/stable/2025420?seq=1][What is a logical constant?]]
 Christopher Peacocke
+
+** Aristotelian Induction
+J. Hintikka, 1980
+
+** Aristotle’s Completeness Proof 
+T. Smiley, 1994
+
+** Domains of Sciences, Universes of Discourse, and Omega Arguments
+J, Sagüillo (1999)
+
+** Quantification of the Predicate and Many-sorted Logic
+Parry (1965)
+
+** Syllogism and Quantification
+T. Smiley (1962)
+
+** What is a Syllogism?
+T. Smiley (1973)
