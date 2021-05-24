@@ -1,0 +1,58 @@
+* [[https://www.youtube.com/watch?v=FGUzgcLXNuk][How did ‘judgement’ come to be a term of logic?]]
+** Per Martin Löf
+
+** Two Presuppositions
+
+Juridical sense vs. Logical sense
+Judgement started to be used in relation with intuitionistic type theory
+
+Reason: It made good contrast with proposition
+
+Russell skipped in favor of assertion
+
+Russell broke with the Br
+itish/German idealism by using the term assertion
+
+We make stepwise judgements on each propositional network and then draw inferences from it and reach a conclusion which thereby becomes established through these sequence of steps.
+
+Descartes used the term judgement in Meditations.
+
+Port Royal logic is divided into 4 parts: Apprehension, Judgement, Reasoning, Method
+
+These terms had scholastic origin
+
+Ockham’s logic does not use the word judgement
+
+Act in which you apprehend the proposition
+Act in which you judge a proposition true or false
+
+Thomas Aquinas used the term judgement
+
+If propositions are the things that are true or false, he felt the need for some other term in connection with judgement. Judgements could be either correct or erroneous.
+
+Bolzano and Brendano took up this term. Their source was Thomas Aquinas.
+
+Martin Löf taught Organon from 2015.
+
+Influx of the term judgement came from some Arabic source.
+
+Aristotle uses the term apophasis.
+
+Apophasis was translated into Hokum in the Arabic translations.
+
+There was a tense situation between the grammarians when Aristotle’s logic was introduced to Baghdad in the late 800.
+
+Abu Bisr introduced the idea that logic is about meaning and grammar is about expression.
+
+In modern parlance, Löf says this corresponds to logic is about deep semantic structures and grammar is about surface structures.
+
+There was a poly linguistic situation in Baghdad at the time.
+
+There was Greek, Syriac, Persian and Arabic
+
+The idea of having a underlying language of thought dealing with meaning structures which then have different manifestations in the various languages could hardly arise except in such a polylinguistic situation they found themselves.
+
+Under this light, this can be seen as a verbal to mental transition
+
+enunciatum was used for verbal act and iudicium for mental act.
+
