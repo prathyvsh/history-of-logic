@@ -1374,6 +1374,281 @@ O: Some sphere x is not any polygon y.
 
 Many-sorted logic with sortal variables is prominent in Hilbert (Foundations of Geometry, 1899) and merely described in Hilbert and Ackermann (Principles of Mathematical Logic 1938/1950, Introduction to Mathematical Logic, Church 1956). Many-sorted logic with range-indicators and non-sortal variables was pioneered by Anil Gupta in his Logic of Common Nouns (1980) book.
 
+* Logic and Programming Languages (1976)
+
+ACM Turing Lecture
+Dana S. Scott
+
+Read: 30 May 2021
+
+Logic has long been interested in whether answers to certain questions are computable in principle, since the outcome puts bounds on the possibilities of formalization.
+
+A big question is whether methods of logic have significance in complexity theory.
+
+Programming languages offer an obvious opportunity as their syntactic formalization is advanced; however, the semantical theory can hardly be said to be complete. Though we have many examples, we have still to give wide-ranging mathematical answers to these queries: What is a machine? What is a computable process? How (or how well) does a machine simulate a process? Programs naturally enter in giving descriptions of processes. The definition of the precise meaning of a program then requires us to explain what are the objects of computation (in a way, the statics of the problem) and how they are to be transformed (the dynamics).
+
+So far the theories of automata and of nets, though most interesting for dynamics, have formalized only a portion of the field, and there has been perhaps too much concentration on the finite-state and algebraic aspects. It would seem that the understanding of higher-level program features involves us with infinite objects and forces us to pass through several levels of explanation to go from the conceptual ideas to the final simulation on a real machine. These levels can be made mathematically exact if we can find the right abstractions to represent the necessary structures.
+
+The experience of many independent workers with the method of data types as lattices (or partial orderings) under an information content ordering, and their continuous mappings, has demonstrated the flexibility of this approach in providing definitions and proofs, which are clean and without undue dependence on implementations. Nevertheless much remains to be done in showing how abstract conceptualizations can (or cannot) be actualized before we can say we have a unified theory.
+
+From the 1960s Dana Scott’s work has concentrated on seeing whether the ideas of logic can be used to give a better conceptual understanding of programming languages. 
+
+** An apology and a Nonapology
+
+Complementary Definitions of Programming Language Semantics — J. E. Donahue (1976)
+Theory of Programming Language Semantics — Robin Milne, Christopher Strachey (1976)
+Data types as lattices — Dana Scott (1976)
+The Denotational Semantics of Programming Languages — R. D. Tennet (1976)
+Denotational Semantics — The Scott-Strachey Approach to Programming Language Theory — J. E. Stoy
+
+Category Theory Applied to Computation and Control — Editor: Manes (1976)
+Lambda Calculus and Computer Science Theory — Editor: Böhm (1975)
+
+** Some Personal Notes
+
+Born in California. Started working in early 1950s.
+Main influence was Alfred Tarski
+
+Learned recursive function theory from Raphael and Julia Robinson
+
+Studied Lambda Calculus of Curry and Church (which apparently literally gave nightmares to Dana Scott at first)
+
+Especially important for his later ideas was the study of Tarski’s semantics and his definition of truth for formalized languages. These concepts are still being hotly debated today in the philosophy of natural language.
+
+Not all problems are solved just by giving denotations to some languages. Languages (like very pure) lambda calculus are well served, but many programming concepts are still not covered.
+
+Graduate work in Princeton in 1958 under the direction of Alonzo Church, who also supervised Michael Rabin’s thesis.
+
+The joint work with Rabin thrower some basic ideas into sharp relief. Scott was trying to give a mathematical definition of a machine. He feels that the finite-state approach is only partially successful and without much in the way of practical implication.
+
+Many physical machines can be modeled as finite-state devices but the finiteness is hardly the most important feature, and the automata point of view is often rather superficial.
+
+Two later developments made automata seem interesting to Scott: The Chomsky hierarchy and the connection with semigroups. From the algebraic point of view Eilenberg, the Euclid of automata theory, in his books has said pretty much the last word. He has avoided abstract category theory. Categories may lead to good things but too early a use can only make things too difficult to understand.
+
+In some ways the Chomsky hierarchy is in the end disappointing. Context-fre languages are very important and everyone has to learn about them, but it is not at all clear to Scott what comes next. There are so many other families of languages, but not much order has come out of the chaos. It was not knowing where to turn, and being displeased with what Scott thought was excessive complexity, that made Scott give up working in automata theory.
+
+Scott tried a certain way to connect automata and programming languages by suggesting a more systematic way of separating the machine from the program. Eilenberg heartily disliked the idea, but Scott was good to see the book by Clark and Cowell, Programs, Machines, and Computation where at the suggestion of Peter Landin, the idea is carried out very nicely.
+
+He says he would like to see a next step that would fall between Manna and Milne-Strachey.
+
+Mathematical Theory of Computation — Zohar Manna (1974)
+
+He thanks Forman Acton for introducing him to the von Neumann machine.
+
+Bob Ashenhurst and Nick Metropolis
+
+Harry Huskey and René de Vogelaere
+
+Dick and Emma Lehmer: The way they get results in number theory by machine.
+
+John McCarthy and Patrick Suppes had much influence on Dana Scott and his views of computing.
+
+
+Soloman Feferman and Georg Kreisel were the colleagues of Dana Scott.
+
+Richard Platek — Ph. D. student
+
+The academic year 1968/69 was a deep crisis for Dana Scott and still painful for him to think back on it.
+
+Tom Steel was the chairman of IFIP Working Group 2.2 in 1976 (at the time of this talk) called Formal Description of Programming Concepts.
+
+There was a fight and he says fighting brings out the best and worst in people.
+
+He liked the style and ideas of Strachey best and though he think Strachey often overstated the case, what Strachey said convinced Dana Scott that he should learn more.
+
+Jaco de Bakker
+
+There was fervent activity and collaboration with Strachey. Once in Oxford, next up in Princeton.
+
+But Strachey became discouraged over the continuing lack of research funds and help in teaching, and he essentially withdrew himself to write his book with Milne.
+
+Strachey had his attention drawn to the Lambda Calculus by Roger Penrose and had developed a handy style of using this notation for functional abstraction in explaining programming concepts. It was a formal device, however, Dana Scott argued that it had not mathematical basis.
+
+Dana Scott started seeing that computable functions could be defined on a great variety of spaces. The real step was to see that function-spaces were good spaces, and Scott remembers quite clearly that the logician Andrzej Mostowski, who was also visiting Oxford at the time, simply did not believe that the kind of functions Scott defined had a constructive description.
+
+But when Scott saw that they actually did, Scott began to suspect that the possibilities of using function spaces might just be more surprising than we had supposed.
+
+Once the rigidity of logical types that Scott pushed onto Strachey was there, Scott found one of the spaces isomorphic with its own function space, which provides a model of the type-free Lambda Calculus.
+
+But I think types are still there.
+
+Algebra and Logic — edited by J. N. Clossley
+Reminiscences of logicians reported by J. N. Crossley
+
+Les Fox and Robin Gandy are colleagues of Dana Scott
+
+Scott finds it strange that his Lambda Calculus models were not discovered earlier by someone else; but he is encouraged that new kinds of models with new properties are being discovered, such as the “power domains” of Gordon Plotkin.
+
+A powerdomain construction — Gordon Plotkin (1976)
+
+John Reynolds and Robert Milne have independently introduced a new inductive method proving equivalences, and the interesting work of Robin Milner on LCF and its proof techniques continues at Edinbrugh.
+
+The direction of proving things on about models was started off by David Park’s theorem on relating the fixed-point operator and the so-called paradoxical combinator of Lambda Calculus, and it opened up a study of the infinitary, yet computable operators which continues now along many lines.
+
+Another direction of work in Novosibirisk under Yu. L. Ershov which shows quite surprising connections with topological algebra.
+
+Pointed out by Karl H. Hofmann and his group.
+
+** Some Semantic Structures
+
+Two domains: B, the domain of Boolean values
+S = B∞, the domain of infinite sequences of Boolean values
+
+B is now equipped with a bottom value.
+So B = { true, false, undefined }
+
+Partial ordering x < y iff either x = bottom or x = y
+
+We can read <= as saying that the information content of x is contained in the information content of y. The element bottom has therefore, empty information content.
+
+Data types as lattices — Dana Scott
+
+Looking now at S, the domain of sequences, we shall employe a shorthand notation where subscript indicate the coordinates:
+
+x = <x_n> from n = 0 to ∞ for all x in S.
+
+Each term is such that x_n belongs to B because S = B∞.
+
+Technically, a “direct product” of structures is intended, so we define <= on S by
+
+x <= y iff x_n <= y<n, for all n.
+
+A sequence y is better in information than a sequence x iff some of the coordinates of x which were undefined have passed over into being defined when we go from x to y.
+
+Sample iterations of the sequence are:
+
+< undefined, undefined, undefined, undefined … >
+< true, undefined, undefined, undefined … >
+< true, false, undefined, undefined … >
+< true, false, true, undefined, … >
+
+An obvious different between B and S is that B is finite while S has infinitely many elements.
+
+In S, also, certain elements have infinite information content, whereas this is not so in B.
+
+The partial ordering in S can be used to explain abstractly what is meant by finite approximation and limits.
+
+Given any x in S, we can cut it down to a finite element by defining
+(x ^ m)_n = if(n < m) x_n else undefined
+
+It is easy to see that x ^ m <= x ^ (m + 1) <= m
+
+So x ^ m are build up to a limit; and in fact, that limit is the original x.
+
+We write this as for(let m = 0 to ∞) U(x ^ m)
+
+Where U is the sup or least bound operation in the partially ordered set S. The point is that S has many sups; and whenever we have elements exp(y, <m>) <= exp(y, <m+1>) in S regardless of whether they are finite or not, we can define the limit z where
+
+z = for(let m = 0 to ∞) U exp(y, <m>)
+
+The S here is a topological space and z really is a limit. Thus though S is infinitary, there is a good chance that we can let manipulations fall back on finitely operations and be able to discuss computable operations on S and on more complex domains.
+
+Aside from the sequence and partial-order structure on S, we can define many kinds of algebraic structure. That is why S is a good example. For instance, up to isomorphism the space satisfies
+
+S = S * S
+
+where on the right hand side the usual binary direct product is intended.
+
+Abstractly, the domain S * S consists of all ordered pairs <x, y> with x, y belongs to S, where we define <= on S X S by <x, y> <= <x’, y’> iff x <= x’ and y <= y’
+
+But for all practical purposes there is no harm in identifying <x, y> with a sequence already in S; indeed coordinstewise we can define
+
+<x, y>_n = if(n == 2k) x_k
+	   if(n == 2k + 1), y_k
+
+The above criterion for <= between pairs will be verified, and we can say that S has a (bi-unique) pairing function.
+
+The pairing function <., .> on S has many interesting properties. In effect, we have already noted that it is monotonic (intuitively: as you increase the information contents of x and y, you increase the information content of <x, y>.) More importantly, <., .
+> is continuous in the following precise sense:
+
+<x, y> = for(m = 0 to ∞) <x ^ m, y ^ m>
+
+which means that <. , .> behaves well under taking finite approximations. And this is only one example; the whole theory of monotone and continuous functions is very important to this approach.
+
+Even with the small amount of structure we have put on S, a language suggests itself.
+
+We concentrate on the two isomorphisms satisfied by S; namely S = B * S and S = * S. The first identified S as having to do with (infinite) sequences of Boolean values; while the second reminds us of the above discussion of the pairing function.
+
+We set down a quick BNF definition of a language with two kinds of expressions:
+
+Bool := true | false | head Seq
+Seq := B* | B Seq | tail Seq | if B then Seq’ else Seq’’ | even Seq | Odd Seq | Merge Seq’ Seq’’
+
+This language has no variables, no declarations, no assignments, only a miniature selection of constant terms. Note that the notation chosen was meant to make the meanings of these expressions obvious.
+
+Thus if Seq denotes a sequence x, then head Seq has got to denote the first term x_0 of the sequence x. As x_0 belongs to B and x belongs to S, we are keeping our types straight.
+
+More precisely, for each expression, we can define its (constant) value [[ . ]]; so that [[ B ]] in B for Boolean expressions Bool and [[ Seq ]] in Seq for sequential expressions.
+
+[[ head Seq ]] = [[ Seq ]]_0
+
+[[ Bool* ]] = < [[ Bool ]], [[ Bool ]], [[ Bool ]], [[ Bool ]], … >
+
+In the same vein
+
+[[ Bool Seq ]] = < [[ Bool ]], [[ Seq ]]_0, [[ Seq ]]_1 , [[ Seq ]]_2, … >
+
+while we have
+
+[[ tail Seq ]] = < [[ Seq ]]_1, [[ Seq ]]_2, [[ Seq ]]_3, [[ Seq ]]_4, … >
+
+Further along:
+
+[[ even Seq ]] = < [[ Seq ]]_0, [[ Seq ]]_2, [[ Seq ]]_4, [[ Seq ]]_6, … >
+
+[[ merge Seq’ Seq’’ ]] = < [[ Seq’ ]], [[ Seq’’ ]] >
+
+It should be clear that what we have is really only a selection, because S satisfies many more isomorphisms (e.g. S = S * S * S), and there are many, many more ways of tearing apart and recombining sequences of Boolean values - all in quite computable ways.
+
+** The Function Space
+
+The previous treatment leave us on the elementary level of program sachems
+
+The semantics of predicate logic as a programming language — M. H. van Emden and R. A Kowalski (1976)
+
+Mathematical Theory of Computation — Zohar Manna (1974)
+
+What some people call Fixpoint Semantics is only a first chapter. The second chapter already includes procedures that takes procedures as arguments — higher-type procedures — and we are well beyond program schemes. True fixed-point techniques can be applied to these higher-type procedures, but that is not the only thing to say in their favor.
+
+Dana Scott says that he doesn’t like the abbreviated world fixpoint
+
+The semantic structure needed to make this definite is the function space. Scott has tried to stress this from the start in 1969, but many people have not understood Scott well enough.
+
+Suppose D’ and D’’ are two domains of the kind we have been discussing (say, B or B x B or S or something worse). By [D’ -> D’’] let us understand the domain of all monotone and continuous functions f mapping D’ into D’’. This is what is meant by a function space. It is not all that difficult mathematically, but it is not that obvious either that [D’ -> D’’] is again a domain “of the same kind,” though admittedly of a more complicated structure.
+
+< on the function space is defined as:
+f < g iff f(x) < g(x) for all x in D’
+
+Treating functions as abstract objects is nothing new; what has to be checked is that they are also quite reasonable objects of computation. The relation Box on [D’ -> D’’] is the first step in checking this, and it leads to a well-behaved notion of a finite approximation to a function.
+
+And when that is seen, the way is open to iteration of function spaces; as in [[D’ -> D’’] -> D’’’]. This is not as crazy as it might seem at first, since our theory identifies f(x) as a computable binary function of variable f and variable x. Thus, as an operation, it can be seen as an element of a function space:
+
+[[[D’ -> D’’] * D’] -> D’’]
+
+This is only the start of a theory of these operators (or combinators, as Curry and Church call them).
+
+Let us attempt an infinite iteration of function spaces beginning with S. We define F_0 = S and F_n+1 = [F_n -> S]. Thus F_1 = [S -> S] and F_4 = [[[S -> S] -> S] -> S]
+
+This is all highly constructive because we employ only the continuous functions.
+
+It is fairly clear that there is a natural sense in which this is cumulative. In the first place S is “contained in” [S -> S] as a subspace: identify each x in S with the corresponding constant function in [S -> S]. Clearly by our definitions this in an order-preserving correspondence. Also each f in [S -> S] is (crudely) approximated by a constant, namely f(undefined). This relationship of subspace and approximation between spaces will be denoted by S < [S -> S].
+
+Pushing higher we can say:
+[S -> S] < [[S -> S] -> S]
+
+but now for a different reason. Once we fix the reason why S < [S -> S], we have to respect the function space structure of the higher F_n. In the special case, suppose f in [S -> S]. We want to inject f into the next space, so call it i(f) in [S -> S] -> S. If g is any element in [S -> S] we are being required to define i(f)(g) in S. Now, since g in [S -> S], we have the original projection backwards j(g) = g(undefined) in S. So, as this is the best approximation to g we can get in S, we are stuck with defining
+
+i(f)(g) = f(j(g))
+
+TODO: I have stopped being able to follow the treatment, so truncating this part, which I will come in and fill if I get sufficient time, interest, and knowledge to do so.
+
+The infinite level of higher type functions is its own function space. As always, this is a consequence of continuity.
+
+What we have done is to sketch why F_∞ the space of functions of infinite type, is a model of the Lambda calculus. The Lambda calculus is a language where every term can be regarded as denoting both an argument (or value) and a function at the same time. The formal details are pretty simple, but the semantical details are what we have been looking at: every element of the space F_∞ can be taken at the same time as being an element of the space [F_∞ -> F_∞]; thus F_∞ provides a model, but it is just one of many.
+
+Without being able to be explicit, a denotational (or mathematical) semantics was outlined for a pure language of procedures (also pairs and all the other stuff described above).
+
+
 * On Process
 
 ** Conceptual Roots of Mathematics
