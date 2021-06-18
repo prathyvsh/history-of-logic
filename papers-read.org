@@ -1665,7 +1665,6 @@ Without being able to be explicit, a denotational (or mathematical) semantics wa
 *** Aristotle’s “whenever three terms” (2013)
 *** Aristotle’s Demonstrative Logic (2009)
 *** Boole’s Criteria for Validity and Invalidity (1980) (with Susan Wood)
-*** Notes on the Founding of Logic and Metalogic: Aristotle, Boole, and Tarski (2007)
 *** Aristotle’s Prior Analytics and Boole’s Laws of Thought (2003)
 *** Meanings of Inference, Deduction, and Derivation (2006)
 *** Meanings of Form (2008)
