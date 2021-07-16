@@ -1804,3 +1804,12 @@ T. Smiley (1962)
 
 ** What is a Syllogism?
 T. Smiley (1973)
+
+** [[https://eva.fing.edu.uy/pluginfile.php/103446/course/section/13184/Origins%20McCullock-Pitts.pdf][(Physio)logical Circuits: The Intellectual Origins of the McCulloch-Pitts Neural Networks]]
+Tara R. Abraham (2002)
+
+** [[https://arxiv.org/ftp/arxiv/papers/1511/1511.01455.pdf][The Dawn of Mathematical Biology]]
+D. S. Hoffman (2015)
+
+** [[http://www.umsl.edu/~piccininig/First_Computational_Theory_of_Mind_and_Brain.pdf][The First Computational Theory of Mind and Brain: A Close Look at McCulloch and Pitts’s “Logical Activity Calculus of Ideas Immanent in Nervous Activity”]]
+Gualtiero Piccinini (2004)
