@@ -1648,6 +1648,71 @@ What we have done is to sketch why F_∞ the space of functions of infinite type
 
 Without being able to be explicit, a denotational (or mathematical) semantics was outlined for a pure language of procedures (also pairs and all the other stuff described above).
 
+* [[rave.ohiolink.edu/etdc/view?acc_num=toledo1264612988][A Leibnizian Approach to Mathematical Relationships: A New Look at Synthetic Judgments in Mathematics]]
+David T. Purser
+
+A thesis taht examines how arbitrary systems of signification reveal real relationships in possible worlds. It attempts to examine the analytic/synthetic distinction and argues that mathematics is synthetic in nature. A moderate version of mathematical realism called modal relationism is advocated.
+
+** Contents
+
+*** First Chapter
+The lingua characteristica and calculus ratiocinator projects of Leibniz is examined and the extent to which these ideas influenced the development of philosophical perspectives on the relationship between formal languages and reality is assessed.
+
+*** Second Chapter
+
+Work of Cantor, Gödel, and the paradoxes in mathematics in the early 20th century is considered. The chapter makes Leibnizean connections between Cantor’s diagonal method, Russell’s paradox and Gödel’s Incompleteness theorem.
+
+*** Third Chapter
+This chapter assesses whether Gödel realized Leibniz’s vision, in a larger metaphysical context. What do paradoxes tell us about the nature of mathematics and logic? Is there any connection between Leibniz’s thought and these paradoxes? To answer these questions Kantian distinction of arithmetic as synthetic a priori and analytic a priori is discussed. Is arithmetic no more than mere tautology? And if it is, does this imply that mathematics is void of content? Is there any formal system with necessarily true propositions that also contains content? The chapter concludes by examining the distinction between realism and nominalism in the philosophy of mathematics. Leibniz’ distinctions and formulation of formal paradoxes in the early 21th century are explored to shed light on the realism debate.
+
+** Chapter 1: Leibniz and Symbolic Language
+
+*** 1.1 Introduction
+
+Leibniz worked his entire life on a universal language, or the lingua characteristic (Universal Characteristic), and on calculus ratiocinator (Logical Calculus).
+
+Universal Characteristic was to reflect the structure of human concepts in a universal way. It would be a language of universal though. In contrast, the Logical Calculus was to provide the method for usig the Characteristic in order to adequately represent the reasoning of humans.
+
+Leibniz’ vision for a Universal Characteristic: showing that arbitrary symbols systems make evident real relationships that we could not otherwise see by eliminating the dangers of ambiguity and equivocation.
+
+Logical Calculus: the process of reasoning within an arbitrary symbol system and how his reveals new relationships in the world.
+
+The legacy Leibniz left behind by exploring theory of relations as both mathematically representable and metaphysically real.
+
+Leibniz belieed that the Universal Characteristic and Logical Calculus combined would help not only the scientific community make progress in discovering truth but also would help all of humanity by sharpening he minds of all people, not just the elite of society. The need for a universal, scientific language is so that people from all over the world could come and reason together. This allows people to understand and work out problems together with the guarantee of reaching the same conclusions.
+
+*** 1.2 Universal Characteristic
+
+The idea of the Universal Characteristic is that humans, not just Leibniz, could produce a universal language that would bring out all the logical connections between the different components of language.
+
+Donald Rutherford (1995) says:
+The universal characteristic would enable us to construct linguistic characters which are transparent representations of intelligible thoughts.
+
+A formal language that explicitly brings out the logical relationships between propositions would have advantages over natural languages such as avoiding equivocations and ambiguity. The language is also more advantageous because it allows the implicitly logical relationships to become evident to our senses.
+
+The clearer and more precise the symbol of signification the easier the complex relationships between objects or concepts becomes to comprehend.
+
+The Universal Characteristic is composed of two different pars. The first component is the reduction of all concepts to their simplest forms. The second component of the Universal Characteristic is the arbitrary nature of the signs that stand for all of the concepts.
+
+*** 1.2.1 Simple Concepts
+
+Leibniz believed that all concepts are reducible to simple terms. Deriving the simple terms for every concept is essential to the formulation of the Characteristic.
+
+The alphabet Leibniz conceives of involves reducing all of our concepts to not only simple terms but in reducing our concepts to numbers. EVery letter in this formal alphabet will correspond to a specific number. Here we seen an anticipation of, if not a forerunner of Gödel numbering.
+
+Numbers are clear and distinct and therefore numbers allow us to avoid ambiguity/equivocation. As per the author, this goal to reduce all concepts to the simplest terms appears to be a utopian dream that is unachievable.
+
+Universal Characteristic provides a useful way to situate simple terms in an analyzable language.
+
+An analyzable language is desirable for 2 reasons:
+1/ It allows for rigor in our language and will allow us to see exactly where inconsistencies appear in our moral, metaphysical and scientific knowledge.
+2/ An analyzable language allows us to see the strengths and weaknesses of competing hypotheses more clearly, or for the first time. It might be the case that neither of our hypotheses are perfect, but the analyzable language allows us to see exactly where the faults is in our reasoning, and what steps could correct he fault in order to provide a stronger hypothesis.
+
+*** 1.2.2 Arbitrary Signs
+
+Signs are necessary in this alphabet because of the role of signs in all of our language and not just in technical discourse.
+
+Leibnize argues that signs are necessary in Meditations on Knowledge, Truth and Ideas (1684). Leibniz argues that we use signs in all of our thinking. He explains that when solving a mathematical problem we do not think of the entire problem at once, but that we use signs to represent the problem to make things easier for us.
 
 * On Process
 
