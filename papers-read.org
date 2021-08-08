@@ -1714,6 +1714,44 @@ Signs are necessary in this alphabet because of the role of signs in all of our 
 
 Leibnize argues that signs are necessary in Meditations on Knowledge, Truth and Ideas (1684). Leibniz argues that we use signs in all of our thinking. He explains that when solving a mathematical problem we do not think of the entire problem at once, but that we use signs to represent the problem to make things easier for us.
 
+What kinds of signs are most effective? The early work of Leibniz argues that the signs that have the properties we want are numerals. The reason that numerals are useful is because of the accuracy and ease with which they are handled.
+
+Leibniz argues that usig numbers, as our arbitrary pasigraphic symbols, allows one to see the certainty of the proofs easier than using any other form of language.
+
+Leibniz realizes that the arbitrary signs which we choose do not matter in the end. The choice of signs does not matter because the important aspect of this language is the relationships between concepts which remains the same no matter what the signs are. Therefore, if we were to change the signs, and do this consistently, it would not change the meaning of our calculations. This implies that it is not the concepts or objects in and of themselves that are important but how they relate to one another.
+
+Arbitrary symbols have the potential to tell us new things about the world. Even though the symbols are arbitrary, this does not mean that the relationships are arbitrary.
+
+*** 1.3 Logical Calculus
+
+In order to make the Universal Characteristic useful there muts be a way to manipulate the symbols and deductively arrive at new theorems.
+
+The universal characteristic provides the alphabet and the logical calculus is the rules of the syntax. The rules of syntax is not only for the manipulation of arbitrary symbols but also for the understanding of the relationship between the symbols and the world.
+
+The Logical Calculus will provide us with a quick way in determining the truth of an argument. It might not always be in our power to find the truth, but given a statement there would be a simple procedure to see if the argument is correct or not. And if the argument is flawed there will be an easy procedure to see where the argument fails.
+
+Leibniz believed that once the Universal Characteristic was created, one would be able to construct numbers that are consistent with every simple concept. The numbers would provide the logician with the ability to calculate the concepts in order to demonstrate all of the rules of logic.
+
+If one calculates according to the rules of the Logical Calculus then one will be able to recognize formal truths. By analyzing form alone, one avoids ambiguity and equivocation.
+
+The Logical Calculus is based on the idea that all truths are derivable from deductive proofs. He states in his dissertation that “Every true proposition can be proved”.
+
+In the paper Necessary and Contingent Truths (1686), Leibniz argues that there are two types of truth. There are necessary and contingent truths. The necessary truths are those propositions whose opposite leads to a contradiction. Leibniz argues that in necessary truths the predicate is contained in the subject. These are commonly called analytic truths. Contingent truths are similar in that the predicate is contained in the subject but one can never demonstrate that this ist he case because one can analyze the terms indefinitely. Leibniz states that, “In such cases it is only God, who comprehends the infinite at once, who can see how the one is in the other, and can understand a prior the perfect reason for contingency; in creatures this is supplied a posteriori, by experience”. For God, contingent truths are demonstrable through a deductive argument, but for humans it is not possible because of the limits of our raeson. We would have to have an infinite number of steps in our syllogism to prove deductively a contingent truth.
+
+Leibniz argues this same idea in his logical papers. Leibniz makes it clear that when he says the ‘truths are provable’ he is referring to necessary truths, truths which are necessary in all possible worlds, and not for contingent truths.
+
+In his dissertation, Leibniz is careful to delinate the difference between truths that has its basis in existence, not in essence, and which are true as if by chance, i.e. by the will of God (contingent truths) and those in its essence, which are eternal and which exist not by the will of God, but by their own nature (necessary truths). He says that for contingent propositions, there is no demonstration, but only induction; except that sometimes an observation can be demonstrated through an observation by the mediation of a theorem.
+
+Leibniz realizes that there are certain propositions that the Logical Calculus will never be able to solve because of the difficulty that one has in finding tautological propositions. Someone could search for an infinite amount of time and still never come to a conclusion for certain contingent propositions. Leibniz does not lament the fact that there are certain undecidable truths. Instead he argues, “But we can no more give the full reason for contingent things than we can constantly follow asymptotes and run through infinite progressions of numbers”. He does not appear to be disturbed by this limit of the Logical Calculus but is confident that this limit is only a limit of human knowledge. The totality of the real world, in all its infinite complexit, may elude mortals no matter how well-chose the symbol systems are. However, better systems empower us to see more of the real world than we could without them.
+
+*** 1.4 Leibniz’s Legacy
+
+Leibniz desired to have a language that reduced all propositions to their simplest terms. This language Leibniz called the Universal Characteristic. He thought that one would be able to turn the simple terms into numbers and perform calculations on the numbers using the grammar of the language. Using this process, Leibniz thought that all true propositions could be proved.
+
+Jean Van Heijenoort points out that Boole’s system accomplishes only the Logical Calculus aspect of Leibniz’s dream. It was Frege who would try to accomplish the Universal Characteristic aspect of Leibniz’s vision. 
+
+Gödel’s thinking was highly influenced by Leibniz. Gödel numbeing as a prime example of how a powerful system of signification can show us new things about the world by showing relationship inherent to arithmetic never before seen.
+
 * On Process
 
 ** Conceptual Roots of Mathematics
@@ -1878,3 +1916,6 @@ D. S. Hoffman (2015)
 
 ** [[http://www.umsl.edu/~piccininig/First_Computational_Theory_of_Mind_and_Brain.pdf][The First Computational Theory of Mind and Brain: A Close Look at McCulloch and Pitts’s “Logical Activity Calculus of Ideas Immanent in Nervous Activity”]]
 Gualtiero Piccinini (2004)
+
+** [[http://virthost.vub.ac.be/lnaweb/ojs/index.php/LogiqueEtAnalyse/article/view/1578/1339][Leibniz’s and Kant’s Philosophical Ideas and the Development of Hilbert’s Programme]]
+Roman Murawski (2002)
