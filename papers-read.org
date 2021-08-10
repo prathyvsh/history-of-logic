@@ -1752,6 +1752,28 @@ Jean Van Heijenoort points out that Boole’s system accomplishes only the Logic
 
 Gödel’s thinking was highly influenced by Leibniz. Gödel numbeing as a prime example of how a powerful system of signification can show us new things about the world by showing relationship inherent to arithmetic never before seen.
 
+*** 1.5 Leibniz’ Continued Relevance
+
+Leibniz thought that all relations were reducible to arithmetical equations. If you take any proposition, then using the rules of arithmetic the truth of the proposition is derivable by means of arithmetical steps. Notice that truth is derivable from the proposition, not just the validity of the argument.
+
+The author contends that instead certain logical systems can determine the necessary relationships, not the truth, of propositions by means of arithmetic. It is commonly thougt that the objects or concepts are the important aspects of our thinking. Instead, the author suggests that the concepts in and of themselves are not important. The necessary relationships that exist between concepts or objects are the important aspect of our thought.
+
+Gödel showed that all axiom systems could be turned into arithmetical functions. This idea of Leibniz, which Gödel understood, enables us to see how relations can, and do submit to the same rigor as mathematics.
+
+Leibniz’s idea of a Logical Calculus is important because it points out the isomorphism between the way the world is and the way we think about the world.
+
+Thought: The author asserts that Leibniz was a catalyst for the formation of Boolean logic and Predicate Logic, but doesn’t point out exactly the places where this follows. To my knowledge, Boole wasn’t aware of Leibniz’s work at the time of writing The Mathematical Analysis of Logic. There could be influence via the embedded milieu and imbibed ideas in it, but the author isn’t explicit in pointing these out.
+
+** Chapter 2: Foundations of Mathematics
+
+*** 2.1 Introduction
+
+Aristotelian syllogisms studied categories and the relationships between categories, but were not powerful enough to take into consideration isolated propositions. Boolean logic took a step in the right direction by providing algebraic notation and symbols but could only express entire propositions with an isolated symbol. With Frege, fomral logic was now capable of accomplishing things that at one point it could not even dream of accomplishing, such as explicitly representing the complexity of the kinds of relationships between sentences, predicates, relationships between relationships and properties of relationships.
+
+After the advent of this representational device, Philosophers no longer solve the problems of metaphysics in simplistic terms e.g. objects, their properties and relations. Instead, relations define the objects and properties become 1-place relations. For example, the successor relationship defines objects by their relationship to other objects.
+
+*** 2.2 Cantor’s Diagonal Method
+
 * On Process
 
 ** Conceptual Roots of Mathematics
