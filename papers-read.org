@@ -1774,6 +1774,26 @@ After the advent of this representational device, Philosophers no longer solve t
 
 *** 2.2 Cantor’s Diagonal Method
 
+Cantor’s big idea is that not all infinite sets have the same measure. Some infinite sets are larger than others. Cantor used an innovative method of proof to show his results.
+
+The way by which Cantor showed that there are infinite number of different size infinite sets is using a method called diagonal method.
+
+*** 2.3 Gödel’s Incompleteness Theorem
+
+*** 2.3.1 Gödel Numbering
+
+If proofs are no more than formulas, then assigning the natural numbers seems like a justifiable move. Goödel recognizes that all signs are ultimately arbitrary but that well-chosen signs have a greater capacity to show us relationships that are inherent to the world in which we have never seen, by avoiding the ambiguity or equivocations within another language.
+
+Essentially what Gödel did was what Leibniz suggested be done in the development of logic. Leibniz suggested that if all propositions could be represented by numerals then one could use arithmetic to determine whether the proposition was true or not.
+
+Another benefit of using the Gödel numbering is that it makes a definite decision procedure for all systems possible.
+
+*** 2.3.2 Gödel’s Proof
+
+Author uses Gödel's proof to assert that mathematics is not a purely deductive science in the sense that the logicist movement thought. Instead mathematics is more like a scientific study in which new things are discoverable and new methods are capable of producing new truths. If mathematics is like science in this way then Gödel’s proof might be pointing us toward mathematical realism. Discoverable truth implies that theer exists something that is discoverable. Alternatively, nominalism would argue that mathematics is purely a formal game of symbol manipulation. Nominalists are correct to point out the arbitrary and conventional nature of our symbols. However, althoough the symbols are arbitrary, it does not follow that the relationships between them are arbitrary.
+
+*** 2.4 Conclusion
+
 * On Process
 
 ** Conceptual Roots of Mathematics
