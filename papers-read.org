@@ -1794,6 +1794,34 @@ Author uses Gödel's proof to assert that mathematics is not a purely deductive 
 
 *** 2.4 Conclusion
 
+Mathematics is capable of discovering new content and is not reducible to axiom system.
+
+** Chapter 3: Moderate Realism in the Philosophy of Mathematics
+
+*** 3.1 Introduction
+
+The analytic/synthetic distinction as meaningless when considering Leibniz’s distinction between the lingua characteristica and the calculus ratiocinator.
+
+*** 3.2 History of the Analytic/Synthetic Distinction
+
+**** 3.2.1 Kant
+
+Kant argued that all mathematical judgments (arithmetical and geometrical) were synthetic a priori. He argues that at first glance, a sentence like, 7 + 5 = 12 is an analytical statement. But nothing but for the union of two numbers into one is the concept here and in this no thought is being taken as to what that single number may be. According ot Kant, it is our intuition that helps us go outside of the concepts 7 and 5 to arrive at the number 12. What makes arithmetical statements synthetic is the way in which our intuition recognizes the relationship between the two numbers. The union of the two numbers into one takes place in addition, according to Kant. Thus, addition is not concerned with the objects, in and of themselves, but is instead concerned with the relationship between the objects.
+
+Another example on considering large number calculations on the basis of relations among concepts which has to be justiied on intuitive and synthetic grounds is mentioned. This is used by the author to posit that mathematical relations are considered the synthetic aspect of mathematics.
+
+Also, the reason mathematical judgments are a priori for Kant is self-evident. It is because they cannot be empirical, but they carry with them necessity, which cannot be derived from experience.
+
+All necessary truths, like mathematical judgments, are a priori. Kant’s view is that mathematical relations are both necessary and universal, but dependent on intuition.
+
+Logic, for Kant, is not the same as mathematics. While mathematical judgments are synthetic in nature, logical judgments are analytic. For Kant, logic teachus us nothing regarding the content of knowledge as it is only concerned with abstract relationships. In the Kantian framework, the objects themselves take priority over the relationships between objects and are our source of synthetic insights.
+
+The problem with Kant’s distinction between analytic and synthetic judgments is that Kant considers our logical reasoning to concern objects primarily, while our mathematical reasoning concerns relationships of objects. For Kant logic cannot teach us anything because it cannot tell us anything new about objects. This conclusion, as per the author, does not necessarily follow. Instead, logic does tell us how objects relate with each other because logical truths are isomorphic to mathematical truths. Objects do not have to be our sole source of knowledge in the world. In this way, logical reasoning, by means of an innovative symbol system, can reveal new relationships in the world that we could never have seen before. Once we see logic and mathematics as both primarily with relationships between objects and/or relations then both disciplines can be seen as synthetic in nature.
+
+**** 3.2.3 Frege
+
+Frege agreed and disagreed with Kant on the synthetic nature of mathematics. Frege saw geometrical judgments as synthetic but arithmetical judgments as analytic.
+
 * On Process
 
 ** Conceptual Roots of Mathematics
