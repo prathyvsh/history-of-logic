@@ -1820,7 +1820,22 @@ The problem with Kant’s distinction between analytic and synthetic judgments i
 
 **** 3.2.3 Frege
 
-Frege agreed and disagreed with Kant on the synthetic nature of mathematics. Frege saw geometrical judgments as synthetic but arithmetical judgments as analytic.
+Frege agreed and disagreed with Kant on the synthetic nature of mathematics. Frege saw geometrical judgments as synthetic but arithmetical judgments as analytic. Frege argues that numbers have meanings but that they are not separate objects or a property of any outward things. Frege is worried that this idea might undermine the content of mathematical statements. Just because we cannot imagine what a number might look like, or precisely what we mean when we say the number 2, it does not follow that the word is meaningless. Frege argues that in the same way that having a mental picture of objects does not mean that our mental pictures are somewhere. We may have an idea of what a number is, but this does not mean that numbers actually exist in some Platonic heaven.
+
+Frege argues later that mathematics is both analytic and synthetic. On the one hand, geometrical judgments are synthetic because they can reveal true things about the world. One the other hand, arithmetical judgments are analytic because they can be proved by pure deduction. He says that mathematical inference expand our knowledge about the world and are thus synthetic, but that they are proved deductively and thus analytic.
+
+Frege’s logicism rests on the assumption that olgic and the appeal to logical laws is purely analytic. Arithmetic can be proved deductively, like logical laws, because logical statements are isomorphic to arithmetical statements. But just because mathematics and logic can be proved deductively does not mean that their judgements are analytic. The relationships between the logical objects could be real relationships that exist. They do not have to exist in a Platonic universe somewhere, just like mathematical objects do not have to exist in a Platonic universe. Instead, these relationships exist independent of what material or immaterial objects may exist and have meaning.
+
+*** 3.2.3 Russell and the Vienna Circle
+
+Distiction between Russell’s brand of logicism and the Vienna Circle’s is not important for the scope fo this chapter.
+
+The Vienna Circle did not think that any mathematical or logical judgments were synthetic. Every mathematical statement was a tautology and void of any content. Carnap argues that since all arguments of logic are tautologies, it follows that, “all the sentences of mathematics are tautologies”. This is a shift from Frege as not even geometrical judgments classify as synthetic judgments.
+
+Hans Hahn sees a difficulty ith this view. It is that how can empiricism account for the real validity of logical and mathematical statements? Hahn argues that logic and mathematics are both composed of no more than tautologies. Therefore, Hahn is in total agreement with Carnap in this respect. This presents a problem for Hahn. Hahn wants to know what exactly the purpose of logic or mathematics is if it is purely analytic. It is his belief that tautological statements are important because we are not omniscient. If we were omniscient then we would know all tautological statements. Analytic judgments are thus useful because of the limited nature of humans.
+
+Poincaré argues against the Vienna Circle view that mathematics is not wholly tautological. Poincaré questions if all the volumes written on mathematics are but indirect ways of enunciating A is A. This according to the author is the right question to ask. Evenif mathematical statements are tautologies, because different tautologies express different relationships, they have value. The statement A = A and A or not A even though they express the same truth value express different relationships. 
+
 
 * On Process
 
