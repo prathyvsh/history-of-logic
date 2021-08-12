@@ -1836,6 +1836,27 @@ Hans Hahn sees a difficulty ith this view. It is that how can empiricism account
 
 Poincaré argues against the Vienna Circle view that mathematics is not wholly tautological. Poincaré questions if all the volumes written on mathematics are but indirect ways of enunciating A is A. This according to the author is the right question to ask. Evenif mathematical statements are tautologies, because different tautologies express different relationships, they have value. The statement A = A and A or not A even though they express the same truth value express different relationships. 
 
+*** 3.2.4 Quine
+
+Quine argues in “Two Dogmas of Empiricism” that the notion of analyticity is circular. One of the problems with analyticity is that analyticity assumes a necessary connection between two objects. Quine does not think that the adverb ‘necessarily’ can account for analyticity. To suppose that it does is to suppose that we have already made satisfactory sense of ‘analytic’. In the essay, Quine shows that all of our notion of synonymy relies on the notion of analyticity. In this awy, the distinction between analytic and synthetic judgments is shown to be a false dichotomy.
+
+As per the author, Quine is right in pointing out that there is a false dichotomy between analytic/synthetic judgments. He says that the distinction is a “metaphysical article of faith”. Instead of holding to this artifce of faith, Quine proposes that all of our theories are revisable and are in need of reevaluation.
+
+*** 3.2.5 The Problem with the Analytic/Synthetic Distinction
+
+The analytic/synthetic distinction imposes a rigid divide between form and content. Kant saw logic as pure form, and thus analytic; whereas, mathematical judgments, being full of content, are synthetic. The distinction between form and content renders meaningless Leibniz’s distinction between the universal characteristic and the calculus ratiocinator.
+
+An aspect of Leibniz’s project is that there is an isomorphism from a language into mathematics. Gödel numbering shows that this indeed is the case. One can take a language, and translate the components into numerals and manipulate the symbols through the rules of arithmetic. In this sense, the content of a proposition is not important. Instead, in this isomorphic relationship, the form is important because the form shows the inherent relationships that exist between arbitrary objects.
+
+Abruptly, without much build up, the author claims that the distinction between form and content is not a real distinction. His idea is that form contributes to the content of any proposition. But I felt that there is no particular delineation or a mapping done to precise ideas being done and clarified before making this claim. By saying that form contributes to content, he says that form is not isolated from content and that content can be isolated from the form. But a few sentences before he was saying that the manipulation of proposition is formal. I think this confusion could have been eliminated if the idea was somehow made mathematically tractable. There seems to be ideas in measure theory going by the name of content. So in a sense I think this might be mappable to quantity (content) vs. quality (form) distinction. So in this sense, logic is topological and analytical study of measures or spans(?) of the concepts and the particular way in which they measure the space being addressed could be made a setting where this sort of vague talk about form and content is discussed. Without this, I think we are left to point out to certain examples which confound both of these without clearly separating the ideas immanent in this space and how exactly the one contributes to the other and forms a symbiotic circle.
+
+
+The author then goes on to say that all statements, including tautologies, are content-rich because form contributes to content. In the sam way that the innovative system of Gödel numbering was able to show that arithmetic is necessarily inconsistent/incomplete, a new system could be invented that opened our eyes to see new relationships in the world. Leibniz’s project is not a utopian dream of seeing every theorem proved, but instead shows us that the world of ideas, including the world of mathematics, is filled with content. The content produced by mathematics is dependent on different axiom systems. Different axiom systems produced different content. Mathematics studies all the different relationships in possible worlds and reveals necessary relationships for the instantiation of the world in which we live.
+
+*** 3.3 Nominalism and Realism
+
+
+
 
 * On Process
 
