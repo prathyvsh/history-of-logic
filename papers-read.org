@@ -1855,7 +1855,64 @@ The author then goes on to say that all statements, including tautologies, are c
 
 *** 3.3 Nominalism and Realism
 
+* The Significance of Curry-Howard Isomorphism
+Richard Zach (2019)
 
+* The Significance of the Curry-Howard Isomorphism
+
+** Introduction
+
+The completeness theorems of Gödel is thought to be significant because it establishes, in a mathematically rigorous way, the equivalence between syntactic and semantic definitions of logical equivalence. The incompleteness theorem, on the other hand, is significant because it shows the inequivalence of syntactic and semantic definitions of mathematical truth.
+
+Löwenheim-Skolem theorem is considered philosophically significant because of the use Putnam put it to in his model-theoretic argument.
+
+The Curry-Howard isomorphism in brief is that to every derivation in natural deduction there corresponds a term in a lambda calculus, such that transformation of the derivation into a normal form corresponds to evaluating the corresponding lambda term.
+
+A mathematical result can be significant for a number of reasons. Some of them are:
+
+1/ It elucidates a concept by relating it to others. Example: completeness theorem: it elucidates semantic and proof-theoretic definitions of consequence by showing them to be equivalent (in the case of first-order logic).
+
+2/ It is fruitful in proving other results; it provides methods used in further proofs. Example: compactness theorem: it allows us to show that sets of sentences are consistent (and hence satisfiable) by showing that every finite subset is consistent (or satisfiable).
+
+3/ The breadth of fields for which it is significant, either by elucidating notions, or by providing proof methods, or by paving the way for “practical” applications. Author adds that the line between practical and theoretical application is blurry. By practical application the author chooses to designate a method for finding answers to specific questions or solving particular problems. Inferences from databases, or finite models for formal specifications of circuits can be seen as specific questions that can be solved with proof and model-building methods from mathematical logic.
+
+Soundness, completeness, and compactness results for various logical systems are easily seen to be significant for practical applications. Proof-theoretic results such as cut-elimination and consistency proofs are more generally harder to certify as significant.
+
+Normalization of natural deduction plays an important role in the formulation of proof-theoretic semantics.
+
+Consistency proofs are significant because in the absence of a semantics for a logical formalism, a consistency proof (e.g., a cut elimination result) establishes a kind of safety for the formalism. These results paved the way for the development of formalisms that were amenable to software implementation, i.e., automated theorem proving. Proof search is only feasible if the search space can be sufficiently restricted, and cut-elimination guarantees this. If the cut rule were not eliminable, proof search using analytic calculi such as the sequent calculus would not be feasible - and cut elimination proofs establish this even in the absence of a proof of cut-free completeness.
+
+Strengthenings of consistency proofs also have theoretical significance in mathematical logic. The kind of results arising out of the work of consistency proofs which show that there are procedures that transform proofs in one system into proofs in another, weaker system (at least for certain classes of theorems). These results provide proof theoretic reductions of one system to another (a theoretically significant result inside mathematical logic), provide the basis for what Feferman in his 1992 paper “What Rests on What? The Proof-Theoretic Analysis of Mathematics”, has called foundational reductions (a philosophical payoff)., but also sometimes provides methods for extracting bounds from proofs of existential theorems in various systems of arithmetic or analysis (a mathematical payoff). They also measure (and hence elucidate) the strength of axiom and proof systems in more fine-grained ways that simple consistency strength, as when the proof-theoretic reduction shows a speed-up of one system over another.
+
+Curry in his 1934 work observed a surprising but possibly merely coincidental similarity between some axioms of intuitionistic and combinatory logic. Following Howard (originally circulated in 1969) and Reynolds 1974, it became clear that the isomorphism applied in a wider variety of cases, and it took on both theoretical and philosophical significance. Its theoretical significance lies in the fact that it can be used to prove strong normalization of natural deduction, i.e., the result that normal derivations do not just exist but that they are unique. Its philosophical significance arose originally out of the claim that the lambda term assigned to a derivation can be taken to be the “computation content” of the derivation. There needs to be some work here to clarify the notions of computation and content here.
+
+** 2 Natural Deduction
+
+The Curry-Howard isomorphism is a correspondence between proofs in natural deduction systems and terms in lambda calculi. The correspondence is explained much more easily if natural dedcution is formulated not as it was originally by Gentzen 1934 and Prawits 1965 as inferring formulas from formulas, but as proceeding from sequents to sequents.
+
+In classical natural deduction, initial formulas in a proof are assumptions, some of which may be discharged by certain inference rules. A proof is thought of as establishing that the end-formula follows from the set of assumptions that remain undischarged or “open”.
+
+Derivations in natural deduction normalize, i.e., there is always a sequence of reduciton steps which transforms a derivation into a derivation in normal form. A derivation is in normal form if no introduction rule for a connective is immediately followed by an elimination rule for the same conective. This result plays a similar role for natural deduction as the cut-elimination theorem plays for the sequent calculus. In particular, it establishes the subformula property for natural deduction derivations. As noted above, the subformula property is essential for the practical implementation of proof search algorithms, since it limits the search space and so eliminates one source of infeasibility in actually carrying out the search for a derivation.
+
+Normalization is carried out by removing “detours” - application of introduction rules immediately followed by elimination rules - one by one.
+
+
+** 3 The Typed Lambda Calculus
+
+The Curry-Howard isomorphism is a correspondence between derivation in natural deduction and terms in a typed lambda calculus. In a term calculus; terms are built up from variables. If t is a term, so is λx -> t, called a lambda abstract. Intuitively, it represents a function (a program) that takes x as argument and returns a value specified by the term t (in which x occurs free). In λx.t, x is bound. So terms can represent functions; applying a function to an argument is simply represented by (t s), where s is another term representing the argument to the function represented by t.
+
+The lambda calculus is a very simple programming language, in which terms are programs. Execution of a program for an input is the conversion of terms to one that cannot be further evaluated. Such terms are said to be in normal form; they represent outcomes of computations.
+
+Redexes are the terms of the lambda calculus to which reduction can be applied.
+
+In the untyped lambda calculus, it is allowed to apply terms to terms to which they intuitively shouldn’t be applied. For example, if you have projection operators:
+
+proj1(<t, s>) = t
+proj2(<t, s>) = s
+
+they expect a pair to work, but in the untyped lambda calculus, you can proceed to apply it to arbitrary shapes of lambda terms.
+
+In the typed lambda calculus, the syntax prohibits this. Now every variable comes with a type and a variable can be made to take only values of a certain type. One can think of types as objects of a certain sort (e.g., truth values or natural numbers) but there are also function types (e.g., functions from numbers to truth values).
 
 
 * On Process
