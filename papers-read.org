@@ -1855,6 +1855,21 @@ The author then goes on to say that all statements, including tautologies, are c
 
 *** 3.3 Nominalism and Realism
 
+*** 3.3.1 Nominalism (anti-realism)
+
+Intuitionism and Formalism are said to be two branches of nominalism. Both of these branches see mathematical statements as invented by humans, and thus not real.
+
+The formalisms see mathematics as a play of insignificant notations. The formalist correctly recognizes the arbitrary nature of mathematical symbols.
+
+The author asserts that if mathematics is a game of symbol manipulation, then mathematics could not consistently provide an adequate base for scientific discoveries. What the symbol-sequences of axioms signify makes a difference. Axiom choice, like a choice of signs themselves, is never totally arbitrary.
+
+For the intuitionist, in Michael Dummet’s thinking, the grasp of the meaning of a mathematical statement consists in our ability to recognize, for any mathematical construction, whether or not it constitutes a proof of the statement. For an assertion of such a statement is to be construed as a claim that a proof of it exists or can be constructed, not as a claim that it is true.
+
+*** 3.3.2 Realism
+
+Kurt Gödel in Russell’s Mathematical Logic argues that the assumption of mathematical objects is just as legitimate as assuming physical bodies. In the same way taht physical laws require physical bodies, mathematical laws require mathematical “bodies” or abstract objects.
+
+
 * The Significance of Curry-Howard Isomorphism
 Richard Zach (2019)
 
@@ -1895,7 +1910,6 @@ In classical natural deduction, initial formulas in a proof are assumptions, som
 Derivations in natural deduction normalize, i.e., there is always a sequence of reduciton steps which transforms a derivation into a derivation in normal form. A derivation is in normal form if no introduction rule for a connective is immediately followed by an elimination rule for the same conective. This result plays a similar role for natural deduction as the cut-elimination theorem plays for the sequent calculus. In particular, it establishes the subformula property for natural deduction derivations. As noted above, the subformula property is essential for the practical implementation of proof search algorithms, since it limits the search space and so eliminates one source of infeasibility in actually carrying out the search for a derivation.
 
 Normalization is carried out by removing “detours” - application of introduction rules immediately followed by elimination rules - one by one.
-
 
 ** 3 The Typed Lambda Calculus
 
