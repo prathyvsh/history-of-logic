@@ -117,6 +117,7 @@ McKerrow also compares the innovation of Whatley to that of Stephen Toulmin’s 
 
 ** [[https://link.springer.com/chapter/10.1007/11780342_59][Gödel and Computability Theory]]
 Richard Zach (2006)
+
 Read 13 January 2021
 
 Short read on the links between ideas of Gödel and Computability and Complexity Theory
@@ -1903,13 +1904,13 @@ In conclusion, the analytic/synthetic judgments is a false dilemma. Every statem
 * The Significance of Curry-Howard Isomorphism
 Richard Zach (2019)
 
-* The Significance of the Curry-Howard Isomorphism
+Read 13 August 2021
 
 ** Introduction
 
 The completeness theorems of Gödel is thought to be significant because it establishes, in a mathematically rigorous way, the equivalence between syntactic and semantic definitions of logical equivalence. The incompleteness theorem, on the other hand, is significant because it shows the inequivalence of syntactic and semantic definitions of mathematical truth.
 
-Löwenheim-Skolem theorem is considered philosophically significant because of the use Putnam put it to in his model-theoretic argument.
+Löwenheim-Skolem theorem is considered philosophically significant because of the use Putnam put it to in his model-theoretic argument in “Models and Reality” (1980).
 
 The Curry-Howard isomorphism in brief is that to every derivation in natural deduction there corresponds a term in a lambda calculus, such that transformation of the derivation into a normal form corresponds to evaluating the corresponding lambda term.
 
@@ -1929,7 +1930,7 @@ Consistency proofs are significant because in the absence of a semantics for a l
 
 Strengthenings of consistency proofs also have theoretical significance in mathematical logic. The kind of results arising out of the work of consistency proofs which show that there are procedures that transform proofs in one system into proofs in another, weaker system (at least for certain classes of theorems). These results provide proof theoretic reductions of one system to another (a theoretically significant result inside mathematical logic), provide the basis for what Feferman in his 1992 paper “What Rests on What? The Proof-Theoretic Analysis of Mathematics”, has called foundational reductions (a philosophical payoff)., but also sometimes provides methods for extracting bounds from proofs of existential theorems in various systems of arithmetic or analysis (a mathematical payoff). They also measure (and hence elucidate) the strength of axiom and proof systems in more fine-grained ways that simple consistency strength, as when the proof-theoretic reduction shows a speed-up of one system over another.
 
-Curry in his 1934 work observed a surprising but possibly merely coincidental similarity between some axioms of intuitionistic and combinatory logic. Following Howard (originally circulated in 1969) and Reynolds 1974, it became clear that the isomorphism applied in a wider variety of cases, and it took on both theoretical and philosophical significance. Its theoretical significance lies in the fact that it can be used to prove strong normalization of natural deduction, i.e., the result that normal derivations do not just exist but that they are unique. Its philosophical significance arose originally out of the claim that the lambda term assigned to a derivation can be taken to be the “computation content” of the derivation. There needs to be some work here to clarify the notions of computation and content here.
+Curry in his 1934 work “Functionality in Combinatory Logic” observed a surprising but possibly merely coincidental similarity between some axioms of intuitionistic and combinatory logic. Following Howard (originally circulated in 1969) “The Formulae-As-Types Notion of Construction” and John Reynolds’ “Towards a Theory of Type Structure” (1974), it became clear that the isomorphism applied in a wider variety of cases, and it took on both theoretical and philosophical significance. Its theoretical significance lies in the fact that it can be used to prove strong normalization of natural deduction, i.e., the result that normal derivations do not just exist but that they are unique. Its philosophical significance arose originally out of the claim that the lambda term assigned to a derivation can be taken to be the “computation content” of the derivation. There needs to be some work here to clarify the notions of computation and content here.
 
 ** 2 Natural Deduction
 
@@ -1991,6 +1992,17 @@ The Curry-Howard isomorphism, in its computational version, is the basis for a v
 
 1. Well-formed lambda terms have associated type derivations
 2. Evaluation of terms corresponds to normalizaition of the corresponding type derivations
+
+The Curry-Howard isomorphism establishes that well-formed terms can always be type checked by a derivation in normal form. Since derivations in normal form have the subformula property, searching for a derivation that type checks a given program can (often) be done effectively.
+
+A programming language is called type safe if it prevents programmers from writing programs that result in type errors. A type error occurs if a program of type A -> B, say, is applied to an argument which is not of type A, or when its evaluation for an arguemnt of type A results in something that is not of type B. The Curry-Howard isomorphism, and properties like it for actual programming languages, guarantees type safety. This has tremendous theoretical and practical importance: programs in type-safe languages cannot hang: there is always a way to continue the execution until a value is arrived at. The Curry-Howard isomorphism has this consequence because it implies two things: If a term is not already a value (i.e., it is not in normal form), the evaluation can continue because it contains a redex that can be reduced. This property is called “progress”. But more importantly - and here the Curry-Howard isomorphism comes in - when a term is reduced, its type stays the same (and there is a corresponding natural deduction derivation which verifies this). This property is called “type preservation”. Together, these two properties establish that if t is a term (program) of type A -> B, and s is a term (argument) of type A, (t s) will always evaluate to a normal term (value) of type B. The strong normalization property for the typed lambda calculus establishes that evaluation always terminates and that any order of evaluation steps results in the same value. The Curry-Howard isomorphism, via its consequence of type preservation, establishes that each intermediate step and the final result, will be a term of type B.
+
+The ability to type check programs, and the property of type saftey, are kinds of completeness and soundness properties for programs. Like consistency in the foundations of mathematics, type safety provides a minimal safety guarantee for programs in type-safe languages.
+
+** 6 Toward a Philosophy of Code
+
+Many frameworks for specifying algorithms have been and are being proposed by computer scientists. What are the fundamental differences between programming languages and according to which criteria should ew compare them? There are obvious candidates, such as efficiency or suitability for specific applications. But to differentiate programming languages and programming paradigms it will be important to consider the conceptual differences between languags, such as the presence or absences, and the power and structure of their type systems.
+
 
 
 * On Process
