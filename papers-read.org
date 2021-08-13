@@ -1651,7 +1651,9 @@ Without being able to be explicit, a denotational (or mathematical) semantics wa
 * [[rave.ohiolink.edu/etdc/view?acc_num=toledo1264612988][A Leibnizian Approach to Mathematical Relationships: A New Look at Synthetic Judgments in Mathematics]]
 David T. Purser
 
-A thesis taht examines how arbitrary systems of signification reveal real relationships in possible worlds. It attempts to examine the analytic/synthetic distinction and argues that mathematics is synthetic in nature. A moderate version of mathematical realism called modal relationism is advocated.
+Read 13 August 2021
+
+A thesis that examines how arbitrary systems of signification reveal real relationships in possible worlds. It attempts to examine the analytic/synthetic distinction and argues that mathematics is synthetic in nature. A moderate version of mathematical realism called modal relationism is advocated.
 
 ** Contents
 
@@ -1941,7 +1943,7 @@ Normalization is carried out by removing “detours” - application of introduc
 
 ** 3 The Typed Lambda Calculus
 
-The Curry-Howard isomorphism is a correspondence between derivation in natural deduction and terms in a typed lambda calculus. In a term calculus; terms are built up from variables. If t is a term, so is λx -> t, called a lambda abstract. Intuitively, it represents a function (a program) that takes x as argument and returns a value specified by the term t (in which x occurs free). In λx.t, x is bound. So terms can represent functions; applying a function to an argument is simply represented by (t s), where s is another term representing the argument to the function represented by t.
+The Curry-Howard isomorphism is a correspondence between derivation in natural deduction and terms in a typed lambda calculus. In a term calculus; terms are built up from variables. If t is a term, so is λx -> t, called a lambda abstract. Intuitively, it represents a function (a program) that takes x as argument and returns a value specified by the term t (in which x occurs free). In λx -> t, x is bound. So terms can represent functions; applying a function to an argument is simply represented by (t s), where s is another term representing the argument to the function represented by t.
 
 The lambda calculus is a very simple programming language, in which terms are programs. Execution of a program for an input is the conversion of terms to one that cannot be further evaluated. Such terms are said to be in normal form; they represent outcomes of computations.
 
@@ -1954,7 +1956,41 @@ proj2(<t, s>) = s
 
 they expect a pair to work, but in the untyped lambda calculus, you can proceed to apply it to arbitrary shapes of lambda terms.
 
-In the typed lambda calculus, the syntax prohibits this. Now every variable comes with a type and a variable can be made to take only values of a certain type. One can think of types as objects of a certain sort (e.g., truth values or natural numbers) but there are also function types (e.g., functions from numbers to truth values).
+In the typed lambda calculus, the syntax prohibits this. Now every variable comes with a type and a variable can be made to take only values of a certain type. One can think of types as objects of a certain sort (e.g., truth values or natural numbers) but there are also function types (e.g., functions from numbers to truth values). The type A -> B are the functions with arguments of type A and values of type B.
+
+For a program that reverses the terms
+
+λx : A * B -> <proj2(x), proj1(x)> : B * A
+
+This disallows the types of arguments to a function being passed that don't match. To do this we give formation rules for terms that take the types of variables and subterms into account.
+
+** 4 The Curry-Howard Isomorphism
+
+The first part of the Curry-Howard isomorphism consists in the observation that the right-hand side of the type judgments in the rules of term formation for the typed lambda calculus are exactly the introduction and elimination rules of natural deduction.
+
+When considered as term formation and type inference rules, the elimination rule for implication for instance, tells us that if s is a term of type A -> B and t is a term of type A, then (s t) is a term of type B. However, these same rules also allow us to systematically assign terms to sequents in a natural deduction derivation (once variables are assigned to the assumptions).
+
+If we focus not on the term side of the type judgments but on the type (formula) side, we can read the inference rules another way. For instance, in the case of elimination rule for implication, they say that if s has been assigned to the premise A -> B, and t to the premise A, then we should assign (s t) to the conclusion B. In this way, we get that for every derivation in natural deduction we can assign terms from the typed lambda calculus to each sequent (or rather, the formula on the right of the sequent).
+
+The second part of the Curry-Howard isomorphism extends this observation. Applying the normalization procedure to derivations in natural deduction corresponds to evaluation (reduction) of the corresponding terms. In this case where we remove a an introduction/elimination detour of implication, the term assigned to the conclusion is of the form (λx -> t)s and the term assigned to the conclusion of the derivation after applying the normalization step is t[s/x].
+
+Note in particular that a derivation in natural deduction is normal (contains no detours) if and only if the term assigned to it is in normal form: any I/E implication detour would correspond to a redex of the form (λx : A -> t)s and any I/E and detour would correspond to a redex of the form proj_i<s, t>.
+
+** 5 The Significance of the Curry-Howard Isomorphism
+
+In its logical form, the Curry-Howard isomorphism consists of the following facts:
+
+1. Natural deduction proofs have associated proof terms
+2. Normalization corresponds to reduction of the corresponding proof terms.
+
+Curry-Howard isomorphism is theoretically important for one main reason: it allows us to prove what’s called strong normalization. It is relatively easy to prove that there always is a sequence of normalization steps that results in a derivation in normal form. Strong normalization is the claim that any sequence of reduction steps a) terminates and b) results in the same normal form. Via the Curry-Howard correspondonce, this statement about derivations and normalizations is a consequence of a corresponding result about lambda calculus and evaluation of typed lambda terms: any sequence of evaluation steps a) terminates in a term in normal form (a value) and b) all possible consequences of evaluation steps result in the same value.
+
+Think there is a mistake in here that Strongly normalizing which guarantees that every sequence of rewrites eventually terminates is confused with Strongly normalizing + Confluence property. Even having weak normalization + confluence is not the same as strongly normalizing.
+
+The Curry-Howard isomorphism, in its computational version, is the basis for a very important body of work developed over the last 30 years, in the area of theorem proving and programming language theory. The computational version results from considering the term (program) side of the isomorphism as primary:
+
+1. Well-formed lambda terms have associated type derivations
+2. Evaluation of terms corresponds to normalizaition of the corresponding type derivations
 
 
 * On Process
