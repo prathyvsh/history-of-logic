@@ -2003,7 +2003,7 @@ The ability to type check programs, and the property of type saftey, are kinds o
 
 Many frameworks for specifying algorithms have been and are being proposed by computer scientists. What are the fundamental differences between programming languages and according to which criteria should ew compare them? There are obvious candidates, such as efficiency or suitability for specific applications. But to differentiate programming languages and programming paradigms it will be important to consider the conceptual differences between languags, such as the presence or absences, and the power and structure of their type systems.
 
-* History of constructivism in the 20th Century
+* History of Constructivism in the 20th Century
 
 A. S. Troelstra (1991)
 
@@ -2041,27 +2041,27 @@ One cannot extract a unified and coherent point of view from Poincaré’s writi
 
 For the history of constructivism, Poincaré is important for two reasons:
 
-1/ Explicit discussion and emphasis on the role of intuition in mathematics, more especially ‘the intuition of pure number’. This intuition gives us the principle of induction for the natural numbers, characterized by Poincaré as a ‘synthetic judgment a priori’. That is to say, the principle is neither tautological (i.e. justified by pure logic), nor is it derived from experience; instea, it is a consequence of our intuitive understanding of the notion of number. In this respect, Poincaré agrees with the semi-intuitionists and Brouwer.
+1/ Explicit discussion and emphasis on the role of intuition in mathematics, more especially ‘the intuition of pure number’. This intuition gives us the principle of induction for the natural numbers, characterized by Poincaré as a ‘synthetic judgment a priori’. That is to say, the principle is neither tautological (i.e. justified by pure logic), nor is it derived from experience; instead, it is a consequence of our intuitive understanding of the notion of number. In this respect, Poincaré agrees with the semi-intuitionists and Brouwer.
 
-2/ According to Poincaré, the set-theoretic paradoxos are due to a vicisou circle, namely the admission of impredicative definitions: defining an object N by referring to a totality E in particular by quantifying over E), while N itself belongs to E. Poincaré’s standard example is Richard’s paradox: Let E be the totality of all real numbers given by infinite decimal fractions, definable in finitely many words. E is clearly countable, so by a wellknown Cantor style diaganol argument we can define a real N not in E. But N has been defined in finitely many words! However, Poincaré, adopting Richard’s conclusion, points out that the definition of N as element of E refers to E itself and is therefore impredicative.
+2/ According to Poincaré, the set-theoretic paradoxes are due to a vicious circle, namely the admission of impredicative definitions: defining an object N by referring to a totality E in particular by quantifying over E), while N itself belongs to E. Poincaré’s standard example is Richard’s paradox: Let E be the totality of all real numbers given by infinite decimal fractions, definable in finitely many words. E is clearly countable, so by a well known Cantor style diagonal argument we can define a real N not in E. But N has been defined in finitely many words! However, Poincaré, adopting Richard’s conclusion, points out that the definition of N as element of E refers to E itself and is therefore impredicative.
 
 *** 3.2 The semi-intuitionists
 
-The term ‘semi-intuitionists’ or ‘empiricists’ refers to a group of French mathematicians, in paricular E. Borel, H. Lebesgue, R. Baire, and the Russian mathematician N. N. Luzin. Their discussions of foundational problems are always in direct connection with specific mathematical developments, and thus have an ‘ad hoc’, local character; also the views within the group differ.
+The term ‘semi-intuitionists’ or ‘empiricists’ refers to a group of French mathematicians, in particular E. Borel, H. Lebesgue, R. Baire, and the Russian mathematician N. N. Luzin. Their discussions of foundational problems are always in direct connection with specific mathematical developments, and thus have an ‘ad hoc’, local character; also the views within the group differ.
 
-What they have in common is the idea that, even if mathematical objects exist independently of the human mind, mathematics can only deal with such objects if we can also attain them by mentally constructing them, i.e. have access to them by our intuition; in practice, this means that tehy should be explicitly definable. In addition, pragmatical considerations occur: one is not interested in arbitrary objects of a certain kind, but only in the ones which play an important role in mathematics (which ‘occur in nature’ in a manner of speaking).
+What they have in common is the idea that, even if mathematical objects exist independently of the human mind, mathematics can only deal with such objects if we can also attain them by mentally constructing them, i.e. have access to them by our intuition; in practice, this means that they should be explicitly definable. In addition, pragmatical considerations occur: one is not interested in arbitrary objects of a certain kind, but only in the ones which play an important role in mathematics (which ‘occur in nature’ in a manner of speaking).
 
 According to Borel, one can assert the existence of an object only if one can define it unambiguously in finitely many words. In this concern with definability there is a link with predicativism; on the other hand, there is in Borel’s writings no explicit concern with impredicativity and the vicious circle principle, as in the writings of Poincaré and Hermann Weyl.
 
-With respect to the reality of the countably infinite, Borel takes a somewhat pragmatical attitude: while conceding the strength of the position of the strict finitist, he observes that the countably infinite plays a very essential role in mathematics, and mathematicians have in practice always agreed on the correct use of the notion: “The notion of the countably infinite appears [sic] as a limit possibility conceied by our imagination, just like the ideal line or the perfect circle.”
+With respect to the reality of the countably infinite, Borel takes a somewhat pragmatical attitude: while conceding the strength of the position of the strict finitist, he observes that the countably infinite plays a very essential role in mathematics, and mathematicians have in practice always agreed on the correct use of the notion: “The notion of the countably infinite appears [sic] as a limit possibility conceived by our imagination, just like the ideal line or the perfect circle.”
 
 Borel explains the Richard paradox, not by referring to the impredicative character of the definition of N, but by the observation that N has not been unambiguously defined; the collection E is countable, but not effectively enumerable and hence the construction of N cannot be carried out. This distinction would later obtain a precise formulation in recursion theory.
 
-Borel explicitly introduced the notion of a calculable real number; a function f is calculable if f(x) is calculable for each calculable x, and he observes that a calculable function must necessarily be continuous, at least for calculable arguments. This foreshadows Brouwer’s wellknown theorem on the continuity of all real functions.
+Borel explicitly introduced the notion of a calculable real number; a function f is calculable if f(x) is calculable for each calculable x, and he observes that a calculable function must necessarily be continuous, at least for calculable arguments. This foreshadows Brouwer’s well known theorem on the continuity of all real functions.
 
 *** 3.3 Borel and the continuum
 
-Borel rejected the general notion of an uncountable set, as an essentially negative notion. According to Borel, Cantor’s diagonal argument only shows that the continuum cannot be exhausted by a countable set. Obviously, on this view the continuum presents a probelm. On the one hand it is the basic concept in analysis, on the other hand it cannot be described as ’the set of its definable elements’ since it is uncountable.
+Borel rejected the general notion of an uncountable set, as an essentially negative notion. According to Borel, Cantor’s diagonal argument only shows that the continuum cannot be exhausted by a countable set. Obviously, on this view the continuum presents a problem. On the one hand it is the basic concept in analysis, on the other hand it cannot be described as ’the set of its definable elements’ since it is uncountable.
 
 The term ‘arithmetic theory of the continuum’, or ‘arithmetization of the continuum’, frequently appears in discussions of constructivism in the early part of this century. By this is meant the characterization of the continuum as a set of reals, where the real numbers are obtained as equivalence classes of fundamental sequences of rationals, or as Dedekind cuts. Since the rationals can be enumerated, this achieves a reduction of the theory of the continuum to number theoretical or ‘arithmetical’ functions.
 
@@ -2071,7 +2071,7 @@ Although the fact is not mentioned by Borel, the idea of a continuum consisting 
 
 Motivated by his rejection of the platonistic view of mathematics prevalent in Cantorian set theory and Dedekind’s foundation of the natural number concept, Weyl, in his short monograph ‘Das Kontinuum’ formulated a programme for predicative mathematics; it appears that Weyl had arrived at his position independently of Poincaré and Russell. Predicativism may be characterized as ‘constructivism’ with respect to definitions of sets (but not with respect to the use of logic): sets are constructed from below, not characterized by singling them out among the members of a totality conceived as previously existing.
 
-Weyl accepted classical logic and the set of natural numbers with induction and definition by recursion as unproblematic. Since the totality of natural numbers is accepted, all arithmetical predicates make sense as sets and we can quantify over them. The arithmetically definable sets are the sets of rank 1, the first level of a predicative hierarchy of ranked sets; sets of higher rank are obtained by permitting quantification over sets of lower rank in their definition. Weyl intended to keep the developments simple by restricting attention to sets of rank 1. On the basis of these principles Weyl was able to show for example: Cauchy sequences of real numbers have a limit; every bounded monotone sequence of reals has a limit; every countable covering by open intervals of a bounded closed interval has a finite subcovering; the intermediate value theorem holds (i.e. a fucntion chnging sign on an interval has a zero in the interval); a continuous function on a bounded closed interval has a maximimum and a minimum.
+Weyl accepted classical logic and the set of natural numbers with induction and definition by recursion as unproblematic. Since the totality of natural numbers is accepted, all arithmetical predicates make sense as sets and we can quantify over them. The arithmetically definable sets are the sets of rank 1, the first level of a predicative hierarchy of ranked sets; sets of higher rank are obtained by permitting quantification over sets of lower rank in their definition. Weyl intended to keep the developments simple by restricting attention to sets of rank 1. On the basis of these principles Weyl was able to show for example: Cauchy sequences of real numbers have a limit; every bounded monotone sequence of reals has a limit; every countable covering by open intervals of a bounded closed interval has a finite subcovering; the intermediate value theorem holds (i.e. a function changing sign on an interval has a zero in the interval); a continuous function on a bounded closed interval has a maximum and a minimum.
 
 After his monograph appeared, Weyl became for a short period convert to Brouwer’s intuitionism. Later he took a more detached view, refusing the exclusive adoption of either a constructive or an abstract axiomatic approach. Although Weyl retained a lifelong interest in the foundations of mathematics, he did not influence the developments after 1918.
 
@@ -2095,7 +2095,7 @@ With respect to mathematics, Brouwer’s ideas are:
 
 3. Mathematics does not depend on logic; on the contrary, logic is part of mathematics.
 
-These principles led to a programme of reconstruction of mathematics on intuitionistic principles. During the early period, from say 1907 until 1913, Brower did the major part of his work in classical topology and contributed little to his programme. In these years his view of the continuum and of countable sets is quite similar to Borel’s position on these matters.
+These principles led to a programme of reconstruction of mathematics on intuitionistic principles. During the early period, from say 1907 until 1913, Brouwer did the major part of his work in classical topology and contributed little to his programme. In these years his view of the continuum and of countable sets is quite similar to Borel’s position on these matters.
 
 He thinks that mathematical intuition is not capable of creating other than countable quantities in an individualized way. So the conception of continuum as a whole is intuitively given to us; the construction of the continuum to create all its part as individualized is impossible.
 
@@ -2103,6 +2103,37 @@ On the other hand, already in this early period there are also clear differences
 
 Another important difference with Borel is that Brouwer soon after finishing his thesis realized taht classical logic did not apply to his mathematics. Nevertheless, until circa 1913 Brouwer did not publicly dissociate from the semi-intuitionists.
 
+*** 4.2 Weak counter examples and the creative subject
+
+Already in Brouwer 1908’s work Over de onbetrouwbaarheid der logische principles (On the unreliability of the principles of logic), a typically unintuitionistic kind of counter example to certain statements A of classical mathematics was introduced, not counterexamples in the strict sense of deriving a contradiction from the statement A, but examples showing that, assuming that we can prove A intuitionstically, it would follow that we had a solution to a problem known to be as yet unsolved. Undue attention given to these examples often create for outsiders the erroneous impression that intuitionism was mainly a negative activity of criticizing classical mathematics.
+
+Example: Consider the set X ≡ { x : x = 1 or (x = 2 and F) } where F is any as of yet undecided mathematical statement, such as the Riemann hypothesis. X is a subset of the finite set { 1, 2 }, but we cannot prove X to be finite, since this would require us to decide whether X has only one, or two elements, and for this we would have to decide F. Intuitionistically, a set is finite if it can be brought into a constructively specified 1-1 correspondence with an initial part of the natural numbers.) So we have found a weak counterexample to the statement ‘a subset of a finite set is finite’.
+
+By choosing our undecided problems suitably, it is also possible to give a weak counterexample to: ‘for reals x, x < 0 or x = 0 or x > 0’ or to ‘for all reals x, x <= 0 or x >= 0’. Brouwer used these examples to show the need for an intuitionistic revision of certain parts of the classical theory, and to demonstrate how classically equivalent definitions corresponded to distinct intuitionistic notions.
+
+G. F. C. Griss, in a number of publications between 1944-1955, advocated a form of intuitionistic mathematics without negation, since one cannot have a clear conception of what it means to give proof of a proposition which turns out to be contradictory.
+
+In reaction to Griss, Brouwer published in 1948 an example of a statement in the form of a negation which could not be replaced by a positive statement. Brouwer’s example involved a real number defined by explicit reference to stages in the activity of the ideal mathematician trying to prove an as yet undecided statement A. An essential ingredient of Brouwer’s arguemnt is that if the ideal mathematician (creative subject in Brouwer’s terminology{ is certain that at no future stage of his mathematical activity he will find A to be true, it means that he knows that not A (Brouwer seems to have used such examples in lectures since 1927).
+
+The argument illustrates the extreme solipsistic consequences of Brouwer’s intuitionism. Because of their philosophical impact, these examples generated a good deal of discussion and inspired some metamathematical research, but their impact on BP was very limited, in fact almost nihil.
+
+*** 4.3 Brouwer’s programme
+
+Around 1913 Brouwer must have realized that the notion of choice sequence (appearing in a rather different setting in Borel’s discussion of the axiom of choice) could be legitimized from his viewpoint and offered all the advantages of an arithmetical theory of the continuum.
+
+In the period up to 1928 he reconstructed parts of the theory of pointsets, some function theory, developed a theory of countable well-orderings, and together with his students B. de Loor, gave an intuitionistic proof of the fundamental theorem of algebra.
+
+After 1928, Brouwer displayed very little mathematical activity, presumable as a result of a conflict in the board of editors of the ‘Mathematische Annalen’. From 1923 onwards, M. J. Belifante and Arendt Heyting, and later also Heyting’s students continued Brouwer’s programme.
+
+The discovery of a precise notion of algorithm in the 1930s as a result of the work of Church, Gödel, Herbrand, Turing, and Kleene did not affect intuitionism. This is not really surprising: most of these characterizations describe algorithms by specifying a narrow language in which they can be expressed, which is utterly alien to Brouwer’s view of mathematics as the languageless activity of the ideal mathematician.
+
+Turing’s analysis is not tied to a specific formalism. Nevertheless he bases his informal arguments for the generality of his notion of algorithm on the manipulation of symbols and appeals to physical limitations on computing; and such ideas do not fit into Brouwer’s ideas on mathematics as a ‘free creation’.
+
+Heyting’s monograph Intuitionism, an introduction from 1956 was instrumental in generating a wider interest in intuitionism.
+
+** 5 Intuitionistic Logic and Arithmetic
+
+*** 5.1 L.E.J Brouwer and intuitionistic logic
 
 * On Process
 
