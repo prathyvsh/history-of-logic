@@ -2045,6 +2045,20 @@ For the history of constructivism, Poincaré is important for two reasons:
 
 2/ According to Poincaré, the set-theoretic paradoxos are due to a vicisou circle, namely the admission of impredicative definitions: defining an object N by referring to a totality E in particular by quantifying over E), while N itself belongs to E. Poincaré’s standard example is Richard’s paradox: Let E be the totality of all real numbers given by infinite decimal fractions, definable in finitely many words. E is clearly countable, so by a wellknown Cantor style diaganol argument we can define a real N not in E. But N has been defined in finitely many words! However, Poincaré, adopting Richard’s conclusion, points out that the definition of N as element of E refers to E itself and is therefore impredicative.
 
+*** 3.2 The semi-intuitionists
+The term ‘semi-intuitionists’ or ‘empiricists’ refers to a group of French mathematicians, in paricular E. Borel, H. Lebesgue, R. Baire, and the Russian mathematician N. N. Luzin. Their discussions of foundational problems are always in direct connection with specific mathematical developments, and thus have an ‘ad hoc’, local character; also the views within the group differ.
+
+What they have in common is the idea that, even if mathematical objects exist independently of the human mind, mathematics can only deal with such objects if we can also attain them by mentally constructing them, i.e. have access to them by our intuition; in practice, this means that tehy should be explicitly definable. In addition, pragmatical considerations occur: one is not interested in arbitrary objects of a certain kind, but only in the ones which play an important role in mathematics (which ‘occur in nature’ in a manner of speaking).
+
+According to Borel, one can assert the existence of an object only if one can define it unambiguously in finitely many words. In this concern with definability there is a link with predicativism; on the other hand, there is in Borel’s writings no explicit concern with impredicativity and the vicious circle principle, as in the writings of Poincaré and Hermann Weyl.
+
+With respect to the reality of the countably infinite, Borel takes a somewhat pragmatical attitude: while conceding the strength of the position of the strict finitist, he observes that the countably infinite plays a very essential role in mathematics, and mathematicians have in practice always agreed on the correct use of the notion: “The notion of the countably infinite appears [sic] as a limit possibility conceied by our imagination, just like the ideal line or the perfect circle.”
+
+Borel explains the Richard paradox, not by referring to the impredicative character of the definition of N, but by the observation that N has not been unambiguously defined; the collection E is countable, but not effectively enumerable and hence the construction of N cannot be carried out. This distinction would later obtain a precise formulation in recursion theory.
+
+Borel explicitly introduced the notion of a calculable real number; a function f is calculable if f(x) is calculable for each calculable x, and he observes that a calculable function must necessarily be continuous, at least for calculable arguments. This foreshadows Brouwer’s wellknown theorem on the continuity of all real functions.
+
+
 * On Process
 
 ** Conceptual Roots of Mathematics
