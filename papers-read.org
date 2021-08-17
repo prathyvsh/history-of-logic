@@ -1901,7 +1901,6 @@ This verion of realism also appeases Shapiro’s desire to leave open the possib
 
 In conclusion, the analytic/synthetic judgments is a false dilemma. Every statement, even tautologies, express a relationship between possible thing.s Mathematical language is arbitrary but this does not mean that mathematical theorems are mere conventions. Instead mathematical practice opens our eyes ot see new relationships in the world that truly exist, including the relationships that might obtain between possible worlds governed by different axioms. Symbolic language can make evident relationships in our world in the same way that the microscope makes it possible for our eyes to see cellular life.
 
-
 * The Significance of Curry-Howard Isomorphism
 Richard Zach (2019)
 
@@ -2003,6 +2002,48 @@ The ability to type check programs, and the property of type saftey, are kinds o
 ** 6 Toward a Philosophy of Code
 
 Many frameworks for specifying algorithms have been and are being proposed by computer scientists. What are the fundamental differences between programming languages and according to which criteria should ew compare them? There are obvious candidates, such as efficiency or suitability for specific applications. But to differentiate programming languages and programming paradigms it will be important to consider the conceptual differences between languags, such as the presence or absences, and the power and structure of their type systems.
+
+* History of constructivism in the 20th Century
+
+A. S. Troelstra (1991)
+
+** Introduction
+
+More space devoted to developments till 1965
+
+Constructivism is a normative point of view concerning the methods and objects of mathematics. Not only does it interpret existing mathematics according to certain principles, but it also rejects methods and results not conforming to such principles as unfounded or speculative (the rejection is not always absolute, but sometimes only a matter of degree: a decided preference for constructive concepts and methods). In this sense the various form of constructivism are all ‘ideological’ in character.
+
+Constructivism can be thought of as a reaction to the rapidly increasing use of highly abstract concepts and methods of proofs in mathematics, a trend exemplified by the works of R. Dedekind and G. Cantor.
+
+Characteristic for the constructivist trend is the insistence that mathematical objects are to be constructed (mental constructions) or computed; thus theorems asserting the existence of certain objects should by their proofs give us the means of constructing objects whose existence is being asserted.
+
+L. Kronecker may be described as the first conscious constructivist. For Kronecker, only the natural numbers were ‘God-given’; all other mathematical objects ought to be explained in terms of natural numbers (at least in algebra). Assertions of existence should be backed up by constructions, and the properties of numbers defined in mathematics should be decidable in finitely many steps. This is in the spirit of finitism. Kronecker strongly opposed Cantor’s set theory, but in his publications he demonstrated his attitude more by example than by an explicit discussion of his tenets.
+
+The principal constructivist trends in this century:
+- Finitism
+- Semi-Intuitionism
+- Predicativism
+- Intuitionism
+- Markov’s constructivism
+- Bishop’s constructivism
+
+** 2. Finitism
+
+** 2.1 Finitist mathematics
+
+** 2.2 Actualism
+
+** 3. Predicativism and semi-intuitionism
+
+** 3.1 Poincaré
+
+One cannot extract a unified and coherent point of view from Poincaré’s writings. On the one hand he is a forerunner of the (semi-)intuitionists and predicativists, on the other hand he sometimes expresses formalist views, namely where he states that existence in mathematics can never mean anything but freedom from contradiction.
+
+For the history of constructivism, Poincaré is important for two reasons:
+
+1/ Explicit discussion and emphasis on the role of intuition in mathematics, more especially ‘the intuition of pure number’. This intuition gives us the principle of induction for the natural numbers, characterized by Poincaré as a ‘synthetic judgment a priori’. That is to say, the principle is neither tautological (i.e. justified by pure logic), nor is it derived from experience; instea, it is a consequence of our intuitive understanding of the notion of number. In this respect, Poincaré agrees with the semi-intuitionists and Brouwer.
+
+2/ According to Poincaré, the set-theoretic paradoxos are due to a vicisou circle, namely the admission of impredicative definitions: defining an object N by referring to a totality E in particular by quantifying over E), while N itself belongs to E. Poincaré’s standard example is Richard’s paradox: Let E be the totality of all real numbers given by infinite decimal fractions, definable in finitely many words. E is clearly countable, so by a wellknown Cantor style diaganol argument we can define a real N not in E. But N has been defined in finitely many words! However, Poincaré, adopting Richard’s conclusion, points out that the definition of N as element of E refers to E itself and is therefore impredicative.
 
 * On Process
 
