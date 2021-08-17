@@ -2046,6 +2046,7 @@ For the history of constructivism, Poincaré is important for two reasons:
 2/ According to Poincaré, the set-theoretic paradoxos are due to a vicisou circle, namely the admission of impredicative definitions: defining an object N by referring to a totality E in particular by quantifying over E), while N itself belongs to E. Poincaré’s standard example is Richard’s paradox: Let E be the totality of all real numbers given by infinite decimal fractions, definable in finitely many words. E is clearly countable, so by a wellknown Cantor style diaganol argument we can define a real N not in E. But N has been defined in finitely many words! However, Poincaré, adopting Richard’s conclusion, points out that the definition of N as element of E refers to E itself and is therefore impredicative.
 
 *** 3.2 The semi-intuitionists
+
 The term ‘semi-intuitionists’ or ‘empiricists’ refers to a group of French mathematicians, in paricular E. Borel, H. Lebesgue, R. Baire, and the Russian mathematician N. N. Luzin. Their discussions of foundational problems are always in direct connection with specific mathematical developments, and thus have an ‘ad hoc’, local character; also the views within the group differ.
 
 What they have in common is the idea that, even if mathematical objects exist independently of the human mind, mathematics can only deal with such objects if we can also attain them by mentally constructing them, i.e. have access to them by our intuition; in practice, this means that tehy should be explicitly definable. In addition, pragmatical considerations occur: one is not interested in arbitrary objects of a certain kind, but only in the ones which play an important role in mathematics (which ‘occur in nature’ in a manner of speaking).
@@ -2057,6 +2058,50 @@ With respect to the reality of the countably infinite, Borel takes a somewhat pr
 Borel explains the Richard paradox, not by referring to the impredicative character of the definition of N, but by the observation that N has not been unambiguously defined; the collection E is countable, but not effectively enumerable and hence the construction of N cannot be carried out. This distinction would later obtain a precise formulation in recursion theory.
 
 Borel explicitly introduced the notion of a calculable real number; a function f is calculable if f(x) is calculable for each calculable x, and he observes that a calculable function must necessarily be continuous, at least for calculable arguments. This foreshadows Brouwer’s wellknown theorem on the continuity of all real functions.
+
+*** 3.3 Borel and the continuum
+
+Borel rejected the general notion of an uncountable set, as an essentially negative notion. According to Borel, Cantor’s diagonal argument only shows that the continuum cannot be exhausted by a countable set. Obviously, on this view the continuum presents a probelm. On the one hand it is the basic concept in analysis, on the other hand it cannot be described as ’the set of its definable elements’ since it is uncountable.
+
+The term ‘arithmetic theory of the continuum’, or ‘arithmetization of the continuum’, frequently appears in discussions of constructivism in the early part of this century. By this is meant the characterization of the continuum as a set of reals, where the real numbers are obtained as equivalence classes of fundamental sequences of rationals, or as Dedekind cuts. Since the rationals can be enumerated, this achieves a reduction of the theory of the continuum to number theoretical or ‘arithmetical’ functions.
+
+Although the fact is not mentioned by Borel, the idea of a continuum consisting of only countable many definable reals suggests a ‘measure-theoretic paradox’, for if the reals in [0, 1] are countable, one can give a covering by a sequence of intervals I_0, I_1, I_2, … with n from 0 to ∞ |I_n| < 1, where |I_n| is the length of I_n. Such coverings are called singular. The paradox is repeatedly mentioned in Brouwer’s publications as a proof of the superiority of his theory of the continuum.
+
+*** 3.4 Weyl
+
+Motivated by his rejection of the platonistic view of mathematics prevalent in Cantorian set theory and Dedekind’s foundation of the natural number concept, Weyl, in his short monograph ‘Das Kontinuum’ formulated a programme for predicative mathematics; it appears that Weyl had arrived at his position independently of Poincaré and Russell. Predicativism may be characterized as ‘constructivism’ with respect to definitions of sets (but not with respect to the use of logic): sets are constructed from below, not characterized by singling them out among the members of a totality conceived as previously existing.
+
+Weyl accepted classical logic and the set of natural numbers with induction and definition by recursion as unproblematic. Since the totality of natural numbers is accepted, all arithmetical predicates make sense as sets and we can quantify over them. The arithmetically definable sets are the sets of rank 1, the first level of a predicative hierarchy of ranked sets; sets of higher rank are obtained by permitting quantification over sets of lower rank in their definition. Weyl intended to keep the developments simple by restricting attention to sets of rank 1. On the basis of these principles Weyl was able to show for example: Cauchy sequences of real numbers have a limit; every bounded monotone sequence of reals has a limit; every countable covering by open intervals of a bounded closed interval has a finite subcovering; the intermediate value theorem holds (i.e. a fucntion chnging sign on an interval has a zero in the interval); a continuous function on a bounded closed interval has a maximimum and a minimum.
+
+After his monograph appeared, Weyl became for a short period convert to Brouwer’s intuitionism. Later he took a more detached view, refusing the exclusive adoption of either a constructive or an abstract axiomatic approach. Although Weyl retained a lifelong interest in the foundations of mathematics, he did not influence the developments after 1918.
+
+*** 3.5 Predicativism after ‘das Kontinuum’
+
+After Weyl’s monograph predicativism rested until the late fifties, when interest revived in the work of M. Kondô, A. Grzegorczyk and G. Kreisel. Kreisel showed that the so-called hyperarithmetic sets known fro recursion theory constituted an upper bound for the notion ‘predicatively definable set of natural numbers’. Feferman and K. Shütte addressed the question of the precise extent of predicative analysis; they managed to give a characterization of its proof theoretic ordinal. Type free formalizations of predicative analysis with sets of all (predicative) ranks were developed.
+
+The work of Lorenzen may be regarded as a direct continuation of Weyl’s programme.
+
+** 4 Brouwerian intuitionism
+
+*** 4.1 Early period
+
+In his thesis ‘Over de Grondslagen der Wiskunde’ the Dutch mathematician L. E. J Brouwer defended, more radically and more consistently than the semi-intuitionists, an intuitionist conception of mathematics. Brouwer’s philosophy of mathematics is embedded in a general philosophy, the essentials of which are already in place in Brouwer’s Leven, Kunst, Mystic.
+
+With respect to mathematics, Brouwer’s ideas are:
+
+1. Mathematics is not formal; the objects of mathematics are mental constructions in the mind of the (ideal) mathematician. Only the thought constructions of the (idealized) mathematician are exact.
+
+2. Mathematics is independent of experience in the outside world, and mathematics is in principle also independent of language. Communication by language may serve to suggest similar thought constructions to others, but there is no guarantee that these other constructions are the same. (This is a solipsistic element in Brouwer’s philosophy.)
+
+3. Mathematics does not depend on logic; on the contrary, logic is part of mathematics.
+
+These principles led to a programme of reconstruction of mathematics on intuitionistic principles. During the early period, from say 1907 until 1913, Brower did the major part of his work in classical topology and contributed little to his programme. In these years his view of the continuum and of countable sets is quite similar to Borel’s position on these matters.
+
+He thinks that mathematical intuition is not capable of creating other than countable quantities in an individualized way. So the conception of continuum as a whole is intuitively given to us; the construction of the continuum to create all its part as individualized is impossible.
+
+On the other hand, already in this early period there are also clear differences; thus Brouwer did not follow Borel in his pragmatic intersubjectivism, and tries to explain both the natural numbers and the continuum as two aspects of a single intuition (the primeval intuition).
+
+Another important difference with Borel is that Brouwer soon after finishing his thesis realized taht classical logic did not apply to his mathematics. Nevertheless, until circa 1913 Brouwer did not publicly dissociate from the semi-intuitionists.
 
 
 * On Process
