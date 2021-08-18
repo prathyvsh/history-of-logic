@@ -2220,9 +2220,41 @@ An important aspect of Beth models is the connection with intuitive intuitionist
 
 From observations by G. Kreisel in 1958 it follows that, for propositional logic, validity in a Beth model is equivalent to intuitive validity for a collection of propositions P^α_1, P^α_2, …, P^α_n depending on a lawless parameter α.
 
-Beth and Kripke proved completeness for their respective kinds of semantics by classical methods. Beth originally believed to have also an intuitionistic completeness proof for his semantics. Veldman was able to show that if one extends the notion of Beth model to fallible. Beth model,s where it is permitted that in certain nodes falsehood is forced, it is possible to obtain an intuitionistic completeness proof for Kripke semantics. The idea was transferred to Kripke semantics by H. de Swart. For the fragment of intuitionistic logic without falsehood and negation, fallible models are just ordinary models. For minimal logic, where ⊥ is regarded as an arbitrary unprovable proposition letter, one has intuitionistic completeness relative to ordinary Beth models. The best results in this direction can be obtain from work by Harvey Friedman from circa 19786.
+Beth and Kripke proved completeness for their respective kinds of semantics by classical methods. Beth originally believed to have also an intuitionistic completeness proof for his semantics. Veldman was able to show that if one extends the notion of Beth model to fallible. Beth model,s where it is permitted that in certain nodes falsehood is forced, it is possible to obtain an intuitionistic completeness proof for Kripke semantics. The idea was transferred to Kripke semantics by H. de Swart. For the fragment of intuitionistic logic without falsehood and negation, fallible models are just ordinary models. For minimal logic, where ⊥ is regarded as an arbitrary unprovable proposition letter, one has intuitionistic completeness relative to ordinary Beth models. The best results in this direction can be obtain from work by Harvey Friedman from circa 1976.
 
 C. A. Smoryński used Kripke models with great virtuousity in the study of metamathematics of intuitionistic arithmetic.
+
+*** 5.5 Formulas-as-types
+
+In essence, the ‘formulas-as-types’ idea (may be ‘propositions-as-types’ would have been better) consists in the identification of a proposition with the set of its (intuitionistic) proofs. Or stated in another form: in a calculus of typed objects, the types play the role of propositions, and the objects of a type A correspond to the proofs of the proposition A.
+
+Thus, since on the BHK-interpretation a proof of an implication A -> B is an operation transforming proofs of A into proofs of B, the proofs of A -> B are a set of functions from (the proofs of) A to (the proofs of) B. Similarly, (the set of proofs of) A and B is the set of pairs of proofs, with first component a proof of A, and second component a proof of B. So A and B corresponds to a cartesian product.
+
+A clear expression to this idea was given in the late sixties (circa 1968–1969) by W. A. Howard, and by N. G. de Bruijn; H. Läuchli around the same time used the idea for a completeness proof for IQC for a kind of realizability semantics.
+
+The analogy goes deeper: one can use terms of at typed lambda calculus to denote natural deduction proofs, and then normalization of proofs corresponds to normalization in the lambda calculus. So pure typed lambda calculus is in a sense the same as IPC in natural deduction formulation; similarly, second-order lambda calculus (polymorphic lambda calculus) is intuitionistic logic with propositional quantifiers.
+
+The formulas-as-types idea is a guiding principle in much recent research in type theory on the borderline of logic and theoretical computer science. It is used in the type theories developed by Per Martin-Löf in An intuitionistic theory of types (1975), Intuitionistic Type Theory (1984) to reduce logic to type theory; thus proof by induction and definition by recursion are subsumed under a single rule in these theories. Formulas-as-types plays a key role in the proof checking language AUTOMATH devised by N. G. de Bruijn and collaborators since the late sixties.
+
+The formula-as-types idea has a parallel in category theory where propositions correspond to objects, and arrows (to equivalence classes of) proofs. J. Lambek investigated this parallel or IPC in Deductive systems and categories III (1972) and later work, culminating in the monograph Introduction to higher order categorical logic (1986).
+
+** 6 Intuitionistic analysis and stronger theories
+*** 6.1 Choice sequences in Brouwer’s writings
+As already remarked, the continuum presented a problem to the semi-intuitionists; they were forced to introduce it as a primitive notion, while Brouwer in his thesis tried to explain the continuum and the natural numbers as emanating both from a single ‘primeval intuition’.
+
+However, when Brouwer stared circa 1913 with his intuitionistic reconstruction of the theory of the continuum and the theory of pointsets, he found that the notion of choice sequence, appearing in Borel’s discussion of the axiom of choice (as the opposite, so to speak, of a sequence defined in finitely many words, and therefore in Borel’s view of a dubious character) could be regarded as a legitimate intuitionistic notion, and as a means of retaining the advantages of an arithmetic theory of the continuum.
+
+In Brouwer’s intuitionistic set theory the dominating concept is that of a spread (German: ‘Menge’). Slightly simplifying Brouwer’s oriiginal definition, we say that a spread consists essentially of a tree of finite sequences of natural numbers, such that every sequence has at least one successor, plus a law L assigning objects of a previously constructed domain to the nodes of the tree. Choice sequences within a given spread correspond to the infinite branches of the tree. Brouwer calls a sequence L(a̅1), L(a̅2), L(a̅3), …, (a̅ as infinite branch) an element of the spread. Below we shall use ‘spread’ only for trees of finite sequences of natural numbers wihout finite branches, corresponding to the trivial L satisfying L(a̅(n+1)) = an. Since it is not the definition of a spread, but the way the choice sequences are given to us, which determines the properties of the continuum, we shall henceforth concentrate on the choice sequences.
+
+the notion of spread is supplemented by the notion of species, much closer to the classical concept of set; one may think of a species as set of elements single out from a previously constructed totality by a propert (as in the separation axiom of classical set theory).
+
+The admissibility of impredicative definitions is not explicitly discussed in Brouwer’s writings, though it is unilkely that he would have accepted impredicative definitions without restrictions.
+
+One the other hand, his methods allow more than just predicative sets over N: Brouwer’s introduction of ordinals in intuitionistic mathematics is an example of a set introduced by a so-called generalized inductive definition, which cannot be obtained as a set defined predicatively relative to N.
+
+A choice sequence a of natural numbers may be viewed as an unfinished, ongoing process of choosing values a0, a1, a2, … by the ideal mathematicain; at any stage of his activity the mathematician has determined only finitely many values plus, possibly, some restriction on future choices (the restriction may vary from ‘no retrictions’ to ‘choices henceforth completely determined by a law’). For sequences completely determined by a law or recipe we shall use lawlike; other mathematical objects not depending on choice parameters are also called lawlike. An important principle concerning choice sequences is the:
+
+Continuity principle or continuity axiom. If to every choice sequence a of a spread a number n(a) is assigned, n(a) depends on an initial segment a̅m = a0, a1, …, a(m-1) only, that is to say for all choice sequences b starting with the same segment a̅m, n(b) = n(a).
 
 * On Process
 
