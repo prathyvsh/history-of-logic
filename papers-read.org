@@ -2135,6 +2135,41 @@ Heyting’s monograph Intuitionism, an introduction from 1956 was instrumental i
 
 *** 5.1 L.E.J Brouwer and intuitionistic logic
 
+The fact that Brouwer’s approach to mathematics also required a revision of the principles of classical logic was not yet clearly realized by him while writing his thesis, but in 1908 Brouwer explicitly noted that intuitionism required a different logic. In particular, he noted that the principle of the excluded middddle A or not A is not intuitionistically vaild.
+
+A first important technical contribution to intuitionistic logic is madde in 1924’s work Intuitionistische Zerlegung mathematischer Grundbegriffe that not not not A <-> not A is an intuitionistic logical law.
+
+*** 5.2 The Brouwer-Heyting-Kolmogorov interpretation
+
+The standard informal interpretation of logical operators in intuitionistic logic is the so-called proof-intepretation or BHK interpretation. The formalization of intuitionistic logic started before this interpretation was actually formulated.
+
+On the BHK-interpretation, the meaning of a statement A is given by explaining what constitutes a proof of A, and proof of A for logically compound A is explained in terms of what it means to give a proof of its constituents. Thus, for propositional logic:
+
+1. A proof of A and B is given by presenting a proof of A and a proof of B
+2. A proof of A or B is given by presenting either a proof of A or a proof of B
+3. A proof of A -> B is a construction which transforms any proof of A into a proof of B
+4. Absurdity (‘the contradiction’) has no proof; a proof of not A is a construction which transforms any supposed proof of A into a proof of contradiction.
+
+Such an interpretation is implicit in Brouwer’s writings and has been made explicit by Heyting for predicate logic an by A. N. Kolmogorov for propositional logic.
+
+Kolmogorov formulated what is essentially the same interpretation in different terms: he regarded propositions as problems, and logically compound assertions as problems explained in terms of simpler problems, e.g. A -> B represents the problem of reducing the solution of B to the solution of A. Initially Heyting and Kolmogorv regarded their respective interpretations as distinct; Kolmogorov stressed that his interpretation also makes sense in a classical setting. Later Heyting realized that, at least in an intuitionistic setting, both interpretations are practically the same.
+
+*** 5.3. Formal intuitionistic logic and arithmetic till 1940
+
+Kolmogorov’s paper from 1925 O printsipe tertium non datur, written in Russian, is the earliest published formalization of a fragment of intuitionistic logic, and represents a remarkable achievement, but had very little effect on the developments. Kolmogorovv does not assume the ‘ex false sequitur quodlibet’ P -> (not P -> Q) which is justifiable on the basis of the BHK interpretation. The system of intuitionistic logic with the ‘ex falso’ deleted became known as minimal logic and is of some interest in connection with completeness problems.
+
+V. I. Glivenko presented in 1928 a (not complete) formalization of intuitionistic propositional logic andd derives from this informally not(not(not P or not P), not not not P -> not P, (not P or P -> not Q) -> not Q and uses these theorems to show that the interpretation of Barzin and Errera’s 1927  Sur la logique de M. Brouwer of Brouwer’s logic, according to which a proposition intuitionistically is either true or false or ‘tierce’, is untenable; a nice example of the use of formalization to settle a philosophical debate.
+
+Heyting wrote a prize essay on the formalization of intuitionistic mathematics which was crowed by the Dutch Mathematical Association in 1928; the essay appeared in revised form in 1930. The first of the 3 papers contains a formalization of intuitionistic propositional logic in its present extent. The second paper deals with predicate logic and arithmetic. Predicate logic does not yet appear in its final form, due to a defectivve treatment of substitution, andd the (not quite consistent) germs of a theory permitting non-denoting terms. Arithmetic as presented in the second paper is a fragment of Heyting arithmetic as it is understood today, since there are axioms for addition (in the guise of a definition) but not for multiplication. The third paper deals with analysis. The system is very weak due to a lack of existence axioms for sets and functions.
+
+In 1929 Glivenko formulatedd andd proved as a result of his correspondence with Heyting the ‘Glivenko theorem’; in propositional logic not not A is intuitionistically provable iff A is classically provable.
+
+Kolmogorov in his paper from 1925 describes an embedding of classical propositional logic into (his fragment of) intuitionistic propositional logic, thereby anticipating the work of Gödel, Zur intuitionistischen Arithmetik und Zahlentheorie (1933) and Gentzen, Untersuchungen über das logische Schliessen (also dating from 1933, but published only in 1965), and argues that this embedding is capable of generalization to stronger systems. Gödel’s embedding is formulated for arithmetic, but can be adaptedd in an obvious way to predicate logic. In Gentzen’s version prime formulas P are first replaced by not not P and the operators … or …, thereExists(x, …) by not(not … andd not …), not(ForAll(x, not …) respectively. In Kolmogorov’s version not not is inserted simultaneously in front of every subformulate. The various embeddings are logically equivalent. If * is one of these embeddings, A* <-> A classically, and A* is provable intuitionistically, if and only if A is provable classically.
+
+Gödel’s embeding made it clear that intuitionistic methods went beyond finitism, precisely because abstraction notions were allowed. This is clear e.g. from the clause explaining intuitionistic implication in the BHK-interpretation, since there the abstraction notion of constructive proof and construction are used as primitivves. This fact had not been realized by the Hilbert school until then; Bernays was the first one to grasp the implications of Gödel’s result.
+
+Quite important for the proof theory of intuitionistic logic was the formulation in Gentzen’s work of the sequent calculi LK and LJ. Using his cut elimination theorem, Gentzen showed that for IQC the disjunction property DP holds: if entails A or B, then entails A or entails B. Exactly the same method yields the explicit definability or existence property E: if entails thereExists(x, A(x)) then entails A(t) for some term t. These properties present a striking contrast with classical logic, and have been extensively investigated and established for the usual intuitionistic formal systems.
+
 * On Process
 
 ** Conceptual Roots of Mathematics
