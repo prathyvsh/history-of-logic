@@ -42,7 +42,7 @@ William Kneale, 1948
 This is supposedly Kneale’s first work on the history of logic.
 
 Read Part 1 out of 3. The rest two are expositions of his work, which I am deciding to read after perusing his work on logic.
-Part 1 was a good read that shows the histiriographical works available on his life and his moral standings among other details on his life.
+Part 1 was a good read that shows the historiographical works available on his life and his moral standings among other details on his life.
 
 TODO: Read Part 2 and 3
 
@@ -96,7 +96,7 @@ Whately brought both algebra, and language closer to logic. He explictly draws a
 
 The nominalistic approach in the works of Hobbes is outlined as an earlier precursor to the nominalistic approach of Whately. In my research, I was able to trace this thread going through C.I. Lewis to influence Post to Rosenbloom to Chomsky.
 
-According to Van Evra, the distinction between the substative theory of reasoning and logic is that between a model and theory. Logic in Evra’s view to Whately was the formal theory of theory of reasoning.
+According to Van Evra, the distinction between the substantive theory of reasoning and logic is that between a model and theory. Logic in Evra’s view to Whately was the formal theory of theory of reasoning.
 
 Details are also drawn to the common origin of mistakenly treating both induction as a form of argument and syllogism as a kind of argument. Though I didn't fully understand this subtlety.
 
@@ -169,9 +169,9 @@ Francis Bacon, Descartes, and John Locke is said to have hold the opinion that s
 
 Gottfried Wilhelm Leibniz was the great exception to this. In his correspondence with Locke, latter’s representative Philateles eventually admits as being able to percieve logic as universal mathematics.
 
-Theory of terms or concepts, their combination into judgements, and the composition of syllogisms from judegments. (Roughly: Primitives -> Interpretive statements -> Structures).
+Theory of terms or concepts, their combination into judgements, and the composition of syllogisms from judgments. (Roughly: Primitives -> Interpretive statements -> Structures).
 
-The elucidation of the structure of logic was prefaced by a discussion of some epistemological preliminaries: the origin of concepts as inherent in the mind or deriving from sensation and perception. The authors claim that inorder for logic to take the shape of modern logical theory.
+The elucidation of the structure of logic was prefaced by a discussion of some epistemological preliminaries: the origin of concepts as inherent in the mind or deriving from sensation and perception. The authors claim that in order for logic to take the shape of modern logical theory.
 
 Kant and Whately are said to be the prime movers who played a role in eliminating some material and reorienting logic towards its modern conception.
 
@@ -186,7 +186,7 @@ He divide logic into theory and practice. This practice was associated with the 
 
 Richard Whately posited that the ground for discourse of logic is like objective sciences Chemistry or Mathematics in that its point is the enunciation of principle apart from application.
 
-For Richard Whately logic was not an engine of discover or “an art of rightly employing rational faculaties” but was an inquiry into the formal structures. He considered logic to be about language rather than valuely considered “thought”.
+For Richard Whately logic was not an engine of discover or “an art of rightly employing rational faculties” but was an inquiry into the formal structures. He considered logic to be about language rather than vaguely considered “thought”.
 
 Whately is said to have given logic the characteristic form. He eliminated some associations and gave it a precise definition making it closer to how grammar is to language.
 
@@ -196,7 +196,7 @@ Bernard Bolzano wrote Theory of Science (Wissenschaftslehre) in 1837.
 
 Introduced the idea of the content which is  asserted or denied by a proposition is a ‘proposition in itself’.
 
-Propositions are introduced first and any component of a proposition that is not a proposition itself is a Vorstellung (idea or representation ; sounds like an atompic component / primitive in modern parlance).
+Propositions are introduced first and any component of a proposition that is not a proposition itself is a Vorstellung (idea or representation ; sounds like an atomic component / primitive in modern parlance).
 
 Bolzano noted that no one had successfully defined the type of combination of terms that generates a proposition. Several of the attempts he examined did not distinguish propositions from complex terms and others defined it in terms of “acts of the mind”, “contaminating” logic with psychology.
 
@@ -214,7 +214,7 @@ The unusual triadic construction of consequence also allows for enthymemes or pa
 
 Laws of thought: Identity, Contradiction, and Excluded Middle
 
-Bolzano agreed that these principles are true. Logic he maintained, objeys these laws, but they are not its first principles (or axioms in modern parlance).
+Bolzano agreed that these principles are true. Logic he maintained, obeys these laws, but they are not its first principles (or axioms in modern parlance).
 
 Bolzano took mathematics to be a purely conceptual science and disagreed with Kant’s view that it was founded on intuition.
 
