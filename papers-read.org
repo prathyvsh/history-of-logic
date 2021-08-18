@@ -2392,6 +2392,9 @@ Joseph Abrahamson
 ** [[https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-30/issue-3/Logical-constants-as-punctuation-marks/10.1305/ndjfl/1093635154.full][Logical Constants as Punctuation Marks]]
 Kosta Došen
 
+** [[https://www.cairn.info/load_pdf.php?ID_ARTICLE=RIP_234_0491&download=1][Gödel’s encounters with formaism, intuition, and Kant (2005)]]
+Judson Webb
+
 ** [[https://link.springer.com/article/10.1007/BF00247187][Constructions, proofs and the meaning of logical constants]]
 Göran Sundholm
 
@@ -2433,3 +2436,73 @@ Gualtiero Piccinini (2004)
 
 ** [[http://virthost.vub.ac.be/lnaweb/ojs/index.php/LogiqueEtAnalyse/article/view/1578/1339][Leibniz’s and Kant’s Philosophical Ideas and the Development of Hilbert’s Programme]]
 Roman Murawski (2002)
+
+* Papers on Hilbert’s program
+
+** [[https://cse.buffalo.edu/~rapaport/510/synthese-hilbertsprog.pdf][Hilbert’s Program Revisited (2003)]]
+Panu Raatikainen
+22 pages
+
+** [[https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1521&context=jhm][From Solvability to Formal Decidability: Revisiting Hilbert’s Ignorabimus (2019)]]
+Andrea Reichenberger
+34 Pages
+
+** [[https://www.cmu.edu/dietrich/philosophy/docs/tech-reports/78_Sieg.pdf][Hilbert’s Programs: 1917-1922 (1998)]]
+Wilfried Sieg
+39 pages
+
+Check if there is more content in the newer versions
+
+** [[https://arxiv.org/ftp/arxiv/papers/2102/2102.08346.pdf][The Collapse of the Hilbert Program: Ak Variation on the Gödelian Theme (2008)]]
+
+Saul A. Kripke
+
+15 pages
+
+** [[https://www1.maths.leeds.ac.uk/~rathjen/EHPanthology.pdf][The constructive Hilbert program and the limits of Martin-Löf type theory (2005)]]
+
+Michael Rathjen
+31 pages
+
+Technical with details on Martin-Löf’s work
+
+** [[https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=osu1574777956439624&disposition=inline][From the Outside Looking In: Can mathematical certainty be secured witohut being mathematically certain that it has been? (2019)]]
+Matthew Souba
+260 pages
+
+Dissertation on Hilbert’s Program.
+
+TODO: I have to research if there are other dissertations like this one.
+
+** [[http://iml.univ-mrs.fr/~seiller/documents/projet/Giorgio2.pdf][The concept of axiom in Hilbert’s thought (2011)]]
+
+Giorgio Venturi
+27 pages
+
+** [[http://people.scs.carleton.ca/~bertossi/talks/hilbTur08.pdf][From Hilbert to Turing and beyond …]]
+
+Leopoldo bertossi
+Slideset
+
+** [[http://www-personal.umich.edu/~twod/sof/assignments/chaitin.pdf][A Century of Controversy Over the Foundations of Mathematics (2000)]]
+
+Gregory J. Chaitin
+
+10 pages
+
+** [[https://www.tau.ac.il/~corry/publications/articles/pdf/Hilbert%20Kluwer.pdf][The Origin of Hilbert’s Axiomatic Method (2006)]]
+
+Leo Corry
+
+98 pages
+
+** [[https://personal.us.es/josef/HLME.pdf][Hilbert, Logicism, and Mathematical Existence (2009)]]
+
+José Ferreirós
+41 pages
+
+** [[https://www.scielo.br/j/man/a/X3x38kGy7CKp4rLj4mXTzYM/?format=pdf&lang=en][Hilbert Between the Formal and Informal Side of Mathematics (2015)]]
+Giorgio Venturi
+34 pages
+
+** [[][]]
