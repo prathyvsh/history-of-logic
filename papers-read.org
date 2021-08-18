@@ -33,7 +33,7 @@ William Kneale, 1966
 - First order and second order natural signs are detailed.
 - Poryphry’s exposition of Aristotle’s Categories and it finding a main audience in philosophy through the work of Boethius.
 - Natural signs in the soul were called intentiones.
-- Leibniz’ idea of costructing a scientific language that will form a thread of meditation (filum meditandi) is outlined.
+- Leibniz’ idea of constructing a scientific language that will form a thread of meditation (filum meditandi) is outlined.
 - The idea that when a dyadical relation is introduced, the relationship modifying each of the two entities involved is detailed, that is the paternity of David to Solomon, grants Solomon the sonship of David.
 
 ** [[https://www.jstor.org/stable/2250689][Boole and the Revival of Logic]]
@@ -96,7 +96,7 @@ Whately brought both algebra, and language closer to logic. He explictly draws a
 
 The nominalistic approach in the works of Hobbes is outlined as an earlier precursor to the nominalistic approach of Whately. In my research, I was able to trace this thread going through C.I. Lewis to influence Post to Rosenbloom to Chomsky.
 
-According to Van Evra, the distinction between the substative theory of reasoning and logic is that between a model and theory. Logic in Evra’s view to Whatley was the formal theory of theory of reasoning.
+According to Van Evra, the distinction between the substative theory of reasoning and logic is that between a model and theory. Logic in Evra’s view to Whately was the formal theory of theory of reasoning.
 
 Details are also drawn to the common origin of mistakenly treating both induction as a form of argument and syllogism as a kind of argument. Though I didn't fully understand this subtlety.
 
@@ -109,11 +109,11 @@ Read 22 July 2020
 Details about the historical context in which Richard Whately’s book emerged.
 Precedents to the nominalist take in Whately’s work is linked to John Gillies translation of Aristotle and Richard Kirwan’s Logick.
 
-Towards the end of the paper McKerrow also, draws attention to the idea that the two books of Whatley on rhetoric and logic acts as two sides of a coin.
+Towards the end of the paper McKerrow also, draws attention to the idea that the two books of Whately on rhetoric and logic acts as two sides of a coin.
 
-A good description of how Whatley proscribed the limits of logic in his nominalist interpretation is given.
+A good description of how Whately proscribed the limits of logic in his nominalist interpretation is given.
 
-McKerrow also compares the innovation of Whatley to that of Stephen Toulmin’s Uses of Argument (1958) and The New Rhetoric of Chaïm Perelman and Lucie Olbrechts-Tyteca (1969)
+McKerrow also compares the innovation of Whately to that of Stephen Toulmin’s Uses of Argument (1958) and The New Rhetoric of Chaïm Perelman and Lucie Olbrechts-Tyteca (1969)
 
 ** [[https://link.springer.com/chapter/10.1007/11780342_59][Gödel and Computability Theory]]
 Richard Zach (2006)
@@ -186,9 +186,9 @@ He divide logic into theory and practice. This practice was associated with the 
 
 Richard Whately posited that the ground for discourse of logic is like objective sciences Chemistry or Mathematics in that its point is the enunciation of principle apart from application.
 
-For Richard Whately logic was not an engine of discover or “an aart of rightly employing rational faculaties” but was an inquiry into the formal structures. He considered logic to be about lanugage rather than valuely considered “thought”.
+For Richard Whately logic was not an engine of discover or “an art of rightly employing rational faculaties” but was an inquiry into the formal structures. He considered logic to be about language rather than valuely considered “thought”.
 
-Whately is said to have given logic the characteristic form. He eliminated some assocations and gave it a precise definition making it closer to how grammar is to language.
+Whately is said to have given logic the characteristic form. He eliminated some associations and gave it a precise definition making it closer to how grammar is to language.
 
 Syllogisms : Articulated Argument :: Grammar : Language
 
@@ -2191,6 +2191,41 @@ Kolmogorov in his paper from 1925 describes an embedding of classical propositio
 Gödel’s embeding made it clear that intuitionistic methods went beyond finitism, precisely because abstraction notions were allowed. This is clear e.g. from the clause explaining intuitionistic implication in the BHK-interpretation, since there the abstraction notion of constructive proof and construction are used as primitivves. This fact had not been realized by the Hilbert school until then; Bernays was the first one to grasp the implications of Gödel’s result.
 
 Quite important for the proof theory of intuitionistic logic was the formulation in Gentzen’s work of the sequent calculi LK and LJ. Using his cut elimination theorem, Gentzen showed that for IQC the disjunction property DP holds: if entails A or B, then entails A or entails B. Exactly the same method yields the explicit definability or existence property E: if entails thereExists(x, A(x)) then entails A(t) for some term t. These properties present a striking contrast with classical logic, and have been extensively investigated and established for the usual intuitionistic formal systems.
+
+The earliest semantics for IPC, due to the work of S. Jaskowski, M. H. Stone, A. Tarski, G. Birkhoff, T. Ogasawara in the years 1936-1940 was algebraic semantics, with topological semantics as an important special case. In algebraic semantics, the truth values of propositions are elements of a Heyting algebra (also known as Brouwerian lattice, pseudo-complemented lattice, pseudo-Boolean algebra, or esiduated lattice with bottom). A Heyting algebra is a lattice with top and bottom, and an extra operation -> such that a and b <= c iff a <= b -> c, for all elements a, b, c of the lattice. An important special case of a Heyting algebra is the collection of open ses of a topological space T ordered under inclusion, where U -> V := Interior (V U (T \ U)). The logical operation and, or, ->, not correspond to the lattice operations join, meet, -> and the defined operation not a := a -> 0, where 0 is the bottom of the lattice. A boolean algebra is a special case of a Heyting algebra.
+
+5.4 Metamathematics of intuitionistic logic and arithmetic after 1940
+
+In the early forties Kleene devised an interpretaiton which established a connection between the notion of computable (= recursive) function and intuitionistic logic, the realizability interpretation given in On the interpration of intuitionistic number theory (1945).
+
+The essence of the interpretation is that it so to speak hereditarily codes information on the explicit realization of disjunctions and exitsential quantifiers, recursively in numerical parameters. The definition is by induction on the number of logical symbols of sentences (= formulas without free variables): with every formula A one associates a predicate ‘x realizes A’, where x is a natural number. Typical clauses are:
+
+1. n realizes t = s iff t = s is true
+2. n realizes A -> B iff for all m realizing A, n • m realizes B
+3. n realizes thereExists(m, B(m)) iff n is a pair (m, k), and k realizes B(m).
+
+Here • is the operation of application between a number and the code of a partial recursive function. Kleene established the correctness of this interpretation: if HA entails A, then for some number n, n realizes A.
+
+The interest of the interpreation is, that it makes more true than just what is coded in the formalism HA. In particular, the following version of Church’s thesis may be shown to be realizable:
+
+CT_0 forAll(n, thereExists(m, A(n, m))) -> thereExists(k, forAll(n, A(n, k • m)))
+
+a principle which is aesily seen to be incompatible with classical logic. Realizability and its many variants have become a powerful tool in the study of metamathematics of constructive systems.
+
+Algebraic semantics was extended to predicate logic, and A. Mostowski in 1949 was the first one to apply topological models to obtain underivability results for IQC. This development culminated in the monograph by (1963) Rasiowa and Sikorski. Although algebraic semantics has proved to be technically useful in metamathematical research, it is so to speak only the algebraic version of the syntax, as witnessed by he fact that IPC itself can be made into a Heyting algebra (the Lindenbaum algebra of IPC).
+
+More important from a conceptual point of view are two other semantics, Beth models due to E. W. Beth and Kripke models due to Saul Kripke. Both these semantics are based on posets. We call the elements k, k', k'', … of a poset (K, <=) nodes. In Kripke models the partial order is arbitrary, in Beth models as defined by Beth it is a finitely branching tree. The interest of these models resides in the intuitive interpretaion of the partial order. For Beth models, each node represents a state of information in time, and a higher node represents a possible state of information at a later point in time. The branching of the tree reflects the fact that there are different possibilities for the extension of our knowledge in the future. In the Kripke models, it is more natural to think of the nodes as representing possible stages of knowledge; a higher node in the ordering corresponds to an extension of our knowledge. That is to say, passing to a later period in time does not force us to move upwards in a Kripke model, only extension of our knowledge does. In these models one has a notion of ‘A is true at k’, or ‘k forces A’. Falsehood is nowhere forced. It is possible to interpret Beth and Kripke models as topological models of special spaces.
+
+An important aspect of Beth models is the connection with intuitive intuitionistic validity; a formula A(R_1, …, R_n) of IQC, containing predicate letters R_1, …, R_n is intuitionistically valid if for all domains D and all relations R*_i of the appropriate arity. A^D(R*_1, …, R*_n) holds intuitionistically; here A^D(R*_1, …, R*_n) is obtained from A by restricting quantifiers to D, and replacing R_i by R*_i.
+
+From observations by G. Kreisel in 1958 it follows that, for propositional logic, validity in a Beth model is equivalent to intuitive validity for a collection of propositions P^α_1, P^α_2, …, P^α_n depending on a lawless parameter α.
+
+Beth and Kripke proved completeness for their respective kinds of semantics by classical methods. Beth originally believed to have also an intuitionistic completens proof for his semantics. Veldman was able to show that if one extends the notion of Beth model to fallible. Beth model,s wehre it is permitted that in certain nodes falsehood is forced, it is possible to obtain an intuitionistic completeness proof for Kripke semantics. The idea was transferred to Kripke semantics by H. de Swart. For the fragment of intuitionistic logic without falsehood and negation, fallible models are just ordinary models. For minimal logic, where ⊥ is regarded as an arbitrary unprovable propositoin letter, one has intuitionistic completeness relative to ordinary Beth models. The best results in this direction can be obtain from work by Harvey Friedman from circa 19786.
+
+C. A. Smoryński used Kripke models with great virtuousity in the study of metamathematics of intuitionistic arithmetic.
+
+
+
 
 * On Process
 
