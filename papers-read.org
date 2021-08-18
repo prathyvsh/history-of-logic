@@ -150,7 +150,7 @@ The main features of Fregean system is identified as: quantification, universali
 
 Leibniz envisioned an ars characteristica which will represent letters according to the models of mathematics and the notation allows for calculating with concepts according to a set of rules. It allows for mechanically deducing all possible truths from the list of simple thoughts. Characteristic is responsible for the semantic part and calculus ratiocinator forms the syntactic part of the lingua rationalis.
 
-In the initial period of partial realizations of this program, the systems of characters allow various interprations. In the final (utopian) stage after having reached at the complete designation of all possible simple thoughts, the system would be categorical in nature.
+In the initial period of partial realizations of this program, the systems of characters allow various interpretations. In the final (utopian) stage after having reached at the complete designation of all possible simple thoughts, the system would be categorical in nature.
 
 Peckhaus locates the idea of Schröder with an external semantics to be more close to the Leibnizian idea of lingua rationalis.
 
@@ -736,7 +736,7 @@ This was the situation when after Hegel’s death philosophical discussion on lo
 
 Although this discussion was clearly connected to formal logic, the so-called reform did not concern formal logic. The reason was provided by the Neo-Kantian Wilhelm Windelband who wrote that the technique of correct thinking had been brought to perfection by Aristotelian philosophy.
 
-Windelband was very critical of English mathematical logic. Its quantification of the predicate allows the correct presentation of extensions in judgements, but it “drops hopelessly” the vivid sense of all judgement, which tend to claim or deny a material relationship between subject or predicate. It is “a logic of the conference table”, which cannot be used in the vivid life of science, a “logical sport” which has, however, its merits in exercising the final acumen.
+Windelband was very critical of English mathematical logic. Its quantification of the predicate allows the correct presentation of extensions in judgments, but it “drops hopelessly” the vivid sense of all judgement, which tend to claim or deny a material relationship between subject or predicate. It is “a logic of the conference table”, which cannot be used in the vivid life of science, a “logical sport” which has, however, its merits in exercising the final acumen.
 
 The philosophical reform efforts concerned primarily two areas:
 
@@ -753,7 +753,7 @@ Science in Culture: The Early Victorian Period (1978)
 
 One of the roots of this movement was the foundation of the Analytical Society in 1812 by Charles Babbage, George Peacock, and John Herschel.
 
-One of the first achievements of the Analytical Society was a revision of the Cambridge Tripos by adopting the Leibnitzian notation for the calculus and abandoning the customary Newtonian theory of fluxions. It may be assumed that this successful movement triggered off by a change in notation might have stimulated a new or at least revived interest in operating with symbols. This new research on the calculus had parallels in innovative approaches to algebra which were motivated by the reception of Laplacian analysis. 
+One of the first achievements of the Analytical Society was a revision of the Cambridge Tripos by adopting the Leibnizian notation for the calculus and abandoning the customary Newtonian theory of fluxions. It may be assumed that this successful movement triggered off by a change in notation might have stimulated a new or at least revived interest in operating with symbols. This new research on the calculus had parallels in innovative approaches to algebra which were motivated by the reception of Laplacian analysis. 
 
 Firstly the development of symbolical algebra has to be mentioned. It was codified by George Peacock in his Treatise on Algebra (1830) and further propagated in his famous report for the British Association for the Advancement of Science.
 
@@ -777,7 +777,7 @@ The most important representative of the German algebra of logic was the mathema
 Schröder’s own survey of his scientific aims and results contained a three part division:
 
 1. A number of papers dealing with some of the current problems of his science
-2. Studies concerned with creating an “absolute algebra”, i.e., a general theory of connections. Schröder stresed that such studies represent his “very own object of research” of which only little was published at that time
+2. Studies concerned with creating an “absolute algebra”, i.e., a general theory of connections. Schröder stressed that such studies represent his “very own object of research” of which only little was published at that time
 3. Work on the reform and development of logic
 
 Schröder’s own division of his fields of research shows that he didn’t consider himself a logician: His “very own object of research” was “absolute algebra”, and in respect to its basic problems and fundamental assumptions similar to modern abstract or universal algebra. What was the connection between logic and algebra in Schröder’s research? From the passages quoted one could assume that they belong to two separate fields of research, but this in to the case. They were intertwined in the framework of his heuristic idea of a general science. In his autobiographical note he stressed:
@@ -814,7 +814,7 @@ Although Herman Ulrici had published a first German review of Boole’s Laws of 
 
 Alexander Bain was a Scottish philosopher who was an adherent of Mill’s logic. Bain’s Logic, first published in 1870, had two parts, the first on deduction and the second on induction. He shared the “[…] general conviction that the utility of the purely Formal Logic is but small; and that the rules of induction should be exemplified even in the most limited course of logical discipline”. The minor role of deduction showed up in Bain’s definition “Deduction is the application or extension of Induction to new cases”.
 
-Despite his reservations about deduction. Bain’s Logic was quite important for the reception of symbolic logic because of a chapter of 30 pages entitled “Recent Additions to the Syllogism”. In this chapter the contributions of William Hamilton, Augustus De Morgan, and George Boole were introduced. Presumably many more people became acquainted with Boole’s algebra of logic through Bain’s report than through Boole’s own writings. One example is Hugh MacColl, the pioneer of the calculus of propositions and of modal logic. He created his ideas independently of Boole, eventually realizing the existence of the Boolean calculus by means of Bain’s report. Tadeusz Batóg and Roman Murawksi (Stanisaw Pi atkiewicz and the Beginnings of Mathematical Logic in Poland, 1996) have shown that it was Bain”’s presentatino which motivated the first Polish algebraist of logic, Stanisaw Pi atkiewicz to begin his research on symbolic logic.
+Despite his reservations about deduction. Bain’s Logic was quite important for the reception of symbolic logic because of a chapter of 30 pages entitled “Recent Additions to the Syllogism”. In this chapter the contributions of William Hamilton, Augustus De Morgan, and George Boole were introduced. Presumably many more people became acquainted with Boole’s algebra of logic through Bain’s report than through Boole’s own writings. One example is Hugh MacColl, the pioneer of the calculus of propositions and of modal logic. He created his ideas independently of Boole, eventually realizing the existence of the Boolean calculus by means of Bain’s report. Tadeusz Batóg and Roman Murawksi (Stanisaw Pi atkiewicz and the Beginnings of Mathematical Logic in Poland, 1996) have shown that it was Bain”’s presentation which motivated the first Polish algebraist of logic, Stanisaw Pi atkiewicz to begin his research on symbolic logic.
 
 The remarkable collaboration of mathematics and philosophy can be seen in the fact that a broader reception of symbolic logic commenced only when its relevance for the philosophical discussion of the time came to the fore.
 
@@ -851,7 +851,7 @@ At the end of the 1920s, Tarski developed the theory of the consequence  operato
 
 In “What are logical notions?” Tarski proposes to define logical notions as those invariant under any one-to-one transformation, something he presents as a generalization of an idea of Felix Klein (1849 – 1925), connected tot he so-called “Erlangen program”.
 
-As Tarski says in the paper, edited by Corcoran, the idea of characterizing logical notions in such a way already appears in a paper by Lindebaum and himself in 1934.
+As Tarski says in the paper, edited by Corcoran, the idea of characterizing logical notions in such a way already appears in a paper by Lindenbaum and himself in 1934.
 
 Adolf Lindenbaum was the main collaborator and friend of Tarski when he was in Poland.
 
@@ -1018,7 +1018,7 @@ Boole in his 1854, The Laws of Thought, addresses both categorical and hypotheti
 
 There is also the suggestion of the theory of Boolean algebras as an algebraic structure.
 
-The logicians who followed Boole also relied heavily on the interpretations in which tehy were working.
+The logicians who followed Boole also relied heavily on the interpretations in which they were working.
 
 In the development and presentation of these algebras of logic, there was an ongoing interaction between the formulation of the calculus and its intended interpretation that is absent in the more modern formalistic view.
 
@@ -1032,7 +1032,7 @@ The logic of sets and propositions are often not distinguished from one another.
 
 This distinction was hinted at by Augustus De Morgan in “On the foundation of algebra” published in 1941 (Read on 9 December 1839).
 
-Algebra now consists of two parts, the technical, and the logical. Technical algebra is the art of using symbols under regulations which, when this part of the subject is considered independently of the other, are prescribed as the definitions of the symbols. Logical algebra is the science which investigates the method of giving meaning to the primary symbols, and of intepreting all subsequent symbolic results.
+Algebra now consists of two parts, the technical, and the logical. Technical algebra is the art of using symbols under regulations which, when this part of the subject is considered independently of the other, are prescribed as the definitions of the symbols. Logical algebra is the science which investigates the method of giving meaning to the primary symbols, and of interpreting all subsequent symbolic results.
 
 De Morgan credits George Peacock as making the distinction between these two parts of algebra first.
 
@@ -1044,13 +1044,13 @@ The word quantity in the above quotation refers to the distinction between unive
 
 Venn’s Symbolic Logic included 25 different symbolic expressions for No S is P, reflecting not merely differing notational preferences but, in many cases, actual conceptual differences.
 
-Work that is generally considered to have presetned the algebra of logic in its most mature form is Ernst Schröder’s three volume Vorlesungen über die Algebra der Logik, published between 1890 and 1905.
+Work that is generally considered to have presented the algebra of logic in its most mature form is Ernst Schröder’s three volume Vorlesungen über die Algebra der Logik, published between 1890 and 1905.
 
 Both Schröder and Peirce recognized that the algebra of logic is not really an axiomatic system.
 
 Around the turn of the century, Whitehead and Huntington used the expression “algebra of logic” to denote the formal calculus that can be abstracted from the propositional calculus and naive set theory and that forms the basis of the theory of Boolean algebras.
 
-The term “Boolean algebra” was not used in this sense until H. M. Sheffer coined the term in his 1913 paper, “A Set of Five Independenent Postulates for Boolean Algebras, with Application to Logical Constants.”
+The term “Boolean algebra” was not used in this sense until H. M. Sheffer coined the term in his 1913 paper, “A Set of Five Independent Postulates for Boolean Algebras, with Application to Logical Constants.”
 
 Although the term had been used by Peirce around 1880, he used it to refer to techniques of symbol manipulation, not to algebraic structures.
 
@@ -1189,7 +1189,7 @@ There are passages that point to Aristotle’s understanding of the consequence 
 
 For the initial partial solution to the twin problems, Aristotle presented the world’s first extant logical system. Aristotle’s logic was not a comprehensive “grand logic” such as that of Frege 1879 or Whitehead-Russell 1910. His research strategy was like that of Archimedes in dealing with hydrostatics, a carefully delimited part of fluid mechanics that treats the special case of a fluid at rest. Hydrostatics is a necessary preparation for the wider study that includes hydrodynamics, the study of fluid in motion. The strategy is to deal with a simple, perhaps idealized or even fictitious, case first before attacking the problems in their full generality or perhaps before attacking more complicated special cases.
 
-Aristotle nowhere says that his particular system, the so-called assertoric categorical syllogistic, was a comprehensive and exhaustive logic. Kant is frequently criticized, even ridiculed, for making this claim on Aristotle’s behalf (Bolzano 1837/1972, Hilbert and Ackerman 1928/38/50, Cohen and Nagel 1934/62/93)
+Aristotle nowhere says that his particular system, the so-called assertoric categorical syllogistic, was a comprehensive and exhaustive logic. Kant is frequently criticized, even ridiculed, for making this claim on Aristotle’s behalf (Bolzano 1837/1972, Hilbert and Ackermann 1928/38/50, Cohen and Nagel 1934/62/93)
 
 Aristotle never said, as some of his less careful but more enthusiastic followers have said, that the syllogistic is adequate for propositional logic. And Aristotle certainly never said anything comparable to the pathetically irresponsible remark of John Stuart Mill that “The whole of Euclid, for example, might be thrown without difficulty into a series of syllogisms, regular in mood and figure.”
 
@@ -1261,7 +1261,7 @@ ic3
 X
 QED
 
-If we use the word ‘argumentations’ for the genus for which proofs form a species, i.e., for a 3 part system composed of a premise-set, a conclusion to be reached, and a chain-of-reasoning, then the Aristotelian truth-and-consequence proof admits of easy definition in the traditional genus-et-defferentia form. In order for an argumentation to be a proof (of its conclusion to a given group of people) it is necessary and sufficient for the premises to be known to be true (by the group) and for its chain-of-reasoning to show (to the group) that its conclusion is a logical consequence of its premises. Every proof has established premises and cogent reasoning. In order for an argumentation to be fallacious (to a given group of people) it is necessary and sufficient for the premises to be not known to be true (by the group) or for its chain-of-reasoning to not show (to the group) that its conclusion is a logical consequence of its premises. Every fallacious “proof” has faulty premises or faulty reasoning.
+If we use the word ‘argumentations’ for the genus for which proofs form a species, i.e., for a 3 part system composed of a premise-set, a conclusion to be reached, and a chain-of-reasoning, then the Aristotelian truth-and-consequence proof admits of easy definition in the traditional genus-et-differentia form. In order for an argumentation to be a proof (of its conclusion to a given group of people) it is necessary and sufficient for the premises to be known to be true (by the group) and for its chain-of-reasoning to show (to the group) that its conclusion is a logical consequence of its premises. Every proof has established premises and cogent reasoning. In order for an argumentation to be fallacious (to a given group of people) it is necessary and sufficient for the premises to be not known to be true (by the group) or for its chain-of-reasoning to not show (to the group) that its conclusion is a logical consequence of its premises. Every fallacious “proof” has faulty premises or faulty reasoning.
 
 As suggested above, there is no way to understand Aristotle’s logic without being aware of his rigorous training and deep interest in geometry. The fact that axiomatic presentations of geometry were available to the Academy two generations before Euclid’s has been noted often. Ross points out that “there were already in Aristotle’s time Elements of Geometry”. According to Heath, “The geometrical textbook of the Academy was written by Theudius of Magnesia … [who] must be taken to be the immediate precursor of Euclid, and no doubt Euclid made full use of Theudius … and other available material”.
 
