@@ -92,7 +92,7 @@ The social context is described in which there was a force against diminishing t
 
 The idea here that logic was part of humanities at Oxford is a significant point. Against the criticism of Playfair, Copleston defended that logic was neither an art nor a way to gain knowledge, thus dissociating it from Llull’s tradition of Ars Magna and Epistemology. He contented that Playfair had objected to a  a mistaken concept of logic.
 
-Whately brought both algebra, and language closer to logic. He explictly draws an analogy between the letters he employed for the moods of the syllogistic with that of ones used in algebra.
+Whately brought both algebra, and language closer to logic. He explicitly draws an analogy between the letters he employed for the moods of the syllogistic with that of ones used in algebra.
 
 The nominalistic approach in the works of Hobbes is outlined as an earlier precursor to the nominalistic approach of Whately. In my research, I was able to trace this thread going through C.I. Lewis to influence Post to Rosenbloom to Chomsky.
 
@@ -138,7 +138,7 @@ Author goes on to differentiate between two schools of logic: the algebraic scho
 
 Quine locates the idea of quantification theory as the emergence of logic as a substantial branch of mathematics.
 
-Works of Jean van Heijenoort (1976b) of dividing “logic as calculus” and “logic as language” is cited. This is said to be developed by the work of Jaakko Hintikka to “languages as caluculs” and “language as a universal medium”.
+Works of Jean van Heijenoort (1976b) of dividing “logic as calculus” and “logic as language” is cited. This is said to be developed by the work of Jaakko Hintikka to “languages as calculus” and “language as a universal medium”.
 
 The two ideas are not disjunctive but rather have overlaps in that Frege himself notes that the inferring calculations as a necessary component of a concept script. The concept script as per Peckhaus was meant to emphasize the lingua characterica aspect of logic.
 
@@ -148,7 +148,7 @@ Algebraic calculus uses model-theoretic approach where interpretations of operat
 
 The main features of Fregean system is identified as: quantification, universality, internal semantics, a closed/fixed universe of discourse.
 
-Leibniz envisioned an ars characteristica which will represent letters according to the models of mathematics and the notation allows for calculating with concepts according to a set of rules. It allows for mechanically deducing all possible truths from the list of simple thoughts. Characteristic is responsible for the semantic part and calculus ratiocinator forms the syntact part of the lingua rationalis.
+Leibniz envisioned an ars characteristica which will represent letters according to the models of mathematics and the notation allows for calculating with concepts according to a set of rules. It allows for mechanically deducing all possible truths from the list of simple thoughts. Characteristic is responsible for the semantic part and calculus ratiocinator forms the syntactic part of the lingua rationalis.
 
 In the initial period of partial realizations of this program, the systems of characters allow various interprations. In the final (utopian) stage after having reached at the complete designation of all possible simple thoughts, the system would be categorical in nature.
 
@@ -177,7 +177,7 @@ Kant and Whately are said to be the prime movers who played a role in eliminatin
 
 Kant changed his mind from Locke’s book de intellectu is the ground of all true logica to Locke “speaks of the origin of concepts, but this really does not belong to logic”. While claiming earlier that the logician must know the human soul and cannot proceed without psychology, he now held that “pure logic derives nothing from psychology”.
 
-Organon: Attemps to codify methods of discovery.
+Organon: Attempts to codify methods of discovery.
 Canon: A method of evaluation of the discoveries
 
 He held that there is no universal method of discovery and logic to be catering only to form and not to content, and that it can only be a canon (diiudicatio).
@@ -232,7 +232,7 @@ Syllogisms can now be calculated by using arithmetic, specifically by maneuverin
 
 Short comings of Boole’s rendition:
 
-Existential propositions where represented as v = xy where v stands for a non-empty class. But how can one define such a class?
+Existential propositions were represented as v = xy where v stands for a non-empty class. But how can one define such a class?
 
 His logic was a logic of terms
 
@@ -240,9 +240,9 @@ Recognition of negation came only later in the century
 
 Changing the status of standard copular — is — Augustus De Morgan showed how the bounds of categorical statements could be widened into the realm of relational statements.
 
-”Every man is an animal. Therefore the head of a man is the head of an animal” cannot be accomodated in traditional syllogistic logic.
+“Every man is an animal. Therefore the head of a man is the head of an animal” cannot be accommodated in traditional syllogistic logic.
 
-De Morgan introduced the concept of “universe of discourse”, which targeted statemetns to a class of objects under discussion rather than the entire universe.
+De Morgan introduced the concept of “universe of discourse”, which targeted statements to a class of objects under discussion rather than the entire universe.
 
 Charles Sanders Peirce first thought logic to be part of semiotics, but then took it to be that theory, and while talking logic to be descriptive first, he later thought it to address cognitive norms.
 
@@ -250,9 +250,9 @@ Gottlob Frege attempted to derive arithmetic from logical concepts.
 
 In his work, a function symbol refers to / denotes a concept, the name/argument an object. Concepts and objects belong to distinct ontological categories. When a concept term is an argument in a sentence, the sentence is said to be on a higher level than those whose arguments refer to objects.
 
-Conceptual structures are used to determine if certain configurations “fall under” them. For a concept: () is a planet, the object Merccury, when substituted in the structure gives Mercury is a planet which is said to map to true and hence to fall under the structure while Sirius is a planet fails to and doesn't fall under it.
+Conceptual structures are used to determine if certain configurations “fall under” them. For a concept: () is a planet, the object Mercury, when substituted in the structure gives Mercury is a planet which is said to map to true and hence to fall under the structure while Sirius is a planet fails to and doesn't fall under it.
 
-Another profound innovation of Frege was the quantifier. In mathematics, quantification is usually tacit: x + 0 = x, means that for all x, it is a true identity. Wherease to denote the opposite of it, one can say x + 0 != x, but for cases where “Not everything is F” cannot be done so and for that a special sign, a quantifier with a scope is needed. This allows to distinguish between:
+Another profound innovation of Frege was the quantifier. In mathematics, quantification is usually tacit: x + 0 = x, means that for all x, it is a true identity. Whereas to denote the opposite of it, one can say x + 0 != x, but for cases where “Not everything is F” cannot be done so and for that a special sign, a quantifier with a scope is needed. This allows to distinguish between:
 
 not(ForAll(x, F(x))) : Not everything is F(x)
 ForAll(x, not(F(x))) : Everything is not(F(x))
@@ -269,7 +269,7 @@ A third principle, substitutivity, is introduced: if a = b, then F(a) is equival
 
 Substitutivity fails in so-called oblique/opaque contexts. According to Frege, they are dependent clauses introduced by words as ‘to say’, ‘to hear’, ‘to believe’, ‘to be convinced’, ‘to conclude’ and the like.
 
-‘N believes that the morning star is a planet’ may be true while ‘N believes that the evening star is a planet’ false even though the two heavely bodies are identical violating the principle of substitutivity.
+‘N believes that the morning star is a planet’ may be true while ‘N believes that the evening star is a planet’ false even though the two heavenly bodies are identical violating the principle of substitutivity.
 
 To save this principle, Frege introduced sense (sinn) and reference (Bedeutung).
 
@@ -283,11 +283,11 @@ In Foundations of Arithmetic, Frege attempted to define the sense of a sentence 
 
 Context principle: Only in the context of a sentence does a word have meaning.
 
-Hume’s Principle: “When two numbers are so combined as that the one has always a unit answering to every unit of the other, we pronunce them equal”
+Hume’s Principle: “When two numbers are so combined as that the one has always a unit answering to every unit of the other, we pronounce them equal”
 
 Fifth principle: Unrestricted comprehension (or abstraction) axiom.
 
-Bertrand Russell’s discovery showed that the axioms of arithmetic (now commonly stated in the form Guiseppe Peano gave them) cannot be formally and consistently derived from Frege’s principles. Only  in recent years has it been shown that these axioms follow from the principles of logic (minus the ill-fated Fifth) together with Hume’s Principle. This is now called ‘Frege’s Theorem.’
+Bertrand Russell’s discovery showed that the axioms of arithmetic (now commonly stated in the form Giuseppe Peano gave them) cannot be formally and consistently derived from Frege’s principles. Only  in recent years has it been shown that these axioms follow from the principles of logic (minus the ill-fated Fifth) together with Hume’s Principle. This is now called ‘Frege’s Theorem’.
 
 Franz Brentano observed that all ‘psychological phenomena’ are targeted on some object: when we think, we think of something. These are intentional objects whose existence or nonexistence need not be an issue.
 
@@ -301,7 +301,7 @@ Mereology is different from set theor in that an element of a class is not a par
 
 Alexius Meinong, another of Brentano’s students inquired into the nature of intentional acts that lack existing objects and are ‘beyond being and non-being.’
 
-He is credited with inpsiring free logic.
+He is credited with inspiring free logic.
 
 Bertrand Russel gave a distinction between proper names and expressions which he titled definite descriptions.
 
@@ -335,7 +335,7 @@ Principia was meant to be a kind of Lingua Universalis, a canonical language pur
 
 In summary, several distinct areas of study were advanced under the name of logic:
 
-- As an investigation on cognitive performence/scientific methodology
+- As an investigation on cognitive performance/scientific methodology
 - Strategy of discovery
 - Branch of rhetoric
 
@@ -401,7 +401,7 @@ Posterior Analytics was primary over Prior Analytics.
 
 The medieval logician does not primarily study consequence-relations between logical entities; his concern is the act of knowledge that is directed towards real things.
 
-As reasoning proceeds from judgements that are built from terms which are first apprehended as products of mental acts.
+As reasoning proceeds from judgments that are built from terms which are first apprehended as products of mental acts.
 
 I. Apprehension, Grasping -> Concept / Idea / Notion (Cognition) -> Term (Written)
 II. Judgement - Mental Proposition: S is P (Cognition) -> Assertion / Proposition (Written)
@@ -413,7 +413,7 @@ Propositions are traditional subject/copula/predicate
 
 But modern propositions come from Bertrand Russell’s translation of Frege’s Gedanke (Thought).
 
-Thus modern propositions are not judgements but contents of judgements.
+Thus modern propositions are not judgements but contents of judgments.
 
 In modern interpretation of proposition, one can write: that snow is white
 while for medieval propositions they are a combination of S and P.
@@ -486,7 +486,7 @@ Valid inference here is ForAll(x, Swan(x) => White(x)) => ThereExists(x, Swan(x)
 
 The inference from an affirmative universal proposition to an affirmative particular one is an example of ‘alternation’.
 
-The medievals liberated themselves from term-logical straitjacket of the Aristotelian syllogistics by considering singular judgements.
+The medievals liberated themselves from term-logical straitjacket of the Aristotelian syllogistics by considering singular judgments.
 
 The so called expository syllogism.
 
@@ -499,7 +499,7 @@ Implication, consequence, inference, and causal grounding.
 
 Implication: Propositional connection between propositional contents
 Follows from, is a consequence of
-Thus, therefore, indicates inference. From premise judgements / assertions to conclusion judgement (assertion).
+Thus, therefore, indicates inference. From premise judgments / assertions to conclusion judgement (assertion).
 Because, is a causal ground / reason for are indicator words for causal grounding, which is a relation between events or state of affairs.
 
 In medieval logic, if (si), therefore(igitur), sequitur (follows), and quia (because) are all indicator-words for one and the same notion of a consequentia.
@@ -569,7 +569,7 @@ For an x to be F, say Socrates to be Tall, is for x to stand in a participatory 
 
 In Sophist, Plato begins to develop a semantic theory for predications. He observes that truth and falsehood are not properties of names standing alone, but of sentences produced by combining words.
 
-“Theatetus” and ”is sitting” in isolation indicate ideas, but their combination becomes a proposition which can be judged. This I think is the beginning of apprehension/proposition/judgement triad.
+“Theaetetus” and ”is sitting” in isolation indicate ideas, but their combination becomes a proposition which can be judged. This I think is the beginning of apprehension/proposition/judgement triad.
 
 This is said to provide a ground for understanding falsehoods as meaningful.
 
@@ -658,7 +658,7 @@ Antiphasis: two propositions with the same subject, one of which denies of that 
 2. The impossible does not follow from the possible
 3. There is something possible which neither is nor will be true
 
-Aristotle restricts the application of law of excluded middle to future contigent propositions, thought it is said that it’s not entirely clear how.
+Aristotle restricts the application of law of excluded middle to future contingent propositions, thought it is said that it’s not entirely clear how.
 
 For Chrysippus, a proposition that is affirmed or denied is really an incorporeal entity, roughly meaning of a sentence that expresses it. Stoics called this a lekton (sayable), which is claimed by the author to be close to ‘meaning’ or ‘sense’.
 
@@ -712,9 +712,9 @@ Hence, he referred to a startling philosophical discussion which indicated a viv
 
 Thomas Lindsay, the translator of Friedrich Ueberweg’s important System der Logik und Geschichte der logischen Lehren was very critical of the scientific qualities of Whately’s book, but he, nevertheless, emphasized its outstanding contribution for the renaissance of formal logic in Great Britain.
 
-One year after the publication of Whately’s book, George Bentham’s An Outline of a New System of Logic appeared which was to serve as a commentary to Whately. Bentham’s book was discussed by William Hamilton in a review article published in the Edinburgh Review (1833). With the help of this review Hamilton fuonded his reputation as the “first logical name in Britain, it may be in the world”. This was the opinion of De Morgan written in a letter to Spalding which was not sent. For George Boole, Hamilton was one of the “two greatest authorities in logic, modern and ancient”. The other authority is Aristotle.
+One year after the publication of Whately’s book, George Bentham’s An Outline of a New System of Logic appeared which was to serve as a commentary to Whately. Bentham’s book was discussed by William Hamilton in a review article published in the Edinburgh Review (1833). With the help of this review Hamilton founded his reputation as the “first logical name in Britain, it may be in the world”. This was the opinion of De Morgan written in a letter to Spalding which was not sent. For George Boole, Hamilton was one of the “two greatest authorities in logic, modern and ancient”. The other authority is Aristotle.
 
-Hamilton propagated a revival of the Aristotelian scholastic formal logic without, however, one-sidedly preferring the syllogism. His logical conception was focused on a revision of the standard forms by quantifying the predicates of judgements.
+Hamilton propagated a revival of the Aristotelian scholastic formal logic without, however, one-sidedly preferring the syllogism. His logical conception was focused on a revision of the standard forms by quantifying the predicates of judgments.
 
 The controversy about priority arose, when De Morgan, in a lecture “On the Structure of the Syllogism” given to the Cambridge Philosophical Society on 9th November 1846, also proposed quantifying predicates.
 
@@ -732,7 +732,7 @@ In the preface to the second edition of his Kritik der reinen Vernunft of 1787, 
 
 Referring to Kant, he maintained that from the fact that logic hadn’t changed since Aristotle one could infer that it needed a complete rebuilding. Hegel created a variant of logic as the foundational science of his philosophical system, defining it as “the science of the pure idea, i.e., the idea in the abstract element of reasoning”. Hegelian logic thus coincides with metaphysics.
 
-This was the situation when after Hegel’s death philosophical discussion on logic in Germany started. This discussion on logic reform stood under the label of “the logical question“, a term coined by the Neo-Aristotelian Adolf Trendelenburg. In 1842 he published “Zur Geschichte von Hegel”s Logick und dialektischer Methode” with the subtitle ºDie logische Frage in Hegel’s Systeme”. The logical question according to Trendelenburg was: “Is Hegel’s dialectical method of pure reasoning a scientific procedure?”. In answering this question in the negative, he provided the occasion of rethinking the status of formal logic within a theory of human knowledge without, however, proposing a return to the old (scholastic) formal logic. In consequence the term “the logical question” was subsequently used in a less specific way. Georg Leonard Rabus, the early chronicler of the discussion on logic reform, wrote that the logical question emerged from doubts concerning the justification of formal logic.
+This was the situation when after Hegel’s death philosophical discussion on logic in Germany started. This discussion on logic reform stood under the label of “the logical question“, a term coined by the Neo-Aristotelian Adolf Trendelenburg. In 1842 he published “Zur Geschichte von Hegel”s Logick und dialektischer Methode” with the subtitle “Die logische Frage in Hegel’s Systeme”. The logical question according to Trendelenburg was: “Is Hegel’s dialectical method of pure reasoning a scientific procedure?”. In answering this question in the negative, he provided the occasion of rethinking the status of formal logic within a theory of human knowledge without, however, proposing a return to the old (scholastic) formal logic. In consequence the term “the logical question” was subsequently used in a less specific way. Georg Leonard Rabus, the early chronicler of the discussion on logic reform, wrote that the logical question emerged from doubts concerning the justification of formal logic.
 
 Although this discussion was clearly connected to formal logic, the so-called reform did not concern formal logic. The reason was provided by the Neo-Kantian Wilhelm Windelband who wrote that the technique of correct thinking had been brought to perfection by Aristotelian philosophy.
 
