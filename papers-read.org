@@ -2031,7 +2031,29 @@ The principal constructivist trends in this century:
 
 ** 2.1 Finitist mathematics
 
+Finitism may be characterized as based on the concept of natural number (or finite, concretely representable structure), which is taken to entail the acceptance of proof by induction and definition by recursion.
+
+Abstract notions, such as ‘constructive proof’, ‘arbitrary number-theoretic function’ are rejected. Statements involving quantifiers are finitistically interpreted in terms of quantifier-free statements. Thus an existential statement thereExists(x, A(x)) is regarded as a partial communication, to be supplemented by providing an x which satisfies A. Establishing not(ForAll(x,A(x))) finitistically means: providing a particular x such that Ax is false.
+
+In this century, T. Skolem was the first to contribute substantially to finitist mathematics; he showed that a fair part of arithmetic could be developed in a calculus without bound variables, and with induciton over quantifier-free expressions only. Introduction of functions by primitive recursion is freely allowed. Skolem does not present his results in a ormal context, nor does he try to delimit precisely the extent of finitist reasoning.
+
+Since the idea of finitist reasoning was an essential ingredient in giving a precise formulation of Hilbert’s programme (the consistency proof for mathematics should use intuitivey justified means, namely finitist reasoning), Skolem’s work is extensively reported by D. Hilbert and P. Bernays. Hilbert also attempted to circumscribe the extent of finitist methods in a global way; the final result is found in ‘Die Grundlagen de Mathemtik’ written by Hilbert and Bernays.
+
+In 1941, Haskell Curry and R. L. Goodstein independently forumlated a purely equational calculus PRA for primitive recursive arithmetic in which Skolem’s arguments could be formalized, and showed that the addition of classical propositional logic to PRA is conservative (i.e. no new equations become provable). PRA contains symbols for all primitive recursive functions, with their defining equations, and an induction rule of the form: if t[0] = t'[0], and t[Sx] = s[x, t[x]], t'[Sx] = s[x, t'[x]] has been derived, then we may conclude t[x] = t'[x].
+
+Goodstein carried the development of finitist arithmetic beyond Skolem’s results, and also showed how to treat parts of analysis by finitist means.
+
+Recently W. W. Tait in Finitism (1981), made a new attempt to delimit the scope of finitist reasoning. He defends the thesis that PRA is indeed the limit of finitist reasoning. Any finitely axiomatized part of PRA can be recognized as finitist, but never all of PRA, since this would require us to accept the general notion of primitive recursive function, which is not finitist.
+
+In recent years there has been a lot of metamathematical owrk showing that large parts of mathematics have an indirect finitist justification, namely by results of the form: a weak system S in a language with strong expressive power is shown to be consistent by methods formalizable in PRA, from which it may bek concluded that S is conservative over PRA. A survey of such results is given in Partial realizations of Hilbert’s program (1988) by Stephen Simpson.
+
 ** 2.2 Actualism
+
+A remark made in various forms by many authors, from G. Mannoury in 1909 onwards, is the observation that already the natural number concept involves a strong idealization of the idea of ‘concretely representable’ or ‘visualizable’. Such an idealization is implicit in the assumption that all natural numbers are constructions of the same kind, whether we talk about very small numbers such as 3 or 5, or exteremely large ones such as 9 ^ (9 ^ 9). In reality, we cannot handle 9 ^ (9 ^ 9) without some understanding of the general concept of exponentiation. The objection to finitism, that it is not restricted to objects which can be actually realized (physically, or in our imagination) one might call the ‘actualist critique’, and a programme taking the actualist critique into account actualism/ultra-intuitionism/ultra-finitism.
+
+The first author to defend an actualist programme, was A. S. Esenin-Vol’pin in 1957. He intended to give a consistency proof for ZF using only ‘ultra-intuitionist’ means. Up till now the development of ‘actualist’ mathematics has not made much progress — there appear to be inherent difficulties associated with an actualist programme.
+
+However, mention should be made of Existence and feasibility in arithmetic (1971) by Rohit Parikh, motivated by the actualist criticism of finitism, where is indicated, by technical results, the considerable difference in character between addition and multiplication on the one hand and exponentiation on the other hand. Together with work in complexity theory, this paper has stimulated the research on polynomially bounded arithmetic, as an example of which may be quoted the monograph Bounded Arithmetic (1986) by Samuel Buss.
 
 ** 3. Predicativism and semi-intuitionism
 
