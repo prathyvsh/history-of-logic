@@ -2369,9 +2369,9 @@ Markov accepted one principle not accepted in either intuitionism or Bishop’s 
 
 MP not not (thereExists(x, fx = 0) → thereExists(x(fx = 0))) (f: N → N recursive)
 
-The theorem by Tseǐti, mentioned above, needs this principle for its proof.
+The theorem by Tseǐtin, mentioned above, needs this principle for its proof.
 
-The measure-theoretic paradox is resolved in constructive recursive mathematics in a satisfactor way: sigular coverings of [0, 1] do exist, but the sequence of partial sums summation(n=0, k) |I_n| does not converge, but is a Specker sequence; and if the sequence does convereg, the limit is >= 1, as shown by Tseĭtinand I.D.Zaslavskiĭ in 1962.
+The measure-theoretic paradox is resolved in constructive recursive mathematics in a satisfactor way: sigular coverings of [0, 1] do exist, but the sequence of partial sums summation(n=0, k) |I_n| does not converge, but is a Specker sequence; and if the sequence does convereg, the limit is >= 1, as shown by Tseĭtin and I.D.Zaslavskiĭ in 1962.
 
 After circa 1985 the number of contributions to constructive recursive mathematics has considerably decreased. Many researchers in constructive recursive mathematics have turned to more computer-science oriented topics.
 
@@ -2385,6 +2385,34 @@ In Bishop’s view, Brouwer successfully criticized classical mathematics, but h
 1. avoid concepts defined in a negative way
 2. avoid defining irrelevant concepts — that is to say, among the many possible classically equivalent, but constructively distinct definitions of a concept, choose the one or two which are mathematically fruitful ones, and disregard the others
 3. avoid pseudo-generality, that is to say, do not hesitate to introduce an extra assumption if it facilitates the theory and the examples one is interested in satisfy the assumption.
+
+Statements of Bishop’s constructive mathematics may be read intuitionistically without distortion; sequences are then to be regarded as given by a law, and accordingly, no continuity axioms nor bar induction are assumed.
+
+Statements of Bishop’s constructive mathematics may also be read by a Markov-constructivist without essential distortion; the algorithms are left implicit, and no use is made of a precise definition of algorithm.
+
+Thus Bishop’s constructive mathematics appears as a part of classical mathematics, intuitionistic mathematics, and constructive recursive mathematics.
+
+Bishop not only applied the three principles above, but also avoided negative results (only rarely did he present a weak counterexample), and concentrated almost exclusively on positive results.
+
+Two of the most prolific contributors to Bishop’s programme are F. Richman and D.E. Bridges. The topics treated cover large parts of analysis, including the theory of Banach spaces and measure theory, parts of algebra (e.g. abelian groups, Noetherian groups) and topology (e.g. dimension theory, the Jordan curve theorem).
+
+*** 8.2 The relation of Bishop’s Constructive Mathematics to Intuitionistic Mathematics and Constructive Recursive Mathematics
+The success of Bishop’s programme has left little scope for traditional intuitionistic mathematics; to some extent this is also true of Constructive Recursive Mathematics. For all of Bishop’s Constructive Mathematics may at the same time be regarded as a contribution to Intuitoinistic Mathematics; moreover, in many instance where in Intuitionistic mathematics a routine appeal would be made to a typical intuitionistic result, such as the uniform continuity theorem for functions defined on a closed bounded interval, the corresponding treatment in Bishop’s constructive mathematics would simply add an assumption of uniform continuity, for the relevant function, without essential loss in mathematical content. Thus to find socpe for specifically intuitionistic reasoning, one has to look for instance where the use of typically intuitionistic axioms such as the continuity axiom or the fan theorem results in a signficiantly better or more elegant result, and such cases appear to be comparatively rare.
+
+To some extent the above, mutatis mutandis, also applies to constructive recursive mathematics. Thus for example, the usefulnes of the beautiful Kreisel-Lacombe-Schoenfield-Tseǐtin theorem is limited by two factors:
+
+1) an appeal to the theorem can often be replaced by an assumption of continuity in the statement of the result to be proved
+2) in many cases, continuity without uniform continuity is not enough, as witnessed, e.g. by Kushner’s example of a continuous function on [0, 1] which is not integrable.
+
+In the literature contributing to Brouwer’s and Markov’s programem, a comparatively large place is taken by counterexamples and splitting of classical notions. This may be compared with periods in the development of classical analysis and topology in which there was also considerable attention given to ‘pathologies’. In this comparison, Bishop’s recursive mathematics exemplifies a later stage in constructivism.
+
+Finally, in classical mathematics there arise questions of constructivity of a type which has not been considered in the constructivist tradition. For example, one may attempt to find a bound on the number of solutions to a number-theoretic problem, without having a bound for the size of the solutions.
+
+Herbrand-Analysen zweir Beweise des Satzes von Roth: polynomiale Anzahlschranken (1989) - H. Luckhardt
+
+** Concluding remarks
+
+Recent development such as ‘linear logic’ by Girard may be seen as a refinement of intutionistic logic, obtained by pursuing the idea of a ‘bookkeeping of resources’ seriously.
 
 * On Process
 
