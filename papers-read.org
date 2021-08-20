@@ -2591,15 +2591,20 @@ Paul Raatikainen
 * Papers on Hilbert’s program
 
 ** [[https://cse.buffalo.edu/~rapaport/510/synthese-hilbertsprog.pdf][Hilbert’s Program Revisited (2003)]]
+
 Panu Raatikainen
 22 pages
 
 ** [[https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1521&context=jhm][From Solvability to Formal Decidability: Revisiting Hilbert’s Ignorabimus (2019)]]
+
 Andrea Reichenberger
+
 34 Pages
 
 ** [[https://www.cmu.edu/dietrich/philosophy/docs/tech-reports/78_Sieg.pdf][Hilbert’s Programs: 1917-1922 (1998)]]
+
 Wilfried Sieg
+
 39 pages
 
 Check if there is more content in the newer versions
@@ -2613,12 +2618,15 @@ Saul A. Kripke
 ** [[https://www1.maths.leeds.ac.uk/~rathjen/EHPanthology.pdf][The constructive Hilbert program and the limits of Martin-Löf type theory (2005)]]
 
 Michael Rathjen
+
 31 pages
 
 Technical with details on Martin-Löf’s work
 
 ** [[https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=osu1574777956439624&disposition=inline][From the Outside Looking In: Can mathematical certainty be secured without being mathematically certain that it has been? (2019)]]
+
 Matthew Souba
+
 260 pages
 
 Dissertation on Hilbert’s Program.
@@ -2628,11 +2636,13 @@ TODO: I have to research if there are other dissertations like this one.
 ** [[http://iml.univ-mrs.fr/~seiller/documents/projet/Giorgio2.pdf][The concept of axiom in Hilbert’s thought (2011)]]
 
 Giorgio Venturi
+
 27 pages
 
 ** [[http://people.scs.carleton.ca/~bertossi/talks/hilbTur08.pdf][From Hilbert to Turing and beyond …]]
 
-Leopoldo bertossi
+Leopoldo Bertossi
+
 Slideset
 
 ** [[http://www-personal.umich.edu/~twod/sof/assignments/chaitin.pdf][A Century of Controversy Over the Foundations of Mathematics (2000)]]
@@ -2650,20 +2660,29 @@ Leo Corry
 ** [[https://personal.us.es/josef/HLME.pdf][Hilbert, Logicism, and Mathematical Existence (2009)]]
 
 José Ferreirós
+
 41 pages
 
 ** [[https://www.scielo.br/j/man/a/X3x38kGy7CKp4rLj4mXTzYM/?format=pdf&lang=en][Hilbert Between the Formal and Informal Side of Mathematics (2015)]]
+
 Giorgio Venturi
+
 34 pages
 
 ** [[http://philsci-archive.pitt.edu/2547/1/hptn.pdf][Hilbert’s Program Now and Then (2005)]]
+
 Richard Zach
+
 43 Pages
 
 ** [[https://www.researchgate.net/publication/278908250_HILBERT_PROGRAM_60_YEARS_LATER][Hilbert’s Program 60 Years Later (1988)]]
+
 Wilfred Sieg
+
 12 pages
 
 ** [[http://www.personal.psu.edu/t20/papers/hilbert.pdf][Partial Realizations of Hilbert’s Program (1986)]]
+
 Stephen Simpson
+
 22 pages
