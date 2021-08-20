@@ -2664,6 +2664,6 @@ Richard Zach
 Wilfred Sieg
 12 pages
 
-** [[http://www.personal.psu.edu/t20/papers/hilbert.pdf[Partial Realizations of Hilbert’s Program (1986)]]
+** [[http://www.personal.psu.edu/t20/papers/hilbert.pdf][Partial Realizations of Hilbert’s Program (1986)]]
 Stephen Simpson
 22 pages
