@@ -2308,6 +2308,44 @@ Martin-Löf’s theories have also been considered in this connection.
 An intuitionistic theory of types: predicative part (1975) Martin-Löf
 Intuitionistic type theory (1984) Martin-Löf
 
+As shown by Aczel in 1978, one can interpret a constructive set theory CZF in a suitable version of Martin-Löf type theory. CZF does not have a powerset axiom; instead there are suitabe collection axiom which permit to derive the existence of the set of all functions from x to y for any two sets x and y; moreover the foundation axiom has beenreplaced by an axiom of ∈-induction. Much of this work is reported in the monograph Foundations of Constructive Mathematics (1985) by Beeson.
+
+*** 6.3 The model theory of intuitionistic analysis
+Topological models and Beth models turned out to be very fruitful for metamathematical study of intuitionistic analysis, type theory and set theory. Dana Scott was the first to give a topological model for intuitionistic analysis, in Extending the topological interpretation to intuitionistic analysis (1968) andExtending the topological interpretation to intuitionistic analysis II (1970). In this model the real numbers are represetned by the continuous functions over the topological space T underlying the model. For suitable T, all real-valued functions are continuous in Scott’s model.
+
+This later developed into the so-called sheaf models for intuitionistic analysis, type theory and set theory, with a peak of activity in the period 1977-1984. The inspiration for this developement not only came from Scott's model but also from category theory, where William Lawvere in his work (1971) developed the notion of elementary topos — a category with extra structure, in which set theory and type theory based on intuitionistic logic can be interpreted. The notion of elementary topos generalized the notion of Grothendieck topos known from algebraic geometry, and is in a sense ‘equivalent’ to the notion of an intuitionistic type theory.
+
+Even Kleene’s realizability interpretation can be extended to type theory and be recast as an interpretation of type theory in a special topos.
+
+The effective topos (1982) J.M.E Hyland
+
+Some models studied are mathematically interesting for example, analysis without an axiom of countable choice, where the reals defined by Dedekind cuts are not isomorphic to the reals defined via fundamental sequences of rationals.
+
+** 7 Constructive recursive mathematics
+
+*** 7.1 Classical recursive mathematics
+
+The function f_a(x) given by f_a(x) = f_0(x) + a where f_0 is given as {(0,-1), (1,0), (2,0), (3,1)}, cannot be constructively proved to have a zero as long as we do not know whether a <= 0 or a >= 0. But even classically we can show that f_a does not have a zero recursively in the parameter a - and this is typically a result of classical recursive mathematics.
+
+Where in constructive recursive mathematics the recursivity in parameters is built into the constructive reading of the logical operators, in RM the recursiveness has to be made explicity.
+
+Classical recursive mathematics is as old as recursion theory itself, since already Turing introduced “computable numbers” and it is still expanding today.
+
+E. Specker was the first to construct an example of a recursive bounded monotone sequence of rationals without a recursive limit. Such sequences are now known as Specker sequences.
+
+Kreisel and D. Lacombe constructed singular coverings of the interval in 1957; Kreisel, Lacombe and J. Shoenfield showed, also in 1957, that every effective operation of type 2 is continuous (an effective operation of type 2 is a partial recursive operation with code u say, acting on codes x, y of total recursive functions such that forAll(z, (x • z = y • z) → u • x = u • y)) continuity of u means that u • x depends on finitely many values only of the function coded by x.
+
+A. I. Maltsev and Y. L. Ershov developed mainly in the period 1961-1974 the theory of numerations as a systematic method to lift the notion of recursiveness from N to arbitrary countable structures.
+
+La théorie des énumérations  (1972) Ershov
+
+In 1974 G. Metakides and Anil Nerode gave the first applications of the powerful priority method from recursion theory to problems in algebra.
+
+Effective content of field theory (1979) Metakides and Nerode
+
+A recent striking result is the construction of a recursive ordinary differential equation without recursive solutions obtained by M. B. Pour-El and J. I Richards in 1979.
+
+Computability in analysis and physics (1989) Pour-El and Richards
 
 * On Process
 
