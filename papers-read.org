@@ -2347,6 +2347,45 @@ A recent striking result is the construction of a recursive ordinary differentia
 
 Computability in analysis and physics (1989) Pour-El and Richards
 
+*** 7.2 Constructive recursive mathematics
+
+A. A. Markov formulated in 1948—1949 the basic ideas of constructive recursive mathematics. They may be summarized as follows.
+
+1. objects of constructive mathematics are constructive objects, concretely: words in various alphabets.
+
+2. the abstraction of potential existence is admissible but the abstraction of actual infinity is not allowed. Potential realizability means for example, that we may regard plus as a well-defined operaiton for all natural numbers, since we know how to complete it for arbitrarily large numbers.
+
+3. a precise notion of algorithm is taken as a basis (Markov chose for this his own notion of ‘Markov-algorithm’)
+
+4. logically compound statements have to be interpreted so as to take the preceding points into account
+
+Not surprisingly classical recursive mathematics can be bodily lifted to CRM and vice versa. Sometimes parallel results were discovered almost simultaneously and independently in classical recursive mathematics and constructive recursive mathematics respectively. Thus the theorem by Kreisel, Lacombe and Schoenfield mentioned above is in the setting of constructive recursive mathematics a special case of a theorem proved by G. S. Tseǐtin in 1959: every function from a complete separable metric space into a separable metric space is continuous.
+
+N. A. Shanin in 1958 work formulated a “deciphering algorithm” which makes the constructive content of mathematical statements explicit. By this reinterpretation an arbitrary statement in the language of arithmetic is reformulated as a formula thereExists(x_1,…, x_iA) where A is normal, i.e. does not contain or, thereExists, and the string of existential quantifiers may be interpreted in the usual way. Shanin’s method is essentially equivalent to Kleene’s realizability, but has been formulated in such a way that normal formulas are unchanged by the interpretation (Kleene’s realizability produces a different although intuitionisticalyl equivalent formula when applied to a normal formula).
+
+The decihpering method systematically produces a constructive reading for notions defined in the language of arithmetic; classically equivalent definitions may obtain distinct interpretations by this method. But not all notions considered in CRM are obtained by applying the method to a definition in arithmetic (example: the ‘FR-numbers’ are the reals corresponding to the intuitionistic reals and are given by a code a for the fundamental sequence of rationals, together with a code b for a modulus of convergence, i.e. relative to a standard enumeration of the rationals <r_n>_n the sequence is <r_an>_n, and forAll(m,m'(|r_bn+m - r_bn+m'| < 2^-k)). An F-sequence is an FR-sequence with b omitted. The notion of an F-sequence does not arise as an application of the deciphering algorithm.)
+
+Markov accepted one principle not accepted in either intuitionism or Bishop’s constructivism: if it is impossible that computation by an algorithm does not terminate, then it does terminate. Logically this amounts to what is usually called Markov’s principle:
+
+MP not not (thereExists(x, fx = 0) → thereExists(x(fx = 0))) (f: N → N recursive)
+
+The theorem by Tseǐti, mentioned above, needs this principle for its proof.
+
+The measure-theoretic paradox is resolved in constructive recursive mathematics in a satisfactor way: sigular coverings of [0, 1] do exist, but the sequence of partial sums summation(n=0, k) |I_n| does not converge, but is a Specker sequence; and if the sequence does convereg, the limit is >= 1, as shown by Tseĭtinand I.D.Zaslavskiĭ in 1962.
+
+After circa 1985 the number of contributions to constructive recursive mathematics has considerably decreased. Many researchers in constructive recursive mathematics have turned to more computer-science oriented topics.
+
+** 8 Bishop’s constructivism
+
+*** Bishop’s constructive mathematics
+In his book ‘Foundations of constructive mathematics’ the American mathematician E. Bishop launched his programme for constructive mathematics. Bishop’s attitude is both ideological and pragmatical: ideological, inasmuch he insists that we should strike for a type of mathematics in which every statement has empirical content, and pragmatical in the actual road he takes towards this goal.
+
+In Bishop’s view, Brouwer successfully criticized classical mathematics, but had gone astray in carrying out his programme, by introducing dubious concepts such as choice sequences, and wasting much time over the splitting of classical concepts into many non-equivalent ones, instead of concentrating on the mathematically relevant version of these concepts. In carrying out his programme, Bishop is guided by three principles:
+
+1. avoid concepts defined in a negative way
+2. avoid defining irrelevant concepts — that is to say, among the many possible classically equivalent, but constructively distinct definitions of a concept, choose the one or two which are mathematically fruitful ones, and disregard the others
+3. avoid pseudo-generality, that is to say, do not hesitate to introduce an extra assumption if it facilitates the theory and the examples one is interested in satisfy the assumption.
+
 * On Process
 
 ** Conceptual Roots of Mathematics
