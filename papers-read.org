@@ -2593,6 +2593,7 @@ Paul Raatikainen
 ** [[https://cse.buffalo.edu/~rapaport/510/synthese-hilbertsprog.pdf][Hilbert’s Program Revisited (2003)]]
 
 Panu Raatikainen
+
 22 pages
 
 ** [[https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1521&context=jhm][From Solvability to Formal Decidability: Revisiting Hilbert’s Ignorabimus (2019)]]
