@@ -2585,6 +2585,9 @@ Gualtiero Piccinini (2004)
 ** [[http://virthost.vub.ac.be/lnaweb/ojs/index.php/LogiqueEtAnalyse/article/view/1578/1339][Leibniz’s and Kant’s Philosophical Ideas and the Development of Hilbert’s Programme]]
 Roman Murawski (2002)
 
+** [[https://philpapers.org/archive/RAAOTP.pdf][On the Philosophical Relevance of Gödel’s Incompleteness Theorems (2005)]]
+Paul Raatikainen
+
 * Papers on Hilbert’s program
 
 ** [[https://cse.buffalo.edu/~rapaport/510/synthese-hilbertsprog.pdf][Hilbert’s Program Revisited (2003)]]
@@ -2601,7 +2604,7 @@ Wilfried Sieg
 
 Check if there is more content in the newer versions
 
-** [[https://arxiv.org/ftp/arxiv/papers/2102/2102.08346.pdf][The Collapse of the Hilbert Program: Ak Variation on the Gödelian Theme (2008)]]
+** [[https://arxiv.org/ftp/arxiv/papers/2102/2102.08346.pdf][The Collapse of the Hilbert Program: A Variation on the Gödelian Theme (2008)]]
 
 Saul A. Kripke
 
@@ -2614,7 +2617,7 @@ Michael Rathjen
 
 Technical with details on Martin-Löf’s work
 
-** [[https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=osu1574777956439624&disposition=inline][From the Outside Looking In: Can mathematical certainty be secured witohut being mathematically certain that it has been? (2019)]]
+** [[https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=osu1574777956439624&disposition=inline][From the Outside Looking In: Can mathematical certainty be secured without being mathematically certain that it has been? (2019)]]
 Matthew Souba
 260 pages
 
@@ -2653,4 +2656,14 @@ José Ferreirós
 Giorgio Venturi
 34 pages
 
-** [[][]]
+** [[http://philsci-archive.pitt.edu/2547/1/hptn.pdf][Hilbert’s Program Now and Then (2005)]]
+Richard Zach
+43 Pages
+
+** [[https://www.researchgate.net/publication/278908250_HILBERT_PROGRAM_60_YEARS_LATER][Hilbert’s Program 60 Years Later (1988)]]
+Wilfred Sieg
+12 pages
+
+** [[http://www.personal.psu.edu/t20/papers/hilbert.pdf[Partial Realizations of Hilbert’s Program (1986)]]
+Stephen Simpson
+22 pages
