@@ -2007,6 +2007,8 @@ Many frameworks for specifying algorithms have been and are being proposed by co
 
 A. S. Troelstra (1991)
 
+Read 20 August 2021
+
 ** Introduction
 
 More space devoted to developments till 1965
@@ -2414,6 +2416,14 @@ Herbrand-Analysen zweir Beweise des Satzes von Roth: polynomiale Anzahlschranken
 
 Recent development such as ‘linear logic’ by Girard may be seen as a refinement of intutionistic logic, obtained by pursuing the idea of a ‘bookkeeping of resources’ seriously.
 
+** [[http://www-personal.umich.edu/~twod/sof/assignments/chaitin.pdf][A Century of Controversy Over the Foundations of Mathematics (2000)]]
+
+Gregory J. Chaitin
+
+10 pages
+
+Read 21 August 2021
+
 * On Process
 
 ** Conceptual Roots of Mathematics
@@ -2645,12 +2655,6 @@ Giorgio Venturi
 Leopoldo Bertossi
 
 Slideset
-
-** [[http://www-personal.umich.edu/~twod/sof/assignments/chaitin.pdf][A Century of Controversy Over the Foundations of Mathematics (2000)]]
-
-Gregory J. Chaitin
-
-10 pages
 
 ** [[https://www.tau.ac.il/~corry/publications/articles/pdf/Hilbert%20Kluwer.pdf][The Origin of Hilbert’s Axiomatic Method (2006)]]
 
