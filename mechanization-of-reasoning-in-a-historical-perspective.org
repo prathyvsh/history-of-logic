@@ -1,0 +1,10 @@
+* Mechanization of Reasoning in a Historical Perspective
+
+Started reading:
+21 August 21 8:19 pm IST
+
+The idea of formalization of reasoning starts from the middle ages and reached its maturity in modern logic that is in Frege → Peano → Russell and Whitehead → Hubert → Lukasiewicz → Gödel → Tarski → Jaśkowski → Leśniewski etc.
+
+Elimination of quantifiers results in reducing whole of logic into binary algebra.
+
+Formalization of logic effectively resulted in us pursuing inquiry into the nature of intelligence by providing us a suitable base.
