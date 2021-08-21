@@ -8,3 +8,24 @@ The idea of formalization of reasoning starts from the middle ages and reached i
 Elimination of quantifiers results in reducing whole of logic into binary algebra.
 
 Formalization of logic effectively resulted in us pursuing inquiry into the nature of intelligence by providing us a suitable base.
+
+Reasoning stands for deduction in this volume.
+
+A thinking machine is an information-processing system that has a hardware component, the processing being aimed at growth of information; Information processing is found in a continuous interplay with data processing, the former being construed as operating on abstract objects (numbers, propositions, etc.), the latter as operating on physical tokes (e.g., numerals produced with ink, or by magnetization of some spots, etc.) which represent pieces of information.
+
+Logic is the theory which deals with a special kind of information processing, namely that which preserves the truth of information.
+
+Two sense of mechanization:
+
+1/ Mechanization as synonymous with formalization. Formalization as in Post production systems, where you can deduce theorems through syntactic manipulations
+2/ Mechanization in the narrow sense that there exists a device and a software to operate on it in order to process sentences (syntactically defined string of tokens) according to an algorithm involved in the given formalization.
+
+Formalization or mechanization in the sense of 2/ consists in using a device and a mapping to this device of an abstract machine.
+
+The work of Shannon in interpreting circuits as performing boolean logic allowed for the method of reducing predicate logic to propositional logic due to Skolem, Hubert, and others which enabled the use of binary digital circuitry for mechanizing proofs in predicate logic.
+
+One more significant step in this direction is the cut-free formalisms of Herbrand and Gentzen of the predicate-calculus. The cut is a schema representing a number of inference rules, one of them being the familiar modus ponendo ponens, whose use in a proof requires some ingenuity on the side of the reasoner to identify the premises from which the conclusion is being cut must be found.
+
+On the other hand, in a proof produced with the cut-free formalism, each step is determined by the syntactic structure of the formula processed, hence the need for intervention is extremely reduced, and the whole procedure becomes fairly mechanical.
+
+Gentzen demonstrated that any proof involving the cut rule can be transformed into a proof in which the cut does not appear, and this implies availability of a mechanical procedure for any proof formalized in predicate logic.
