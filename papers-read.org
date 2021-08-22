@@ -329,7 +329,7 @@ The theory of types stratifies expressions in a hierarchical order so that eleme
 
 Type theory is said to have the burden of having to recognize a separate definition for truth at each type level and the inability to define a number as the set of all similar (2 membered, 3 membered etc.) sets. They resolve this by using symbols that are ‘systematically ambiguous’ between types.
 
-Russell and Whitehead did succed in deriving a significant portion of mathematics from their principles: a comprehensive theory of relations and order, Cantor’s set theory, and a large portion of (finite and transfinite) arithmetic.
+Russell and Whitehead did succeed in deriving a significant portion of mathematics from their principles: a comprehensive theory of relations and order, Cantor’s set theory, and a large portion of (finite and transfinite) arithmetic.
 
 Principia was meant to be a kind of Lingua Universalis, a canonical language pure enough to permit construction of disciplined discourse on the skeleton it provided.
 
@@ -2246,15 +2246,15 @@ As already remarked, the continuum presented a problem to the semi-intuitionists
 
 However, when Brouwer stared circa 1913 with his intuitionistic reconstruction of the theory of the continuum and the theory of pointsets, he found that the notion of choice sequence, appearing in Borel’s discussion of the axiom of choice (as the opposite, so to speak, of a sequence defined in finitely many words, and therefore in Borel’s view of a dubious character) could be regarded as a legitimate intuitionistic notion, and as a means of retaining the advantages of an arithmetic theory of the continuum.
 
-In Brouwer’s intuitionistic set theory the dominating concept is that of a spread (German: ‘Menge’). Slightly simplifying Brouwer’s oriiginal definition, we say that a spread consists essentially of a tree of finite sequences of natural numbers, such that every sequence has at least one successor, plus a law L assigning objects of a previously constructed domain to the nodes of the tree. Choice sequences within a given spread correspond to the infinite branches of the tree. Brouwer calls a sequence L(a̅1), L(a̅2), L(a̅3), …, (a̅ as infinite branch) an element of the spread. Below we shall use ‘spread’ only for trees of finite sequences of natural numbers wihout finite branches, corresponding to the trivial L satisfying L(a̅(n+1)) = an. Since it is not the definition of a spread, but the way the choice sequences are given to us, which determines the properties of the continuum, we shall henceforth concentrate on the choice sequences.
+In Brouwer’s intuitionistic set theory the dominating concept is that of a spread (German: ‘Menge’). Slightly simplifying Brouwer’s original definition, we say that a spread consists essentially of a tree of finite sequences of natural numbers, such that every sequence has at least one successor, plus a law L assigning objects of a previously constructed domain to the nodes of the tree. Choice sequences within a given spread correspond to the infinite branches of the tree. Brouwer calls a sequence L(a̅1), L(a̅2), L(a̅3), …, (a̅ as infinite branch) an element of the spread. Below we shall use ‘spread’ only for trees of finite sequences of natural numbers without finite branches, corresponding to the trivial L satisfying L(a̅(n+1)) = an. Since it is not the definition of a spread, but the way the choice sequences are given to us, which determines the properties of the continuum, we shall henceforth concentrate on the choice sequences.
 
-the notion of spread is supplemented by the notion of species, much closer to the classical concept of set; one may think of a species as set of elements single out from a previously constructed totality by a propert (as in the separation axiom of classical set theory).
+the notion of spread is supplemented by the notion of species, much closer to the classical concept of set; one may think of a species as set of elements single out from a previously constructed totality by a property (as in the separation axiom of classical set theory).
 
-The admissibility of impredicative definitions is not explicitly discussed in Brouwer’s writings, though it is unilkely that he would have accepted impredicative definitions without restrictions.
+The admissibility of impredicative definitions is not explicitly discussed in Brouwer’s writings, though it is unlikely that he would have accepted impredicative definitions without restrictions.
 
 One the other hand, his methods allow more than just predicative sets over N: Brouwer’s introduction of ordinals in intuitionistic mathematics is an example of a set introduced by a so-called generalized inductive definition, which cannot be obtained as a set defined predicatively relative to N.
 
-A choice sequence a of natural numbers may be viewed as an unfinished, ongoing process of choosing values a0, a1, a2, … by the ideal mathematicain; at any stage of his activity the mathematician has determined only finitely many values plus, possibly, some restriction on future choices (the restriction may vary from ‘no retrictions’ to ‘choices henceforth completely determined by a law’). For sequences completely determined by a law or recipe we shall use lawlike; other mathematical objects not depending on choice parameters are also called lawlike. An important principle concerning choice sequences is the:
+A choice sequence a of natural numbers may be viewed as an unfinished, ongoing process of choosing values a0, a1, a2, … by the ideal mathematicians; at any stage of his activity the mathematician has determined only finitely many values plus, possibly, some restriction on future choices (the restriction may vary from ‘no restrictions’ to ‘choices henceforth completely determined by a law’). For sequences completely determined by a law or recipe we shall use lawlike; other mathematical objects not depending on choice parameters are also called lawlike. An important principle concerning choice sequences is the:
 
 Continuity principle or continuity axiom. If to every choice sequence a of a spread a number n(a) is assigned, n(a) depends on an initial segment a̅m = a0, a1, …, a(m-1) only, that is to say for all choice sequences b starting with the same segment a̅m, n(b) = n(a).
 
@@ -2264,22 +2264,22 @@ If to every choice sequence a of a finitely branching spread (fan) a number n(a)
 
 The fan theorem can be seen as a combination of the compactness of finite trees with the continuity axiom; Brouwer uses the fan theorem to derive the uniform continuity theorem: Every function from a bounded closed interval into R is uniformly continuous.
 
-Bar theorem: If the universal spread (i.e. the tree of all sequences of natural numbers) contains a decidable set A of nodes such that each choice sequence a has an initial segement in A, then for the set of nodes generated by i) x subsetOf A ii) if all successors of a node n are in X, then n elementOf X, it follows that the empty sequence is in X.
+Bar theorem: If the universal spread (i.e. the tree of all sequences of natural numbers) contains a decidable set A of nodes such that each choice sequence a has an initial segment in A, then for the set of nodes generated by i) x subsetOf A ii) if all successors of a node n are in X, then n elementOf X, it follows that the empty sequence is in X.
 
-Originally, in Brouwer’s 1919 work Begründung der Mengenlehre unabhängig vom logischen Satz vom augeschlossenen Dritten II: Theorie der Punktmengen, the fan theorem was assumed witthout proof. In 1923 Brouwer presented an unsatisfactory proof of the uniform continuity theorem, in 1924 he proved this theorem via the fan theorem which in its turn is obtained from the bar theorem.
+Originally, in Brouwer’s 1919 work Begründung der Mengenlehre unabhängig vom logischen Satz vom augeschlossenen Dritten II: Theorie der Punktmengen, the fan theorem was assumed without proof. In 1923 Brouwer presented an unsatisfactory proof of the uniform continuity theorem, in 1924 he proved this theorem via the fan theorem which in its turn is obtained from the bar theorem.
 
 Brouwer’s proof of the bar theorem has often been regarded as obscure. In this proof Brouwer analyzes the possible forms of a constructive proof of a statement of the form forAll(a, thereExists(n, A(a̅n))) for decidable A.
 
-Nowadays the proof is regarded not so much obscure as well as unsatisfactor. As Kleene and Vesley in their 1965 work The Foundations of Intuitionistic Mathematics, especially in Relation to Recursive Functions observes, Brouwer’s assumption concerning the form of ‘fully analyzed proofs’ is not more evident than the bar theorem itself.
+Nowadays the proof is regarded not so much obscure as well as unsatisfactory. As Kleene and Vesley in their 1965 work The Foundations of Intuitionistic Mathematics, especially in Relation to Recursive Functions observes, Brouwer’s assumption concerning the form of ‘fully analyzed proofs’ is not more evident than the bar theorem itself.
 
 The fully analyzed proof or canonical proof was used later by Micheal Dummet in his 1977 work Elements of Intuitionism in his attempts to give a more satisfactory version of the BHK interpretation of intuitionistic logic.
 
 *** 6.2 Axiomatization of intuitionistic analysis
 In Heyting’s third formalization paper from 1930, Sitzungsberichte der Preussischen Akademio von Wissenschaften, Physikalicsh Mathematische Klaase we find for the first time a formal statement of the continuity principle.
 
-For a long time, nothing happened until Kleene worked on the axiomatization of intuitionisic analysis. Kleene based his system on a language with variables for numbers and choice sequences; to arithmetical axioms he added an axiom of countable choice, the axiom of bar induction (equivalent to the bar theorem) and a continuity axiom, a strengthening of the continuity principle.
+For a long time, nothing happened until Kleene worked on the axiomatization of intuitionistic analysis. Kleene based his system on a language with variables for numbers and choice sequences; to arithmetical axioms he added an axiom of countable choice, the axiom of bar induction (equivalent to the bar theorem) and a continuity axiom, a strengthening of the continuity principle.
 
-The continuity axiom was the only non-classical principle, and Kleene established its consistency relative to other axioms using a realizabilility interpretation (function-realizability). He also showed, by means of another realizability notion that Markov’s principle was not derivable in his system.
+The continuity axiom was the only non-classical principle, and Kleene established its consistency relative to other axioms using a realizability interpretation (function-realizability). He also showed, by means of another realizability notion that Markov’s principle was not derivable in his system.
 
 In 1963 Kreisel developed an axiomatization based on a language with number variables and two kinds of function variables, for lawlike sequences and for choice sequences. He sketched a proof of the conservativity of the axioms for choice sequences relative to the lawlike part of the system, by means of a translation of an arbitrary sequence into the lawlike part of the theory (the ‘elimination translation’). This work resulted in Formal systems for some branches of intuitionistic analysis (1970) by Kreisel and Troelstra.
 
@@ -2293,7 +2293,7 @@ An obvious connection between Kripke’s scheme and the theory of the creative s
 
 Brouwer appears to have vacillated with respect to the precise form which restrictions on choice sequences could take, but in his published writings he does not explicitly consider subdomains of the universe of choice sequences which are characterized by the class of restrictions allowed, except for the trivial example of the lawlike sequences.
 
-In 1958 work A remark on free choice sequences and the topological completeness proofs, Kreisel considered ‘absolutely free’ (nowadays lawless) sequences ranging over a finitely braching tree, where at any stage int he construction of the sequence no restriction on future choice is allowed; later this was extended to an axiomatization LS of the theory of lawless sequences ranging over the universal tree. Lawless sequences are of interest because of their conceptual simplicity (when compared to other concepts of choice sequences), as a tool for studying other notions of choice sequence and because they provide a link between Beth-validity and intuitive intuitionistic validity.
+In 1958 work A remark on free choice sequences and the topological completeness proofs, Kreisel considered ‘absolutely free’ (nowadays lawless) sequences ranging over a finitely branching tree, where at any stage int he construction of the sequence no restriction on future choice is allowed; later this was extended to an axiomatization LS of the theory of lawless sequences ranging over the universal tree. Lawless sequences are of interest because of their conceptual simplicity (when compared to other concepts of choice sequences), as a tool for studying other notions of choice sequence and because they provide a link between Beth-validity and intuitive intuitionistic validity.
 
 As a result of the work of Kreisel, Myhill, and Troelstra, mainly over the period 1963-1980, it became clear that many different notions of choice sequences may be distinguished, with different properties.
 
@@ -2310,12 +2310,12 @@ Martin-Löf’s theories have also been considered in this connection.
 An intuitionistic theory of types: predicative part (1975) Martin-Löf
 Intuitionistic type theory (1984) Martin-Löf
 
-As shown by Aczel in 1978, one can interpret a constructive set theory CZF in a suitable version of Martin-Löf type theory. CZF does not have a powerset axiom; instead there are suitabe collection axiom which permit to derive the existence of the set of all functions from x to y for any two sets x and y; moreover the foundation axiom has beenreplaced by an axiom of ∈-induction. Much of this work is reported in the monograph Foundations of Constructive Mathematics (1985) by Beeson.
+As shown by Aczel in 1978, one can interpret a constructive set theory CZF in a suitable version of Martin-Löf type theory. CZF does not have a powerset axiom; instead there are suitable collection axiom which permit to derive the existence of the set of all functions from x to y for any two sets x and y; moreover the foundation axiom has been replaced by an axiom of ∈-induction. Much of this work is reported in the monograph Foundations of Constructive Mathematics (1985) by Beeson.
 
 *** 6.3 The model theory of intuitionistic analysis
-Topological models and Beth models turned out to be very fruitful for metamathematical study of intuitionistic analysis, type theory and set theory. Dana Scott was the first to give a topological model for intuitionistic analysis, in Extending the topological interpretation to intuitionistic analysis (1968) andExtending the topological interpretation to intuitionistic analysis II (1970). In this model the real numbers are represetned by the continuous functions over the topological space T underlying the model. For suitable T, all real-valued functions are continuous in Scott’s model.
+Topological models and Beth models turned out to be very fruitful for metamathematical study of intuitionistic analysis, type theory and set theory. Dana Scott was the first to give a topological model for intuitionistic analysis, in Extending the topological interpretation to intuitionistic analysis (1968) andExtending the topological interpretation to intuitionistic analysis II (1970). In this model the real numbers are represented by the continuous functions over the topological space T underlying the model. For suitable T, all real-valued functions are continuous in Scott’s model.
 
-This later developed into the so-called sheaf models for intuitionistic analysis, type theory and set theory, with a peak of activity in the period 1977-1984. The inspiration for this developement not only came from Scott's model but also from category theory, where William Lawvere in his work (1971) developed the notion of elementary topos — a category with extra structure, in which set theory and type theory based on intuitionistic logic can be interpreted. The notion of elementary topos generalized the notion of Grothendieck topos known from algebraic geometry, and is in a sense ‘equivalent’ to the notion of an intuitionistic type theory.
+This later developed into the so-called sheaf models for intuitionistic analysis, type theory and set theory, with a peak of activity in the period 1977-1984. The inspiration for this development not only came from Scott's model but also from category theory, where William Lawvere in his work (1971) developed the notion of elementary topos — a category with extra structure, in which set theory and type theory based on intuitionistic logic can be interpreted. The notion of elementary topos generalized the notion of Grothendieck topos known from algebraic geometry, and is in a sense ‘equivalent’ to the notion of an intuitionistic type theory.
 
 Even Kleene’s realizability interpretation can be extended to type theory and be recast as an interpretation of type theory in a special topos.
 
@@ -2329,7 +2329,7 @@ Some models studied are mathematically interesting for example, analysis without
 
 The function f_a(x) given by f_a(x) = f_0(x) + a where f_0 is given as {(0,-1), (1,0), (2,0), (3,1)}, cannot be constructively proved to have a zero as long as we do not know whether a <= 0 or a >= 0. But even classically we can show that f_a does not have a zero recursively in the parameter a - and this is typically a result of classical recursive mathematics.
 
-Where in constructive recursive mathematics the recursivity in parameters is built into the constructive reading of the logical operators, in RM the recursiveness has to be made explicity.
+Where in constructive recursive mathematics the recursivity in parameters is built into the constructive reading of the logical operators, in RM the recursiveness has to be made explicitly.
 
 Classical recursive mathematics is as old as recursion theory itself, since already Turing introduced “computable numbers” and it is still expanding today.
 
@@ -2355,7 +2355,7 @@ A. A. Markov formulated in 1948—1949 the basic ideas of constructive recursive
 
 1. objects of constructive mathematics are constructive objects, concretely: words in various alphabets.
 
-2. the abstraction of potential existence is admissible but the abstraction of actual infinity is not allowed. Potential realizability means for example, that we may regard plus as a well-defined operaiton for all natural numbers, since we know how to complete it for arbitrarily large numbers.
+2. the abstraction of potential existence is admissible but the abstraction of actual infinity is not allowed. Potential realizability means for example, that we may regard plus as a well-defined operation for all natural numbers, since we know how to complete it for arbitrarily large numbers.
 
 3. a precise notion of algorithm is taken as a basis (Markov chose for this his own notion of ‘Markov-algorithm’)
 
@@ -2363,9 +2363,9 @@ A. A. Markov formulated in 1948—1949 the basic ideas of constructive recursive
 
 Not surprisingly classical recursive mathematics can be bodily lifted to CRM and vice versa. Sometimes parallel results were discovered almost simultaneously and independently in classical recursive mathematics and constructive recursive mathematics respectively. Thus the theorem by Kreisel, Lacombe and Schoenfield mentioned above is in the setting of constructive recursive mathematics a special case of a theorem proved by G. S. Tseǐtin in 1959: every function from a complete separable metric space into a separable metric space is continuous.
 
-N. A. Shanin in 1958 work formulated a “deciphering algorithm” which makes the constructive content of mathematical statements explicit. By this reinterpretation an arbitrary statement in the language of arithmetic is reformulated as a formula thereExists(x_1,…, x_iA) where A is normal, i.e. does not contain or, thereExists, and the string of existential quantifiers may be interpreted in the usual way. Shanin’s method is essentially equivalent to Kleene’s realizability, but has been formulated in such a way that normal formulas are unchanged by the interpretation (Kleene’s realizability produces a different although intuitionisticalyl equivalent formula when applied to a normal formula).
+N. A. Shanin in 1958 work formulated a “deciphering algorithm” which makes the constructive content of mathematical statements explicit. By this reinterpretation an arbitrary statement in the language of arithmetic is reformulated as a formula thereExists(x_1,…, x_iA) where A is normal, i.e. does not contain or, thereExists, and the string of existential quantifiers may be interpreted in the usual way. Shanin’s method is essentially equivalent to Kleene’s realizability, but has been formulated in such a way that normal formulas are unchanged by the interpretation (Kleene’s realizability produces a different although intuitionistically equivalent formula when applied to a normal formula).
 
-The decihpering method systematically produces a constructive reading for notions defined in the language of arithmetic; classically equivalent definitions may obtain distinct interpretations by this method. But not all notions considered in CRM are obtained by applying the method to a definition in arithmetic (example: the ‘FR-numbers’ are the reals corresponding to the intuitionistic reals and are given by a code a for the fundamental sequence of rationals, together with a code b for a modulus of convergence, i.e. relative to a standard enumeration of the rationals <r_n>_n the sequence is <r_an>_n, and forAll(m,m'(|r_bn+m - r_bn+m'| < 2^-k)). An F-sequence is an FR-sequence with b omitted. The notion of an F-sequence does not arise as an application of the deciphering algorithm.)
+The deciphering method systematically produces a constructive reading for notions defined in the language of arithmetic; classically equivalent definitions may obtain distinct interpretations by this method. But not all notions considered in CRM are obtained by applying the method to a definition in arithmetic (example: the ‘FR-numbers’ are the reals corresponding to the intuitionistic reals and are given by a code a for the fundamental sequence of rationals, together with a code b for a modulus of convergence, i.e. relative to a standard enumeration of the rationals <r_n>_n the sequence is <r_an>_n, and forAll(m,m'(|r_bn+m - r_bn+m'| < 2^-k)). An F-sequence is an FR-sequence with b omitted. The notion of an F-sequence does not arise as an application of the deciphering algorithm.)
 
 Markov accepted one principle not accepted in either intuitionism or Bishop’s constructivism: if it is impossible that computation by an algorithm does not terminate, then it does terminate. Logically this amounts to what is usually called Markov’s principle:
 
@@ -2373,7 +2373,7 @@ MP not not (thereExists(x, fx = 0) → thereExists(x(fx = 0))) (f: N → N recur
 
 The theorem by Tseǐtin, mentioned above, needs this principle for its proof.
 
-The measure-theoretic paradox is resolved in constructive recursive mathematics in a satisfactor way: sigular coverings of [0, 1] do exist, but the sequence of partial sums summation(n=0, k) |I_n| does not converge, but is a Specker sequence; and if the sequence does convereg, the limit is >= 1, as shown by Tseĭtin and I.D.Zaslavskiĭ in 1962.
+The measure-theoretic paradox is resolved in constructive recursive mathematics in a satisfactory way: singular coverings of [0, 1] do exist, but the sequence of partial sums summation(n=0, k) |I_n| does not converge, but is a Specker sequence; and if the sequence does converge, the limit is >= 1, as shown by Tseĭtin and I.D.Zaslavskiĭ in 1962.
 
 After circa 1985 the number of contributions to constructive recursive mathematics has considerably decreased. Many researchers in constructive recursive mathematics have turned to more computer-science oriented topics.
 
@@ -2399,14 +2399,14 @@ Bishop not only applied the three principles above, but also avoided negative re
 Two of the most prolific contributors to Bishop’s programme are F. Richman and D.E. Bridges. The topics treated cover large parts of analysis, including the theory of Banach spaces and measure theory, parts of algebra (e.g. abelian groups, Noetherian groups) and topology (e.g. dimension theory, the Jordan curve theorem).
 
 *** 8.2 The relation of Bishop’s Constructive Mathematics to Intuitionistic Mathematics and Constructive Recursive Mathematics
-The success of Bishop’s programme has left little scope for traditional intuitionistic mathematics; to some extent this is also true of Constructive Recursive Mathematics. For all of Bishop’s Constructive Mathematics may at the same time be regarded as a contribution to Intuitoinistic Mathematics; moreover, in many instance where in Intuitionistic mathematics a routine appeal would be made to a typical intuitionistic result, such as the uniform continuity theorem for functions defined on a closed bounded interval, the corresponding treatment in Bishop’s constructive mathematics would simply add an assumption of uniform continuity, for the relevant function, without essential loss in mathematical content. Thus to find socpe for specifically intuitionistic reasoning, one has to look for instance where the use of typically intuitionistic axioms such as the continuity axiom or the fan theorem results in a signficiantly better or more elegant result, and such cases appear to be comparatively rare.
+The success of Bishop’s programme has left little scope for traditional intuitionistic mathematics; to some extent this is also true of Constructive Recursive Mathematics. For all of Bishop’s Constructive Mathematics may at the same time be regarded as a contribution to Intuitionistic Mathematics; moreover, in many instance where in Intuitionistic mathematics a routine appeal would be made to a typical intuitionistic result, such as the uniform continuity theorem for functions defined on a closed bounded interval, the corresponding treatment in Bishop’s constructive mathematics would simply add an assumption of uniform continuity, for the relevant function, without essential loss in mathematical content. Thus to find scope for specifically intuitionistic reasoning, one has to look for instance where the use of typically intuitionistic axioms such as the continuity axiom or the fan theorem results in a significantly better or more elegant result, and such cases appear to be comparatively rare.
 
-To some extent the above, mutatis mutandis, also applies to constructive recursive mathematics. Thus for example, the usefulnes of the beautiful Kreisel-Lacombe-Schoenfield-Tseǐtin theorem is limited by two factors:
+To some extent the above, mutatis mutandis, also applies to constructive recursive mathematics. Thus for example, the usefulness of the beautiful Kreisel-Lacombe-Schoenfield-Tseǐtin theorem is limited by two factors:
 
 1) an appeal to the theorem can often be replaced by an assumption of continuity in the statement of the result to be proved
 2) in many cases, continuity without uniform continuity is not enough, as witnessed, e.g. by Kushner’s example of a continuous function on [0, 1] which is not integrable.
 
-In the literature contributing to Brouwer’s and Markov’s programem, a comparatively large place is taken by counterexamples and splitting of classical notions. This may be compared with periods in the development of classical analysis and topology in which there was also considerable attention given to ‘pathologies’. In this comparison, Bishop’s recursive mathematics exemplifies a later stage in constructivism.
+In the literature contributing to Brouwer’s and Markov’s programme, a comparatively large place is taken by counterexamples and splitting of classical notions. This may be compared with periods in the development of classical analysis and topology in which there was also considerable attention given to ‘pathologies’. In this comparison, Bishop’s recursive mathematics exemplifies a later stage in constructivism.
 
 Finally, in classical mathematics there arise questions of constructivity of a type which has not been considered in the constructivist tradition. For example, one may attempt to find a bound on the number of solutions to a number-theoretic problem, without having a bound for the size of the solutions.
 
@@ -2414,7 +2414,7 @@ Herbrand-Analysen zweir Beweise des Satzes von Roth: polynomiale Anzahlschranken
 
 ** Concluding remarks
 
-Recent development such as ‘linear logic’ by Girard may be seen as a refinement of intutionistic logic, obtained by pursuing the idea of a ‘bookkeeping of resources’ seriously.
+Recent development such as ‘linear logic’ by Girard may be seen as a refinement of intuitionistic logic, obtained by pursuing the idea of a ‘bookkeeping of resources’ seriously.
 
 ** [[http://www-personal.umich.edu/~twod/sof/assignments/chaitin.pdf][A Century of Controversy Over the Foundations of Mathematics (2000)]]
 
@@ -2423,6 +2423,35 @@ Gregory J. Chaitin
 10 pages
 
 Read 21 August 2021
+
+** [[https://cse.buffalo.edu/~rapaport/510/synthese-hilbertsprog.pdf][Hilbert’s Program Revisited (2003)]]
+Panu Raatikainen
+22 pages
+
+Read
+
+Revival of interest in the Hilbert’s program.
+
+There are some systematic interpretations of Hilbert’s program which argue in various ways that there is a sound core in the program which was not affected by Gödel’s results.
+
+The roots of Hilbert’s program go back to the foundational debates in the 19th century, especially to Kroenecker’s attack on Cantorian set theory and the abstract analysis juts developed. This debate affected Hilbert permanently.
+
+Hilbert’s own thought went through various important changes, and it would be an error to simply equate Hilbert’s views in, say, 1900, and his mature program, which was formulated only in the early 1920s.
+
+** 1. An outline of Hilbert’s program
+
+*** 1.1 The Skeptical challenge
+Hilbert was becoming alarmed by the gains that Brouwer’s conception of mathematics was making among the younger mathematicians. To him the program of the Intuitionists represented quite simply a clear and present danger to mathematics. Hilbert interpreted intuitionism as requiring that all pure existence proofs, a large part of analysis and Cantor’s theory of infinite sets would have to be given up. In particular, this would rebut some of Hilbert’s own contributions to pure mathematics.
+
+Bernays has reported that under the influence of the discovery of antinomies, in set theory, Hilbert temporarily thought that Kroenecker had probably been right there. But soon he changed his mind. Now it became his goeal, one might say, to do battle with Kroenecker with his own weapons of finiteness by means of a modified conception of mathematics.
+
+It seems that Hilbert never studied Brouwer’s foundational work in detail, but he apparently identified Brouwer’s view with that of Weyl which he knew much better. But in fact Weyl’s view was more restricted than Brouwer’s as was Kroenecker’s. Nevertheless, Hilbert attributed to Brouwer many views of Weyl. More generally, Hilbert and his school simply identified intuitionism with finitism.
+
+Hilbert granted that from the finitistic, contentual point of view, the law of the excluded middle “should not be uncritically adopted as logically unproblematic”. Note, moreover, that he often formulated the LEM as: not(forAll(x, P(x))) → thereExists(x, not(P(x))). Hilbert was convinced and aimed to show that “the application of tertirum non datur can never lead to danger.
+
+*** 1.2 Finitistic and Ideal Mathematics
+
+Hilbert agreed with the long tradition according to which there is no such thing as an actual or completed infinite. Hilbert thought that it is in Kantian terms only a regulative idea of reason. But, unlike Kroenecker and Brouwer, he did not therefore want to rebut all the achievements of infinistic mathematics. 
 
 * On Process
 
@@ -2600,12 +2629,6 @@ Paul Raatikainen
 
 * Papers on Hilbert’s program
 
-** [[https://cse.buffalo.edu/~rapaport/510/synthese-hilbertsprog.pdf][Hilbert’s Program Revisited (2003)]]
-
-Panu Raatikainen
-
-22 pages
-
 ** [[https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1521&context=jhm][From Solvability to Formal Decidability: Revisiting Hilbert’s Ignorabimus (2019)]]
 
 Andrea Reichenberger
@@ -2691,3 +2714,13 @@ Wilfred Sieg
 Stephen Simpson
 
 22 pages
+
+** [[https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1746-8361.1958.tb01469.x][Hilbert’s Program]]
+
+Georg Kreisel
+
+27 Pages
+
+** [[https://www.jstor.org/stable/23951195][Hilbert’s Formalism]]
+
+M. Detlefsen
