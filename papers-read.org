@@ -2700,25 +2700,40 @@ D. S. Hoffman (2015)
 ** [[http://www.umsl.edu/~piccininig/First_Computational_Theory_of_Mind_and_Brain.pdf][The First Computational Theory of Mind and Brain: A Close Look at McCulloch and Pitts’s “Logical Activity Calculus of Ideas Immanent in Nervous Activity”]]
 Gualtiero Piccinini (2004)
 
-** [[http://virthost.vub.ac.be/lnaweb/ojs/index.php/LogiqueEtAnalyse/article/view/1578/1339][Leibniz’s and Kant’s Philosophical Ideas and the Development of Hilbert’s Programme]]
-Roman Murawski (2002)
-
 ** [[https://philpapers.org/archive/RAAOTP.pdf][On the Philosophical Relevance of Gödel’s Incompleteness Theorems (2005)]]
 Paul Raatikainen
 
 * Papers on Hilbert’s program
 
-** [[https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1521&context=jhm][From Solvability to Formal Decidability: Revisiting Hilbert’s Ignorabimus (2019)]]
+** [[https://www.researchgate.net/publication/278908250_HILBERT_PROGRAM_60_YEARS_LATER][Hilbert’s Program 60 Years Later (1988)]]
 
-Andrea Reichenberger
+Wilfred Sieg
 
-34 Pages
+12 pages
+
+** [[http://virthost.vub.ac.be/lnaweb/ojs/index.php/LogiqueEtAnalyse/article/view/1578/1339][Leibniz’s and Kant’s Philosophical Ideas and the Development of Hilbert’s Programme]]
+
+Roman Murawski (2002)
+
+17 pages
+
+** [[http://philsci-archive.pitt.edu/2547/1/hptn.pdf][Hilbert’s Program Now and Then (2005)]]
+
+Richard Zach
+
+43 Pages
 
 ** [[https://www.cmu.edu/dietrich/philosophy/docs/tech-reports/78_Sieg.pdf][Hilbert’s Programs: 1917-1922 (1998)]]
 
 Wilfried Sieg
 
 39 pages
+
+** [[https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1521&context=jhm][From Solvability to Formal Decidability: Revisiting Hilbert’s Ignorabimus (2019)]]
+
+Andrea Reichenberger
+
+34 Pages
 
 Check if there is more content in the newer versions
 
@@ -2775,18 +2790,6 @@ José Ferreirós
 Giorgio Venturi
 
 34 pages
-
-** [[http://philsci-archive.pitt.edu/2547/1/hptn.pdf][Hilbert’s Program Now and Then (2005)]]
-
-Richard Zach
-
-43 Pages
-
-** [[https://www.researchgate.net/publication/278908250_HILBERT_PROGRAM_60_YEARS_LATER][Hilbert’s Program 60 Years Later (1988)]]
-
-Wilfred Sieg
-
-12 pages
 
 ** [[http://www.personal.psu.edu/t20/papers/hilbert.pdf][Partial Realizations of Hilbert’s Program (1986)]]
 
