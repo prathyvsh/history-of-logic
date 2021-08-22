@@ -2457,11 +2457,81 @@ Further, Hilbert divided mathematical statements into ideal and real statement.s
 
 Finally, the consistency of the comprehensive formalized system is to be proved by using only restricted, uncontroversial and contentual finitistic mathematics. Such a finitistic consistency proof would entail that the infinistic mathematics could never prove a meaningful real statement that would be refutable in finitistic mathematics, and hence that infinistic mathematics is reliable.
 
-Hilbert’s characterization of both finitistic mathematics and real statements are somewhat unclear, and the exact extension of these notions remains a subject of debate. Nevertheless, it is in any case clear that the real statements include umerical equations and their negations, bounded existential and universal quantifications of these, and at least some universal generalizations. They are thus included in if not coexistensive with the sentences that logicians nowadays call Pi^0_1 sentences. For simplicity, though not essential to the argumentation, this is the position assumed.
+Hilbert’s characterization of both finitistic mathematics and real statements are somewhat unclear, and the exact extension of these notions remains a subject of debate. Nevertheless, it is in any case clear that the real statements include numerical equations and their negations, bounded existential and universal quantifications of these, and at least some universal generalizations. They are thus included in if not coexistensive with the sentences that logicians nowadays call Pi^0_1 sentences. For simplicity, though not essential to the argumentation, this is the position assumed.
 
-William Tait (1981) has in turn argued that Primitive Recursive Arithmetic captures exactly the part of mathematics that Hilbert took to be finitistic; this interpretation has received quite a wide acceptence.
+William Tait (1981) has in turn argued that Primitive Recursive Arithmetic captures exactly the part of mathematics that Hilbert took to be finitistic; this interpretation has received quite a wide acceptance.
 
 PRA can be formulated as a “logic-free” equational calculus, and consequently it does not matter whether one adopts classical or constructive logic as one’s logical basis for PRA. This satisfies nicely Hilbert’s need for a neutral, unproblematic background theory.
+
+Second, in replying to Poincaré’s charge that his attempt to justify arithmetical induction by a consistency proof must necessarily use induction and is thus circular, Hilbert emphasized that finitistic metamathematics only uses limited contentual induction. This seems to imply that finitistic mathematics must be weaker than PRA with the unrestricted induction scheme. The standard formulations of PRA have hte induction scheme only for the quantifier-free formulas. It happens to be a logical fact, although a less known one, that, first Sigma^0_1 is conservative over PRA and second that Pi^0_1 is equivalent to Sigma^0_1 induction; therefore, if the induction scheme is restricted to contentual real statements, in Sigma^0_1, which would certainly be the most natural choice, one does not go beyond PRA.
+
+** New Interpretations of Hilbert’s Program
+
+*** 2.1 Hilbert’s Program and Gödel’s First Theorem
+
+Earlier it was generally thought that it is primarily Gödel’s second incompleteness theorem which challenged Hilbert’s program. But more recently a number of leading foundational thinkers:
+
+What have we learned from Hilbert’s Second Problem? - Kreisel (1976)
+The Incompleteness Theorems - Smoryński (1977)
+Self Reference and Modal Logic - Smoryński (1985)
+Hilbert’s Programme - Smoryński (1988)
+Philosophical Aspects of Proof Theory - Prawitz (1981)
+Partial Realizations of Hilbert’s Program - Simpson (1988)
+
+have claimed that even Gödel’s first theorem is enough to refute Hilbert’s program. Micheal Detlefsen, on the other hand, has argued vigorously against this interpretation.
+
+Essentially, Detlefsen denies that the Hilbertian has to require that an ideal theory is a conservative extension of finitistic mathematics which is obviously impossible by Gödel’s first theorem.
+
+More exactly, he argues that an argument based on Gödel’s first theorem must commit the Hilbertian to the assumption that an ideal theory decides every real sentence (real-completeness); without this assumption the conservation condition cannot, according to Detlefsen, be derived from the consistency. And the argument continues, the Hilbertian need not assume this. Deftlefsen concludes that the consevation condition is too strong and should be replaced by the weaker condition that an ideal theory is a consistent extension of finitistic mathematics, that is, one only requires that it does not prove any finitistically refutable real sentence. Raatikainen agrees with Detlefsen’s criticism of Prawitz and Smoryński but disagrees with his overall conclusions.
+
+One could argue that the conservation condition can be derived from the consistency without requiring the real completeness of the ideal theory T.
+
+Kreisel has proved a theorem that:
+
+F: axiomatizable finitistic theory
+T: ideal theory
+
+T entails phi => F + Conservative(T) entails phi (where phi is Sigma^0_1).
+
+If F entails Conservative(T) as the Hilbertians arguably assume, this reduces to T entails Phi => F entails Phi. But this is just conservativity and moreover the real completeness of T is nowhere assumed!
+
+However, the proof of this theorem depends essentially on the derivability conditions, which makes this theorem a relative of Gödel’s second theorem in being intensional. Hence it is somewhat problematic to appeal to it in arguing that even Gödel’s first theorem is sufficient to refute Hilbert’s program.
+
+But, more importantly, Hilbert explicitly and repeatedly required that an ideal theory is conservative over finitistic mathematics for real sentences.
+
+Hilbert in his 1926 work says that: “The modes of inference employing the infinite must be replaced generally by finite processes that have precisely the same results … That, then, is the purpose of my theory. Its aim is to endow mathematical method with the definiive reliability”. Note that Hilbert here both identifies reliability with conservativity and states that a proof of conservativity is the purpose of his theory.
+
+Hilbert also insisted that a consistency proof entails this sort of conservativity. “If one succeeds in carrying out this proof [of consistency], then … this means that if a numerical statement that is finitistically interpretable is derived from it, then it is indeed correct every time”. Clearly “correct” here can only mean finitistic provability.
+
+The same view is also expressed by Bernays:
+
+#+BEGIN_QUOTE
+[B]y recognizing the consistency of application of these postulates [of arithmetic], it is established at the same time that an intuitive proposition that is interpretable in the finitistic sense, which follows from them, can never contradict an intuitively recognizable fact. In the case of a finitistic proposition, howeer, the determination of its irrefutability is equivalent to determination of its truth.
+#+END_QUOTE
+
+To recapitulate: According to Hilbert, the consistency proof guarantees finitistic correctness of all finistically meaningful theorems provable by infinistic means, not just their non-refutabiity, as Detlefsen suggests. In various passages, Hilbert even straightforwardly presents the conservativity proof as the main aim of his proof theory.
+
+Moreover, Hilbert viewed the expected consistency proof but an application of the more general conservativity property. That is, Hilbert was convinced that one can always eliminate, from a given proof of a real statement, all the applications of infinistic methods, and thus obtain a purely finitistic proof of the real statement. A canonical contradiction, e.g., 0 = 1, is a false statement. Therefore a hypothetical infinistic proof of contradiction could be in particular transfored to a finitistic proof of contradiction - but the latter was considered to be obviously impossible.
+
+This part is not fully clear to me:
+Note, by the way, that precisely speaking, the idea here is to show that Cons(F) ⇒ Cons(T) (that is T ⊢ 0 = 1 ⇒ F ⊢ 0 = 1), not that F ⊢ Cons(T), as the popular view assumes. Accordingly, the relevant form of Gödel’s second theorem is not e.g. PA not⊢ Cons(PA), familiar from textbook presentations, and trivially Cons(PA) ⇒ Cons(PA), nor PRA not⊢ Cons(PA) etc. The point is rather e.g., Cons(PRA) not⇒ ConS(PA), Cons(PRA) not⇒ Cons(Z_2) etc.
+
+In summary, Hilbert thought both that a consistency proof guarantees the conservativity of the ideal theory, and that the consistency is to be proved via conservativity, that is, the consistency proof allows one to eliminate ideal elements from a proof of a real sentenec, and the consistency should be proved by showing that an ideal proof of inconsistency in particular could always be turned to a finitistic proof of inconsistency. Hence, consistency and conservativity were, for Hilbert, just two sides of the same coin. And in as much as the requirement of conservativity is essential to Hilbert’s program, the program is refuted already by Gödel’s first incompleteness theorem. Avoiding this conclusion requires at least some modifications in Hilbert’s original formulations.
+
+
+*** 2.2 Gödel’s Second Theorem and the Consistency Program
+
+More traditionally, it has been generally thought that Gödel’s second incompleteness theorem shows the impossibility of carrying through Hilbert’s program. But Micheal Detlefsen has argued that this is not the case.
+
+Detlefsen’s considerations are based on certain sophisticated technical issues related to Gödel’s second theorem. Namely, unlike in Gödel’s first theorem, where it is enough taht one has ap redicate that extensionally represents provability, one must now require that the particular way one formalizes provability satisfies certain intensional extra conditions, most necessarily the so-called second derivability condition:
+
+F ⊢ Prov_T(⌜ϕ⌝)→Prov_T(Prov_T(⌜ϕ⌝))
+
+But there are various extensionally correct formalizations of provability which do not satisfy this condition. The earliest and most well known is Rosser’s provability predicate.
+
+Detlefsen calls theories with such a notion of provability “consistency-minded theories”, and he suggests that the Hilbertian could well switch to such theories, nad demonstrate their consistency in accordance to Hilbert’s program. These considerations are very interesting and highly relevant for the issue at stake here, but Raatikainen is not convinced that a Rosser-like consistency-minded approach can really be used to save Hilbert’s program from Gödel’s second theorem.
+
+
 
 * On Process
 
