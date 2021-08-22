@@ -2443,15 +2443,25 @@ Hilbert’s own thought went through various important changes, and it would be 
 *** 1.1 The Skeptical challenge
 Hilbert was becoming alarmed by the gains that Brouwer’s conception of mathematics was making among the younger mathematicians. To him the program of the Intuitionists represented quite simply a clear and present danger to mathematics. Hilbert interpreted intuitionism as requiring that all pure existence proofs, a large part of analysis and Cantor’s theory of infinite sets would have to be given up. In particular, this would rebut some of Hilbert’s own contributions to pure mathematics.
 
-Bernays has reported that under the influence of the discovery of antinomies, in set theory, Hilbert temporarily thought that Kroenecker had probably been right there. But soon he changed his mind. Now it became his goeal, one might say, to do battle with Kroenecker with his own weapons of finiteness by means of a modified conception of mathematics.
+Bernays has reported that under the influence of the discovery of antinomies, in set theory, Hilbert temporarily thought that Kroenecker had probably been right there. But soon he changed his mind. Now it became his goal, one might say, to do battle with Kroenecker with his own weapons of finiteness by means of a modified conception of mathematics.
 
 It seems that Hilbert never studied Brouwer’s foundational work in detail, but he apparently identified Brouwer’s view with that of Weyl which he knew much better. But in fact Weyl’s view was more restricted than Brouwer’s as was Kroenecker’s. Nevertheless, Hilbert attributed to Brouwer many views of Weyl. More generally, Hilbert and his school simply identified intuitionism with finitism.
 
-Hilbert granted that from the finitistic, contentual point of view, the law of the excluded middle “should not be uncritically adopted as logically unproblematic”. Note, moreover, that he often formulated the LEM as: not(forAll(x, P(x))) → thereExists(x, not(P(x))). Hilbert was convinced and aimed to show that “the application of tertirum non datur can never lead to danger.
+Hilbert granted that from the finitistic, contentual point of view, the law of the excluded middle “should not be uncritically adopted as logically unproblematic”. Note, moreover, that he often formulated the LEM as: not(forAll(x, P(x))) → thereExists(x, not(P(x))). Hilbert was convinced and aimed to show that “the application of tertium non datur can never lead to danger.
 
 *** 1.2 Finitistic and Ideal Mathematics
 
-Hilbert agreed with the long tradition according to which there is no such thing as an actual or completed infinite. Hilbert thought that it is in Kantian terms only a regulative idea of reason. But, unlike Kroenecker and Brouwer, he did not therefore want to rebut all the achievements of infinistic mathematics. 
+Hilbert agreed with the long tradition according to which there is no such thing as an actual or completed infinite. Hilbert thought that it is in Kantian terms only a regulative idea of reason. But, unlike Kroenecker and Brouwer, he did not therefore want to rebut all the achievements of infinistic mathematics. What Hilbert rather aimed at was to bring together the safety, or reliability, of critical constructive mathematics and the liberty and power of infinistic set theoretical mathematics to justify the use of the latter by the uncontroversial methods of the former. For his purpose, mathematics should be rigorously formalized. All the propositions that constitute mathematics are converted into formulas, so that mathematics proper becomes an inventory of formulas. Next, Hilbert intended to isolate what he viewed as an unproblematic and necessary part of mathematics, an elementary part of arithmetic he called “finitistic mathematics”, which would certainly be accepted by all parties in the foundational debate, even the most radical skeptics such as Kroenecker, Brouwer and Weyl.
+
+Further, Hilbert divided mathematical statements into ideal and real statement.s The latter are finitistically meaningful, or contentual, but the former are strictly speaking just meaningless strings of symbols that complete and simplify the formalism, and make the application of classical logic possible.
+
+Finally, the consistency of the comprehensive formalized system is to be proved by using only restricted, uncontroversial and contentual finitistic mathematics. Such a finitistic consistency proof would entail that the infinistic mathematics could never prove a meaningful real statement that would be refutable in finitistic mathematics, and hence that infinistic mathematics is reliable.
+
+Hilbert’s characterization of both finitistic mathematics and real statements are somewhat unclear, and the exact extension of these notions remains a subject of debate. Nevertheless, it is in any case clear that the real statements include umerical equations and their negations, bounded existential and universal quantifications of these, and at least some universal generalizations. They are thus included in if not coexistensive with the sentences that logicians nowadays call Pi^0_1 sentences. For simplicity, though not essential to the argumentation, this is the position assumed.
+
+William Tait (1981) has in turn argued that Primitive Recursive Arithmetic captures exactly the part of mathematics that Hilbert took to be finitistic; this interpretation has received quite a wide acceptence.
+
+PRA can be formulated as a “logic-free” equational calculus, and consequently it does not matter whether one adopts classical or constructive logic as one’s logical basis for PRA. This satisfies nicely Hilbert’s need for a neutral, unproblematic background theory.
 
 * On Process
 
