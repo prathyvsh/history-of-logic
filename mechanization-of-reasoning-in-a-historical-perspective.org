@@ -29,3 +29,57 @@ One more significant step in this direction is the cut-free formalisms of Herbra
 On the other hand, in a proof produced with the cut-free formalism, each step is determined by the syntactic structure of the formula processed, hence the need for intervention is extremely reduced, and the whole procedure becomes fairly mechanical.
 
 Gentzen demonstrated that any proof involving the cut rule can be transformed into a proof in which the cut does not appear, and this implies availability of a mechanical procedure for any proof formalized in predicate logic.
+
+CU = <Information + Data + Machines?;
+       Natural Machine, Artificial Machine, Selves;
+       Rec[d,i]
+       PrI[i,j]
+       PrD[d,e]
+       PrT[t1,t2,i],
+       Cns[s1,x]>
+
+
+Rec[d,i]: Piece of data d is assigned the information i.
+PrI[i,j]: Transforming information into pieces of information
+PrD: Transforming data into data
+PrT: Transforming Things into Things (or, a state of a thing into its another state) through a piece of information such as a dog acting to the command of a master.
+CnS[s1,x]: Self conscious minds. A mind is capable of being conscious of any object whatever including its own acts. This kind of consciousness is called apperception.
+
+*** 1.3 Information-processing through data processing
+
+Information pieces are entities which are involved in the interaction between the physical world and the world of abstract entities.
+
+What all information pieces have in common is their relation to some physical objects termed as data. The relation involved may be called expressing, representing, articulatin,g, formulating, signifying, recording etc.
+
+Verb Recording is considered standard here.
+
+Thus an uttered (spoken or written) sentence is a physical event being a datum to record a proposition. A score, as a sheet of paper covered with notes is a datum to record a piece of music. A drawing is a datum to record the design, say of a house. A configuration of polarized spots on a magnetic medium forms data to record, e.g., a program for computer.
+
+To some extent, the elusiveness of the notion of IP can be remedied by a certain combination of the idea of recording relation with the concept of equivalence (or abstraction class) as defined in logic and set theory.
+
+An equivalence relation is reflexive, symmetric, and transitive. Whenever one has an equivalence relation on a set S, the set can be partitioned into a number of disjoint sets called equivalence classes such that all the members of any one equivalent class bear the relation R to each other but not to any members of S outside that equivalence class.
+
+Cardinal numbers are defined by reference to equivalence classes of equinumerous sets. E.g., number 2 is presented as the set of all pairs. This does not mean that the terms 2 and the class of all pairs denote the same entity. It is certainly true that # > 2 but this does not imply that triples is greater than the class of pairs, hence the respective arguments of the predicate ‘is greater than’ do not prove interchangeable.
+
+The method of introducing abstract objects through equivalence classes, as exemplified above, especially to examine relations between information-processing and data-processing. The idea to be developed is to the effect that pieces of information are abstract entities, in a way assigned to respective equivalence classes of pieces of data.
+
+Author is trying to establish a correspondence between two chains, that of data and that of entities represented by data. The most basic is the correspondence between numeral sequences as data and numbers as entities represented by such sequences. They belong to 2 different domains.
+Successor operation turns a number 10 to 11 and in the codomain it turns the numerals ‘10’ into ‘11’. I think it might have been better if the author used the word encode to represent the act of transforming the semantics into the syntax.
+
+The item represented is called an information item and the item used to encode this is called the data.
+
+Data items are recorded in objects such as machines and organisms, and owing to these records information can be stored in objects and processed by them.
+
+Information as the abstract entity and data as the physical entity.
+
+Processing applied to information and data are not independent; they are so related that data-processing is a means of information-processing.
+
+The term ‘sentence’ denote a physical object made from ink, or air waves, or electric impulses, etc. (while the terms ‘proposition’, or ‘statement’, or ‘judgment’ will never appear in this role).
+
+Thus sentences belong to the category of data.
+
+Information pieces recorded in sentences are called propositions, so sentences like 2 + 3 encoded in Roman numerals, Decimal, or Binary representation record the same proposition. Obviously, P is not identical with any of the members of the equivalence class E. Neither with E itself. Were it identical with E, then it would be sensible and true to say, e.g., that P contains the empty class which would be a kind of nonsennce.
+
+Then there are information pieces which are abstract entities, each of them being associated with exactly one equivalence class of data.
+
+The notion of blind thinking (caeca cogitatio) was used by Leibniz to indicate the mechanical deduction carried out by computers without a notion of the semantics(?) of say a collection of six objects dividing into two triples.
