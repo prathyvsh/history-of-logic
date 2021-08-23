@@ -49,7 +49,7 @@ CnS[s1,x]: Self conscious minds. A mind is capable of being conscious of any obj
 
 Information pieces are entities which are involved in the interaction between the physical world and the world of abstract entities.
 
-What all information pieces have in common is their relation to some physical objects termed as data. The relation involved may be called expressing, representing, articulatin,g, formulating, signifying, recording etc.
+What all information pieces have in common is their relation to some physical objects termed as data. The relation involved may be called expressing, representing, articulation,g, formulating, signifying, recording etc.
 
 Verb Recording is considered standard here.
 
@@ -78,8 +78,55 @@ The term ‘sentence’ denote a physical object made from ink, or air waves, or
 
 Thus sentences belong to the category of data.
 
-Information pieces recorded in sentences are called propositions, so sentences like 2 + 3 encoded in Roman numerals, Decimal, or Binary representation record the same proposition. Obviously, P is not identical with any of the members of the equivalence class E. Neither with E itself. Were it identical with E, then it would be sensible and true to say, e.g., that P contains the empty class which would be a kind of nonsennce.
+Information pieces recorded in sentences are called propositions, so sentences like 2 + 3 encoded in Roman numerals, Decimal, or Binary representation record the same proposition. Obviously, P is not identical with any of the members of the equivalence class E. Neither with E itself. Were it identical with E, then it would be sensible and true to say, e.g., that P contains the empty class which would be a kind of nonsense.
 
 Then there are information pieces which are abstract entities, each of them being associated with exactly one equivalence class of data.
 
 The notion of blind thinking (caeca cogitatio) was used by Leibniz to indicate the mechanical deduction carried out by computers without a notion of the semantics(?) of say a collection of six objects dividing into two triples.
+
+To sum up the domain of information-processing involves numbers and the domain of data-processing involves numerals. In reasoning, the former consists of propositions, the latter of sentences.
+
+Operation involved in data-processing are formal that is concerned with the form, or structure of strings of characters, that is data, and not with a content. About a reasoning which proceeds solely according to formal rules we say that it is formalized. Should such a reasoning be carried out by a machine, we call it mechanized.
+
+However, there are important difference between these two domains of information-processing which are crucial for our discussion. Data-processing in the sphere of computing, i.e. mechanical calculation on numerals as representing numbers is a usual and unavoidable procedure. But data-processing in the sphere of reasoning, i.e., formalized inference, is a relatively new invention which has a clearly artificial character. Though it has proved necessary for metamathematical research, as well as useful and inspiring for philosophy of mind, it does not prove necessary for efficient reasoning.
+
+In a formalized logical system, we have:
+
+a and b  y infer not y → not a or not base
+
+This is natural language is:
+
+Matter and its motion results in time and space
+
+If matter nd its motion disappeared, there would no longer be any space or time.
+
+** 1.4 Intelligence and model based reasoning
+
+Are there entirely wordless reasonings, such that they do not resort to any piece of a text? If there are, what, then, are the data to be processed? What about the principle that every reasoning is a truth-preserving information-processing, where abstract pieces of information are represented by data as physical entities?
+
+Suppose we say that there are indeed wordless reasonings, what shall we call them? That is the class of reasonings in which information-processing is not supported by any text-processing. Let it be called the class of model-based reasonings. Another designation might be given after Popper in Unended Quest (1982) who observe that we do think in words as well as by means of schemata.
+
+The answer in the affirmative is supported by various kinds of evidence. Due to some natural laws governing organisms, people and animals are capable of forming, e.g., internal pictures of things. Such pictures and similar devices, some of them of more abstract character, can be called models. This term enjoys sufficient generality and, like ‘picture’ involves the notion of similarity in its content.
+
+Why should a craftsman, or an engineer try to name all the states of the engine under repair, when she seems them with her eyes, and can test her unspoken estimations with movements of her fingers? Her reasoning consists in transforming such visual and tactile data in her imagination; seh is not bound to record them in her notebook and adopt predicate calculus for their inferential processing.
+In a model based reasoning, the data processed are models, and those are due to records made in a code inside a processing system (e.g., a visual percept encoded in a brain).
+
+These records are also data to represent pieces of information, while in a text-based reasoning information pieces are represented by data formed as sentences. In both cases appear pieces of information of which either truth or falsity can be predicated (e.g, the truth of a percept involved in a model), hence the difference in their representing by verbal data in one case and model data in the other does not affect the nature of reasoning as a truth-preserving transformation.
+
+The point to be vindicated is to the effect that there are reasoning which the reasoner is not aware of, i.e., those which do not occur at the level of conscious reflexion. We shall briefly speak of them that they are not apperceived, taking the term in Leibnizian sense.
+
+Leibniz needed the word perception to denote all acts of living individuals (i.e., substances) as reacting to certain impulses, while fully conscious perceptions were by him distinguished with the specially coined term apperception. He defined it as the reflective knowledge of an inner state, which is not given to all souls, nor at all times to the same soul.
+
+Now the point can be stated briefly that there are unapperceived reasonings in humans and still more briefly there are covert ones. This statement is of great import for the study of intelligence. Provided it is right, the attempts to create artificial intelligence, which would be as close as possible to natural thinking, should not lead toward the text-based mechanical reasonings. Instead, artificial minds should be able to simulate model-based and covert reasonings as proving most efficient in those situations in which the subject of reasoning is not liable to be described in words, and in addition, it has to be grasped in a fraction of the second.
+
+Model-based reasoning is unavoidable in that kind of mental activities which is termed knowing how (in contradistinction to knowing that) by Ryle in The Concept of Mind (1949), and more commonly is called ‘know-how’. This problem was tackled by Herbert Breger in Das Postulat der Explizierbarkeit in der Debatte um die kiinstliche Intelligenz (1988)
+
+There is, actually, no mystery either in model-based or in covert reasonings, they are simply facts of every-day life. Nevertheless, there are philosophical schools such that one of them denies possibility of covert mental acts, and the other possibility of model-based reasonings. From the latter point of view, that of behaviorists, there is a mystery in the conception that some reasonings might be non-verbalized since any thinking is by them construed as an inner silent speaking.
+
+On the other hand, a covert reasoning is regarded as impossibly by the Cartesian philosophy of mind in which the mind is identified with the subject of conscious acts.
+
+According to Descartes, there can be no covert reasonings, as reasoning is the affair of consciousness alone: I reason then and only then, if I know that I reason. There is no necessity for reasonings - meant Descartes - to be recorded in words (hence a model-based reasoning might be admitted), but it is necessary for them to be self-conscious. This is why Descartes denied animals any capability of reasoning; he regarded them as mere automata so unable to make inferences as is unable, say, a clock.
+
+Refer Dipert (1994) - Leibniz’s Discussion of Obscure, Confused, and Inadequate Ideas.
+
+In the Leibnizian perspective reasoning is conceived as a kind of information-processing accomplished through data-processing, while the data are not necessarily linguistic; they may be some records in an organic machine which function as models of those pieces of reality which form the subject-matter of our reasonings.
