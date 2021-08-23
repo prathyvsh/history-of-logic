@@ -158,10 +158,14 @@ The key notions in the story are those of data-processing and information-proces
 
 The notion of Llull as the forerunner of mechanization though no traces of formalization appear in his doctrine as propagated in works on history of logic and history of computer science:
 
-Bocheński (1956)
-Gardner (1958)
-Bonner (1985)
+Formale Logik — I. M. Bocheński (1956)
+Logic, Machines, and Diagrams — Gardner (1958)
 
 Llull’s candidacy to the status of the principal predecessor of Leibniz and the initiator of the mechanization of arguments proves untenable.
 
 It is true that Leibniz had predecessors in the Middle Ages, but these are rather to be sought in the trend that was in opposition of the Neo-Platonic orientation represented by Llull, namely in the nominalistically-oriented logica modernorum in the late Middle Ages, also called terministic logic because of its semiotic inquiries into the so-called proprietates terminorum.
+
+Risse in his Die Logik der Neuzeit (1964) says:
+
+“The Lull school is to be understood solely through Lull, not by reference to Leibniz. True, Leibniz owes many particular ideas to it but he organizes them in his own way. For with Lullists logic was neither primarily nor essentially connected with mathematics […] (Leibniz’s) calculus ratiocinator rooted in Vieta’s algebra speciosa, is a product of the 17th century, and ars magna played no noticeable role in it”
+
