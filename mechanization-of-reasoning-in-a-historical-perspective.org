@@ -3,7 +3,7 @@
 Started reading:
 21 August 21 8:19 pm IST
 
-The idea of formalization of reasoning starts from the middle ages and reached its maturity in modern logic that is in Frege → Peano → Russell and Whitehead → Hubert → Lukasiewicz → Gödel → Tarski → Jaśkowski → Leśniewski etc.
+The idea of formalization of reasoning starts from the middle ages and reached its maturity in modern logic that is in Frege → Peano → Russell and Whitehead → Hilbert → Lukasiewicz → Gödel → Tarski → Jaśkowski → Leśniewski etc.
 
 Elimination of quantifiers results in reducing whole of logic into binary algebra.
 
@@ -22,7 +22,7 @@ Two sense of mechanization:
 
 Formalization or mechanization in the sense of 2/ consists in using a device and a mapping to this device of an abstract machine.
 
-The work of Shannon in interpreting circuits as performing boolean logic allowed for the method of reducing predicate logic to propositional logic due to Skolem, Hubert, and others which enabled the use of binary digital circuitry for mechanizing proofs in predicate logic.
+The work of Shannon in interpreting circuits as performing boolean logic allowed for the method of reducing predicate logic to propositional logic due to Skolem, Hilbert, and others which enabled the use of binary digital circuitry for mechanizing proofs in predicate logic.
 
 One more significant step in this direction is the cut-free formalisms of Herbrand and Gentzen of the predicate-calculus. The cut is a schema representing a number of inference rules, one of them being the familiar modus ponendo ponens, whose use in a proof requires some ingenuity on the side of the reasoner to identify the premises from which the conclusion is being cut must be found.
 
@@ -130,3 +130,38 @@ According to Descartes, there can be no covert reasonings, as reasoning is the a
 Refer Dipert (1994) - Leibniz’s Discussion of Obscure, Confused, and Inadequate Ideas.
 
 In the Leibnizian perspective reasoning is conceived as a kind of information-processing accomplished through data-processing, while the data are not necessarily linguistic; they may be some records in an organic machine which function as models of those pieces of reality which form the subject-matter of our reasonings.
+
+The main mechanical-intelligence problem can be stated in the terms of processing Encoded Potential Concepts. That there do exist Encoded Potential Concepts in human bodies, is a philosophical hypothesis to motivate a research project.
+
+An instance of EPCs on which attention of scholarly circles was focussed in recent decades is concerned with the notion of linguistic competence as introduced by Noam Chomsky; to start acquiring a language, a human being must have some innate potential notions of language, communication, predication, etc. Even if one does not endorse a materialistic point, it is advantageous to imagine those notions as encoded in our bodies, as a kind of data to be processed, presumably in the central nervous system.
+
+An example of Socrates eliciting the idea of Pythagoras theorem in the boy’s mind is described as an example of potential concept encoded.
+
+Besides grammatical and mathematical encoded potential concepts, there are logico-ontological EPCs which prove indispensable at the start of any language acquisition. Among them are those of a class, individual and of equivalence relation.
+
+These 3 ideas are involved in any act of realizing that an individual object shown in the moment should represent a class to be named so and so, namely the class of those individuals which are identical - in a certain respect with that being produced (i.e., an equivalence class). No communicative act involving ostention would be possible without functioning these logical EPCs, hence they must be innate in every human individual.
+
+A mechanized reasoning with the utmost clearness reveals that any reasoning is a truth-preserving information-processing carried out by means of data-processing, the data being entities as physical in their nature as are electric impulses, or magnetized spots, while the property of truth-preservation is revealed in the explicit application of deductive rules.
+
+The author seems to suggest a program for achieving artificial general intelligence.
+
+One should i) discover mechanisms of model-based reasoning in order to imitate them with artificial devices
+ii) furnish such devices with a set of encoded potential concepts similar to that enjoyed by humans
+iii) master the process of transforming unconscious, only potential ideas into fully apperceived concepts
+
+* Chapter 2
+The Formalization of Arguments in the Middle ages
+
+** 2.1 The contention of the present chapter
+
+The key notions in the story are those of data-processing and information-processing. The former can be entrusted to machines provided that information items (abstract objects) are represented by data (physical objects), hence the results of data processing due ot a machine can be read off by a human as results of information-processing. In a process of reasoning, the formalization consists in recording propositions (information items) as data, and in putting forth inference rules as operating on physical objects.
+
+The notion of Llull as the forerunner of mechanization though no traces of formalization appear in his doctrine as propagated in works on history of logic and history of computer science:
+
+Bocheński (1956)
+Gardner (1958)
+Bonner (1985)
+
+Llull’s candidacy to the status of the principal predecessor of Leibniz and the initiator of the mechanization of arguments proves untenable.
+
+It is true that Leibniz had predecessors in the Middle Ages, but these are rather to be sought in the trend that was in opposition of the Neo-Platonic orientation represented by Llull, namely in the nominalistically-oriented logica modernorum in the late Middle Ages, also called terministic logic because of its semiotic inquiries into the so-called proprietates terminorum.
