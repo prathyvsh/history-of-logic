@@ -2806,3 +2806,57 @@ Georg Kreisel
 ** [[https://www.jstor.org/stable/23951195][Hilbert’s Formalism]]
 
 M. Detlefsen
+
+** [[https://kw.uni-paderborn.de/fileadmin/fakultaet/Institute/philosophie/Peckhaus/Schriften_zum_Download/pragmatism-h.pdf][The Pragmatism of Hilbert’s Programme]]
+
+Volker Peckhaus (2000)
+
+17 Pages
+
+* Reads on foundational period
+** [[https://www.jstor.org/stable/23917979][Notes on Types, Sets and Logicism, 1930-1950]]
+José Ferreirós
+
+** [[https://www.jstor.org/stable/2689412][The Three Crises in Mathematics: Logicism, Intuitionism and Formalism]]
+Ernst Snapper (1979)
+
+** [[https://www.ruhr-uni-bochum.de/philosophy/mam/wtundwg/j.f._fries__philosophy_of_science_the_new_friesian_school_and_the_berlin_group.pdf][J. F. Fries’ Philosophy of Science, the New Friesian School and the Berlin Group: On Divergent scientific philosophies, difficult relations and missed opportunities]]
+Helmut Pulte
+
+** [[https://www.cmu.edu/dietrich/philosophy/docs/tech-reports/120_Avigad.pdf][“Clarifying the nature of the infinite”: the development of metamathematics and proof theory]]
+
+Jeremy Avigad and Erich H. Reck
+
+** [[http://home.uchicago.edu/~wwtx/frege.cantor.dedekind.pdf][Frege versus Cantor and Dedekind: On the Concept of Number]]
+
+W. W. Tait
+
+** [[https://www.sciencedirect.com/science/article/pii/S0315086001923328/pdf?md5=d5c9f3672f43838832a6500252dbf29c&pid=1-s2.0-S0315086001923328-main.pdf][Hilbert on the Infinite: The Role of Set Theory in the Evolution of Hilbert’s Thought]]
+
+Gregory H. Moore
+
+** [[https://www.jstor.org/stable/23917978][Hilbert and the Emergence of Modern Mathematics]]
+
+Gregory H. Moore
+
+** [[https://cdm16608.contentdm.oclc.org/digital/api/collection/p16608coll22/id/3715/download][The Rhetoric of Mathematical Logicism, Intuitionism, and Formalism]]
+
+John Travis Shrontz
+
+** [[http://www.unipune.ac.in/snc/cssh/ipq/english/IPQ/21-25%20volumes/21%2002/PDF/21-2-4.pdf][Remarks on Wittgenstein’s Philosophy of Mathematics]]
+
+S. M. Bhave
+
+** [[https://dspace.stir.ac.uk/bitstream/1893/2794/1/Cantorreview_Final.pdf][Cantor on Frege’s Foundations of Arithmetic]]
+
+Philip A. Ebert and Marcus Rossberg
+
+** [[http://philsci-archive.pitt.edu/13075/1/On_Dedekinds_Logicism.pdf][On Dedekind’s Logicism]]
+José Ferreirós
+26 Pages
+
+** [[https://hal.archives-ouvertes.fr/hal-01263755/document][Is Dedekind a logicist? Why does such a question arise?]]
+Hourya Benis-Sinaceur, Marco Panza, Gabriel Sandu
+
+** [[http://www.mathnet.ru/links/e75548231298b1e94ebae1cf0e041fbc/tm156.pdf][Georg Cantor and His Heritage]]
+Yuri Manin
