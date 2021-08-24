@@ -583,6 +583,8 @@ Commentator
 
 * Arabian Logic
 
+* School of Baghdad
+
 * Abu Yūsuf Yaʻqūb ibn ʼIsḥāq aṣ-Ṣabbāḥ al-Kindī (805 – 873 A.D.)
 
 * Abu Nasr al-Fārābī
@@ -656,7 +658,7 @@ Because they put emphasis on term logic
 
 * Robert Kilwardby (d. 1279)
 
-* Albert the Great (1200–80)
+* Albert the Great (c.1200-1280)
 
 * Roger Bacon (1215/19/20 – 1292/94)
 
@@ -771,7 +773,12 @@ Contains square of oppositions
 
 * William of Heytesbury (1313 – 1372/1373)
 
-* Richard Swineshead/Sussieth (~1340/1354)
+* Richard Swineshead/Suisseth (fl. c 1340 – 1354)
+
+
+** Liber Calculationum (c. 1350)
+
+This book earned him the nickname The Calculator.
 
 * Martin Luther (1483 – 1546)
 
@@ -783,6 +790,10 @@ Contains square of oppositions
 
 * Juan Luis Vives (1492 – 1540)
 De censura veri et falsi
+
+* Thomas Bricot (d. 1516)
+
+** Tractacus Insolubilium
 
 * Nicolaus Reimers (1551 – 1600)
 
@@ -1180,6 +1191,8 @@ Introduced German speakers to the work of Boole, De Morgan, and Jevons
 *** [[https://amzn.to/3joWjSi][Medieval aftermath: Oxford logic and logicians of the seventeenth century - I. Thomas (1964)]]
 *** [[https://www.jstor.org/stable/23917977][The way of logic into mathematics]]
 *** [[https://www.jstor.org/stable/421117][19th Century Logic between Philosophy and Mathematics – Volker Peckhaus (1999)]]
+
+*** [[http://capricorn.bc.edu/siepm/books.html][A virtual library of medieval logic books]]
 
 ** The Barbershop Paradox / The Alice Problem
 
