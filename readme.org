@@ -780,6 +780,10 @@ Contains square of oppositions
 
 This book earned him the nickname The Calculator.
 
+* Gregor Breitkopf (c. 1472 – January 20, 1529)
+
+** Tractacus de inventione medii
+
 * Martin Luther (1483 – 1546)
 
 * Jakob Martini (1570 – 1649)
@@ -852,6 +856,10 @@ Replacement for the Protestant logic of Melanchthon
 ** George Dalgarno (1616 – 1687)
 
 ** Character Universalis
+
+* E. W. von Tschirnhaus (1651 – 1710)
+
+** Medicina mentis sive artis inveniendi praecepta generalia (1667 or 1687?)
 
 * John Wallis (1616 – 1703)
 
