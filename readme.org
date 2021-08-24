@@ -20,6 +20,8 @@ Argumentation had methods that resembled reduction ad absurdum
 
 A/this if B/that. But B/that is impossible, hence A/this is impossible.
 
+* Xenophanes of Colophon (570 – 480 B.C.)
+
 * Epimenides
 
 * Sophists
@@ -527,6 +529,10 @@ Chrysippus’ modal notions differ from Diodorus’ in that they allow for futur
 
 * Epicureans
 Developed a theory of inductive inference
+
+* Origen (185 – 254)
+
+Cantor had disputes against Origen’s views
 
 * Aulus Gellius (125 – after 180 A.D.)
 Roman author and Grammarian
