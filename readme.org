@@ -966,6 +966,11 @@ Extensively used Euler circles
 
 Uses circle diagrams together with tree diagrams to represent the relation of concepts in jurisprudence.
 
+* Reads on Leibniz
+
+** [[https://link.springer.com/chapter/10.1007/978-94-009-3673-7_1][Leibniz’s Calculus of Strict Implication]]
+Wolfgang Lenzen (1987)
+
 * Johannes Hospinianus Steinanus (1515 – 1575)
 
 * Henry Aldrich (1647 – 1710)
