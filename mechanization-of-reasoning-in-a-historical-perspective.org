@@ -452,6 +452,7 @@ An algorithm is a recipe for a procedure pertaining to a definite class of tasks
 In that melting pot of ideas which was Leibniz’s mind, the idea of mechanical computations merged with his looking at logical form through the prism of algebra as it was known at that time, and also with two other ideas, which he received from the past but transformed and combined in his own way. One of them, propagated by Joachim Jungius of Hamburg, consisted in the opinion that the essence of thinking consists in the analysis of concepts, that is in decomposing compound concepts into simpler ones, until one arrives at the simplest ones possible. Those simple and non-decomposable elements form, as Leibniz used to say, the alphabet of human thoughts. He saw the model of such a procedure in the decomposition of a number into factors which yields a product of prime numbers. Another idea, very popular in the 17th century, was that of a universal ideographic language,  whose single symbols would be assigned not sounds but, as in Chinese, directly to concepts. That planned language was then called philosophical language, conceptual script, universal script etc.
 
 Gregor Delgarno - Ars signorum
+John Wilkins - An Essay Toward a Real Character and a Philosophical Language
 
 Logical Form + Algorithm + Algebra + Alphabet of Human Thought + Numerical factorization + Universal Language
 
