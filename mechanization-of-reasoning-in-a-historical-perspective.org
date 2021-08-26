@@ -390,4 +390,43 @@ The four rules of Descartes:
 
 4. To make every where precise specifications and general reviews so as to be sure that nothing has been omitted
 
-The Discours of Descartes in its first edition appeared as the annex to Analytic Geometry. This work helped Leibniz and Newton to invent mathematical analysis (differential and integral calculus). That gigantic step toward the integration of mathematics aroused such an admiration and such hopes in the contemporaries that the second half of the 17th century was animated by the vision of a future science, termed mathesis universalis, which would cover the whole of knowledge, philosophy incuded, in the form of a single mathematized theory.
+The Discours of Descartes in its first edition appeared as the annex to Analytic Geometry. This work helped Leibniz and Newton to invent mathematical analysis (differential and integral calculus). That gigantic step toward the integration of mathematics aroused such an admiration and such hopes in the contemporaries that the second half of the 17th century was animated by the vision of a future science, termed mathesis universalis, which would cover the whole of knowledge, philosophy included, in the form of a single mathematized theory.
+
+Discourse de la méthode provided a description of the appropriate operations preformed by the human mind that allows for arriving at the self-evident statements needed as premises of proofs. It also contained an exposition of geometry which from the methodological point of view can be seen as the model for the deduction of theorems from initial self-evident facts formulated in axioms.
+
+The problem of finding self-evident premises needed to prove theorems expanded in the Cartesian school and its milieu to a vast set of problems pertaining to the distinction between the deduction of consequences from theorems already known, which was then called the synthetic method, and the search for premises to support a given theorem, called the analytic method.
+
+Quote from Logic of Port Royal
+
+#+BEGIN_QUOTE
+
+Method can be described generally as the art of a good arrangement of a series of thoughts in arguments used either for the discovery of truth, if it is not known, or for its demonstration to others, if it is already known. There are thus two methods. One of them is the method discovering the truth, termed analysis or the method of solution; it might also be termed the method of invention. the other is the method of making the truth which has already been found accessible to others. It is termed synthesis or the method of composition, and it might also be termed the method of exposition.
+
+#+END_QUOTE
+
+The terms method of solution and the method composition which occur in that description were to render a similar distinction existing already in scholastic logic and earlier in Euclid and Pappus.
+
+The theory of the analytic method, that is of the ars inveniendi, on which the efforts of that generation of philosophers were focussed, evolved in two opposite directions, the psychological and the formalistic. The psychological trend, which more and more concentrated on advice pertaining to the attitudes and behaviour of the mind (with the accompanying moralizing tendency) was particularly strongly voiced in the writings of Christian Thomasius and in those o his adherents, grouped in the then 
+ recently founded university in Halle. Thomasius, who followed Ramus in that respect, shared with the latter the (so to speak) practical orientation in logic. His disciples and adherents were strongly influenced by Protestant pietism, which at that time had its centre in Halle, and were thus influenced by the sentimentalist movement with its inclinations to irrationalism.
+ 
+ No wonder, therefore, that ultimately the idea of the methodological identity of mathematics and philosophy, and hence the idea of mathesis universalis was abandoned by them. This ends, in the late 17th century, one of the ramifications in the evolution of logic.
+ 
+ But the 17th century also witnessed the emergence of an antipsychological trend that raised the problem of the art of discovery owing to the idea of algorithm. This is associated with the name of Leibniz.
+ 
+ *** Leibniz on the mechanization of arguments
+ 
+ Algorithm as a recipe for the mechanical performance of tasks of a given kind. The concept of logical form has developed from the observation that certain sentences, e.g., in English, are accepted as true solely on the basis of their structure, with disregard of empirical and any other extralinguistic data.
+ 
+ In order to define the concept of logical truth in a general manner, and hence also the concept of logical form, one makes use of the partition of all expressions of a given language into logical terms (and, or, not, if … then, some, every, =, and the like) and extralogical ones.
+ 
+ A sentence is called a logical truth if it remains true after the replacement in it of extralogical expressions by any expressions, drawn from the same grammatical category — with the proviso that such a replacement is made consistently, which is to say that on replacing A by B in one place we do so in all those (and only those) places in which A occurs in that sentence.
+ 
+ Thought: In this fashion, Lambda Calculus rewrite can be thought of as that which preserves the logical form.
+ 
+ Such replaceability is of great significance for the recording of logical truths. Logical truths expressed in a schematic form by replacing the extralogical content with variables are called laws of logic.
+ 
+ The fact that logical truths are truths solely in virtue of their form paves the way to the construction of algorithms of two kinds: those which give us a mechanical method of deciding whether a sentences is a logical truth, and those which give us a mechanical method of deciding whether a sequence of sentences claimed to be a so-called formalized proof is in fact a proof of that kind.
+ 
+ The invention of algorithms which would serve those purposes was one of the great plans of Leibniz who expected that the invention would result in an epoch-making progress of human knowledge. His expectations came true only in our century, and that was accompanied by the discovery of the fact that they can come true only to a certain extent, because it is not possible to algorithmize the whole of mathematics (Gödel’s famous result proving the incompleteness of arithmetic), and hence that it is a fortiori impossible to algorithmize the whole of our knowledge.
+ 
+ The first flash of the intuition concerned with logical form must be seen in indirect reasoning, that is reasoning by reduction to absurdity, which is to be found in the enquiries of early Greek mathematicians, and which is particularly frequent in Plato’s dialogues (where as a rule it is used by Socrates, who treated it as main tool of his dialectic). An indirect proof starts from the assumption that the statement to be proved, say C (for conclusion) is false. If this assumption results in a contradiction, this means that it is false; but if the assumption of the falsity of C is false, then C itself has to be true.
