@@ -982,6 +982,8 @@ Wolfgang Lenzen (1987)
 Published a work on parallels of logic and algebra.
 Gave algebraic examples of categorical statements.
 
+** Parallelismus rationcinii logici et algebraici (1685)
+
 * Gerolamo Saccheri (1667 - 1733)
 
 ** Logica Demonstriva (1697)
