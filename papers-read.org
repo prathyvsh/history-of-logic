@@ -2860,3 +2860,6 @@ Hourya Benis-Sinaceur, Marco Panza, Gabriel Sandu
 
 ** [[http://www.mathnet.ru/links/e75548231298b1e94ebae1cf0e041fbc/tm156.pdf][Georg Cantor and His Heritage]]
 Yuri Manin
+
+** [[https://www.dpmms.cam.ac.uk/~ardm/hbslmag2.pdf][Hilbert, Bourbaki, and the Scorning of Logic (2011)]]
+A. R. D. Mathias
