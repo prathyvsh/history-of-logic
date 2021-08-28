@@ -465,3 +465,21 @@ Leibniz’s ideas deserve to be extensively commented. However, the problem of t
 This is a precarious position, indeed. The assessment of Leibniz’s position therefore requires a sophistication which does not attribute too much to him, and at the same time is able to acknowledge the great role he nevertheless played — as a symbol of epoch-making ideas and and of the civilizational turn.
 
 Descartes’ and Pascal’s preoccupation with the mind’s inner life counterbalances Leibniz’s tendency toward replacing mental acts by operations on symbols which could be formalized and mechanized. In the Cartesian-Pascalian perspective we see the mind as dealing with objects and relations which are so numerous, subtle and involved that in many cases a verbalization or symbolization must prove inadequate.
+
+* Chapter 4
+Between Leibniz and Boole: Towards the Algebraization of Logic
+
+** 4.1 Preliminary remarks
+
+The algebraization of logic initiated by Leibniz marked the decisize step towards the mechanization of argument.s Equally important was the introduction of variables combined with the conception of logical consequence as dependent solely on the logical form as, in turn, dependent solely on logical constants. But that was not so much a single step as the age-long process from Aristotle to the late scholasticism. The next turning point after algebraization is to be seen in the invention by Frege and later Russell of the calculus of quantifiers, which turned logic into a universal instrument of reasoning, yet at the price of what if we follow Hilbert who defined the axioms of that calculus as transfinite might be termed the infinitism of logic. In order to return to algebraic equations which offered the possibility of mechanical combinatorics performable by the computer it was necessary to find methods of eliminating the quantifiers, that is to do something which might in turn be termed the finitization of first order logic. As is known, that was achieved owing to skolem, Gentzen, Herbrand, and Beth.
+
+Thus the mechanization of logic proceeded in the three-stages development consisting of formalization, algebraization, and infinitization (intended to increase the strength of proofs) combined with the possibility of reducing the latter to a finitized form that can be processed mechanically.
+
+*** 4.2 Leibniz’s direct successors
+
+Bernoulli brothers.
+For Bernoulli algebra was superior to logic
+
+Christian Wolff: Abandoned the Cartesian view of logic under Leibniz’s influence. Cartesian view was marked by a negative assessment of all formalism, especially the syllogistic one, and postulated the pursuit of logic as a normative theory of controlling the mind, with the disregard of the role of language.
+
+After turning to Leibniz’s side, Wolff became an ardent adherent of syllogistic and the programme of pursuing it in the algebraic way as operations on symbols alone, whose meanings might be entirely disregarded. Wolff himself did not contribute to the implementation of that programme of algebraization of logic, but in view of the scope and strength of his influence one may assume that his agitation helped to consolidate that state of consciousness which ultimately brought the perfect rendering of logic in algebraic terms.
