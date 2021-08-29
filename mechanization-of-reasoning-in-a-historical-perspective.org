@@ -528,6 +528,37 @@ The same trend was embraced by Georg Jonathan Holland, an adherent of Ploucquet 
 ** 4.3 The work of J. H. Lambert
 Lambert’s works on logic fill at least seven volumes.
 
-Lambert’s work Logische und Philosophischen Abhandlungen (1782) had an editorial introduction written by Christoph Heinrich Müller, Lambert’s compatriot and friend. It mentions a certain conception of the mechanization of arguments. That conception must have been sufficiently interesting and comprehensible to the learned readers of that preiod, which is borne out by the fact that such an experienced editor as Müller, who was busy publishing German literature from the period 1050 – 1500, commented on it in such a way as the problem were something being a vogue.
+Lambert’s work Logische und Philosophischen Abhandlungen (1782) had an editorial introduction written by Christoph Heinrich Müller, Lambert’s compatriot and friend. It mentions a certain conception of the mechanization of arguments. That conception must have been sufficiently interesting and comprehensible to the learned readers of that period, which is borne out by the fact that such an experienced editor as Müller, who was busy publishing German literature from the period 1050 – 1500, commented on it in such a way as the problem were something being a vogue.
 
 Lambert was directly influenced above all by Locke and Wolff.
+
+We are here to do with a case in which the intersection, at a certain point of time, of two mutually independent processes opens a new stage in history. Such intersection may also appear in the fact that a certain group of scholars is engaged with similar intensity in both processes. This was just in the case under consideration: people strongly rooted in the tradition of scholastic logic came to be interested in algebra, and some of them proved creative in that newly born discipline called then logistic speciosa universalis, that is (in a free translation), the general theory of calculating with variables (i.e., sign denoting species of objects, e.g. numbers, instead of individual objects).
+
+Two ideas were drawn from the logic of Aristotle and the schoolmen. Each of them entered into a natural relationship with a certain algebraic concept in such a way that all components came to form a coherent whole. One of the ideas was that of finding the middle term as a means of constructing the proof. The problem consists in the fact how that still unknown middle term is to be found on the basis of what is known, namely the external terms and the intended conclusion. This task was generalized as the problem of finding new data of a definite kind on the basis of given data of a given kind. The logic conceived as the theory of such a search was termed logica inventionis which can be rendered as inventive logic or (more freely) logic of discovery.
+
+Thus generalized programme of inventive logic was characteristic of the Renaissance rather than of the Middle Ages, and had its standard-bearer in Francis Bacon, but the point of departure should be seen in the Middle Ages; a story related to that problem can be traced in Leibniz’s dissertation De arte combinatoria. Moreover, many scholars who combined interests in logic and algebra must have then been impressed by the analogy between such a finding of new data and the finding of the unknown in an algebraic equation.
+
+But if use was to be made of that analogy, the sentences considered in logic had to have a form analogical to that of equations. That would also result in the attractive possibility of constructing proofs by replacing one side of an equation by an expression equivalent to it (this was how the nature of the proof was conceived by Leibniz). But it is well known that none of the four types of categorical sentences of Aristotelian logic possesses the form of an equation.
+
+The theory of suppositions made medieval logicians used to thinking that what determines the logical function of an expression is not only its external form and the related lexical meanings, but also its context, and the intention of the speaker marked in some way. Hence, according to the context in question, an expression one and the same in its form could stand for an individual, either definite or indefinite; Latin did not make any formal distinction in that respect as it lacked articles; in another context a name could refer to a class of individuals, to a universal, etc. Upon that habit of thinking there was imposed the theory of the distribution of terms in categorical sentences. Taking a general term on one occasion in its full extension and on another occasion only in a part of the extension would amount to different suppositions. The latter of the two, that is the use of a term as denoting a subset (of the set which is the extension of a given term in its lexical meaning) can be indicated by a separate word (for instance aliquis i.e., ‘some’) or by the position in the context of a definite sentential structure, for instance, the position of the predicate in a general affirmative sentence (customarily denoted by SaP).
+
+There was the last step to be made. In contemporary logic, when traditional logic is interpreted in terms of the predicate calculus, SaP is treated as a record of an inclusion because both terms in the sentences are taken in their full extension. But if P is taken in a part of its extension, namely that which coincides with the extension of the subject, then SaP is expressing an equation which should be interpreted as =. In this way, we arrive at a form comparable with the form of an algebraic logic. It is worth noting that for the logicians who lived in the 17th and 18th century that interpretation was so obvious they did not think it necessary to explain the matter to the reader, which they would have to do if they addressed their texts to the 20th century readers (who have forgotten the old teachings on suppositions and the distribution of the syllogistic terms).
+
+Lambert says:
+#+BEGIN_QUOTE
+Logical analysis is an art of deducing unknown or sought concepts from known or given ones by means of identities. Since nothing can be found out of nothing, concepts have to be given to allow one to find the unknowns … General analysis (analytica logica speciosa, logistica speciosa universalis) is an art of deducing concepts from general and indefinite ones. Since the concepts needed for that purpose are indefinite, one cannot use words as these denote definite concept. The most appropriate thing is, therefore, to use letters and other signs as it is also the case in algebra.
+#+END_QUOTE
+
+An example:
+
+A certain technical solution which makes it possible to impart to a sentences of the type SaP the form of identity:
+S = xP,
+
+where juxtaposition is the logical equivalent of the algebraic operation of multiplication, and the symbol x stands for an object which, when multiplied by P yields an object identical with V. For instance, the sentence, “Every Greek is intelligent” is interpreted as:
+
+The set of Greeks is identical with a certain subset of intelligent beings. That subset is obtained by the intersection of the set of intelligent beings with some other set, in the above formula represented by j, that is, according to Lambert’s expression, an indefinite coefficient. Thus, the syllogism Barbara is reconstructed as the following set of identitieus:
+
+M = xP, s = yM
+
+On replacing M in the second premise by xP, we arrive at the conclusion:
+S = yxP
