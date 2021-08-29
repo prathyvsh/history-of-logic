@@ -1256,7 +1256,11 @@ Credited by De Morgan as single handedly bringing about a revival in English sch
 ** Logic, in reference to the recent English treatises on that science (1833)
 Available in [[https://archive.org/details/discussiononphil00hamiuoft][Discussions on Philosophy and literature (1861)]]
 
-** Institutio logicae (1687)
+** Institutio logicae (1867)
+
+** Lectures on Metaphysics and Logic (1860)
+
+*** Quantification of Predicate
 
 * Dugald Stewart (1753 – 1828)
 
