@@ -512,3 +512,22 @@ forAll(x, S(x) => p(x)), and not as the equivalence, forAll(x, S(x) <=> p(x))
 that would be at variance with the reversibility (reciprocality) stated in the text quoted above. This is a warning against the interpretation of traditional logic in terms of the quantification calculus with disregard of the context of the old traditional theory. This is so because in those theories which use the algorithm of the recognition of the correct conclusion, based on the concept of distribution of terms, the predicate in a general affirmative sentence has as its extension a certain subset o the set denoted by that predicate in other contexts (or outside of context) precisely that subset which coincides with the extension of the subject.
 
 Now we can follow the reasoning having in view the fact that with our author juxtaposition is a syntactical indicator of affirmative sentences, whereas for negative ones he used his own symbol of the relation of exclusion.
+
+This is reasoning for testing the correctness of syllogism, which is an algorithm that refers solely to syntactic features, that is the shape and position of symbols, as arithmetical algorithms do. We have to do with the following rules: 
+1) It is allowed to transpose letters
+2) It is allowed to replace a capital letter by a lowercase one
+3) Given a sequence of pairs of letters such that the consequent in every pair is identical with the antecedent of the next one. It is allowed to accept the sequence of letters consisting of all antecedents and the last consequent, for instance to pass from ab, be to abc (to be read: a is b and c, for instance from “the lion is a cat” and “the cat is predator” we pass to “the lion is a predatory cat”.
+4) In such a sequence of letters it is allowed to omit any letter except for the first and last one.
+
+After such a reconstruction of Ploucquet’s procedure it can better be understood why he considered it as a procedure analogical to the calculus carried out on symbols. Its discouraging intricacy largely explains why, even though Ploucquet’s works were popular in his times, he did not become the Boole of the 18th century.
+
+Ploucquet is an important witness of his epoch in which syllogistic played an important role as the experimental field for the endeavours to transform logic into an algebraic calculus.
+
+The same trend was embraced by Georg Jonathan Holland, an adherent of Ploucquet in the latter’s polemic with Lambert.
+
+** 4.3 The work of J. H. Lambert
+Lambert’s works on logic fill at least seven volumes.
+
+Lambert’s work Logische und Philosophischen Abhandlungen (1782) had an editorial introduction written by Christoph Heinrich Müller, Lambert’s compatriot and friend. It mentions a certain conception of the mechanization of arguments. That conception must have been sufficiently interesting and comprehensible to the learned readers of that preiod, which is borne out by the fact that such an experienced editor as Müller, who was busy publishing German literature from the period 1050 – 1500, commented on it in such a way as the problem were something being a vogue.
+
+Lambert was directly influenced above all by Locke and Wolff.
