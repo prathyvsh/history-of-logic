@@ -585,3 +585,37 @@ SeP
 SoP
 
 called the categorical sentences.
+
+Aristotle observed that one can build valid schemas of inference consisting of two premises and a conclusion being categorical sentence - they are called categorical syllogisms. If we assume that every term in a syllogism stands for a non-emptyc lass then we get that 24 out of 256 possible combinations are valid inferences.
+
+Attempts were made by Francis Bacon, Christoph von Sigwart, and Wilhelm Schuppe.
+
+Quantification of Predicate
+
+William Hamilton noticed that the predicate term in each of Aristotle’s four basic assertions SaP, SiP, SeP, SoP is ambiguous in the sense that it does not tell us whether we are concerned with all or part of the predicate. Hence one should increase the precision of those four statements by quantifying their predicates. In this way we get 8 assertions instead of Aristotle’s four:
+
+all S is all P
+all S is some P
+no S is all P
+no S is some P
+some S is all P
+some S is some P
+some S is not all P
+some S is not some P
+
+Using those 8 basic propositions we can combine them to form 512 possible moods of which 108 prove to be valid. The usage of statements with quantified predicates allows us higher precision than it was possible before. For example, the old logic would treat “All men are mortal” and “All men are featherless bipeds” as identical in form; whereas in the new system we see at once that the first statement is an example of “All S is some P” and the second is an example of “All S is all P”. But there arose some problems. It was difficult to express those new statements with quantified predicates in a common speech. Without developing a really complete and precise system of notation one finds himself forced to employ words in a clumsy and barbarous way. Hamilton was aware of it and attempted to remedy the obscurity of phrasing by devising a curious system of notation. Though it was really curious and rather useless in practice it was important for two reasons: it had the superficial appearance of a diagram and it led Hamilton to the idea that by transforming the phrasing of any valid syllogism with quantified predicates it may be expressed in statements of equality. The latter suggested that logical statements might be reduced to something analogous to algebraic equations and so gave encouragement to those who were seeking a suitable algebraic notation. Some logicians such as Howard Gardner in his Logic, Machines, and Diagrams (1958) are of the opinion that this was Hamilton’s only significant contribution to logic.
+
+The idea of quantification of predicate in the syllogism can be found also in papers of another English logician Augustus De Morgan. He was a mathematician and worked not only in logic but also in algebra and analysis. It was De Morgan who introduced the notion “mathematical induction” which was popularized later thanks to the book on algebra written by Isaac Todhunter.
+
+Augustus De Morgan’s earlier logical works written before 1859 were devoted to the study of the syllogism. He introduced independently a system more elaborated than Hamilton’s one. Hamilton accused him of plagiarism and for many years the two men argued with each other in books and magazine articles. This debate had also serious consequences. Namely, it caused George Boole’s renewed interest in logic which led him to write the book Mathematical Analysis of Logic published in 1847.
+
+Trying to reshape and to enlarge the Aristotelian syllogism (cf. the book Formal Logic, or the Calculus of Inference Necessary and Probable of 28147) De Morgan observed that in almost all languages there are so called positive and negative terms. Even if in a language there are no special words indicating this dichotomy, nevertheless every notion divides the universe of discourse into two parts: elements having properties indicated by the given term and those which do not have those properties. Hence if X denotes a certain class of objects then all elements of the universe which are not X can be described as not-X. The latter is denoted by De Morgan by x. In this way the difference between positive and negative terms disappears and they are possessing equal rights. This enable De Morgan to consider instead of two terms of the traditional syllogistic X, Y, four pairs of terms: X, Y; x, y, X, y; x, Y which give 16 logical combinations, 8 of which are different. He introduced various types of notations for them. The first two consisted of letters and resembled the traditional notation: a, i, e, o; the latter two consisted of systems of parentheses.
+
+all X is all Y | A: X ) Y | X))Y
+no x is all Y | E: X.Y or X)y | X).(Y
+some X is Y | I: XY | X()Y 
+some X is no y | O: X : Y or X)y | X(.(Y or X()y
+no x is no y | a: x)y or Y)X | x))y or X((Y
+no x is no y | e: x)Y or x.y | x )) Y or x(.)Y
+some no x is no y | i: xy | x()y or X)(Y
+some no x is all Y | o: xy or x : y or Y : X | x()Y or x).)y
