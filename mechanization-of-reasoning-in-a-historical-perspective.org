@@ -619,3 +619,46 @@ no x is no y | a: x)y or Y)X | x))y or X((Y
 no x is no y | e: x)Y or x.y | x )) Y or x(.)Y
 some no x is no y | i: xy | x()y or X)(Y
 some no x is all Y | o: xy or x : y or Y : X | x()Y or x).)y
+
+We see that De Morgan’s symbols introduced to express the old and new types of syllogisms were not algebraic. But he found that his symbols can be manipulated in a way that resembled the familiar method of manipulation of algebraic formulae.
+
+He established certain connection between the above statements which he called simple. The sign = was used by De Morgan in two meanings. It meant both “equivalent” and “implies”.
+
+Having introduced some fundamental relations De Morgan developed his theory of syllogism. He considered not only syllogism with simple premises but also with complex ones (which he called complex syllogism).
+
+After having introduced operations which we call today the negation of a product and sum he established the following connections:
+
+negation of PQ is p * q
+negation of P * Q is pq
+
+He noted also the law of distributivity:
+(P * Q)(R * S) = PR * PS * QR * QS
+
+Here we see that developing the theory of syllogism, De Morgan came to the idea of what we call today Boolean algebra. He did it independently of George Boole.
+
+De Morgan not only extended the traditional syllogistic but introduced also new types of syllogisms. In Budget of Paradoxes (1872) he summarized his work under six heads, each propounding a new types of syllogism: relative, undecided, exemplar, numerical, onzymatic and transposed.
+
+De Morgan’s most lasting contribution to logic is when he moved beyond the syllogism to investigate the theory of syllogism in “On the syllogism no IV and on logic in general” from 1859. His ideas and conceptions were later on developed by various logicians, first of all by Charles Sanders Peirce, Ernst Schröder, Giuseppe Peano, Georg Cantor, Gottlob Frege, and Bertrand Russell. Charles Peirce wrote that De Morgan was “one of the best logicians of all time and undoubtedly a father of the logic of relatives”.
+
+In the work “On the syllogism no IV”, De Morgan noted that the doctrine of syllogism, which he had discussed in his Formal Logic (1847) and in earlier papers was only a special case in the theory of the composition of relations. Hence he went to a more general treatment of the subject. He stated that the canons of syllogistic reasoning were in effect a statement of the symmetrical (De Morgan called it convertible) and transitive character of the relation of identity. He suggested symbols for the converse and the contradictory (he said “contrary”) of a relative and for three different ways in which a pair of relatives may be combined (by “relative” he meant what some logicians had called a relative term, i.e. a term which applies to something only in respect of its being related to something else).
+
+De Morgan showed that the converse of the contradictory and the contradictory of the converse are identical. He set out in a table the converse, the contradictory and the converse of the contradictory of each of the three combinations and proved that the converse or the contradictory or the converse of the contradictory of each such combination is itself a combination of one of the kinds discussed.
+
+Papers of De Morgan, though containing new and interesting ideas were not easy to read. They were full of ambiguities and technical details which made them difficult to study. Nevertheless they contributed in a significant way to the development of mathematical logic.
+
+*** 5.2 George Boole and his algebra of logic
+
+Boole was interested in logic already in his teens, working as an usher in a private school at Lincoln and educating himself by extensive reading. From that time came his idea that algebraic formulae might be used to express logical relations.
+
+Boole and De Morgan were in correspondence over a long period (1842 – 1864). They exchanged scientific ideas and discussed various problems of logic and mathematics.
+
+The main logical works of George Boole are two books:
+
+- The Mathematical Analysis of Logic, Being An Essay Toward A Calculus of Deductive Reasoning (1847)
+- An investigation of The Laws of Thought, on which are founded the Mathematical Theories of Logic and Probabilities (1854)
+
+The second book of George Boole, An investigation of the Laws of Thought was not very original. It was the result of Boole’s studies of works of philosophers on the foundations of logic. The chief novelty of the book was the application of his ideas to the calculus of probabilities. There was no important change on the formal side in comparison with Mathematical Analysis of Logic.
+
+We should also mention here also his paper “On the calculus of logic” (1848) which contained a short account of his ideas from the pamphlet from 1847. It may be supposed that it was more widely read among mathematicians than Mathematical Analysis of Logic.
+
+Boole was not satisfied with the exposition of his ideas in his books. He was working towards the end of his life on the new edition of the Laws of Thought preparing various improvements. From the drafts published in Studies in Logic and Probability (1952) it follows that what he had in mind was a development of his epistemological views rather than any alteration of the formal side of his work. He mentions in particular  distinction between the logic of class (i.e. his calculus of logic) and a higher, more comprehensive, logic that cannot be reduced to a calculus but may be said to be “the Philosophy of all thought which is expressible in signs, whatever the object of that thought”.
