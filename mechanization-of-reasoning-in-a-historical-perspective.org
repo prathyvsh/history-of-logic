@@ -38,7 +38,6 @@ CU = <Information + Data + Machines?;
        PrT[t1,t2,i],
        Cns[s1,x]>
 
-
 Rec[d,i]: Piece of data d is assigned the information i.
 PrI[i,j]: Transforming information into pieces of information
 PrD: Transforming data into data
@@ -562,3 +561,27 @@ M = xP, s = yM
 
 On replacing M in the second premise by xP, we arrive at the conclusion:
 S = yxP
+
+Leibniz als Identifikationsfigure der Britischen Logiker des 19. Jahrhunderts - Volker Peckhaus (1994)
+
+The research of Volker Peckhaus is to the effect that Boole and his British colleagues first discovered the algebra of logic, and then learned that it has been alreday discovered by Leibniz. This is not to mean that the same was made twice; in Leibiz one finds just some primordial ideas. Anyway, the consciousness of anticipating those achievements by Leibniz proved a significant circumstance in the further development. The problem of how much modern logic, especialyl, algebra of classes was anticipated by Leibniz belongs to main issues in Leibniz scholarship. In this book a rather conservative attitude is assumed, for bolder interpretations require more research. Among those who pioneer such a bolder approach there is Wolfgang Lenzen.
+
+The statement of that sigificance may seem strange, since the lack of any causal nexus between a forerunner and a genuine originator, in the case of Leibniz and Boole confirmed by most recent investigations sohuld imply that the history would have developed in the identical way even if the forerunner had never existed. However, this is not the case in the ihstory in question, which can be explained by a kind of feedback between own results and their later detecte anticipation. Boole and other British logicians, including Jevons (specially important because of the step he made from algebraization to mechanization) not only produced technical results but also entertained some philosophical ideas which did not conform to the empiristic trend, characteristic of the British philosophy. It required a strong belief that the laws of thought were independent from empirical reality, in order to overcame the pression of the British empiristic orthodoxy; that belief gained a new vigour, due to its meeting with Leibniz’s tenets, in the period in which it must have fought for recognition and standing in the British philosophy (had not such a recognition become the case, there would not have been the way paved to Russell’s (1900) seminal work on Leibniz).
+
+For instance, William Stanley Jevons contrary to the teachigs of John Stuart Mill, William Whewell, etc., tried to deductively establish the scientific method on the basis of Boole’s logical principles. As for Boole himself, he voiced his conviction that the laws of logic have a real existence as laws of the human mind, independent from any observable facts (contrary to the creed of the British empiricism). As commented by Peckhaus, such statements of Boole prove his affinity with Leibniz. This may be taken as a proof of reality of what in German is called Geistesgeschichte, that is the history of objective ideas which must come into being, due to their internal logic, in a way which is relatively independent from biographical circumstances.
+
+* Chapter Five
+The English Algebra of Logic in the 19th Century
+
+The idea of the mathematization of logic and the development of the formal algebra in the 19th century were sources of the algebra of logic established by De Morgan, Boole, and Jevons. It was in fact the beginning of the mathematical logic. The old idea of a logical calculus which would enable the analysis of logical reasoning with the help of a procedure similar to the procedure of solving equations in algebra was realized.
+
+** 5.1 De Morgan’s Syllogistic and the Theory of Relations
+
+In traditional logic, we have statements of the form:
+
+SaP
+SiP
+SeP
+SoP
+
+called the categorical sentences.
