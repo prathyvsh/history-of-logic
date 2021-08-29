@@ -662,3 +662,58 @@ The second book of George Boole, An investigation of the Laws of Thought was not
 We should also mention here also his paper “On the calculus of logic” (1848) which contained a short account of his ideas from the pamphlet from 1847. It may be supposed that it was more widely read among mathematicians than Mathematical Analysis of Logic.
 
 Boole was not satisfied with the exposition of his ideas in his books. He was working towards the end of his life on the new edition of the Laws of Thought preparing various improvements. From the drafts published in Studies in Logic and Probability (1952) it follows that what he had in mind was a development of his epistemological views rather than any alteration of the formal side of his work. He mentions in particular  distinction between the logic of class (i.e. his calculus of logic) and a higher, more comprehensive, logic that cannot be reduced to a calculus but may be said to be “the Philosophy of all thought which is expressible in signs, whatever the object of that thought”.
+
+What stimulated the interest of Boole in mathematical logic was not only the dispute between De Morgan and Hamilton but also the discussion of the nature of algebra shortly before he wrote his papers. The papers of Peacock, Sir William Rowan Hamilton, De Morgan, and Gregory (a personal friend of Boole and the editor of “Cambridge Mathematical Journal”) are worth mentioning here. Boole’s aesthetic interest in mathematics led him to value very highly all attempts to achieve abstract generality.
+
+Boole started from the following ideas which were at least implicitly in papers of his contemporaries:
+i) there could be an algebra of entities which are not numbers in any ordinary sense
+ii) the laws which hold for types of numbers up and including complex numbers need not all be retained in an algebraic system not applicable to such numbers. He saw that an algebra could be developed as an abstract calculus capable of various interpretations.
+
+What is really new in Boole’s works is not the idea of an un-quantitative calculus, it was already by Leibniz and Lambert but a clear description of the essence of the formalism in which the validity of a statement “does not depend upon the interpretation of the symbols which are employed, but solely upon the laws of their combination”. Boole indicates here that a given formal language may be interpreted in various ways. Hence he sees logic not as an analysis of abstracts from real thoughts but rather as a formal construction for which one builds afterwords an interpretation. This is really quite new in comparison with the whole tradition including Leibniz.
+
+One can say that the relation of Boole to Leibniz is the same as was the relation of Aristotle to Plato. In fact, we find by Boole, as it was by Aristotle, not only the ideas, but also a concrete implementation of them, a concrete system.
+
+What was built by Boole was not a system in our nowadays meaning he did not distinguish between properties of operations which are assumed and properties which can be proved or derived from the assumptions.
+
+Symbols x, y, z, etc. denoted classes in Boole’s papers. He did not distinguish very sharply between class symbols and adjectives. Sometimes he called the letters x, y, z etc. elective symbols thinking of them as symbols which elect (i.e. select) certain things for attention. The symbol = between two class symbols indicated that the classes concerned have the same members. He introduced 3 operations on classes:
+i) intersection of 2 classes denoted by xy (i.e. the class consisting of all the things which belong to both those classes)
+ii) the exclusive union of two classes, i.e. if x and y are two mutually exclusive classes then x + y denotes the class of things which belong either to the class denoted by x or to the class denoted by y
+iii) subtraction of two classes, i.e. if every element of the class y is an element of the class x then x - y denoted the class of those elements of x which are not elements of y.
+
+He introduced also special symbols for two classes which form, so to say, limiting cases among all distinguishable classes, namely the universal class, or the class of which everything is a member (denoted by 1) and the null class, or the class of which nothing is a member (denoted by 0). The introduction of those classes involves an interesting novelty with respect to the tradition coming from Aristotle who confined his attention to general terms which were neither universal in the sense of applying to everything nor yet null in the sense of applying to nothing. Boole denoted by 1 what De Morgan called the universe of discourse, i.e. not the totality of all conceivable objects of any kind whatsoever, but rather the whole of some definite category of things which are under discussion.
+
+Having introduced the universe class, Boole wrote 1 - x for the complement of the class x. The operation of intersection of classes resembles the operation of multiplication of numbers. But there is an important peculiarity observed by Boole. Namely if x denotes a class then xx = x and in general x^n = x. Boole says in Mathematical Analysis of Logic that it is the distinguishing feature of his calculus. The analogy between intersection and multiplication suggests also the idea of introducing to the calculus for classes an operation resembling division of two numbers. Boole writes that this analogue may be abstraction. Let x, y, z denote classes related in the way indicated by the equation x = yz. We can write z = x/y expressing the fact that z denotes a class we reach by abstracting from the membership of the class x the restriction of being included in the class y. But this convention has two limits. First the expression x/y can have no meaning at all in the calculus of classes if the class x is not a part of the class y and secondly, the expression x/y is generally indeterminate in the calculus of classes, i.e., there may be different classes whose intersections with the class y are all coextensive with the class x.
+
+The introduced system of notation suffices to express A, E, I, and O propositions of traditional logic (provided that A and E propositions are taken without existential import). If the symbol x denotes the class of X things and the symbol y the class of Y things, then we have the following scheme:
+
+all X is Y | x(1-y) = 0
+no X is Y | xy = 0
+some X is Y | xy not= 0
+some X is not Y | x(1-y) not= 0
+
+Since the last two statements are represented by inequalities and Boole preferred to express all the traditional types of categorical propositions by equations, he wrote:
+
+some X is Y as xy = v
+some X is not Y as x(1-y) = v
+
+The letter v seems to correspond to the English word “some”. IT is said to stand for a class “indefinite in all respects but one”, namely that it contains a member or members.
+
+But this convention is unsatisfactory. In Boole’s system, the letter v can be manipulated in some respects as though it were a class symbol. This may suggest mistaken inferences. For example one may be tempted to infer from the equations: ab = v and cd = v that ab = cd. Boole himself did not fall into such fallacies by putting restrictions on the use of the letter v which are inconsistent with his own description of it as a class symbol. It seems that a reason and purpose of introducing the symbol v is the desire to construct a device for expressing all Aristotelian inferences, even those depending on existential import.
+
+He had the following formulae indicating the connections between various operations on classes:
+1) xy = yx
+2) x + y = y + x
+3) x(y + z) = xy + xz
+4) x(y - z) = xy - yz
+5) if x = y then xz = yz
+6) if x = y then x + z = y + z
+7) if x = y then x - z = y - z
+8) x(1 - x) = 0
+
+The formula 1-7 are similar in form to rules of ordinary numerical algebra. Formula 8 is different. But Boole pointed out that even it can be interpreted numerically by thinking of the variables as admitting only the values 0 and 1.
+
+It might be tempting to think that Boole’s system is a two-valued algebra. But this is a mistake. In fact, Boole did not distinguish sharply between his original system and a narrower system satisfying additionally the following principle: 9) either x = 1 or x = 0
+
+If we interpret the system in terms of classes, then the principle 9) is not satisfied and if we interpret it numerically then the system satisfies even 9.
+
+In both his books, The Mathematical Analysis of Logic and An Investigation of the Laws of Thought, Boole suggested a convention that the equations x = 1 and x = 0 may be taken to mean that the proposition X is true or false, respectively. Consequently the truth-values of more complicated propositions can be represented by combinations of small letters, e.g. the truth-value of the conjunction of the proposition X and Y by xy and the truth-value of their exclusive disjunction by x + y. This enables us to interpret the Boole’s system in terms of the truth-values of propositions with symbols 1 and 0 for truth and falsity respectively. This interpretation was worked out by Boole himself without use of the phrase “truth-value” which was invented later by Frege.
