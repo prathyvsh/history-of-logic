@@ -646,7 +646,7 @@ De Morgan showed that the converse of the contradictory and the contradictory of
 
 Papers of De Morgan, though containing new and interesting ideas were not easy to read. They were full of ambiguities and technical details which made them difficult to study. Nevertheless they contributed in a significant way to the development of mathematical logic.
 
-*** 5.2 George Boole and his algebra of logic
+** 5.2 George Boole and his algebra of logic
 
 Boole was interested in logic already in his teens, working as an usher in a private school at Lincoln and educating himself by extensive reading. From that time came his idea that algebraic formulae might be used to express logical relations.
 
@@ -669,7 +669,7 @@ Boole started from the following ideas which were at least implicitly in papers 
 i) there could be an algebra of entities which are not numbers in any ordinary sense
 ii) the laws which hold for types of numbers up and including complex numbers need not all be retained in an algebraic system not applicable to such numbers. He saw that an algebra could be developed as an abstract calculus capable of various interpretations.
 
-What is really new in Boole’s works is not the idea of an un-quantitative calculus, it was already by Leibniz and Lambert but a clear description of the essence of the formalism in which the validity of a statement “does not depend upon the interpretation of the symbols which are employed, but solely upon the laws of their combination”. Boole indicates here that a given formal language may be interpreted in various ways. Hence he sees logic not as an analysis of abstracts from real thoughts but rather as a formal construction for which one builds afterwords an interpretation. This is really quite new in comparison with the whole tradition including Leibniz.
+What is really new in Boole’s works is not the idea of an unquantitative calculus, it was already by Leibniz and Lambert but a clear description of the essence of the formalism in which the validity of a statement “does not depend upon the interpretation of the symbols which are employed, but solely upon the laws of their combination”. Boole indicates here that a given formal language may be interpreted in various ways. Hence he sees logic not as an analysis of abstracts from real thoughts but rather as a formal construction for which one builds afterwords an interpretation. This is really quite new in comparison with the whole tradition including Leibniz.
 
 One can say that the relation of Boole to Leibniz is the same as was the relation of Aristotle to Plato. In fact, we find by Boole, as it was by Aristotle, not only the ideas, but also a concrete implementation of them, a concrete system.
 
@@ -803,10 +803,10 @@ What was the meaning and significance of Boole’s ideas for the development of 
 
 The chief novelty in his system is the theory of elective functions and their development. Those ideas can be met already by Philo of Megara but Boole was the first who treated these topics in a general fashion. What more, Boole’s methods can be applied in a mechanical way giving what is called today a decision procedure.
 
-To give the full account of the development one should mention here also Hugh MacColl, who in the paper “The Calculus of Equivalent Sttatements” has put forward suggestions for a calculus of propositions in which the asserted principles would be implications rather than equations (as it was by Boole). He proposed an algebraic system of the propositional calculus in the spirit of Boole. This was an attempt to overcome the lack of Boole’s systems and may be treated as a climax in the development of mathematical logic before Frege, who proposed a complete calculus of propositions.
+To give the full account of the development one should mention here also Hugh MacColl, who in the paper “The Calculus of Equivalent Statements” has put forward suggestions for a calculus of propositions in which the asserted principles would be implications rather than equations (as it was by Boole). He proposed an algebraic system of the propositional calculus in the spirit of Boole. This was an attempt to overcome the lack of Boole’s systems and may be treated as a climax in the development of mathematical logic before Frege, who proposed a complete calculus of propositions.
 
 ** 5.3 The logical works of Jevons
-One of the persons who saw importance of Boole’s work was William Stanley Jevonse, a logician and economist. He regarded Boole’s achievements as the greatest advance in the history of logic since Aristotle. But he noticed also defects of Boole’s system. He believed that it was a mistake that Boole tried to make his logical notation resemble algebraic notation. He saw the weakness in Boole’s preference for the exclusive rather than the inclusive interpretation for “or”.
+One of the persons who saw importance of Boole’s work was William Stanley Jevons, a logician and economist. He regarded Boole’s achievements as the greatest advance in the history of logic since Aristotle. But he noticed also defects of Boole’s system. He believed that it was a mistake that Boole tried to make his logical notation resemble algebraic notation. He saw the weakness in Boole’s preference for the exclusive rather than the inclusive interpretation for “or”.
 
 His own system was supposed to overcome all those defects. Jevons devised a method called by him the “method of indirect inference”.
 
@@ -820,7 +820,7 @@ X(Y + Z) = XY + XZ
 
 He also used the principle of identity X = X, of contradiction Xx = 0 (Jevons symbolized a complement using a lowercase letter, he borrowed this convention from De Morgan) as well as tertium non datur X + x = 1and the rule of substitution of similars. The last rule is used by him for verification of inferences.
 
-For Barbar,
+For Barbara,
 SaM
 MaP
 SaP
@@ -859,7 +859,7 @@ The first electrical analogue of Jevons’ machine was suggested by Allan Marqua
 
 What was the import of Jevons’ contribution to the development of logic? First of all he developed the ideas and methods of Boole removing some of their defects, e.g. introducing the inclusive interpretation of “or” what made possible a great simplification and what was welcome by all later writers on the algebra of logic. He did also very much to mechanize Boole’s methods inventing various devices which facilitated the practical usage of them.
 
-*** 5.4 John Venn and logical diagrams
+** 5.4 John Venn and logical diagrams
 There was a strong rivalry between Venn and Jevons.
 In Venn’s opinion the aim of symbolic logic was to build a special language which would enable “to extend possibilities of applying our logical processes using symbols”.
 
@@ -872,3 +872,38 @@ One can define a logical diagram as a 2D geometric figure with spatial relations
 As a first important step toward a diagrammatic method sufficiently iconic to be serviceable as a tool for solving problems of class logic we may consider the use of a simple closed curve to represent a class. It is impossible to say who used it first. We must mention here J. Ch. Sturm and his Universalia Euclidea (1661), G. W. Leibniz (who used circles and linear diagrams), J. Ch. Lange (and his Nucleus logicae weisianae, J. H. Lambert (and his linear method of diagramming explained in Neues Organon) and L. Euler. The latter introduced them into the history of logical analysis.
 
 John Venn’s method is a modification of Euler’s. It has elegantly overcome all limitations of the latter.
+
+There are diagrammatic methods invented by Allan Marquand, Alexander Macfarlane, W. J. Newlin, W. S. Hocking, and Lewis Carol.
+
+Venn’s diagrams can be used for solving problems not only in the class logic but also in the propositional calculus. Using this procedure we can solve with the help of diagrams various problems of propositional logic which concern simple statements without parentheses. In the latter case some insolvable difficulties arise.
+
+It is not true that Venn only improved slightly Euler’s method by changing shapes of figures. The main difference between Euler and Venn lies in the fact that Venn’s method was based on the idea of decomposition of the universe into constituents (which we do not have by Euler). Diagrams served Venn not only to illustrate solutions obtained in another way but they were in fact a method of solving logical problems.
+
+** 5.5 Conclusions
+
+The analogy between logic and algebra which led to the origin of the algebra of logic was the following: a solution of any problem by solving an appropriate equation is in fact a derivation of certain consequences from the initial conditions of the problem. Hence the idea of extending this method to problems of unquantitative character. This tendency had a source and a good motivation also in Leibniz’s works and ideas.
+
+The problem was to develop, in analogy to the algebra, a method of expressing unquantitative information in the form of equations and to establish rules of transformation of those equations. This led to the construction of systems called today Boolean algebras.
+
+Thought: The distinction between Boole’s algebra and Boolean algebra is noted here.
+
+They were formulated in the language of classes as extension of concepts. Later another interpretation - namely the logic of propositions was developed. In this way logic was freed from the domination of epistemology and so its revival as an independent science was brought. It was shown that logic can be studied without any reference to the processes of our mind.
+
+Later logicians such as Peirce, Gergonne, and Schröder developed the algebra of logic, removing the imperfections.
+
+* Chapter 6
+The 20th Century Way to Formalization and Mechanization
+
+** 6.1 Introduction
+
+The logic of 20th century where the development of the idea of formalization and mechanization took place, there were two traditions. The first, often called algebraic, originated with Augustus De Morgan and George Boole and grew through the researches of their English followers such as Jevons and Venn, as well as those of Peirce in the United States and Schröder in Germany. They treated the analogy between the laws of algebra and the laws of logic as a guide in their investigations. Their aim was to develop a method of expressing unquantitative information in the form of equations and to establish rules of transformations of those equations. Systems constructed by them have various interpretations: class-theoretic, propositional etc. Generally speaking they investigated the following sort of questions: given an equation between two expressions of the calculus, can that equation be satisfied in various domains. It should be admitted that they had no notion of a formal proof.
+
+The second tradition, often called the logistic method, can be characterized by a new aim. It was developed to build foundations of mathematics as science and consequently mathematics and mathematical methods were no longer treated as a pattern for logic but rather as a subject of logical studies. Peano and Frege can be seen as founders of this tradition. It was later developed and perfected by Bertrand Russell.
+
+** 6.2 Peano’s symbolism and axioms for mathematics
+
+Early logical works of the italian mathematician Giuseppe Peano were based on the ideas of the algebra of logic.
+
+Calcolo Geometrico secondo I’Ausdehnungslehre di H. Grassmann, preceduto dalle operazioni della logica deduttiva (1888)
+
+Peano used there the logic of George Boole, Peirce, and Schröder in mathematical investigations but introduced into it a number of innovations: he used for example different signs for logical and mathematical operations, introduced the distinction between categorical and conditional propositions that was to lead him to quantification theory.
