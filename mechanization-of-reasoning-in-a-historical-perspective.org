@@ -840,6 +840,35 @@ aBc
 abC
 abc
 
-Jevons called such a list an “abecedarium” and later a “logical alphabet”. The premise “All A is B” tells us that the classes Abc and AbC are empty. Similarly from “No B is C”, it follows that ABC and aBC are empty. The final step is now to inspect the remaining classes, all constituents with the premises, to see what we can determine about the relation of A to C. We note that “No A is C” (there are no remaining combinations containing both A and C). In this way, we got a reasoning known in the traditional logic as Celarent. Similarly, under the additional assumption that none of the three classes A, B, C is empty, we can conclude that “Some A is not C”, “Some not-A is C” etc. What is important heer is the fact that Jevons’ system was not limited to the traditional syllogistic conclusions (and he was very proud of it).
+Jevons called such a list an “abecedarium” and later a “logical alphabet”. The premise “All A is B” tells us that the classes Abc and AbC are empty. Similarly from “No B is C”, it follows that ABC and aBC are empty. The final step is now to inspect the remaining classes, all constituents with the premises, to see what we can determine about the relation of A to C. We note that “No A is C” (there are no remaining combinations containing both A and C). In this way, we got a reasoning known in the traditional logic as Celarent. Similarly, under the additional assumption that none of the three classes A, B, C is empty, we can conclude that “Some A is not C”, “Some not-A is C” etc. What is important here is the fact that Jevons’ system was not limited to the traditional syllogistic conclusions (and he was very proud of it).
 
-Jevones, as most of other logicians of that time, confined his attention almost exclusively to class logic. He combined statements of class inclusion with conjunctive and disjunctive assertions but almost never worked with truth-value relations alone. He prefered also, like Boole, to keep his notation in the form of equations (writing for example A = AB to express the fact that all A is B). This preference for “equational logic” as Jevons called it was one of the reasons of the fact that he did not consider problems of a truth-value nature (though his method operates very efficiently with such problems).
+Jevons, as most of other logicians of that time, confined his attention almost exclusively to class logic. He combined statements of class inclusion with conjunctive and disjunctive assertions but almost never worked with truth-value relations alone. He preferred also, like Boole, to keep his notation in the form of equations (writing for example A = AB to express the fact that all A is B). This preference for “equational logic” as Jevons called it was one of the reasons of the fact that he did not consider problems of a truth-value nature (though his method operates very efficiently with such problems).
+
+The methods of Boole and of Jevons were suitable for a mechanization. Jevons devised a number of laborsaving devices to increase the efficiency of his method. The most important were his “logical abacus” and his “logical machine”.
+
+Jevons created a logical machine to express the formalisms and get the computed output. It had some defects:
+
+1) Since statements should be fed to the machine in a clumsy equational form, it is made unnecessarily complicated
+2) There was no efficient procedure of feeding “some” propositions to it
+3) It was cumbersome to extend the mechanism to a large number of terms (Jevons planned to build a machine for ten terms but abandoned the project when it became clear that the device would occupy the entire wall space of one side of his study)
+4) the machine merely exhibits all the consistent lines of the logical alphabet but it does not perform the analysis of them to indicate the desired conclusion.
+
+Jevons’ idea of building a logical machine was developed after him. Several other devices were proposed. Allan Marquand, Charles P. R. Macaulay, Annibale Pastore were some of the notable efforts.
+
+The first electrical analogue of Jevons’ machine was suggested by Allan Marquand in 1885 and in 1947 an electrical computer was constructed at Harvard by T. A. Kalin and W. Burkhart for the solution of Boolean problems involving up to 12 logical variables (i.e. propositions or class letters).
+
+What was the import of Jevons’ contribution to the development of logic? First of all he developed the ideas and methods of Boole removing some of their defects, e.g. introducing the inclusive interpretation of “or” what made possible a great simplification and what was welcome by all later writers on the algebra of logic. He did also very much to mechanize Boole’s methods inventing various devices which facilitated the practical usage of them.
+
+*** 5.4 John Venn and logical diagrams
+There was a strong rivalry between Venn and Jevons.
+In Venn’s opinion the aim of symbolic logic was to build a special language which would enable “to extend possibilities of applying our logical processes using symbols”.
+
+He used Latin letters as symbols of classes, 0 and 1 as symbols of the null and universe classes, respectively, introduced complement, intersection, union, subtraction and division of classes. By x - y he meant the class remaining after elimiantion from the class x the elements of the class y provided that y is a part of x. Subtraction was a converse operation to the union. Similarly division was considered as a converse to the intersection. It was not determined uniquely. The expression x > 0 denoted the fact that the class x is not empty. It was a negation of the expression x = 0. The equation x = y was understood by Venn as the sentence “there are no entities which belong to x but do not belong to y and there are no entities belonging to y but not to x”. He wrote it as x*y^c + x^c*y = 0.
+
+As one of the main aims of symbolic logic Venn considered solutions of logical equations and elimination of variables. Contrary to Boole and Jevons he considered not only equations but also inequalities. For solving such problems he used algebraical methods as well as diagrams.
+
+One can define a logical diagram as a 2D geometric figure with spatial relations that are isomorphic with the structure of a logical statement. Historically the first logic diagrams probably expressed statements in what today is called the logic of relations. The tree figure was certainly known to Aristotle, in medieval and Renaissance logic one finds the so called tree of Porphyry which is another example of the type of diagram. We see diagrams in various “squares of opposition”, in “pons asinorum” of Petrus Tartaretus.
+
+As a first important step toward a diagrammatic method sufficiently iconic to be serviceable as a tool for solving problems of class logic we may consider the use of a simple closed curve to represent a class. It is impossible to say who used it first. We must mention here J. Ch. Sturm and his Universalia Euclidea (1661), G. W. Leibniz (who used circles and linear diagrams), J. Ch. Lange (and his Nucleus logicae weisianae, J. H. Lambert (and his linear method of diagramming explained in Neues Organon) and L. Euler. The latter introduced them into the history of logical analysis.
+
+John Venn’s method is a modification of Euler’s. It has elegantly overcome all limitations of the latter.
