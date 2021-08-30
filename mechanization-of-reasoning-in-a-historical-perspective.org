@@ -717,3 +717,76 @@ It might be tempting to think that Boole’s system is a two-valued algebra. But
 If we interpret the system in terms of classes, then the principle 9) is not satisfied and if we interpret it numerically then the system satisfies even 9.
 
 In both his books, The Mathematical Analysis of Logic and An Investigation of the Laws of Thought, Boole suggested a convention that the equations x = 1 and x = 0 may be taken to mean that the proposition X is true or false, respectively. Consequently the truth-values of more complicated propositions can be represented by combinations of small letters, e.g. the truth-value of the conjunction of the proposition X and Y by xy and the truth-value of their exclusive disjunction by x + y. This enables us to interpret the Boole’s system in terms of the truth-values of propositions with symbols 1 and 0 for truth and falsity respectively. This interpretation was worked out by Boole himself without use of the phrase “truth-value” which was invented later by Frege.
+
+In Laws of Thought Boole abandoned the elective interpretation and proposed that the letter x should be taken to stand for the time during which the proposition X is true. This resembles opinions of some ancient and medieval logicians.
+
+In Mathematical Analysis of Logic, Boole says that the theory of hypothetical propositions could be treated as part of the theory of probabilities and in Laws of Thought we have an interpretation according to which the letter x stands for the probability of the proposition X in relation to all the available information, say K.
+
+Hence we have
+
+10) if X and Y are independent then Prob_K(X and Y) = xy
+11) if X and Y are mutually exclusive then Prob_K(X or Y) = x + y
+
+We see that Boole’s system may have various interpretations and Boole himself anticipated the fact. The essence of his method is really the derivation of consequences in abstract fashion, i.e. without regard to interpretation.
+
+The fundamental process in the formal elaboration of Boole’s system is so called development. Let f(x) be an expression involving x and possibly other elective symbols and algebraic signs introduced above. Then we have f(x) = ax + 6(1 - x). It can easily be seen that a = f(1) and 6 = f(0). Hence,
+f(x) = f(1)x + f(0)(1-x)
+
+It is said that this formula gives the development of f(x) with respect to x.
+
+If we have an expression g(x,y) with two elective symbols x, y (and the usual symbols of operations0, then according to this method we obtain the following development of it:
+
+g(x, y) = g(1, y)x + g(0, y)(1-x)
+g(1, y) = g(1,1)y + g(1,0)(1-y)
+g(0,y) = g(0,1) + g(0,0)(1-y) and consequently using the rule 3)
+
+g(x,y) = g(1,1)xy + g(1,0)x(1-y) + g(0,1)(1-x)y + g(0,0)(1-x)(1-y)
+
+Factors x, 1 - x in the development of f(x) an xy, x(1-y), (1-x)y, (1-x)(1-y) in the development of g(x,y) are called constituents. We see that for one class x we have 2 constituents, for 2 classes x, y, we have 4 and in general for n classes, we have 2^n constituents. The sum of all constituents of any development = 1, their product is equal to 0. Hence they may be interpreted as a decomposition of the universe into a pairwise disjoint classes.
+
+The development of an expression is treated by Boole as a degenerate case under Maclaurin’s theorem about the expansion of functions in ascending powers.
+
+The development of elective expressions served Boole to define two other operations, namely solution and elimination. Assume that we have an equation f(x) = 0, where f(x) is an expression involving symbol x and may be other elective symbols. We want to write x in terms of those other symbols. Using development of f(x) one has:
+f(1)x + f(0)(1-x) = 0
+[f(1) - f(0)]x + f(0) = 0
+x = f(0) / (f(0) - f(1))
+
+Observe that Boole introduces here the operation of division to which he has assigned no fixed interpretation. But he suggest here a special method of elimination of this difficulty. Developing this expression, we get a sum of products in which the sign of division appears only in the various coefficient, each of which must have one of the four forms: 1/1, 0/0, 0/1, 1/0. The first is equal to 1 and the third 0. The fourth can be shown not to occur except as coefficient to a product which is separately equal to 0, hence it in not very troublesome. The second 0/0 is curious. Boole says that it is a perfectly indeterminate symbol of quantity, corresponding to “all, some, or none”. Sometimes he equates it with the symbol v, but it is not quite correct. It is better to use another letter, say w. Hence we have:
+
+x  = 1/1 * p + 0/0 * q + 0/1 * r + 1/0 * s
+x = p + wq
+
+We can interpret it saying that the class x consists of the class p together with an indeterminate part (all, some, or none) of the class q. In an unpublished draft, Boole wrote that the coefficients 1/1, 0/0, 0/1, 1/0 should be taken to represent respectively the categories of universality, indefiniteness, non-existence, and impossibility.
+
+To describe the rules of elimination, assume that an equation f(x) = 0 is given. We want to know what relation,s if any, hold independently between x and other classes symbolized in f(x). Solving this equation, we get x = f(0) / f(0) - f(1)
+
+Hence,
+
+1 - x = -f(1) / f(0) - f(1)
+
+But x(1-x) = 0, hence
+f(0) * f(1) / ( f(0) - f(1) )^2  = 0 i.e. f(0)f(1) = 0
+
+We have now two cases: i) the working out of the left side of this equation yields 0 = 0
+ii) it yields something of the form g(y, z, …) = 0. In the case i) we conclude that the original equation covers no relation independent of x, in the case ii) we establish that the full version of the equation f(x) = 0 coverse some relation or relations independent of x.
+
+In all those reasonings we see that they involve expressions for which there is no logical interpretation. But Boole has adopted a rule according to which if one is doing some calculation sin a formal system then it is not necessary that all formulas in this calculating process have a meaning according to a given interpretation - it is enough that the first and the last ones have such a meaning.
+
+Boole’s calculations were sufficient to represent all kinds of reasonings of traditional logic. Inp articular syllogistic reasonings might be presented as the reduction of two classes of equations to one, followed by elimination of the middle term and solution for the subject term of the conclusion.
+
+Consider for example, the following reasoning:
+
+Every human being is an animal
+Every animal is mortal
+Hence every human being is mortal
+
+h: human beings
+m: mortals
+a: animals
+
+We have
+
+h(1-a) = 0
+a(1-m) = 0
+
+Hence h - ah + a - am = 0
