@@ -790,3 +790,56 @@ h(1-a) = 0
 a(1-m) = 0
 
 Hence h - ah + a - am = 0
+
+Developing this with respect to a we get
+
+(h - h*1 + 1 - 1*m)a + (h - h*0 + 0 - 0 * m)(1 - a) = 0
+(1-m)a + h(1-a) = 0
+
+Eliminating now a, we have (1-m)h = 0
+This means that every human being is mortal
+
+What was the meaning and significance of Boole’s ideas for the development of mathematical logic? First of all we must note that he freed logic from the domination of epistemology and so brought about its revival as an independent science. He showed that logic can be studied without any reference to the processes of our minds.
+
+The chief novelty in his system is the theory of elective functions and their development. Those ideas can be met already by Philo of Megara but Boole was the first who treated these topics in a general fashion. What more, Boole’s methods can be applied in a mechanical way giving what is called today a decision procedure.
+
+To give the full account of the development one should mention here also Hugh MacColl, who in the paper “The Calculus of Equivalent Sttatements” has put forward suggestions for a calculus of propositions in which the asserted principles would be implications rather than equations (as it was by Boole). He proposed an algebraic system of the propositional calculus in the spirit of Boole. This was an attempt to overcome the lack of Boole’s systems and may be treated as a climax in the development of mathematical logic before Frege, who proposed a complete calculus of propositions.
+
+** 5.3 The logical works of Jevons
+One of the persons who saw importance of Boole’s work was William Stanley Jevonse, a logician and economist. He regarded Boole’s achievements as the greatest advance in the history of logic since Aristotle. But he noticed also defects of Boole’s system. He believed that it was a mistake that Boole tried to make his logical notation resemble algebraic notation. He saw the weakness in Boole’s preference for the exclusive rather than the inclusive interpretation for “or”.
+
+His own system was supposed to overcome all those defects. Jevons devised a method called by him the “method of indirect inference”.
+
+He introduced the following operations performed on classes: intersection, complement, and inclusive union (denoted by him originally by . | . to distinguish it from Boole’s exclusive union). The null class was denoted by 0 and the universe class by 1. The expression X = Y indicated the equality of the classes X and Y, i.e. the fact that they have the same elements. To express the inclusion of X in Y, Jevons wrote X = XY. He noted the following properties of those operations:
+
+XY = YX
+X + Y = Y + X
+X(YZ) = (XY)Z
+X + (Y + Z) = (X + Y) + Z
+X(Y + Z) = XY + XZ
+
+He also used the principle of identity X = X, of contradiction Xx = 0 (Jevons symbolized a complement using a lowercase letter, he borrowed this convention from De Morgan) as well as tertium non datur X + x = 1and the rule of substitution of similars. The last rule is used by him for verification of inferences.
+
+For Barbar,
+SaM
+MaP
+SaP
+
+The first premise is written by Jevons as S = SM, the second as M = MP. Substituting M for MP in the first premise, we get S = S(MP) = (SM)P. But S = SM, Hence S = SP, i.e. SaP.
+
+Jevons developed his logic using properties of operations and Boole’s idea of constituents. The easiest way to explain it is to given an example.
+
+Consider the following syllogistic premises: “All A is B” and “No B is C”. First we write a table exhausting all possible combinations of A, B, C and their negations (cf. Boole’s connstituents)
+
+ABC
+ABc
+AbC
+Abc
+aBC
+aBc
+abC
+abc
+
+Jevons called such a list an “abecedarium” and later a “logical alphabet”. The premise “All A is B” tells us that the classes Abc and AbC are empty. Similarly from “No B is C”, it follows that ABC and aBC are empty. The final step is now to inspect the remaining classes, all constituents with the premises, to see what we can determine about the relation of A to C. We note that “No A is C” (there are no remaining combinations containing both A and C). In this way, we got a reasoning known in the traditional logic as Celarent. Similarly, under the additional assumption that none of the three classes A, B, C is empty, we can conclude that “Some A is not C”, “Some not-A is C” etc. What is important heer is the fact that Jevons’ system was not limited to the traditional syllogistic conclusions (and he was very proud of it).
+
+Jevones, as most of other logicians of that time, confined his attention almost exclusively to class logic. He combined statements of class inclusion with conjunctive and disjunctive assertions but almost never worked with truth-value relations alone. He prefered also, like Boole, to keep his notation in the form of equations (writing for example A = AB to express the fact that all A is B). This preference for “equational logic” as Jevons called it was one of the reasons of the fact that he did not consider problems of a truth-value nature (though his method operates very efficiently with such problems).
