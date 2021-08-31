@@ -926,7 +926,7 @@ What is presented by Peano as a proof is actually a list of formulas which are s
 
 The absence by Peano of, for example, the modus ponens is connected with his inadequate interpretation of the conditional. He read ‘a properSubsetOf b’ as ‘from a one deduces b’ which remains vague. He did not use truth values at all.
 
-In a series of papers, 1891, 1891a, 1891b Peano undertook to prove the logical formulas that he simply listed in Principia. But again those proofs suffer from the absence of rules of inference.
+In a series of papers, Principii di logica matematic (1891), Formule di logica matematica (1891), Sul concetto di numero (1891) Peano undertook to prove the logical formulas that he simply listed in Principia. But again those proofs suffer from the absence of rules of inference.
 
 Some of Peano’s remarks could suggest that his logical laws should be taken as rules of inference, not as formulas in a logical language. But this would not yield a coherent interpretation of his system.
 
@@ -935,3 +935,29 @@ Geometry was just the second domain of mathematics where Peano successfully appl
 The idea of presenting mathematics in the framework of an arithmetical symbolic language and of deriving then all theorems from some fundamental axioms was also the basic idea of Peano’s famous project Formulario. It was proclaimed in 1892 in the journal Rivista di Matematica. This journal was founded by Peano in 1892 and here his main logical papers and papers of his students were published. The aim of his project was to publish all known mathematical theorems.
 
 Peano treated Formulario as a fulfillment of Leibniz’s ideas. He wrote “After two centuries, this ‘dream’ of the inventor of the infinitesimal calculus has become a reality … We now have the solution to the problem proposed by Leibniz”. 
+
+He hoped that Formulario would be widely used by professors and students. He himself immediately began to use it in his classes. But the response was very weak. One reason was the fact that almost everything was written there in symbols, the other was the usage of latino sine flexione (that is Latin without inflection - an artificial international language invented by Peano) for explanations and commentaries.
+
+What was the real significance of Peano’s writings for the formalization and mechanization of reasonings, what were his real merits and achievements? One should admit that his works were of minor significance for logic proper, but they showed how mathematical theories can be expressed in one symbolic language. Peano believed that this would help to answer the question: “how to recognize a valid mathematical proof?”
+
+The influence of Peano and his writings on the development of mathematical logic was great.
+
+In a letter to Jourdain from 1912, B. Russell wrote: “Until I got hold of Peano, it had never struck me that Symbolic Logic would be any use for the Principles of mathematics, because I knew the Boolean stuff and found it useless. It was Peano’s, together with the discovery that relations could be fitted into his system, that led me to adopt symbolic logic.”
+
+It should be admitted also that Russell learned of Frege and his works just through Peano.
+
+*** 6.3 G. Frege and the idea of a formal system
+
+Frege’s system ushered in the modern epoch in the history of logic. The year 1879 the year of the publication of Frege’s Begriffsschrift is considered as the beginning of modern logic. George Boole and the whole algebraic tradition wished to exhibit logic as a part of mathematics. Frege wanted to realize a different aim which seemed to be inconsistent with the former – namely, he wished to show that arithmetic, and consequentyl mathematics (the so-called arithmetization of analysis has already shown that analysis and in particular the theory of real and complex numbers can be reduced to arithmetic of natural numbers) is identical with logic. There is in fact no inconsistency between these two tendencies.
+
+Frege demanded a formal rigour within the study of logic but tried also to show that numbers can be defined without reference to any notions other than those involved in the interpretation of his calculus as a system of logic. Frege built a precise system which included the traditional material and the newer contributions of Leibniz and Boole, a system being more regular than ordinary language and having the property that everything that is required for the proof of theorems is set out explicitly at the beginning and the procedure of deduction is reduced to a small number of standard moves in Begriffsschrift, eine der arithmetischen nachgebildete Formelsprache des reínen Denkens (1879).
+
+Wanting to free logic from too close attachment to the grammar of ordinary language, Frege devised a language that deals with the conceptual content which he called Begriffsschrift. This term is usually translated into English as ‘iodeeography’ (a term used in Jourdain (1912) - this paper was read and annotated by Frege) or as Austin has proposed, as ‘concept writing’.
+
+Frege wrote about his language (in an unpublished fragment dated 26 July 1919): “I do not start from concepts in order to build up thoughts or propositions out of them; rather, I obtain the components of a thought by decomposition(Zerfällung) of the thought. In this respect by Begriffsschrift differs from the similar creations of Leibniz and his successors in spite of its name, which perhaps I did not chose very aptly”.
+
+Answering to the censure for wrecking the tradition established in the previous 30 years he wrote in 1882:
+
+“My intention was not to represent an abstract logic in formulas, but to express a content through written signs in a more precise and clear way than it is possible to do through words. In fact, what I wanted to create was not a mere calculus ratiocinator but a lingua characteristica in Leibniz’s sense”.
+
+Frege’s ideography is a ‘formula language’, a language written with special symbols, ‘for pure thought’, that are manipulated according to definite rules.
