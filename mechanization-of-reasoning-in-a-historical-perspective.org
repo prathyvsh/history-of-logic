@@ -907,3 +907,31 @@ Early logical works of the italian mathematician Giuseppe Peano were based on th
 Calcolo Geometrico secondo I’Ausdehnungslehre di H. Grassmann, preceduto dalle operazioni della logica deduttiva (1888)
 
 Peano used there the logic of George Boole, Peirce, and Schröder in mathematical investigations but introduced into it a number of innovations: he used for example different signs for logical and mathematical operations, introduced the distinction between categorical and conditional propositions that was to lead him to quantification theory.
+
+Already in this paper one can observe that Peano set great store by mathematical symbolism. The propagation of a symbolic language in mathematics and the invention of a good symbolism is just one of his greatest merits. Peano’s activity in this direction was strongly connected with the idea of characteristica universalis of Leibniz. He considered the realization of Leibniz’s ideas as a main task of the mathematical sciences.
+
+Peano developed a symbolic language to use it later for axiomatization of mathematics. The first attempt in this direction was his book Arithmetices principia nova methodo exposita (1889). It contains the first formulation of Peano’s postulates for natural numbers.
+
+The logical part of the work presents formulas of the propositional calculus, of the calculus of classes and a few of the quantification theory. The notation used is much better than that of Boole and Schröder. Peano distinguishes between the propositional calculus and the algebra of classes.
+
+The aim of the book is to rewrite arithmetic in symbolic notation. The primitive arithmetical notions are: number, one, successor, and equality. Peano formulates 4 identity axioms and 5 proper arithmetical axioms.
+
+In the sequel Peano develops on the basis of these axioms not only the arithmetic of natural numbers but deals also with fractions, real numbers, even with the notion of limit and definitions in point-set theory.
+
+Peano introduced new notions by definitions. They were in fact recursive definitions not satisfying the general conditions he put on definitions. He claimed namely that a definition must be of the form x = a or a properSubsetOf x = a where a is a certain condition, x is a notion being defined and a is a “an aggregate of signs having a known meaning”. He formulated no theorem like Theorem 126 from Dedekind’s 1888 paper which would justify definitions by recursion.
+
+It is not the only defect of Peano’s Principia. A more grave one is the fact that formulas are simply listed, not derived and they could not be derived, because no rules of inference were given and no notion of a formal proof was introduced. This is perhaps a consequence of the fact that Peano was interested in logic only as in a tool which helps us to order the mathematics and to make it more clear. He was not interested in logic for itself.
+
+What is presented by Peano as a proof is actually a list of formulas which are such that, from the point of view of a working mathematician, each formula is very close to the next. But one cannot speak here about derivation or deduction. This brings out the whole difference between axiomatization and formalization.
+
+The absence by Peano of, for example, the modus ponens is connected with his inadequate interpretation of the conditional. He read ‘a properSubsetOf b’ as ‘from a one deduces b’ which remains vague. He did not use truth values at all.
+
+In a series of papers, 1891, 1891a, 1891b Peano undertook to prove the logical formulas that he simply listed in Principia. But again those proofs suffer from the absence of rules of inference.
+
+Some of Peano’s remarks could suggest that his logical laws should be taken as rules of inference, not as formulas in a logical language. But this would not yield a coherent interpretation of his system.
+
+Geometry was just the second domain of mathematics where Peano successfully applied his symbolic-axiomatic method. His system of geometry is based on two primitive notion,s namely on the nation of point and interval. It is similar to the approach of Pasch. Investigating the foundations of geometry Peano popularized the vector method of H. Grassmann and brought it to perfection. In this way he also gave a certain impulse to the Italian school of vector analysis.
+
+The idea of presenting mathematics in the framework of an arithmetical symbolic language and of deriving then all theorems from some fundamental axioms was also the basic idea of Peano’s famous project Formulario. It was proclaimed in 1892 in the journal Rivista di Matematica. This journal was founded by Peano in 1892 and here his main logical papers and papers of his students were published. The aim of his project was to publish all known mathematical theorems.
+
+Peano treated Formulario as a fulfillment of Leibniz’s ideas. He wrote “After two centuries, this ‘dream’ of the inventor of the infinitesimal calculus has become a reality … We now have the solution to the problem proposed by Leibniz”. 
