@@ -1707,10 +1707,15 @@ Following arithmetization of analysis, a lot of mathematics was shown to be link
 
 ** Axiom of reducibility
 
-*** Works on Principia Mathematica
+** Works on Principia Mathematica
 
-*** [[https://amzn.to/2WwNiwQ][The Evolution of Principia Mathematica]]
-Bernard Linsky (2011)
+*** [[https://amzn.to/2WwNiwQ][The Evolution of Principia Mathematica (2011)]]
+Bernard Linsky
+
+** Works on Russell’s Life
+
+**** [[https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-14/issue-3/What-Russell-learned-from-Peano/10.1305/ndjfl/1093891001.full][What Russell Learned From Peano (1973)]]
+H. C. Kennedy
 
 * Ludwig Wittgenstein
 
