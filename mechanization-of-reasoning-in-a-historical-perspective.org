@@ -991,26 +991,26 @@ Frege stated that he used only one principle of inference in derivations of theo
 TODO: Verify what Hume’s principle is and how it applies here.
 The rule explicitly mentioned by him is the rule of detachment. It explains why he has chosen just negation and conditional as the only primitive connectives: he wanted to preserve the simple formulation of the rule of detachment. Beside the latter Frege used in Begriffsschrift also an unstated rule of substitution, the rule of generalization and the rule leading from A -> F(x)A -. forAll(x, F(x)) provided that x does not occur free in A.
 
-In the framework of this sytsem Frege proved various theorems giving detailed proofs of them. Those proofs, even in the absence of some explicit rules, can be unambiguously reconstructed. His axioms together with the 4 rules form indeed a complete set of axioms in the technical sense of that phrase. Frege himself did not raise, of course, any question of completeness or consistency or independence. Note that the third of Frege’s axiom is redundant, since it can be derived from the first two. It is also possible to replace, in the presence of 1 and 2, the axioms 4, 5, and 6 by a single new axiom for negation, namely:
+In the framework of this system Frege proved various theorems giving detailed proofs of them. Those proofs, even in the absence of some explicit rules, can be unambiguously reconstructed. His axioms together with the 4 rules form indeed a complete set of axioms in the technical sense of that phrase. Frege himself did not raise, of course, any question of completeness or consistency or independence. Note that the third of Frege’s axiom is redundant, since it can be derived from the first two. It is also possible to replace, in the presence of 1 and 2, the axioms 4, 5, and 6 by a single new axiom for negation, namely:
 
 not p -> not q -> (q -> p)
 
-Frege used the whole machinery presented above to develop, in the third patr of Begriffsschrift, a theory of mathematical sequences. He introduced the relation called later by Whitehead and Russell the ancestral relation. It served him for the justification of mathematical induction in Grundlagen der Arithmetik and generally to the logical reconstruction of arithmetic what was his main purpose in Grundgesetze der Arithmetik. In this way, Frege became the founder and the first representative of logicism in the philosophy of mathematics.
+Frege used the whole machinery presented above to develop, in the third part of Begriffsschrift, a theory of mathematical sequences. He introduced the relation called later by Whitehead and Russell the ancestral relation. It served him for the justification of mathematical induction in Grundlagen der Arithmetik and generally to the logical reconstruction of arithmetic what was his main purpose in Grundgesetze der Arithmetik. In this way, Frege became the founder and the first representative of logicism in the philosophy of mathematics.
 
-Though Frege’s system constructed in Begriffsschrift has turned out to be inconsistent - this was discovered in 1901 by Russell who built in this system a paradox of the class of classes that do not contain themselves as leements, known today as Russell’s paradox - neverthelless Frege’s achievements remain really great. Begriffsschrift was the first comprehensive system of formal logic and it contains all the essentials of modern logic.
+Though Frege’s system constructed in Begriffsschrift has turned out to be inconsistent - this was discovered in 1901 by Russell who built in this system a paradox of the class of classes that do not contain themselves as elements, known today as Russell’s paradox - nevertheless Frege’s achievements remain really great. Begriffsschrift was the first comprehensive system of formal logic and it contains all the essentials of modern logic.
 
 TODO: Examine how Schröder’s quantification theory holds up.
-Its main novelties were the analysis of the proposition into function and arguments rather than subject and predicate, the quantification theory, the truth-functional propositional calculus and what is most important here, a system of logic in which derivations are carried out exclusiveyl according to the form of the expressions.
+Its main novelties were the analysis of the proposition into function and arguments rather than subject and predicate, the quantification theory, the truth-functional propositional calculus and what is most important here, a system of logic in which derivations are carried out exclusively according to the form of the expressions.
 
-Frege repeatedly opposed a lingua characteristica to a calculus ratiocinator. In works of his predecessors calculus of propositions and classes, logic, translated into formulas, was studied by means of arguments resting upon an intuitive logic. Frege constructed logic as a language that did not need to be supplemented by an intuitive reasoning. Therefore he was very careful to describe his sytstem in purely formal terms (speaking for example of letters rather than of variables to avoid any imprecision and ambiguity).
+Frege repeatedly opposed a lingua characteristica to a calculus ratiocinator. In works of his predecessors calculus of propositions and classes, logic, translated into formulas, was studied by means of arguments resting upon an intuitive logic. Frege constructed logic as a language that did not need to be supplemented by an intuitive reasoning. Therefore he was very careful to describe his system in purely formal terms (speaking for example of letters rather than of variables to avoid any imprecision and ambiguity).
 
 The reception of Frege’s work was rather bad. One of the reasons was certainly his symbolism. Though it has many advantages it facilitates inferences by detachment, allows to perceive the structure of a formula at a glance or to perform substitutions with ease - it has also some disadvantages. One of them is the fact that it occupies a great deal of space and is not easy to print. Frege himself said that “the comfort of the typesetter is certainly not the summum bonum”, but it cannot be denied that his symbolism very often hindered to grasp the importance of his ideas or even to understand the contents of his papers. On the other hand one should admit that Frege presented too many difficult novelties at once and with too little concessions to human weakness. Logicians have recognized the merits of Frege’s ideas only when they themselves became ready to discuss the questions he raised.
 
-The first who gave serious recognition to Frege’s works was G. Peno. They corresponded with each other, exchanged copies of their paper,s exchanged comments and remarks on them. The real reception of ideas of Frege began from Russell who learned of Frege and his works through Peano. Russell studied Frege’s papers very carefully and appreciated their importance. This had deep consequences and strongly influenced the development of logic.
+The first who gave serious recognition to Frege’s works was G. Peano. They corresponded with each other, exchanged copies of their paper,s exchanged comments and remarks on them. The real reception of ideas of Frege began from Russell who learned of Frege and his works through Peano. Russell studied Frege’s papers very carefully and appreciated their importance. This had deep consequences and strongly influenced the development of logic.
 
 *** 6.4.8 Russell and the fulfillment of Peano’s and Frege’s projects
 
-The projects of Peano and Frege presented in the previous sections found their fulfilment in the monumental work Principia Mathematica written by Alfred North Whitehead and Bertrand Russell, and published in 3 volumes in the year 1910–1913. It is a detailed study of logic and set theory and a construction, on that basis, of the classical mathematics.
+The projects of Peano and Frege presented in the previous sections found their fulfillment in the monumental work Principia Mathematica written by Alfred North Whitehead and Bertrand Russell, and published in 3 volumes in the year 1910–1913. It is a detailed study of logic and set theory and a construction, on that basis, of the classical mathematics.
 
 In June 1901 when studying the first volume of Frege’s Grundgestze der Arithmetik Russell discovered the paradox of the class of all classes that do not contain themselves as elements. This meant that the system of logic to which Frege wanted to reduce mathematics was inconsistent. Russell communicated his discovery to Frege on 16 June 1902. In this situation, the task of the reduction of mathematics to logic should be resumed.
 
@@ -1018,6 +1018,50 @@ Discussing ‘the contradiction’, as he called it, in The Principles of Mathem
 
 TODO: I have to examine how Aristotle’s sortals compares to the idea of type theory up here.
 
-Soon after publishing The Principles of Mathematics, Russell abandoned the theory of types. In a paper written in 1905, he proposed 3 theories to overcome the difficulties raised by the paradoxes (at taht time Russell knew of other paradoxes as well; for instance the Burali-Forti paradox and that of the greatest cardinal). They were: 1) the zigzag theory (“propositional functions determine classes when they are fairly simple, and only fail to do so when they are complicated and recondite”), 2) the theory of limitation of size (“there is no such a thing as the class of all entities”), 3) the no-classes theory (“classes and relations are banished together”). Notice that the theory of types is not mentioned here. Add also that Russell believed that the no-classes theory “affords the complete solution to all the difficulties”.
+Soon after publishing The Principles of Mathematics, Russell abandoned the theory of types. In a paper written in 1905, he proposed 3 theories to overcome the difficulties raised by the paradoxes (at that time Russell knew of other paradoxes as well; for instance the Burali-Forti paradox and that of the greatest cardinal). They were: 1) the zigzag theory (“propositional functions determine classes when they are fairly simple, and only fail to do so when they are complicated and recondite”), 2) the theory of limitation of size (“there is no such a thing as the class of all entities”), 3) the no-classes theory (“classes and relations are banished together”). Notice that the theory of types is not mentioned here. Add also that Russell believed that the no-classes theory “affords the complete solution to all the difficulties”.
 
 Those hopes disappeared soon and Russell turned back to the theory of types and proceeded to develop it in detail. It was done in a paper “Mathematical logic as based on the theory of types” published in 1908 and later in a monumental work Principia Mathematica written together with his teacher A. N. Whitehead.
+
+Russell saw the key to the paradoxes in what he called the vicious circle principle: “No totality can contain members defined in terms of itself”. This is connected with the principle of Poincaré forbidding impredicative definitions of objects, which Russell incorporated into his system. To realize it Russell saw the universe as dividing into levels or types. All conditions and properties we can consider form an infinite hierarchy of types: properties of the first types are properties of individuals, properties of the second type are properties of properties of individuals etc. We can speak of all the things fulfilling a given condition only if they are all of the same type. These intuitions led to the ramified theory of types developed by A. N. Whitehead and B. Russell. It made possible the elimination of paradoxes. This theory, rather complicated and formulated ad hoc, was simplified later by F. P. Ramsey and L. Chwitsek and is known today as the simple theory of types.
+
+The theory of types was the basis of the system of Principia Mathematica. Whitehead and Russell’s aim they wanted to realize in it was the reduction of the pure mathematics to logic. They used of course some ideas and achievements of Peano and Frege. The whole work was written in a symbolic language, the symbolism of Peano was adopted rather than that of Frege. The derivations of theorems were performed with the same rigour as it was by Frege. The system of logic of Principia was the propositional calculus, adorned with other features such as the theory of definite description,s introduced there especially to define mathematical functions. Set theory was widely used, but a set X was reduced to a propositional function via the contextual definition of a property (or functional function) which X satisfied. The propositional calculus was based on two primitive notions: negation and disjunction, all other connectives were defined in term of those two, namely:
+p ⊃ q = not p or q
+p . q = not(not p or not q)
+p identicalTo q = p ⊃ p and q ⊃ p
+
+The basic axioms were:
+
+A) the propositional calculus
+(p or p) ⊃ p
+q ⊃ (p ⊃ q)
+(p or q) ⊃ (q or p)
+[p or (q or r)] ⊃ [(p or q) ⊃ r]
+(q ⊃ r) ⊃ [(p or q) ⊃ (p or v)]
+
+B) the quantification theory (x, y are here variables of the same type and x is not free in p):
+
+(x) Fx ⊃ Fy
+(x) (p or F(x)) ⊃ (p or (x)Fx)
+
+C) The axiom of reducibility
+D) identity
+E) The axiom of infinity
+F) The axiom of cohice
+
+Lukasiewicz in 1925 and Bernays in 1926 observed that the axiom (A4) could be derived from the others and therefore it is superfluous.
+
+The basic rules of inference were the rule of detachment (i.e. modus ponens), the generalization, and the (unspoken but used) rule of substitution.
+
+Remark that there is a certain inelegance in this sytsem. Since the logical sign of negation and disjunction are to be taken as primitive, they should be used in the formulation of the axioms and rules of inference to the exclusion of all other signs. Of course, one can replace p ⊃ q by not p or q in those axioms but they become then rather complicated.
+
+Peano and Frege constructed symbolic languages making possible the axiomatization (Peano) and formalization (Frege) of mathematics and mathematical reasonings. Russell and Whitehead improved tehir systems eliminating difficulties and paradoxes they met, improving their symbolism and bringing out the formal development of mathematics.
+
+It is worth noting here that for Russell every logical formula had a fixed meaning, hence there was no question of reinterpreting any sign (as it was the case by the algebraists). For Russell (and for Frege as well) logic was about something, namely everything. The laws of logic have content: they are the most general truths about the logical furniture of the universe. Russell wrote: “Logic is concerned with the real world just as truly as zoology, though with its more abstract and general features”. Observe also that Frege’s and Russell’s conception of olgic was all-embracing in that it included indiscriminately both logical and metalogical topics. Therefore neither Frege nor Russell raised any serious metasystematic questions at all. For them logic was the system – the results of logic were simply the logical truth,s and were to be arrived at by deriving them in the system.
+
+** 6. Skolemization
+
+Leopold Löwenheim paper “Über Möglichkeiten im Relativkalkül” which dealt with a problem connected with the validity, in different domains, of formulas of what we call today the first order predicate calculus and with various aspects of the reduction and the decision problems.
+
+Löwenheim was squerly in Schröder’s school, i.e. in the algebraic tradition. He used in the paper we are dsicussing here Schröder’s notation, he held that all of mathematics can be framed within the relative calculus.
+
+In a paper in 1940, he argued that mathematics can be “Schröderized”. We can suspect that he did not fully grasp the notion that by means of formal representation we may fully exhibit the intuitive content of mathematical discourse and the inferential relations among mathematical sentences.
