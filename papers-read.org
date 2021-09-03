@@ -2864,6 +2864,9 @@ Yuri Manin
 ** [[https://www.dpmms.cam.ac.uk/~ardm/hbslmag2.pdf][Hilbert, Bourbaki, and the Scorning of Logic (2011)]]
 A. R. D. Mathias
 
+** [[https://www.jstor.org/stable/42964118][Remarks on the Nature and Definition of Mathematics]]
+Haskell Curry (1954)
+
 * Poincaré’s views on mathematics
 
 ** [[https://www.cairn-int.info/journal-philosophia-scientiae-2019-1-page-167.htm][Axioms as definitions: Revisiting Poincaré and Hilbert]]
