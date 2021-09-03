@@ -1091,7 +1091,7 @@ Take now a formula X which is the functional form phi' of or any truth-function 
 It can be seen that 1) any solution of the nth level is an extension of a solution of the (n-1)th level
 2) Either i) for some n there is no solution of the nth level or ii) for every n there is a solution of the n level. In the case i) phi is not satisfiable (Skolem used here the phrase ‘contains a contradiction’ (enthält einen Wider-spruch). In this way we get that if phi is satisfiable then for every n there is a solution of the nth level. In papers from 1922 and 1929 Skolem obtained also the converse, namely if for every n there is a solution of the nth level, then phi is satisfiable (in fact he actually proved that phi is k-satisfiable). In this way one gets a proof procedure for the first-order predicate calculus: given a formula phi in prenex form and a number n, we can effectively decide whether or not there is a solution of the nth level for phi if for some n there is no solution of the nth level, then phi is not satisfiable, hence not phi is valid. Observe that this approach is an alternative to the axiomatic one developed by Peano, Frege, and Russell and continued by Hilbert and his school. Note also that Skolem was a constant opponent of all formalist and logicist foundational programs. He insisted that foundations of mathematics lay in what he called ‘the recursive mode of thought’.
 
-Add that in the paper from 1928 Skolem considered also the decision problem from the point of view of his proof procedure. Namely for certain class of formulas one can effectively decide whether or not for every n there is a solution of the nth level. An example of such a class is the class of formulas whos prefix consists of a single universal quantifier followed by any number of existential quantifiers (a subclass of this class consisting of formulas of the form (x)(Ey)x, X being quantifier-free was considered earlier by Bernays and Schönfinkel (1928), the wholec lass studied independently and simultaneously with Skolem by Ackermann whose results go beyond that of Skolem. (cf. Ackermann Über die Erfüllbarketi gewisser Zahlenausdrücke (1928)).
+Add that in the paper from 1928 Skolem considered also the decision problem from the point of view of his proof procedure. Namely for certain class of formulas one can effectively decide whether or not for every n there is a solution of the nth level. An example of such a class is the class of formulas whos prefix consists of a single universal quantifier followed by any number of existential quantifiers (a subclass of this class consisting of formulas of the form (x)(Ey)x, X being quantifier-free was considered earlier by Bernays and Schönfinkel (1928), the whole class studied independently and simultaneously with Skolem by Ackermann whose results go beyond that of Skolem. (cf. Ackermann Über die Erfüllbarketi gewisser Zahlenausdrücke (1928)).
 
 Skolem considered also the subclass of formulas of the form (x_1)…(x_m)(Ey_1)…(Ey_n)x where x is quantifier-free and such that all variables x_i,…x_m occur in each of the atomic parts of it.
 
@@ -1105,8 +1105,58 @@ He returned to foundational questions in 1918. At that time a great advance had 
 
 Hilbert used this possibility in his famous program of proving the consistency of mathematics, called today Hilbert’s program. His proposal was Kantian in character. He wrote in 1926 as follows: 
 
-Kant taught - and it is an integral part of his doctrine - that mathematics treats a subject matter which is given independently of logic. Mathematics, therefore, can never be grounded solelyon logic. Consequently, Frege’s and Dedekind’s attempts to so ground it were doomed to failure.
+Kant taught - and it is an integral part of his doctrine - that mathematics treats a subject matter which is given independently of logic. Mathematics, therefore, can never be grounded solely on logic. Consequently, Frege’s and Dedekind’s attempts to so ground it were doomed to failure.
 
-As a firuther precondition for using logical deduction and carrying out logical operations, something must be given in conception, viz., certain extralogical concrete objects which are intuited as directly experienced prior to all thinking. For logical deduction to be certain, we must be able to see every aspect of these objects, and their properties, differences, sequences, and contiguities must be given, together with the objects themselves, as something which cannot be reduced to something else and which requires no reduction. This is the basic philosophy which I find necessary not just for mathematics, but for all scientific thinking, understanding and communicating. The subject matter of mathematics is, in accordance with this theory, the concrete symbols themselves whose structure is immediately clear and recognizable.
+As a further precondition for using logical deduction and carrying out logical operations, something must be given in conception, viz., certain extralogical concrete objects which are intuited as directly experienced prior to all thinking. For logical deduction to be certain, we must be able to see every aspect of these objects, and their properties, differences, sequences, and contiguities must be given, together with the objects themselves, as something which cannot be reduced to something else and which requires no reduction. This is the basic philosophy which I find necessary not just for mathematics, but for all scientific thinking, understanding and communicating. The subject matter of mathematics is, in accordance with this theory, the concrete symbols themselves whose structure is immediately clear and recognizable.
 
-Such concrete objects are just natural numbers considered as numerals (certain systems of symbols): 1, 11, 111, … One can exactly describe them and relations between them. The part of mathematics talking about those objects is certainly consistent (because facts cannot contradict themselves). But in mathematics, beside such finitistic, real theorems describing concrete objects, we also have infinitistic, ideal ones talking about the actual infinity (to which no real objects correspond). And therefore mathematics needs a justification and foundations. The convincing proof of the consistency of mathematical theory ought to be a finitistic one (i.e. a proof using no ideal assumptions).
+Such concrete objects are just natural numbers considered as numerals (certain systems of symbols): 1, 11, 111, … One can exactly describe them and relations between them. The part of mathematics talking about those objects is certainly consistent (because facts cannot contradict themselves). But in mathematics, beside such finitistic, real theorems describing concrete objects, we also have infinitistic, ideal ones talking about the actual infinity (to which no real objects correspond). And therefore mathematics needs a justification and foundations. The convincing proof of the consistency of mathematical theory ought to be a finitistic one (i.e. a proof using no ideal assumptions). Hilbert thought that such a proof was possible and proposed a program for providing it. It consisted off two steps:
+
+1/ Formalization of mathematics (Hilbert, first of all, thought here about arithmetic, analysis, and set theory). It ought to be carried out by fixing an artificial symbolic language and rules of building in it well-formed formulas. Further axioms and rules of inference ought to be fixed (the rules could refer only to form, to the shape of formulas and not to their sense or meaning). In such a way theorems of mathematics become those formulas of our formal language which have a formal proof based on a given set of axioms and given rules of inference. There was one condition put on the set of axioms: they ought to be chosen in such a way that they suffice to solve any problem formulated in the language of a considered theory, i.e. they ought to form a complete set of axioms.
+
+2/ Give a proof of the consistency of mathematics. Such a proof could be carried out by finitistic methods because it was enough to consider formal proofs, i.e. sequence of symbols, and to verify if there were two sequences such that one of them finishes with formula phi and the other with formula not phi. If there were such proofs then mathematics would be inconsistent, if not, then it would be consistent. But the study of formal proofs deals with infinite, concrete objects (namely sequences of symbols formed according to some rules) and hence is finitistic.
+
+Observe that for Hilbert formalization was just the way in which we, as finite intelligences, can in fact deal with the infinite. We attain to the infinite by means of signs. He recognized in quantifiers that constituent of formal systems that allows us to do this.
+
+The most comprehensive publication in this direction is the two volume monograph published with P. Bernays Grundlagen der Mathematik (1934, 1939) which explained the situation and set forth the results achieved up to the time of publication.
+
+Hilbert based his system of logic on the following axioms:
+
+I. Axioms of implication:
+
+1. A -> (B -> A)
+2. (A -> (A -> B)) -> (A -> B)
+3. (A -> B) -> ((B -> C) -> (A -> C))
+
+II. Axioms of conjunction
+4. A & B -> A
+5. A & B -> B
+6. (A -> B -> ((A -> C) -> (A -> B & C))
+
+III. Axioms of disjunction
+7. A -> B A or B
+8. B -> A A or B
+9. (A -> C) -> ((B -> C) -> (A V B -> C))
+
+IV. Axioms of equivalence
+
+10. (A ~ B) -> (A -> B)
+11. (A ~ B) -> (B -> A)
+12. (A -> B) -> ((B -> A) -> (A ~ B))
+
+V. Axioms of negation
+13. (A -> B) -> not B not not A
+14. A -> not not A
+15. not not A -> A
+
+VI. Axioms for quantifiers
+16. forAll(x, A(x) -> A(a))
+17. A(a) -> thereExists(x, A(x))
+
+The following three rules of inference were allowed
+
+i) the rule of detachment
+ii) A -> B(a) | A -> forAll(x, B(x))
+iii) B(a) -> | thereExists(x, B(x) -> A)
+where a does not occur in B(a) and the variable a does not occur in A.
+
+In fact Hilbert needed also the principle of substitution in derivations of theorems from axioms. Note that the given set of axioms is really perspicuous and natural.
