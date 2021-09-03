@@ -2863,3 +2863,24 @@ Yuri Manin
 
 ** [[https://www.dpmms.cam.ac.uk/~ardm/hbslmag2.pdf][Hilbert, Bourbaki, and the Scorning of Logic (2011)]]
 A. R. D. Mathias
+
+* Poincaré’s views on mathematics
+
+** [[https://www.cairn-int.info/journal-philosophia-scientiae-2019-1-page-167.htm][Axioms as definitions: Revisiting Poincaré and Hilbert]]
+Laura Fontanella (2019)
+
+** [[https://iep.utm.edu/poi-math/][Poincaré’s Philosophy of Mathematics]]
+
+** [[https://www.researchgate.net/publication/257393639_Poincare_Replies_to_Hilbert_On_the_Future_of_Mathematics_ca_1908][Poincaré’s replies to Hilbert on the Future of Mathematics ca. 1908]]
+
+** [[https://conservancy.umn.edu/bitstream/handle/11299/185664/11_02Goldfarb.pdf?sequence=1][Poincaré against the logicists]]
+Goldfarb
+
+** [[https://www.journals.uchicago.edu/doi/abs/10.1086/687846?journalCode=hopos][Poincaré on the foundations of arithmetic and geometry. Part 1: Against “Dependency-Hierarchy” interpretations]]
+Katherine Dunlop (2016)
+
+** [[https://www.journals.uchicago.edu/doi/10.1086/691130][Poincaré on the foundations of arithmetic and geometry. Part 2: Intuition and Unity in Mathematics]]
+Katherine Dunlop (2017)
+
+** [[http://philsci-archive.pitt.edu/11362/2/Poincare_Conventions_Relations--Psillos.pdf][Conventions and relations in Poincaré’s philosophy of science]]
+Stathis Psillos
