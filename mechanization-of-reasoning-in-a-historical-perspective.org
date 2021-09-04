@@ -1183,7 +1183,7 @@ Having adopted Hilbert’s finitistic viewpoint, Herbrand spoke not about satisf
 
 The fundamental theorem contains a reduction (in a certain sense) of predicate logic to propositional logic, more exactly it shows that a formula is derivable in the axiomatic system of quantification logic if and only if its negation has a truth-functionally inconsistent expansion. Herbrand intended to prove this theorem by finitistic means.
 
-Herbrand considered an axiomatic system of quantification logic similar to the system of Principia Mathematica and of Hilbert and Ackermann (1928). He proved that it is equivalent to the quantification theory used by Whitehead and Russell.
+Herbrand considered an axiomatic system of quantification logic similar to the system of Principia Mathematica and of Hilbert and Ackermann Grundzüge der theoretischen Logik (1928). He proved that it is equivalent to the quantification theory used by Whitehead and Russell.
 
 Herbrand correlates with each formula Z of the predicate calculus an infinite sequence of propositional formulas having the form of a disjunction:
 
@@ -1191,7 +1191,7 @@ H_n(Z) = A_1 or … or A_n
 
 These formulas are today called the Herbrand disjunctions. The definition of H_n is effective, i.e. H_n can be obtined from Z and n by means of a fixed algorithm. One can establish now the following relationship: Z is provable in the predicate logic if and only if there is an n such that H_n is a theorem of the propositional calculus.
 
-To give the idea of how H_n(Z) is constructed consider the following example. Assume that Z is (x)(Ey)(z)M(x,y,z) where M is quantifier free Let tp be an arithmetical function such that phi(i) > i and phi(i) phi(j) for all integers i, j such taht 1 <= i, j. Form the disjunction
+To give the idea of how H_n(Z) is constructed consider the following example. Assume that Z is (x)(Ey)(z)M(x,y,z) where M is quantifier free Let tp be an arithmetical function such that phi(i) > i and phi(i) phi(j) for all integers i, j such that 1 <= i, j. Form the disjunction
 
 or(from(i <= n), M(x_1, x_phi(i)) and replace in it every atomic formula by a propositional variable in such a way that different atomic formulas are replaced by different propositional variables. The resulting formula is the n_th Herbrand disjunction.
 
@@ -1199,3 +1199,15 @@ One may interpret the formula in the following way: suppose that we are trying t
 and(from(i <= n), ¬M(a,p_i, f(p_i)) is true. The formula with the disjunction may thus be interpreted as a statement that whatever our choice of a and of the function f will be, our attempt to build a counterexample to Z will fail in the field of at most n elements.
 
 We should prove now that the disjunction formula is provable in the propositional calculus if and only if Z is provable in the predicate logic. One part of this equivalence, namely the implication from the left to right is rather easy to prove. The proof of the other part is more difficult. Note that proving it Herbrand came very close tot he discovery of the completeness theorem. One can suspect that he did not make the decisive step only because he was constrained by the finitistic attitude of Hilbert’s program.
+
+Remark that Herbrand’s proof of the fundamental theorem was fallacious. In 1939 Bernays wrote that “Herbrand’s proof is hard to follow”. Gödel claimed in 1963 that in the early forties he had discovered an essential gap in Herbrand’s argument but he never published anything on this subject. A detailed analysis of errors in Herbrand’s paper was published by Dreben, Andrews and Aanderaa in 1963. Note that a correct, strictly finitistic proof of the fundamental theorem was given by Bernays in Hilbert and Bernays’ 1939 work.
+
+A detailed analysis of the proof of Herbrand’s theorem shows that we are able to get rid of the rule of modus ponens altogether. Herbrand considered this fact as an important one. It implies that if a formula Z is provable in the predicate calculus then there exists a proof of it consisting exclusively of subformulas of Z. This is connected with the Hauptastz of Gerhard Gentzen who rediscovered and greatly improve many of Herbrand’s results.
+
+Herbrand showed an example of applications of his fundamental theorem in the paper “Sur la non-contradiction de l’Arithmétique” published in 1931. The manuscript of this was received by the editors on 27 July 1931 - on the same day Herbrand had an accident while climbing in the Alps and was killed in a fall. He proved there consistency of a fragment of arithmetic in which the formula that can be substituted into the induction scheme does not contain any quantifiers, or if it does, does +not contain any function but the successor function. This result as well as the fundamental theorem discussed above, i.e. the analysis of quantification in terms of truth-functional properties of expansion can be treated without any doubt as an important contribution to the realization of the Hilbert’s school program.
+
+*** 6.8 G. Gentzen and natural deduction
+
+Gentzen started his scientific career by publishing the paper “Über die Existenz unabhäangiger Axiomensysteme zu unendlichen Satzsystemen”. This relatively unknown paper which has received less attention since its publication than it deserves. Gentzen has shown in it that not all sentence systems possess independent axiom systems, whereas all ‘linear’ sentence systems do possess an independent axiomatization. This paper also reveals another source of inspiration for Gentzen’s investigations. It was the work of Paul Hertz. Gentzen used not only Hertz’s methodology but also some of his terminology. In his 1935 and later works, we find, for example, the terms ‘antecedent’ and ‘succedent’ of a sequent borrowed from Hertz, also the notion ‘logical consequence’ as used by Gentzen was largely inspired by Hertz’s work.
+
+The most important from our point of view is his work “Untersuchungen über das logische Schliessen” from 1935. There he broke away from the traditional formulations of predicate logic as they were developed by Frege, Russell and Hilbert and presented two basically different verisons of predicate logic both in two variants, classical and intuitionistic. It should be noted here that similar attempt was made independently and simultaneously by S. Jaskowski in his On the Rules of Supposition in Formal Logic (1934). Jaskowski published a different version of ‘natural deduction’ based on ideas first put forward in Łukasiewicz’s seminar in 1926
