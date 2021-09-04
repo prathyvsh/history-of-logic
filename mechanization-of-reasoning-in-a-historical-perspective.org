@@ -3,7 +3,7 @@
 Started reading:
 21 August 21 8:19 pm IST
 
-The idea of formalization of reasoning starts from the middle ages and reached its maturity in modern logic that is in Frege → Peano → Russell and Whitehead → Hilbert → Lukasiewicz → Gödel → Tarski → Jaśkowski → Leśniewski etc.
+The idea of formalization of reasoning starts from the middle ages and reached its maturity in modern logic that is in Frege → Peano → Russell and Whitehead → Hilbert → Łukasiewicz → Gödel → Tarski → Jaśkowski → Leśniewski etc.
 
 Elimination of quantifiers results in reducing whole of logic into binary algebra.
 
@@ -1048,7 +1048,7 @@ D) identity
 E) The axiom of infinity
 F) The axiom of cohice
 
-Lukasiewicz in Demonstration de la compabilitité des axiomes de la théorie de la deduction (1925) and Bernays in Axiomatische Untersuchungen des Aussagen-kalküls der Principia Mathematica (1926) observed that the axiom (A4) could be derived from the others and therefore it is superfluous.
+Łukasiewicz in Demonstration de la compabilitité des axiomes de la théorie de la deduction (1925) and Bernays in Axiomatische Untersuchungen des Aussagen-kalküls der Principia Mathematica (1926) observed that the axiom (A4) could be derived from the others and therefore it is superfluous.
 
 The basic rules of inference were the rule of detachment (i.e. modus ponens), the generalization, and the (unspoken but used) rule of substitution.
 
@@ -1210,7 +1210,7 @@ Herbrand showed an example of applications of his fundamental theorem in the pap
 
 Gentzen started his scientific career by publishing the paper “Über die Existenz unabhäangiger Axiomensysteme zu unendlichen Satzsystemen”. This relatively unknown paper which has received less attention since its publication than it deserves. Gentzen has shown in it that not all sentence systems possess independent axiom systems, whereas all ‘linear’ sentence systems do possess an independent axiomatization. This paper also reveals another source of inspiration for Gentzen’s investigations. It was the work of Paul Hertz. Gentzen used not only Hertz’s methodology but also some of his terminology. In his 1935 and later works, we find, for example, the terms ‘antecedent’ and ‘succedent’ of a sequent borrowed from Hertz, also the notion ‘logical consequence’ as used by Gentzen was largely inspired by Hertz’s work.
 
-The most important from our point of view is his work “Untersuchungen über das logische Schliessen” from 1935. There he broke away from the traditional formulations of predicate logic as they were developed by Frege, Russell and Hilbert and presented two basically different verisons of predicate logic both in two variants, classical and intuitionistic. It should be noted here that similar attempt was made independently and simultaneously by S. Jaskowski in his On the Rules of Supposition in Formal Logic (1934). Jaskowski published a different version of ‘natural deduction’ based on ideas first put forward in Łukasiewicz’s seminar in 1926.
+The most important from our point of view is his work “Untersuchungen über das logische Schliessen” from 1935. There he broke away from the traditional formulations of predicate logic as they were developed by Frege, Russell and Hilbert and presented two basically different verisons of predicate logic both in two variants, classical and intuitionistic. It should be noted here that similar attempt was made independently and simultaneously by S. Jaśkowski in his On the Rules of Supposition in Formal Logic (1934). Jaśkowski published a different version of ‘natural deduction’ based on ideas first put forward in Łukasiewicz’s seminar in 1926.
 
 Gentzen’s idea of a ‘natural deduction’ came from detailed analysis of Euclid’s proof of the nonexistence of a largest prime number. It revealed to him what properties a system of natural deduction should have and led him to a calculus based on assumption formulae instead of the usual axiom formulae and to the separation of the rules for the logical operators into ‘introduction’ and ‘elimination’ rules.
 
@@ -1369,3 +1369,29 @@ The semantic tableaux of Beth (1959) is based on the following intuition: We wan
 The method of semantic tableaux turns out to be equivalent to the natural deduction. In fact, if a semantic tableau does close, i.e. if the construction of a counterexample fails, then one can rearrange it so as to obtain a straightforward derivation, and, conversely, every derivation in a suitable system of natural deduction provides us with a tableau showing that no suitable counterexample can be constructed. Beth proved that his system of tableaux is complete and that it satisfied Gentzen’s subformula principle. Consequently, as Beth in 1959 work writes, “such celebrate and profound results as the theorem of Löwenheim-Skolem-Gödel, the theorem of Herbrand, or Gentzen’s subformula theorem, are from our present standpoint within (relatively) easy reach”. And he adds that his approach “realizes to a considerable extend the ideal of a purely analytic method, which has played such an important role in philosophy”. The method of tableaux has also another philosophical, more exactly epistemological significance, namely it shows in some sense, simply the record of “an unsuccessful attempt to describe a counterexample” Hintikkia The Philosophy of Mathematics (1969). Observe that it cannot be estimated in advance how many steps in the construction of a counterexample by the method of tableaux will be needed, hence the system of the predicate logic is not decidable.
 
 The method of semantic tableaux of Beth was developed by various authors. In particular Kleene in Mathematical Logic (1967) extended it to a Gentzen-type L-system and Kripke in A Completeness Theorem in Modal Logic (1959), The Problem of Entailment (1959), Semantic Analysis of Modal Logic I: Normal Modal Propositional Calculi (1963) use it in semantics for modal logics. it was also applied in the dialogue logic of Lorenzen (cf. Lorenzen 1960, Lorenz 1961). Smullyan in First Order Logic (1968) using the method of Beth and some ideas of Hintikka introduced the method of analytic tableaux. In some aspects it is similar to the method of semantic tableaux - both try to construct a counterexample. The main difference between them consists in the fact that rules of the analytic tableaux are only rule of elimination of logical constants and that we don't have here two columns of formulas (valid, invalid) but only one in which formulas which in Beth’s method would be written in the right column, here stand with negation.
+
+The construction of an analytic tableau can be characterized in the following way. We want to know if the formula B is a consequence of the formulas A_1, …, A_n. So write simply formulas A_1, …, A_n and the negation of B, i.e. ¬B. Then, applying certain rules, construct a tree which consists of subformulas of A_1, …, A_n, B. If every branch of this tree is closed, i.e. if it contains a pair of contradictory formulas, then we conclude that B is a consequence of A_1, …, A_n. Otherwise the answer is negative. In each step of the construction of the tree we use that rule which can be applied to the main functor of the formula. The rules are the following:
+
+(¬¬) ¬¬A | A
+(&) A & B | A,B
+(¬&) ¬(A & B) | ¬A ¬B
+(or) A or B | A | B
+(¬or) ¬(A or B) | ¬A,¬B
+(->) A -> B | ¬A | B
+(¬->) ¬(A -> B) | A, ¬B
+(E) (Ex)A(x) | A(a)
+(¬E) ¬(Ex)A(x) | ¬A(a)
+(U) (x)A(x) | A(a)
+(¬U) ¬(x)A(x) | ¬A(a)
+
+In the case of (E) and (¬U) we have the following restrictions: the parameter a must not occur earlier in formulas other than A.
+
+The method of analytic tableaux, which is in a sense of a syntactic character, provides us with a sort of an algorithm - of course it is not an algorithm because the system is undecidable, but in practice it has some features of an algorithm. This method as well as the method of Beth, both based on the idea of decomposition of formulas into simpler components may be treated as realizations of Leibniz’s idea of calculus ratiocinator.
+
+*** 6.10 Conclusions
+
+The beginnings of formalization and mechanization may be seen in the work of Giuseppe Peano who developed the idea of axiomatization of mathematics. The next step formed papers of Gottlob Frege, by whom we find the idea of formalization and in particular the first comprehensive system of logic in which derivations are carried out exclusively according to the form of the expressions. The projects and ideas of Peano and Frege found their fulfillment in the work of Bertrand Russell who realized the idea of formalizating mathematics in his monumental Principia Mathematica written together with A. N. Whitehead. This trend was further developed by David Hilbert and his school. They applied the idea of a formal system to the metamathematical studies of mathematical theories. in this way “the work of Leibniz and Frege has produced results of importance to the progress of mathematics”.
+
+One should also mention in this context works of Polish logicians from the so called Lvov-Warsaw logical school, especially Jan Łukasiewicz, S. Leśniewski, A. Tarski, B,. Sobociński, M. Wajsberg, A. Lindenbaum, S. Jaśkowski and others. They developed first of all formal systems of the propositional calculus and their metatheory paying attention to such properties of systems as independence of axioms or their completeness. They reached really a great formal perfection and they were conscious of the role they were playing in the process of formalization and mechanization of reasonings.
+
+Filozoficzna szkola Iwowsko-warszawska - Jan Wolenski (1985)
