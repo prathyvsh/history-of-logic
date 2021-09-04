@@ -1204,10 +1204,138 @@ Remark that Herbrand’s proof of the fundamental theorem was fallacious. In 193
 
 A detailed analysis of the proof of Herbrand’s theorem shows that we are able to get rid of the rule of modus ponens altogether. Herbrand considered this fact as an important one. It implies that if a formula Z is provable in the predicate calculus then there exists a proof of it consisting exclusively of subformulas of Z. This is connected with the Hauptastz of Gerhard Gentzen who rediscovered and greatly improve many of Herbrand’s results.
 
-Herbrand showed an example of applications of his fundamental theorem in the paper “Sur la non-contradiction de l’Arithmétique” published in 1931. The manuscript of this was received by the editors on 27 July 1931 - on the same day Herbrand had an accident while climbing in the Alps and was killed in a fall. He proved there consistency of a fragment of arithmetic in which the formula that can be substituted into the induction scheme does not contain any quantifiers, or if it does, does +not contain any function but the successor function. This result as well as the fundamental theorem discussed above, i.e. the analysis of quantification in terms of truth-functional properties of expansion can be treated without any doubt as an important contribution to the realization of the Hilbert’s school program.
+Herbrand showed an example of applications of his fundamental theorem in the paper “Sur la non-contradiction de l’Arithmétique” published in 1931. The manuscript of this was received by the editors on 27 July 1931 - on the same day Herbrand had an accident while climbing in the Alps and was killed in a fall. He proved there consistency of a fragment of arithmetic in which the formula that can be substituted into the induction scheme does not contain any quantifiers, or if it does, does not contain any function but the successor function. This result as well as the fundamental theorem discussed above, i.e. the analysis of quantification in terms of truth-functional properties of expansion can be treated without any doubt as an important contribution to the realization of the Hilbert’s school program.
 
 *** 6.8 G. Gentzen and natural deduction
 
 Gentzen started his scientific career by publishing the paper “Über die Existenz unabhäangiger Axiomensysteme zu unendlichen Satzsystemen”. This relatively unknown paper which has received less attention since its publication than it deserves. Gentzen has shown in it that not all sentence systems possess independent axiom systems, whereas all ‘linear’ sentence systems do possess an independent axiomatization. This paper also reveals another source of inspiration for Gentzen’s investigations. It was the work of Paul Hertz. Gentzen used not only Hertz’s methodology but also some of his terminology. In his 1935 and later works, we find, for example, the terms ‘antecedent’ and ‘succedent’ of a sequent borrowed from Hertz, also the notion ‘logical consequence’ as used by Gentzen was largely inspired by Hertz’s work.
 
-The most important from our point of view is his work “Untersuchungen über das logische Schliessen” from 1935. There he broke away from the traditional formulations of predicate logic as they were developed by Frege, Russell and Hilbert and presented two basically different verisons of predicate logic both in two variants, classical and intuitionistic. It should be noted here that similar attempt was made independently and simultaneously by S. Jaskowski in his On the Rules of Supposition in Formal Logic (1934). Jaskowski published a different version of ‘natural deduction’ based on ideas first put forward in Łukasiewicz’s seminar in 1926
+The most important from our point of view is his work “Untersuchungen über das logische Schliessen” from 1935. There he broke away from the traditional formulations of predicate logic as they were developed by Frege, Russell and Hilbert and presented two basically different verisons of predicate logic both in two variants, classical and intuitionistic. It should be noted here that similar attempt was made independently and simultaneously by S. Jaskowski in his On the Rules of Supposition in Formal Logic (1934). Jaskowski published a different version of ‘natural deduction’ based on ideas first put forward in Łukasiewicz’s seminar in 1926.
+
+Gentzen’s idea of a ‘natural deduction’ came from detailed analysis of Euclid’s proof of the nonexistence of a largest prime number. It revealed to him what properties a system of natural deduction should have and led him to a calculus based on assumption formulae instead of the usual axiom formulae and to the separation of the rules for the logical operators into ‘introduction’ and ‘elimination’ rules.
+
+Gentzen introduced two versions of predicate logic: one, called by him natural deduction (der Kalkül des natürlichen Schliessens) and denoted by NK (classical natural deduction and NJ (intuitionistic natural deduction) and second called logistic calculi (again in two variants: the classical LK and intuitionistic LJ). The second one was later called the sequent calculus or Gentzen’s calculus.
+
+Introduction rules
+
+&-I
+A B -> A & B
+
+or-I
+A | A or B
+B | A or B
+->-I
+A |- B | A -> B
+
+not-I
+A |- False | not A
+
+forAll-I
+
+A(a) | forAll(x, A(x))
+
+thereExists-I
+A(a) | thereExists(x, A(x))
+
+Elimination rules
+&-E
+A & B | A
+A & B | B
+
+or-E
+A or B A |- C B |- C | C
+
+->-E
+A A -> B | B
+
+not-E
+A not A | A
+not not A | A
+
+forAll-E
+
+forAll(x, A(x)) | A(a)
+
+thereExists-E
+
+thereExists(x, A(x)) A(a) |- B | B
+
+There are some restrictions placed on the free object variable a (called the eigenvariable) in the case of introduction of forAll and elimination of thereExists(?). It must not occur in the formula forAll(x, A(x)) nor in any assumption formula upon which the formula depends, and it must not occur in the formula thereExists(x, A(x)) nor in B nor in any assumption formula upon which that formula depends, with the exception of the assumption formula A(a). To obtain NJ, we eliminate the rule not elimination i.e the rule ¬¬A -> A.
+
+Gentzen wrote:
+
+A closer investigation of the specific properties o the natural calculus finally led me to a very general theorem which will be referred to below as the Hauptsatz.
+
+The Hauptzatz says that every purely logical proof can be reduced a definite, though not unique, normal form. Perhaps we may express the essential properties of such a normal proof by saying: it is not roundabout. No concepts enter into the proof other than those contained in its final result, and their use was therefore essential to the achievement of that result.
+
+In order to formulate precisely the Hauptsatz and to prove it Gentzen had to introduce a logical calculus suitable to this purpose, since the calculi NK and NJ proved unsuitable. Therefore he introduced the calculi of sequents LK and LJ. The characteristic feature of this calculus is just the usage of sequents (Seuquenz). They may be seen as the most general form of a scheme of inference. A sequent is an expression of the form:
+
+A_1, …, A_n => B_1, …, B_m
+
+where A_1, …, A_n, B_1, …, B_m are formulas (the symbols => and , are auxiliary and not logical ones).  The formulas A_1, …, A_n form the antecedent (Antezdens) and the formulas B_1, …, B_m the succedent (Sukzedens) of the sequent. Both expressions may be empty. The sequent A_1, …, A_n => B_1, …, B_m can be understood as:
+A_1 & … & A_n => B_1 or … or B_m
+
+IF the antecedent is empty, the sequent reduces to the formula B_1 or … or B_m, if the succedent is empty, the sequent means the same as the formula not(A_1 & … & A_n) or (A_1 & … & A_n) -> false.
+
+A derivation in the system LK or LJ consists of sequents arranged in a tree form such that it begins always from an initial sequent A => A, where A is any formula and in which sequents are transformed one into another according to the following rules which are of two types: structural and operational.
+
+Structural rules:
+
+thinning
+T => U | A, T => U
+T => U | T => U, A
+
+contraction
+A, A, T => U | A, T => U
+T => U, A, A | T => U, A
+
+interchange
+T, A, B, U => X | T, B, A, U => X
+T => U, A, B, X | T => U, B, A, X
+
+cut
+T => U, A A, X => Y | T, X => U, Y
+
+The operation rules are as follows:
+
+&-IS
+T => U, A T => U, B | T => U, A&B
+
+&-IAA, T => U | A & B, T => U
+B, T => ? | A&B, T => ?
+
+V-IA
+
+A, T => U B, T => U | A or B, T => U
+
+V-IS
+
+T => U, A | T => U, A or B
+
+T => U, B | T => U, A
+
+not-IS
+A, T => U | T => U, notA
+
+not-IA
+
+T => U, A | not A, T => U
+
+-> IS
+A, T => U, B | T => U, A -> B
+
+-> - IA
+T => U, A B, X \> Y | A -> B, T, X => U, Y
+
+forAll - IS
+T => U, A(a) | T => U, forAll(x)A(x)
+
+thereExists - IA
+A(a), T => U | thereExists(x)A(x), T => U
+
+forAll - IA
+A(a), T => U
+forAll(x, A(x)), T => U
+
+thereExists - IS
+T => U, A(a) | T => U, thereExists(x, A(x))
