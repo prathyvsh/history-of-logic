@@ -1301,8 +1301,10 @@ The operation rules are as follows:
 &-IS
 T => U, A T => U, B | T => U, A&B
 
-&-IAA, T => U | A & B, T => U
-B, T => ? | A&B, T => ?
+&-IA
+
+A,T => U | A & B, T => U
+B,T => ? | A&B, T => ?
 
 V-IA
 
@@ -1339,3 +1341,21 @@ forAll(x, A(x)), T => U
 
 thereExists - IS
 T => U, A(a) | T => U, thereExists(x, A(x))
+
+There is a restriction on the eigenvariable a in the schemata false-IS and IA: it must not occur in the lower sequent of the inference figure.
+
+The rules just described constitute the classical logistic calculus LK. To obtain the intuitionistic logical calculus LJ we add one restriction in the succedent of any sequent no more than one formula may occur.
+
+Gentzen’s new approach to the predicate logic turned out to be equivalent to the axiomatic one - in the paper from 1935 Gentzen proved the equivalence of the calculis NJ, NK and LJ, LK with calculi modelled on the formalism of Hilbert, more exactly NJ and LJ are equivalent with the intuitionistic calculus and NK and LK with the classical one.
+
+The calculi LK and +LJ have the important property mentioned already above under the name Hauptsats. Gentzen proved namely that the cut-rule can be eliminated from every purely logical proof. Consequently, we obtain the subformula property which says that in a cut-free proof all formulas occurring in the proof are compounded into the ‘endsequent’, i.e. the formula to be proved.
+
+Those theorems have many interesting applications indicated already by Gentzen, who gave a consistency proof for classical and intuitionistic predicate logic, the solution of the decision problem for inutitionistic propositonal logic and a new proof of the nonderivability of the law of the excluded middle in intuitionistic logic. observe also that the formalism of LK and LJ enables u to characterize very simlpy classical and intuitionistic logics by restricting the number of ‘succedent formulas’ in intuitionistic sequents to a single formula.
+
+For classical calculus LK, the Hauptsatz can be strengened to the sharpened Hauptsats (Gentzen called it verschärfter Hauptsatz; it is also known in English as the midsequent theorem, the normal form theorem, the strengthened Hauptsatz, and the extended Hauptsatz). It says that a proof in LK can be broken up into two parts: one patr belonging exclusively to propositional logic, and the other essentially consisting only of application instances of the rules of quantification. This version of the Hauptsatz enabled Gentzen to give a new proof of consistency of arithmetic without complete induction. This is a rather weak form of arithmetic, “of little practical significance” as Gentzen wrote in his 1935 paper. But the problem of consistency of arithmetic with the full induction is much more difficult. Gentzen solved it in two later papers from 1936 and 1938 using just the new formalisms introduced in the paper from 1935. His first consistency proof for elementary number theory was formulated in terms of the calculus NK. Gentzen proved the consistency of arithmetic using the transfinite induction up to the ordinal epsilon naught. The usage of the formalism of natural deduction NK caused the fact that the presentation was neither simple nor elegant. Hence in the later paper from 1938 he used the formalism NK in order to simplify the consistency proof (but this time he lost some of the naturalness in procedure). In a following paper from 1943 Gentzen showed that the transfinite induction up to epsilon naught is really necessary in his consistency proof - it cannot be replaced by the induction up to a small ordinal α < epsilon naught.
+
+Those examples indicate already the distinguishing positive marks of the formalism introduced by Gentzen in comparison with the axiomatic approach. First of all they simulate the natural reasonings, moreover they are an interesting tool which enables us to obtain deep metamathematical results (let us mention here at least the consistency proofs). The formalisms of Gentzen proved to be very flexible - his method is applicable to many non-classical systems, e.g. to the minimal logic in Untersuchungen zum Prädikatenkalkül (1944) by Ketonen, to modal logics in A Theory of Formal Deducibility (1952) Curry or even to systems based on certain infinitistic rules of proof (cf. Beweistheoretische Erfassung der unendlichen Induktion in der Zahlentheorie (1951) by Schütte) where a Gentzen style formalization of an arithmetic based on the w-rule is given). Gentzen’s analysis of the predicate logic in terms of natural deduction influence also the development of semantic tableaux of Beth which are the method for the systematic investigation of the notion of “logical consequence” and the dialogical logic (cf. Logik und Agon (1960) by P. Lorenzen and Arithmetik und Logik als Spiele (1961) by K. Lorenz)
+
+It is worth noting here some connection between the work of Herbrand and that of Gentzen. Gentzen claimed in his 1935 work that Herbrand fundamental theorem was a special case of his own vershärfter Hauptsatz because it applied only to formulas in prenex form. In fact, Herbrand’s theorem is more general that Gentzen’s and what more the study of Herbrand supplies more information on the midsequent than Gentzen’s sharpened Hauptsatz is able to provide. Gentzen’s Hauptsatz on the eliminability of the cut rule is the analogue of Herbrand’s result stating that modus ponens is eliminable in quantification theory. On the other hand, Gentzen’s Hauptsats (but not his sharpened Hauptsatz) can be extended to various non-classical logics (intuitionistic, modal) while there is no similar extension of Herbrand’s result.
+
+Summing up the discussion of Gentzen’s work one must admit that Gentzen has in fact presented logic in a fashion more natural than that of Frege, Russell and Hilbert. The formalisms proposed by him have many important features which we tried to indicate above. Admittedly the number of rules in his systems is greater than the number of rules and axioms in, for example, Principia Mathematica but here each sign is introduced separately. The Hauptsatz shows an important property of Gentzen’s formalisms which has many interesting applications and which leads to many deep mathematical results.
