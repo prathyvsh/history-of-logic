@@ -1407,3 +1407,25 @@ A Program for the Production of Proofs for Theorems Derivable within the First O
 A Proof Method for Quantification Theory (1960) - P. C. Gilmore
 Toward Mechanical Mathematics - Hao Wang (1960)
 Proving Theorems by Pattern Recognition - Part I (1960), Part II (1961) - Hao Wang
+
+* 7. Mechanized Deduction Systems
+
+** 7.1 Introduction
+
+In 1936 Alan Turing and Alonzo Church proved two theorems which seemed to have destroyed all hopes of establishing a method of mechanizing reasonings. Turing in 1936–37 reduced the decidability problem for theories to the halting problem for abstract machines modelling the computability processes (and named after him) and proved that the latter is undecidable. Church solving Hilbert’s original problem proved the undecidability of the full predicate logic and of various subclasses of it.
+
+On the other hand results of Skolem and Herbrand showed that if a theorem is true, then this fact can be proved in a finite number of steps - but this is not the case if the theorem is not true (in this situation either one can prove in some cases the falsity of the given statement or the verification procedure does not halt). This semidecidability of the predicate logic was the source of hope and the basis of further searches for the mechanized deduction systems. Those studies were heavily stimulated by the appearance of computers in early fifities.
+
+All those tsudies led to the idea of automated theorem proving by which one means the use of a computer to prove non-numerical result, i.e. determine their truth (validity). One can demand here either a simple statement “proved” (what is the case in decision procedures0 or human readable proofs. We can distinguish also two modes of operation: 1) Fully automated proof searches and 2) Man-machine interaction proof searches
+
+Note that the studies of mechanization of reasonings and automated theorem proving were motivated by two different philosophies. The first one which we shall call the logic approach can be characterized “by the presence of a dominant logical system that is carefully delineated and essentially static over the development stage of the theorem proving system. Also, search control is clearly separable from the logic and can be regarded as sitting ‘over’ the logic. Control ‘heuristics’ exist but are syntax-directed primarily. The second philosophical viewpoint is called the human simulation approach. It is generally the antithesis of the first one. It can be characterized shortly by saying that the “the thrust is obviousyl similuation of human problem solving techniques”. Of course the logic and human simulation approaches are not always clearly delineated. Nevertheless this dinstinction will help us to order the results and to consider the influence of each of the approaches on various particular systems.
+
+** 7.2 First mechanized deduction systems
+
+In 1954 Martin Davis wrote a program to prove theorems in Presburger arithmetic on the computer “Johniac”. The complexity of this decision procedure is very high and therefore the program proved only very simple facts (e.g. that the sum of two even numbers is also an even number; this was the first mathematical theorem in the history proved by a computer!).
+
+TODO: Verify this claim, it feels like there might be other approaches before Davis’ work.
+
+The second achievement in the field of automated theorem proving called the logic theorist should be included among examples of the human simulation approach. It was built by Allan Newell, John Shaw, and Herbert Simon and presented at the Dartmouth conference in 1956. This program could prove some theorems in the propositional calculs of Principia Mathematica of Whitehead and Russell. Its goal was to mechanically simulatet he deduction processes of humans as they prove theorems of the sentential calculus. Two methods were used: 1) substitution into established formulas to directly obtain a desired result and, failing that, 2) eto find a subproblem whose proof represents progress towards proving the goal problem. This program was able to prove 38 theorems of Principia.
+
+The Geometry Theorem proving Machine of Gelernter and others from 1959 is also an exampleo of the second approach. It applied the idea of Marvin Minsky that the diagram that traditionally accompanies plane geometry problems is a simple model for the theorem that could greatly prune the proof search. The program worked backwards, i.e. from the conclusion (goal) towards the premises creating new subgoals. The geometry model was used just to say which subgoals were true and enable to drop the false ones. It should be noticed that this program was able to prove most high school exam problems within its domain and the running time was often comparable to high school student time.
