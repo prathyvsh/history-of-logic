@@ -499,9 +499,9 @@ S: Aristotle
 All men are living beings
 Mp, Sm
 
-When the middle term is universaloly taken twice, the order of its position is indifferent.
+When the middle term is universally taken twice, the order of its position is indifferent.
 When m is subsumed under M, if PM is true, then pm is true too.
-Hence Mp, Sm becomes pmS, when m is deleted, we have pS or Sp, which is to say that all S is some P or all S is P. This text, deliberately setting up a syllogistic calculus, should be interpreted in the light of the explanation given several pages earlier in Ploucquet’s work and pertaining to the identity of the extension of subjects and predicates in affirmative sentences. Such an interpretation of the structure of the categorical affirmative sentence proves inseparable from the quanification of predicate.
+Hence Mp, Sm becomes pmS, when m is deleted, we have pS or Sp, which is to say that all S is some P or all S is P. This text, deliberately setting up a syllogistic calculus, should be interpreted in the light of the explanation given several pages earlier in Ploucquet’s work and pertaining to the identity of the extension of subjects and predicates in affirmative sentences. Such an interpretation of the structure of the categorical affirmative sentence proves inseparable from the quantification of predicate.
 
 Since in every affirmation the identity of the subject with the predicate is asserted, it is obvious that if the subject is denoted by S and the predicate by p, then p can be substituted for S, and reciprocally, S for p. Thus Sp is identical with pS.
 
@@ -1395,3 +1395,15 @@ The beginnings of formalization and mechanization may be seen in the work of Giu
 One should also mention in this context works of Polish logicians from the so called Lvov-Warsaw logical school, especially Jan Łukasiewicz, S. Leśniewski, A. Tarski, B,. Sobociński, M. Wajsberg, A. Lindenbaum, S. Jaśkowski and others. They developed first of all formal systems of the propositional calculus and their metatheory paying attention to such properties of systems as independence of axioms or their completeness. They reached really a great formal perfection and they were conscious of the role they were playing in the process of formalization and mechanization of reasonings.
 
 Filozoficzna szkola Iwowsko-warszawska - Jan Wolenski (1985)
+
+New direction in researches of formalization and mechanization of reasonings was suggested by Leopold Löwenheim and Thoralf Skolem who attempt to analyze quantified statements in terms of truth-functional logic. It was further developed by Jacques Herbrand. Another new approach was introduced by Gerhard Gentzen who broke away from the traditional formulations of predicate logic as they were developed by Frege, Russell and Hilbert and presented the systems of natural deduction which are closer to the real reasonings and which enable us to prove various interesting metamathematical results.
+
+One should add to all that still one minor remark concerning the mechanization of the process of verification and if a given formula of the propositional calculus is a tautology or not. We can find already in Boole’s work the notion that a necessarily true proposition should reveal itself as such in the process of development. About the year 1920 it occurred to several logicians independently that when truth-function had been defined by means of truth tables a rule of thumb calculation would suffice to determine whether a complex proposition expressed by the use of truth-functional signs was necessarily true (i.e. a tautology), necessarily false (i.e. a contratautology), or contingent. The best known account of such a decision procedure is that given by Wittgenstein in Tractacus logico-Philosophicus (1922). A more straightforward discussion of the technique is in Post Introduction to a General Theory of Elementary Propositions (1921); note that the method was also known to Łukasiewicz at this time.
+
+All those achievements made it possible to develop the mechanization of reasonings. The artificial formal languages and the idea of formalization afforded possibilities for representing appropriately thoughts and for grasping and expressing properly the fundamental relations in reasonings. The methods developed by Skolem, Herbrand, Gentzen and Beth provided procedures which enabled the simplification of reasonings and further their mechanizations, for a reasoning, is, after all a kind of computation. Those methods made it possible to construct concrete computer programs which could prove some theorems of, say, predicate calculus. For example, P. C. Gilmore using Beth’s semantic tableaux technique constructed the first working mechanized proof procedure for the predicate calculus and did prove some theorems of modest difficulty. Hao Wang developed a program which proved 220 theorems of Principia Mathematica (in 37 minutes) the program was organized around Gentzen-Herbrand methods. These were the beginnings of the study of the automated theorem proving which is developed nowadays with great intensity.
+
+A Program for the Production of Proofs for Theorems Derivable within the First Order Predicate Calculus from Axioms (1959) - P. C. Gilmore
+
+A Proof Method for Quantification Theory (1960) - P. C. Gilmore
+Toward Mechanical Mathematics - Hao Wang (1960)
+Proving Theorems by Pattern Recognition - Part I (1960), Part II (1961) - Hao Wang
