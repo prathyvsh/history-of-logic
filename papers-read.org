@@ -2887,3 +2887,37 @@ Katherine Dunlop (2017)
 
 ** [[http://philsci-archive.pitt.edu/11362/2/Poincare_Conventions_Relations--Psillos.pdf][Conventions and relations in Poincaré’s philosophy of science]]
 Stathis Psillos
+
+* Reading list on Dedekind
+
+** [[http://philsci-archive.pitt.edu/17309/1/Ferreir%C3%B3s%202017%20Dedekind.pdf][https://academic.oup.com/philmat/article/25/3/318/2669608][Dedekind’s Map-theoretic Period (2016)]]
+José Ferreirós
+
+** [[https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/6/3494/files/2014/04/Grad-seminar-talk-112917-wzznvh.pdf][The History of the Formulation of Ideal Theory (2017)]]
+Reeve Garrett
+
+** [[https://hal.archives-ouvertes.fr/tel-01144626/document][The “Science of Numbers” in action in Richard Dedekind’s works: between mathematical explorations and foundational investigations]]
+Emmylou Haffner (2014)
+562 pages
+
+** [[https://www.tau.ac.il/~corry/publications/articles/pdf/LC-DedNoether.pdf][Steht es Alles Wirklich Schon Bei Dedekind? Ideals and Factorization Between Dedekind and Noether (2017)]]
+Leo Corry
+19 pages
+
+** [[https://core.ac.uk/download/pdf/82118851.pdf][On the Relations between Georg Cantor and Richard Dedekind (1993)]]
+José Ferreirós
+
+** [[https://scholar.rose-hulman.edu/cgi/viewcontent.cgi?article=1465&context=rhumj][Irrational Philosophy? Kronecker’s Constructive Philosophy and Finding the Real Roots of a Polynomial (2021)]]
+Richard B. Schneider
+
+** [[https://www.researchgate.net/profile/Israel-Kleiner/publication/225767243_From_Numbers_to_Rings_The_Early_History_of_Ring_Theory/links/5a7064390f7e9ba2e1c9ddc9/From-Numbers-to-Rings-The-Early-History-of-Ring-Theory.pdf?origin=publication_detail][From Numbers to Rings: The Early History of Ring Theory (1998)]]
+Israel Kleiner
+
+** [[https://academic.oup.com/blms/article-abstract/15/1/8/271335?redirectedFrom=PDF][Dedekind’s Invention of Ideals (1983)]]
+Harold M. Edwards
+
+** [[https://digitalcommons.ursinus.edu/triumphs_abstract/1][Richard Dedekind and the Creation of an Ideal: Early Developments in Ring Theory (2016)]]
+Janet Heine Barnett
+
+** [[https://digitalcommons.ursinus.edu/cgi/viewcontent.cgi?article=1003&context=triumphs_number][Gaussian Integers and Dedekind’s Creation of an Ideal: A Number Theory Project (2017)]]
+Janet Heine Barnett
