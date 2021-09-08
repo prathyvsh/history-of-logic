@@ -11,10 +11,10 @@
 | [[/papers-read.org/#Leibniz and the Picture Theory of Language][Leibniz and the Picture Theory of Language]] | William Kneale | 1966 | 12 | July 2020? |
 | [[/paper-read/#Boole and the Revival of Logic][Boole and the Revival of Logic]] | William Kneale | 1948 | 27 | July 2020? |
 | [[/papers-read/#H. MacColl and L. Carroll: Crosscurrents in geometry and logic][H. MacColl and L. Carroll: Crosscurrents in geometry and logic]] | Francine F. Abeles and Amirouche Moktefi | 1 April 2011 | 22 | 18 July 2020 |
-| [[/papers-read.org/#Some Modern Advances in Logic][Some Modern Advances in Logic]] | Philip E. B. Jourdain | 1911 | 3 |
-| [[/papers-read.org/#The Logical Significance of “Ockham’s Razor”][The Logical Significance of “Okham’s Razor”]] | Philipp E. B. Jourdain | 1919 | 2 |
-| [[/papers-read.org/#Mathematicians and Philosophers][Mathematicians and Philosophers]] | P. E. B. Jourdain | 1915 | 6 | 19 July 2020 |
-| [[/papers-read.org/#Mr. Bertrand Russell’s first work on the principles of mathematics][Mr. Bertrand Russell’s first work on the principles of mathematics]] | P. E. B. Jourdain (1912) | 9 | 19 July 2020 |
+| [[/papers-read.org/#Some Modern Advances in Logic][Some Modern Advances in Logic]] | Philip E. B. Jourdain | 1911 | 3 | 18 July 2020 |
+| [[/papers-read.org/#The Logical Significance of “Ockham’s Razor”][The Logical Significance of “Okham’s Razor”]] | Philip E. B. Jourdain | 1919 | 2 | 18 July 2020 |
+| [[/papers-read.org/#Mathematicians and Philosophers][Mathematicians and Philosophers]] | Philip E. B. Jourdain | 1915 | 6 | 19 July 2020 |
+| [[/papers-read.org/#Mr. Bertrand Russell’s first work on the principles of mathematics][Mr. Bertrand Russell’s first work on the principles of mathematics]] | Philip E. B. Jourdain | 1912 | 9 | 19 July 2020 |
 | [[/papers-read.org/#Richard Whately andthe Rise of Modern Logic][Richard Whately and the Rise of Modern Logic]] | James van Evra | 1983 | 18 | 22 July 2020 |
 | [[/papers-read.org/#Richard Whately and the Revival of Logic in Nineteenth Century England][Richard Whately and the Revival of Logic in Nineteenth-Century England]] | Raymie E. McKerrow | 1987 | 24 | 22 July 2020 |
 
@@ -98,7 +98,7 @@ Read 18 July 2020
 A quick read on what advances where made by Frege, Peano, and Russell. Parallel is drawn between Euclid’s axioms and how modern logic differs from it. Empirical accent of the modern logic is stressed.
 
 ** [[https://www.jstor.org/stable/27900754][The Logical Significance of “Okham’s Razor”]]
-Philipp E. B. Jourdain
+Philip E. B. Jourdain
 1919
 2 pages
 
@@ -107,14 +107,14 @@ Read 18 July 2020
 Attention is drawn to the idea that making a parsimonious system of axioms following Okham’s dictum, is similar to having a least number of dependent variables in a linear system of equations as in the arithmetic.
 
 ** [[https://academic.oup.com/monist/article-abstract/25/4/633/2473106?redirectedFrom=fulltext][Mathematicians and Philosophers]]
-P. E. B. Jourdain (1915)
+Philip E. B. Jourdain (1915)
 6 pages
 Read 19 July 2020
 
 Details about the work of Berkeley that criticizes Newton, Hegel, and Kant and draws parallels between how then modern day (20th century) mathematics has surpassed these criticisms.
 
 ** [[https://academic.oup.com/monist/article-abstract/22/1/149/1021477][Mr. Bertrand Russell’s first work on the principles of mathematics]]
-P. E. B. Jourdain (1912)
+Philip E. B. Jourdain (1912)
 9 pages
 Read 19 July 2020
 
