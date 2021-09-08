@@ -1,26 +1,59 @@
 * Papers Read
 
+| Paper | Author | Publishing Date | Pages | Read Date |
+|-----------------------------------------------------|
+| [[/papers-read.org#Emil Post][Emil Post]] | Alasdair Urquhart | 2008 | 50 | May 2020 |
+| [[/papers-read.org/#Geometry of Negation][Geometry of Negation]] | Achille C. Varzi, Massimo Warglien | 2003 | 11 | June 2020 |
+| [[/papers-read.org/#Image of Creation][Leibniz’s Image of Creation]] | Florian Cajori | 1916 | 9 | June 2020 |
+| [[/papers-read.org/Introduction article to Origins of Boolean Algebra in the logic of classes][Introduction article to Origins of Boolean Algebra in the logic of classes]] | Janet Heine Barnett | 2013 | ? | July 2020 |
+| [[/papers-read.org/#Charles Peirce’s Reading of Richard Whately’s Elements of Logic][Charles Peirce’s Reading of Richard Whately’s Elements of Logic]] | Charles H. Seibert | 2004 | 32 | July 2020 |
+| [[/papers-read.org/#The Logical Work of Leibniz][The Logical Work of Leibniz]] | Philip E. B. Jourdain | 1916 | 20 | 11 July 2020 |
+| [[/papers-read.org/#Leibniz and the Picture Theory of Language][Leibniz and the Picture Theory of Language]] | William Kneale | 1966 | 12 | July 2020? |
+| [[/paper-read/#Boole and the Revival of Logic][Boole and the Revival of Logic]] | William Kneale | 1948 | 27 | July 2020? |
+| [[/papers-read/#H. MacColl and L. Carroll: Crosscurrents in geometry and logic][H. MacColl and L. Carroll: Crosscurrents in geometry and logic]] | Francine F. Abeles and Amirouche Moktefi | 1 April 2011 | 22 | 18 July 2020 |
+| [[/papers-read.org/#Some Modern Advances in Logic][Some Modern Advances in Logic]] | Philip E. B. Jourdain | 1911 | 3 |
+| [[/papers-read.org/#The Logical Significance of “Ockham’s Razor”][The Logical Significance of “Okham’s Razor”]] | Philipp E. B. Jourdain | 1919 | 2 |
+| [[/papers-read.org/#Mathematicians and Philosophers][Mathematicians and Philosophers]] | P. E. B. Jourdain | 1915 | 6 | 19 July 2020 |
+| [[/papers-read.org/#Mr. Bertrand Russell’s first work on the principles of mathematics][Mr. Bertrand Russell’s first work on the principles of mathematics]] | P. E. B. Jourdain (1912) | 9 | 19 July 2020 |
+| [[/papers-read.org/#Richard Whately andthe Rise of Modern Logic][Richard Whately and the Rise of Modern Logic]] | James van Evra | 1983 | 18 | 22 July 2020 |
+| [[/papers-read.org/#Richard Whately and the Revival of Logic in Nineteenth Century England][Richard Whately and the Revival of Logic in Nineteenth-Century England]] | Raymie E. McKerrow | 1987 | 24 | 22 July 2020 |
+
 ** May 2020
 
-*** [[https://sites.ualberta.ca/~francisp/Phil428.526/UrquhartPost.pdf][Emil Post – Alasdair Urquhart (2008)]]
+*** [[https://sites.ualberta.ca/~francisp/Phil428.526/UrquhartPost.pdf][Emil Post]]
+Alasdair Urquhart
+2008
+50 pages
 
 ** June 2020
 
-*** [[http://www.columbia.edu/%7Eav72/papers/JANCL_2003.pdf][Geometry of Negation (2003)]]
+*** [[http://www.columbia.edu/%7Eav72/papers/JANCL_2003.pdf][Geometry of Negation]]
+Achille C. Varzi, Massimo Warglien
+2003
+11 pages
 
-*** [[https://archive.org/details/jstor-27900610][Image of Creation (1916)]]
+*** [[https://archive.org/details/jstor-27900610][Leibniz’s Image of Creation]]
+Florian Cajori
+1916
+9 pages
 
 ** July 2020
 
-*** [[https://www.maa.org/press/periodicals/convergence/origins-of-boolean-algebra-in-the-logic-of-classes-george-boole-john-venn-and-c-s-peirce][Introduction article to Origins of Boolean Algebra in the logic of classes]]
-
-*** [[http://www.commens.org/bibliography/journal_article/seibert-charles-h-2005-charles-peirce%E2%80%99s-reading-richard-whately%E2%80%99s][Charles Peirce’s Reading of Richard Whately’s Elements of Logic (2004)]]
-Charles H. Seibert
-
+*** [[https://www.maa.org/press/periodicals/convergence/origins-of-boolean-algebra-in-the-logic-of-classes-george-boole-john-venn-and-c-s-peirce][Introduction article to Origins of Boolean Algebra in the logic of classes (2013)]]
+TODO: Read the paper linked with this project
+Janet Heine Barnett
 Read 11 July 2020
 
-*** [[https://www.jstor.org/stable/pdf/27900607.pdf][The Logical Work of Leibniz (1916)]]
+*** [[https://www.tandfonline.com/doi/abs/10.1080/0144534042000260438?journalCode=thpl20][Charles Peirce’s Reading of Richard Whately’s Elements of Logic (2004)]]
+Charles H. Seibert
+2004
+32 pages
+Read 11 July 2020
+
+*** [[https://www.jstor.org/stable/pdf/27900607.pdf][The Logical Work of Leibniz]]
 Philip E. B. Jourdain
+1916
+20 pages
 Read 12 July 2020
 
 A good article briefing on the work of Leibniz. Need to trace the work of Jourdain further in logic.
@@ -28,6 +61,7 @@ He seems to be a regular author for Quarterly Journal of Mathematics.
 
 *** [[https://www.jstor.org/stable/23940478][Leibniz and the Picture Theory of Language]]
 William Kneale, 1966
+12 pages
 
 - Parallels between the logical picture of Wittgenstein and Leibniz’s work is drawn.
 - First order and second order natural signs are detailed.
@@ -38,6 +72,7 @@ William Kneale, 1966
 
 ** [[https://www.jstor.org/stable/2250689][Boole and the Revival of Logic]]
 William Kneale, 1948
+27 pages
 
 This is supposedly Kneale’s first work on the history of logic.
 
@@ -47,17 +82,24 @@ Part 1 was a good read that shows the historiographical works available on his l
 TODO: Read Part 2 and 3
 
 ** [[https://journals.openedition.org/philosophiascientiae/362?lang=en][H. MacColl and L. Carroll: Crosscurrents in geometry and logic]]
+Francine F. Abeles and Amirouche Moktefi
+Read 18 July 2020
+22 pages
 
 Describes the influence in Hugh MacColl’s thinking as he read and reviewed the work of Lewis Carroll. MacColl’s interest in logic was rekindled after 13 years when one of his friends sent him a copy of Symbolic Logic by Lewis Carroll. He described this in a letter to Bertrand Russell. In spite of some conflicting views, each modified their arguments to make them more clarified. Interesting read to know about how MacColl corresponded with Carroll by reviewing his books for The Atheneum publication.
 
-Read 18 July 2020
+** [[https://www.jstor.org/stable/27900347][Some Modern Advances in Logic]]
+Philip E. B. Jourdain
+1911
+3 pages
 
-** [[https://academic.oup.com/monist/article-abstract/21/4/564/2473154][Some Modern Advances in Logic]]
-2 pages
+Read 18 July 2020
 
 A quick read on what advances where made by Frege, Peano, and Russell. Parallel is drawn between Euclid’s axioms and how modern logic differs from it. Empirical accent of the modern logic is stressed.
 
-** [[https://academic.oup.com/monist/article-abstract/29/3/450/2335466][The Logical Significance of “Okham’s Razor”]]
+** [[https://www.jstor.org/stable/27900754][The Logical Significance of “Okham’s Razor”]]
+Philipp E. B. Jourdain
+1919
 2 pages
 
 Read 18 July 2020
@@ -67,23 +109,23 @@ Attention is drawn to the idea that making a parsimonious system of axioms follo
 ** [[https://academic.oup.com/monist/article-abstract/25/4/633/2473106?redirectedFrom=fulltext][Mathematicians and Philosophers]]
 P. E. B. Jourdain (1915)
 6 pages
+Read 19 July 2020
 
 Details about the work of Berkeley that criticizes Newton, Hegel, and Kant and draws parallels between how then modern day (20th century) mathematics has surpassed these criticisms.
-
-Read 19 July 2020
 
 ** [[https://academic.oup.com/monist/article-abstract/22/1/149/1021477][Mr. Bertrand Russell’s first work on the principles of mathematics]]
 P. E. B. Jourdain (1912)
 9 pages
+Read 19 July 2020
 
 A good read on the work of Russell and how he unified the work of Frege and Peano by using the logic of relations.
 
 There are also interesting historical details and mathematical philosophical details that shine light on the evolution of formalism and work on Russell.
 
-Read 19 July 2020
-
 ** [[https://www.tandfonline.com/doi/abs/10.1080/01445348408837059][Richard Whately and the Rise of Modern Logic]]
-
+James van Evra
+1983
+18 pages
 Read 22 July 2020
 
 Describes how Whately’s work was distinct from others of the period. Draws attention to the work of Aldrich’s work and it acted as the primary reference point for departure for Whately.
@@ -102,8 +144,10 @@ Details are also drawn to the common origin of mistakenly treating both inductio
 
 The paper squarely locates Whately as the pioneering figure in influencing later developments in modern logic and wants to group him together with modern logic rather than among the scholastics which is what modern histories of logic tend to group him under.
 
-** [[https://www.jstor.org/stable/10.1525/rh.1987.5.2.163][Richard Whately and the Revival of Logic in Nineteenth-Century England (1987)]]
-
+** [[https://www.jstor.org/stable/10.1525/rh.1987.5.2.163][Richard Whately and the Revival of Logic in Nineteenth-Century England]]
+Raymie E. McKerrow
+1987
+24 pages
 Read 22 July 2020
 
 Details about the historical context in which Richard Whately’s book emerged.
