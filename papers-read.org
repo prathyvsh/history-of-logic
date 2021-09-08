@@ -2890,7 +2890,7 @@ Stathis Psillos
 
 * Reading list on Dedekind
 
-** [[http://philsci-archive.pitt.edu/17309/1/Ferreir%C3%B3s%202017%20Dedekind.pdf][https://academic.oup.com/philmat/article/25/3/318/2669608][Dedekind’s Map-theoretic Period (2016)]]
+** [[http://philsci-archive.pitt.edu/17309/1/Ferreir%C3%B3s%202017%20Dedekind.pdf][Dedekind’s Map-theoretic Period (2016)]]
 José Ferreirós
 
 ** [[https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/6/3494/files/2014/04/Grad-seminar-talk-112917-wzznvh.pdf][The History of the Formulation of Ideal Theory (2017)]]
