@@ -1453,3 +1453,59 @@ Martin Davis developed right away the idea and combining it with the procedure o
 Theorem Proving by Matching - T.J. Chinlund, Martin Davis, P. G. Hineman, D. Mcllroy (1964)
 
 Simultaneously at Argonne National Lab near Chicago a group of scientists (G. Robinson, D. Carson, J. A. Robinson, L. Wos) was working on computer programs proving theorems. They used methods based on Herbrand theorem recognizing their inefficiency. Studying papers of Davis-Putnam and Prawitz they came tot he idea of trying to find a general machine-oriented logical principle which would unify their ideas in a single rule of inference. Such a rule was found in 1963–64 by John Alan Robinson and published in (1965). It is called the resolution principle and is today one of the most fundamental ideas in the field of automated theorem proving.
+
+The resolution principle is applied to formulas in a special form called conjunctive normal form. Given a formula A of the language of predicate calculus we first transform it into prenex normal form i.e to the form ? where Q, (i = 1, …, n) are universal or existential quantifiers and B is a quantifier-free (B is called matrix). one can show that the prenex normal form of a formula A is logically equivalent to the formula A. As an example consider the following formula (stating that function f is continuous):
+
+forAll(e {e > 0 → thereExists(d, (d > 0 and forAll(x, forAll(y(|x - y| < d → |f(x) - f(y)| < e}))
+
+The prenex normal form is:
+
+forAll(e, thereExists(d, forAll(x, forAll(y, e > 0 → d > 0 and (| x - y | < d → | f(x) - f(y) | < e))
+
+Observe that prenex normal form of a formula is not uniquely determined but on the other hand all prenex normal forms of a give formula are logically equivalent.
+
+The next step of the transformation of formulas we need is skolemization. Recall here only that it consists of dropping of all the quantifiers and of replacing every occurrence of each variable bound by an existential quantifier by a functional term containing the variables that in this formula are bound by universal quantifiers preceding the considered existential quantifier. A formula obtained in this way is said to be in a skolemized prenex normal form or in its functional form for satisfiability. The skolemized prenex normal form of the formula from our above example is the following:
+
+e > 0 → g(e) > 0 and (| x - y | < g(e) → | f(x) - f(y) | < e
+
+Note that the skolemized normal form of a formula is not equivalent to the given formula but is satisfiable (inconsistent) if and only if the given formula is satisfiable (inconsistent).
+
+The next step of getting the conjunctive normal form consists of the elimination of connections ↔ and → and moving all negation signs to the atoms. We proceed according to the following rules:
+
+A ↔ B is logically equivalent to (A → B) and (B → A)
+
+A → B is logically equivalent to (¬A or B)
+
+not(A or B) is logically equivalent to (not A and not B)
+not(A and B) is logically equivalent to (not A or not B)
+
+not not A is logically equivalent to A
+
+A formula obtained in such a way is said to be in the negation normal form. For example the negation normal form of the formula considered above is:
+
+not e > 0 and (g(e) > 0 and (not(|x - y|) < g(e) or |f(x) - f(y)| < e
+
+Note that atoms and negated atoms are usually called literals.
+
+The last step of the considered transformation consists of the application of the following distributivity laws:
+
+A or (B and C) ↔ (A or B) and (A or C)
+(A and B) or C ↔ (A or C) and (B or C)
+
+In this way the obtained formula is of the form of conjunctions of disjunctions of literals. Such a form is called the conjunctive normal form and the disjunctions of literals are called classes. Clauses consisting of a single literal are called unit clauses. Clauses with only one positive literal are called Horn clauses. They correspond to formulas of the form A_1 and … A_n → B. To illustrate the last step note that the conjunctive normal form of our formula stating that a function f is continuous is the following:
+
+(not e > 0) or (g(e) > 0 and not(|x - y|) < g(e)) or (g(e) > 0 and |f(x) - f(y)| < e)
+
+Note that if A^1_1 or … or A^1_n1) and … and (A^1_l or … A^1_nl) is a conjunctive normal form of a formula A then we sometimes write it also as:
+
+A^1_1 or … A^1_n1, …, A^l_1 or … A^l_nl
+
+or as
+
+((A^1_1, …, A^1_n1), …, (A^l_1, …, A^l_nl))
+
+This form is called the clause form. In this way we have shown that for any formula A of the language of predicate calculus there exists a formula A' in conjunctive normal form such that the formula A is satisfiable (inconsistent) if and only if the formula A' is satisfiable (inconsistent).
+
+Having described the needed form of formulas we can introduce now the resolution principle. First observe that a formula B is a logical consequence of formulas A_1, …, A_n if and only if the formul A_1 or … or A_n or not B is inconsistent, i.e. unsatisifable. Let u denote an emptly clause (i.e. a contradiction) and let formulas A_1, …, A_n not B be in conjunctive normal form. Hence to show that B follows logically from A_1, …, A_n it suffices to prove that ? is contained in the set S of all clauses constituting A_1, …, A_n, not B or that ? c;an be reduced from this set (the sense of the word ‘deduce’ will be explained below). This is the main idea of the method of resolution. Hence we can say that this method is a negative test calculus.
+
+The resolution calculus introduced by J. A. Robinson in (1965) is a logical calculus in which one works only with formulas in clause form. It has no logical axioms and only one inference rule (the resolution rule).
