@@ -4,17 +4,17 @@
 |-----------------------------------------------------|
 | [[/papers-read.org/#emil-post][Emil Post]] | Alasdair Urquhart | 2008 | 50 | May 2020 |
 | [[/papers-read.org/#geometry-of-negation][Geometry of Negation]] | Achille C. Varzi, Massimo Warglien | 2003 | 11 | June 2020 |
-| [[/papers-read.org/#image-of-creation][Leibniz’s Image of Creation]] | Florian Cajori | 1916 | 9 | June 2020 |
+| [[/papers-read.org/#leibnizs-image-of-creation][Leibniz’s Image of Creation]] | Florian Cajori | 1916 | 9 | June 2020 |
 | [[/papers-read.org/#introduction-article-to-Origins-of-Boolean-Algebra-in-the-logic-of-classes][Introduction article to Origins of Boolean Algebra in the logic of classes]] | Janet Heine Barnett | 2013 | ? | July 2020 |
 | [[/papers-read.org/#charles-peirces-reading-of-Richard-Whatelys-elements-of-logic][Charles Peirce’s Reading of Richard Whately’s Elements of Logic]] | Charles H. Seibert | 2004 | 32 | July 2020 |
 | [[/papers-read.org/#the-logical-work-of-leibniz][The Logical Work of Leibniz]] | Philip E. B. Jourdain | 1916 | 20 | 11 July 2020 |
 | [[/papers-read.org/#leibniz-and-the-picture-theory-of-language][Leibniz and the Picture Theory of Language]] | William Kneale | 1966 | 12 | July 2020? |
 | [[/paper-read/#boole-and-the-revival-of-logic][Boole and the Revival of Logic]] | William Kneale | 1948 | 27 | July 2020? |
-| [[/papers-read/#h.-macColl-and-l.-carroll:-crosscurrents-in-geometry-and-logic][H. MacColl and L. Carroll: Crosscurrents in geometry and logic]] | Francine F. Abeles and Amirouche Moktefi | 1 April 2011 | 22 | 18 July 2020 |
+| [[/papers-read/#h-macColl-and-l-carroll-crosscurrents-in-geometry-and-logic][H. MacColl and L. Carroll: Crosscurrents in geometry and logic]] | Francine F. Abeles and Amirouche Moktefi | 1 April 2011 | 22 | 18 July 2020 |
 | [[/papers-read.org/#some-modern-advances-in-logic][Some Modern Advances in Logic]] | Philip E. B. Jourdain | 1911 | 3 | 18 July 2020 |
 | [[/papers-read.org/#the-logical-significance-of-ockhams-razor][The Logical Significance of “Okham’s Razor”]] | Philip E. B. Jourdain | 1919 | 2 | 18 July 2020 |
 | [[/papers-read.org/#mathematicians-and-philosophers][Mathematicians and Philosophers]] | Philip E. B. Jourdain | 1915 | 6 | 19 July 2020 |
-| [[/papers-read.org/#mr.-bertrand-russells-first-work-on-the-principles-of-mathematics][Mr. Bertrand Russell’s first work on the principles of mathematics]] | Philip E. B. Jourdain | 1912 | 9 | 19 July 2020 |
+| [[/papers-read.org/#mr-bertrand-russells-first-work-on-the-principles-of-mathematics][Mr. Bertrand Russell’s first work on the principles of mathematics]] | Philip E. B. Jourdain | 1912 | 9 | 19 July 2020 |
 | [[/papers-read.org/#richard-whately-and-the-rise-of-modern-Logic][Richard Whately and the Rise of Modern Logic]] | James van Evra | 1983 | 18 | 22 July 2020 |
 | [[/papers-read.org/#richard-whately-and-the-revival-of-logic-in-nineteenth-century-england][Richard Whately and the Revival of Logic in Nineteenth-Century England]] | Raymie E. McKerrow | 1987 | 24 | 22 July 2020 |
 | [[/papers-read.org/#gödel-and-computability-theory][Gödel and Computability Theory]] | Richard Zach | 2006 | 9 | 13 January 2021 |
@@ -22,17 +22,17 @@
 | [[/papers-read.org/#calculus-ratiocinator-vs-characteristica-universalis-the-two-tradions-in-logic-revisited][Calculus Ratiocinator vs. Characteristica Universalis? The Two Traditions in Logic, Revisited]] | Volker Peckhaus | 2004 | 15 | 7 February 2021 |
 | [[/papers-read.org/#the-rise-of-modern-logic][The Rise of Modern Logic]] | Rolf George and James Vans Evra | 2006 | 14 | 17 February 2021 |
 | [[/papers-read.org/#history-of-logic:-medieval][History of Logic: Medieval]] | E.P. Bos and B. G. Sundholm | 2006 | 11 | 19 February 2021 |
-| [[/papers-read.org/ancient-greek-philosophical-logic][Ancient Greek Philosophical Logic]] | Robin Smith | 2006 | 13 | 22 February 2021 |
-| [[/papers-read.org/19th-century-logic-between-philosophy-and-mathematics][19th Century Logic between Philosophy and Mathematics]] |  Volker Peckhaus | 1999 | 16 | 25 April 2021 |
-| [[/papers-read.org/the-mystery-of-the-fifth-logical-notion-alice-in-the-wonderful-land-of-logical-notions][The Mystery of the Fifth Logical Notion (Alice in the Wonderful Land of Logical Notions)]] | Jean-Yves Bèziau | 2020 | 18 | 30 March 2021 |
-| [[/papers-read.org/turings-thesis][Turing’s Thesis]] | Solomon Feferman | 2006 | 7 | Apr 10 2021 |
-| [[/papers-read.org/the-algebra-of-logic-what-boole-really-started][The Algebra of Logic: What Boole Really Started]] | Judy Green | 1994 | 15 | Read 11 Apr 2021 |
-| [[/papers-read.org/notes-on-the-founding-of-logics-and-metalogic-aristotle-boole-and-tarski][Notes on the Founding of Logics and Metalogic: Aristotle,  Boole, and Tarski]] | John Corcoran | 2007 | 35 | 25 April 2021 |
-| [[/papers-read.org/logic-and-programming-languages][Logic and Programming Languages]] | Dana S. Scott | 1976 | 8 | 30 May 2021 |
-| [[/papers-read.org/a-leibnizian-approach-to-mathematical-relaitonships-a-new-look-at-synthetic-judgments-in-mathematics][A Leibnizian Approach to Mathematical Relationships: A New Look at Synthetic Judgments in Mathematics]] | David T. Purser | 2009 | 64 | 13 August 2021 |
-| [[/papers-read.org/the-significance-of-curry-howard-isomorphism][The Significance of Curry-Howard Isomorphism]] | Richard Zach | 2019 | 15 | 13 August 2021 |
-| [[/papers-read.org/a-century-of-controversy-over-the-foundations-of-mathematics][A Century of Controversy Over the Foundations of Mathematics]] | Gregory J. Chaitin | 2000 | 10 | 21 August 2021 |
-| [[/papers-read.org/hilberts-program-revisited][Hilbert’s Program Revisited]] | Panu Raatikainen | 2003 | 22 | ? |
+| [[/papers-read.org/#ancient-greek-philosophical-logic][Ancient Greek Philosophical Logic]] | Robin Smith | 2006 | 13 | 22 February 2021 |
+| [[/papers-read.org/#19th-century-logic-between-philosophy-and-mathematics][19th Century Logic between Philosophy and Mathematics]] |  Volker Peckhaus | 1999 | 16 | 25 April 2021 |
+| [[/papers-read.org/#the-mystery-of-the-fifth-logical-notion-alice-in-the-wonderful-land-of-logical-notions][The Mystery of the Fifth Logical Notion (Alice in the Wonderful Land of Logical Notions)]] | Jean-Yves Bèziau | 2020 | 18 | 30 March 2021 |
+| [[/papers-read.org/#turings-thesis][Turing’s Thesis]] | Solomon Feferman | 2006 | 7 | Apr 10 2021 |
+| [[/papers-read.org/#the-algebra-of-logic-what-boole-really-started][The Algebra of Logic: What Boole Really Started]] | Judy Green | 1994 | 15 | Read 11 Apr 2021 |
+| [[/papers-read.org/#notes-on-the-founding-of-logics-and-metalogic-aristotle-boole-and-tarski][Notes on the Founding of Logics and Metalogic: Aristotle,  Boole, and Tarski]] | John Corcoran | 2007 | 35 | 25 April 2021 |
+| [[/papers-read.org/#logic-and-programming-languages][Logic and Programming Languages]] | Dana S. Scott | 1976 | 8 | 30 May 2021 |
+| [[/papers-read.org/#a-leibnizian-approach-to-mathematical-relaitonships-a-new-look-at-synthetic-judgments-in-mathematics][A Leibnizian Approach to Mathematical Relationships: A New Look at Synthetic Judgments in Mathematics]] | David T. Purser | 2009 | 64 | 13 August 2021 |
+| [[/papers-read.org/#the-significance-of-curry-howard-isomorphism][The Significance of Curry-Howard Isomorphism]] | Richard Zach | 2019 | 15 | 13 August 2021 |
+| [[/papers-read.org/#a-century-of-controversy-over-the-foundations-of-mathematics][A Century of Controversy Over the Foundations of Mathematics]] | Gregory J. Chaitin | 2000 | 10 | 21 August 2021 |
+| [[/papers-read.org/#hilberts-program-revisited][Hilbert’s Program Revisited]] | Panu Raatikainen | 2003 | 22 | ? |
 
 ** May 2020
 
