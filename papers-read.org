@@ -23,7 +23,7 @@
 | [[/papers-read.org#the-rise-of-modern-logic][The Rise of Modern Logic]] | Rolf George and James Vans Evra | 2006 | 14 | 17 February 2021 |
 | [[/papers-read.org#history-of-logic:-medieval][History of Logic: Medieval]] | E.P. Bos and B. G. Sundholm | 2006 | 11 | 19 February 2021 |
 | [[/papers-read.org/ancient-greek-philosophical-logic][Ancient Greek Philosophical Logic]] | Robin Smith | 2006 | 13 | 22 February 2021 |
-| [[/papers-read.org/19th-century-logic-between-philosophy-and-mathematics][19th Century Logic between Philosophy and Mathematics]] |  Volker Peckhaus | 1999 | 16 | 17 | 25 April 2021 |
+| [[/papers-read.org/19th-century-logic-between-philosophy-and-mathematics][19th Century Logic between Philosophy and Mathematics]] |  Volker Peckhaus | 1999 | 16 | 25 April 2021 |
 | [[/papers-read.org/the-mystery-of-the-fifth-logical-notion-(alice-in-the-wonderful-land-of-logical-notions)][The Mystery of the Fifth Logical Notion (Alice in the Wonderful Land of Logical Notions)]] | Jean-Yves Bèziau | 2020 | 18 | 30 March 2021 |
 | [[/papers-read.org/turings-thesis][Turing’s Thesis]] | Solomon Feferman | 2006 | 7 | Apr 10 2021 |
 | [[/papers-read.org/the-algebra-of-logic:-what-boole-really-started][The Algebra of Logic: What Boole Really Started]] | Judy Green | 1994 | 15 | Read 11 Apr 2021 |
