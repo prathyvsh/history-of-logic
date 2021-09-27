@@ -58,12 +58,12 @@ Florian Cajori
 
 ** July 2020
 
-*** [[https://www.maa.org/press/periodicals/convergence/origins-of-boolean-algebra-in-the-logic-of-classes-george-boole-john-venn-and-c-s-peirce][Introduction article to Origins of Boolean Algebra in the logic of classes (2013)]]
+*** [[https://www.maa.org/press/periodicals/convergence/origins-of-boolean-algebra-in-the-logic-of-classes-george-boole-john-venn-and-c-s-peirce][Introduction article to Origins of Boolean Algebra in the logic of classes]]
 TODO: Read the paper linked with this project
 Janet Heine Barnett
 Read 11 July 2020
 
-*** [[https://www.tandfonline.com/doi/abs/10.1080/0144534042000260438?journalCode=thpl20][Charles Peirce’s Reading of Richard Whately’s Elements of Logic (2004)]]
+*** [[https://www.tandfonline.com/doi/abs/10.1080/0144534042000260438?journalCode=thpl20][Charles Peirce’s Reading of Richard Whately’s Elements of Logic]]
 Charles H. Seibert
 2004
 32 pages
