@@ -31,6 +31,7 @@
 | [[/papers-read.org/#logic-and-programming-languages][Logic and Programming Languages]] | Dana S. Scott | 1976 | 8 | 30 May 2021 |
 | [[/papers-read.org/#a-leibnizian-approach-to-mathematical-relationships-a-new-look-at-synthetic-judgments-in-mathematics][A Leibnizian Approach to Mathematical Relationships: A New Look at Synthetic Judgments in Mathematics]] | David T. Purser | 2009 | 64 | 13 August 2021 |
 | [[/papers-read.org/#the-significance-of-curry-howard-isomorphism][The Significance of Curry-Howard Isomorphism]] | Richard Zach | 2019 | 15 | 13 August 2021 |
+
 | [[/papers-read.org/#a-century-of-controversy-over-the-foundations-of-mathematics][A Century of Controversy Over the Foundations of Mathematics]] | Gregory J. Chaitin | 2000 | 10 | 21 August 2021 |
 | [[/papers-read.org/#hilberts-program-revisited][Hilbert’s Program Revisited]] | Panu Raatikainen | 2003 | 22 | ? |
 
@@ -2082,9 +2083,13 @@ The ability to type check programs, and the property of type safety, are kinds o
 
 Many frameworks for specifying algorithms have been and are being proposed by computer scientists. What are the fundamental differences between programming languages and according to which criteria should ew compare them? There are obvious candidates, such as efficiency or suitability for specific applications. But to differentiate programming languages and programming paradigms it will be important to consider the conceptual differences between languages, such as the presence or absences, and the power and structure of their type systems.
 
-* History of Constructivism in the 20th Century
+* [[https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.77.926&rep=rep1&type=pdf][History of Constructivism in the 20th Century]]
 
-A. S. Troelstra (1991)
+A. S. Troelstra
+
+1991
+
+32 pages
 
 Read 20 August 2021
 
