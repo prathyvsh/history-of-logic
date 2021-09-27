@@ -17,6 +17,22 @@
 | [[/papers-read.org/#mr.-bertrand-russells-first-work-on-the-principles-of-mathematics][Mr. Bertrand Russell’s first work on the principles of mathematics]] | Philip E. B. Jourdain | 1912 | 9 | 19 July 2020 |
 | [[/papers-read.org/#richard-whately-and-the-rise-of-modern-Logic][Richard Whately and the Rise of Modern Logic]] | James van Evra | 1983 | 18 | 22 July 2020 |
 | [[/papers-read.org/#richard-whately-and-the-revival-of-logic-in-nineteenth-century-england][Richard Whately and the Revival of Logic in Nineteenth-Century England]] | Raymie E. McKerrow | 1987 | 24 | 22 July 2020 |
+| [[/papers-read.org/#godel-and-computability-theory][Gödel and Computability Theory]] | Richard Zach | 2006 | 9 | 13 January 2021 |
+| [[/papers-read.org/#what-is-a-number,-that-a-man-may-know-it,-and-a-man,-that-he-may-know-a-number?][What is a number, that a man may know it, and a man, that he may know a number?]] | Warren McCulloch | 1960 | 13 | 5 February 2021 |
+| [[calculus-ratiocinator-vs.-characteristica-universalis?-the-two-tradions-in-logic,-revisited][Calculus Ratiocinator vs. Characteristica Universalis? The Two Traditions in Logic, Revisited]] | Volker Peckhaus | 2004 | 15 | 7 February 2021 |
+| [[/papers-read.org#the-rise-of-modern-logic][The Rise of Modern Logic]] | Rolf George and James Vans Evra | 2006 | 14 | 17 February 2021 |
+| [[/papers-read.org#history-of-logic:-medieval][History of Logic: Medieval]] | E.P. Bos and B. G. Sundholm | 2006 | 11 | 19 February 2021 |
+| [[/papers-read.org/ancient-greek-philosophical-logic][Ancient Greek Philosophical Logic]] | Robin Smith | 2006 | 13 | 22 February 2021 |
+| [[/papers-read.org/19th-century-logic-between-philosophy-and-mathematics][19th Century Logic between Philosophy and Mathematics]] |  Volker Peckhaus | 1999 | 16 | 17 | 25 April 2021 |
+| [[/papers-read.org/the-mystery-of-the-fifth-logical-notion-(alice-in-the-wonderful-land-of-logical-notions)][The Mystery of the Fifth Logical Notion (Alice in the Wonderful Land of Logical Notions)]] | Jean-Yves Bèziau | 2020 | 18 | 30 March 2021 |
+| [[/papers-read.org/turings-thesis][Turing’s Thesis]] | Solomon Feferman | 2006 | 7 | Apr 10 2021 |
+| [[/papers-read.org/the-algebra-of-logic:-what-boole-really-started][The Algebra of Logic: What Boole Really Started]] | Judy Green | 1994 | 15 | Read 11 Apr 2021 |
+| [[/papers-read.org/notes-on-the-founding-of-logics-and-metalogic-aristotle-boole-and-tarski][Notes on the Founding of Logics and Metalogic: Aristotle,  Boole, and Tarski]] | John Corcoran | 2007 | 35 | 25 April 2021 |
+| Logic and Programming Languages | Dana S. Scott | 1976 | 8 | 30 May 2021 |
+| [[/papers-read.org/a-leibnizian-approach-to-mathematical-relaitonships-a-new-look-at-synthetic-judgments-in-mathematics][A Leibnizian Approach to Mathematical Relationships: A New Look at Synthetic Judgments in Mathematics]] | David T. Purser | 2009 | 64 | 13 August 2021 |
+| [[/papers-read.org/the-significance-of-curry-howard-isomorphism][The Significance of Curry-Howard Isomorphism]] | Richard Zach | 2019 | 15 | 13 August 2021 |
+| [[/papers-read.org/a-century-of-controversy-over-the-foundations-of-mathematics][A Century of Controversy Over the Foundations of Mathematics]] | Gregory J. Chaitin | 2000 | 10 | 21 August 2021 |
+| [[/papers-read.org/hilberts-program-revisited][Hilbert’s Program Revisited]] | Panu Raatikainen | 2003 | 22 | ? |
 
 ** May 2020
 
@@ -161,19 +177,23 @@ McKerrow also compares the innovation of Whately to that of Stephen Toulmin’s 
 
 ** [[https://link.springer.com/chapter/10.1007/11780342_59][Gödel and Computability Theory]]
 Richard Zach (2006)
-
+9 pages
 Read 13 January 2021
 
 Short read on the links between ideas of Gödel and Computability and Complexity Theory
 
 ** [[https://www.vordenker.de/ggphilosophy/mcculloch_what-is-a-number.pdf][What is a number, that a man may know it, and a man, that he may know a number?]]
 Warren McCulloch
+1960
+13 pages
 Read 5 February 2021
 
 A nice read on the life and work of McCulloch. Assumes a good knowledge of the history of logic and the role played by the recent innovations since Charles Peirce. There are some parts about probabilistic logic that I couldn't quite follow. Would need immersal in the work of McCulloch to learn to work with it.
 
 ** [[https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.2244&rep=rep1&type=pdf][Calculus Ratiocinator vs. Characteristica Universalis? The Two Traditions in Logic, Revisited]]
 Volker Peckhaus
+2004
+15 pages
 Read 7 February 2021
 
 A really good paper that outlines how the two themes in the work of Leibniz: Calculus ratiocinator and Characteristica Universalis went on to influence later developments in the 19th and 20th century.
@@ -202,6 +222,8 @@ The article comes to a close by showing how Schröder was influenced by the work
 
 ** [[http://www.blackwellpublishing.com/content/BPL_Images/Content_Store/WWW_Content/9780631216711/003.pdf][The Rise of Modern Logic]]
 Rolf George and James Vans Evra
+2006
+14 pages
 
 Read 17 February 2021
 
@@ -389,7 +411,8 @@ The most important development of logic after Principia was to bring these two s
 
 ** [[http://www.blackwellpublishing.com/content/BPL_Images/Content_Store/WWW_Content/9780631216711/002.pdf][History of Logic: Medieval]]
 E.P. Bos and B. G. Sundholm
-
+2006
+11 pages
 Read 19 February 2021
 
 Seven liberal arts were the curriculum at a medieval arts faculty.
@@ -570,7 +593,8 @@ Commentaries on Peter Lombard’s Sentences often contain material that is highl
 
 ** [[http://www.blackwellpublishing.com/content/BPL_Images/Content_Store/WWW_Content/9780631216711/001.pdf][Ancient Greek Philosophical Logic]]
 Robin Smith
-
+2006
+13 pages
 Read 22 February 2021
 
 Ancient Greek logic was inseparable from ancient Greek philosophy. Greek philosophical logic is said to originate with Parmenides.
@@ -717,6 +741,9 @@ Chrysippus is said to have developed a full-fledged sentential logic which was a
 The author closes the article by saying that logical theories are closely entwined with a difference in philosophical standpoint.
 
 ** [[https://www.researchgate.net/publication/38373160_19th_Century_Logic_Between_Philosophy_and_Mathematics][19th Century Logic between Philosophy and Mathematics]]
+Volker Peckhaus
+1999
+16 pages
 
 Read 25 April 2021
 
@@ -876,7 +903,8 @@ The mathematicians’ preference for the organon aspect of formal logic seems to
 
 * [[http://www.jyb-logic.org/papirs/alice5.pdf][The Mystery of the Fifth Logical Notion (Alice in the Wonderful Land of Logical Notions)]]
 Jean-Yves Bèziau
-
+2020
+18 pages
 Read 30 March 2021
 
 Logical notions as presented by Tarski
@@ -938,7 +966,8 @@ The notion of variety collects all the non-logical relations. Since it is an inv
 
 Tarski-Lindenbaum invariance is based on isomorphism, but it can be seen from the higher perspective of notions always referring to the same classes of models.
 
-* Turing’s Thesis
+* [[https://www.ams.org/journals/notices/200610/fea-feferman.pdf?trk=200610fea-feferman&cat=collection][Turing’s Thesis]]
+2006
 Solomon Feferman
 
 Read Apr 10 2021
@@ -999,8 +1028,10 @@ One reason that reception of Turing’s paper may have been so limited is that i
 
 Feferman has worked out a paper in which he has cast Turing’s work on ordinal logics as a formal system with notions cast in general recursive functions and recursive notions for ordinals rather than the lambda-calculus.
 
-* The Algebra of Logic: What Boole Really Started
+* [[https://projecteuclid.org/journals/modern-logic/volume-4/issue-1/The-algebra-of-logic-what-Boole-really-started/rml/1204835162.full][The Algebra of Logic: What Boole Really Started]]
 Judy Green
+2004
+15
 
 Read 11 Apr 2021
 
@@ -1100,9 +1131,9 @@ Although the term had been used by Peirce around 1880, he used it to refer to te
 
 The changing meaning and interchangeable use of the two expressions, “algebra of logic” and “Boolean algebra,” has tended to lead to an over-simplified historical picture of the 19th century algebra of logic, which was both less abstract and more ambitious than the theory of Boolean algebras.
 
-* Notes on the Founding of Logics and Metalogic: Aristotle, Boole, and Tarski
+* [[https://www.semanticscholar.org/paper/Notes-on-the-founding-of-logics-and-metalogic%3A-and-Corcoran/54483c16def7010401044693a6ce6959969720d9][Notes on the Founding of Logics and Metalogic: Aristotle, Boole, and Tarski]]
 ** John Corcoran (2007)
-
+35 pages
 Read 25 April 2021
 
 It is said to be a series of notes than a scholarly treatise. Notes presented here using concepts introduced or formalized by Tarski contribute toward two main goals:
@@ -1419,10 +1450,10 @@ O: Some sphere x is not any polygon y.
 
 Many-sorted logic with sortal variables is prominent in Hilbert (Foundations of Geometry, 1899) and merely described in Hilbert and Ackermann (Principles of Mathematical Logic 1938/1950, Introduction to Mathematical Logic, Church 1956). Many-sorted logic with range-indicators and non-sortal variables was pioneered by Anil Gupta in his Logic of Common Nouns (1980) book.
 
-* Logic and Programming Languages (1976)
-
-ACM Turing Lecture
+* [[https://dl.acm.org/doi/10.1145/359810.359826][Logic and Programming Languages]]
 Dana S. Scott
+1976
+8 pages
 
 Read: 30 May 2021
 
@@ -1693,9 +1724,10 @@ What we have done is to sketch why F_∞ the space of functions of infinite type
 
 Without being able to be explicit, a denotational (or mathematical) semantics was outlined for a pure language of procedures (also pairs and all the other stuff described above).
 
-* [[rave.ohiolink.edu/etdc/view?acc_num=toledo1264612988][A Leibnizian Approach to Mathematical Relationships: A New Look at Synthetic Judgments in Mathematics]]
+* [[https://rave.ohiolink.edu/etdc/view?acc_num=toledo1264612988][A Leibnizian Approach to Mathematical Relationships: A New Look at Synthetic Judgments in Mathematics]]
 David T. Purser
-
+2009
+64 pages
 Read 13 August 2021
 
 A thesis that examines how arbitrary systems of signification reveal real relationships in possible worlds. It attempts to examine the analytic/synthetic distinction and argues that mathematics is synthetic in nature. A moderate version of mathematical realism called modal relationism is advocated.
@@ -1945,9 +1977,9 @@ This version of realism also appeases Shapiro’s desire to leave open the possi
 
 In conclusion, the analytic/synthetic judgments is a false dilemma. Every statement, even tautologies, express a relationship between possible thing.s Mathematical language is arbitrary but this does not mean that mathematical theorems are mere conventions. Instead mathematical practice opens our eyes ot see new relationships in the world that truly exist, including the relationships that might obtain between possible worlds governed by different axioms. Symbolic language can make evident relationships in our world in the same way that the microscope makes it possible for our eyes to see cellular life.
 
-* The Significance of Curry-Howard Isomorphism
+* [[https://prism.ucalgary.ca/bitstream/handle/1880/112761/Zach%20-%202019%20-%20The%20Significance%20of%20the%20Curry-Howard%20Isomorphism.pdf?sequence=1&isAllowed=y][The Significance of Curry-Howard Isomorphism]]
 Richard Zach (2019)
-
+15 pages
 Read 13 August 2021
 
 ** Introduction
