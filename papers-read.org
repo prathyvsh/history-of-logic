@@ -31,7 +31,7 @@
 | [[/papers-read.org/#logic-and-programming-languages][Logic and Programming Languages]] | Dana S. Scott | 1976 | 8 | 30 May 2021 |
 | [[/papers-read.org/#a-leibnizian-approach-to-mathematical-relationships-a-new-look-at-synthetic-judgments-in-mathematics][A Leibnizian Approach to Mathematical Relationships: A New Look at Synthetic Judgments in Mathematics]] | David T. Purser | 2009 | 64 | 13 August 2021 |
 | [[/papers-read.org/#the-significance-of-curry-howard-isomorphism][The Significance of Curry-Howard Isomorphism]] | Richard Zach | 2019 | 15 | 13 August 2021 |
-
+| [[/papers-read.org/#history-of-constructivism-in-the-20th-century][History of Constructivism in the 20th Century]] | A. S. Troelstra | 1991 | 32 | 20 August 2021 |
 | [[/papers-read.org/#a-century-of-controversy-over-the-foundations-of-mathematics][A Century of Controversy Over the Foundations of Mathematics]] | Gregory J. Chaitin | 2000 | 10 | 21 August 2021 |
 | [[/papers-read.org/#hilberts-program-revisited][Hilbert’s Program Revisited]] | Panu Raatikainen | 2003 | 22 | ? |
 
