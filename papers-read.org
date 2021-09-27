@@ -5,14 +5,14 @@
 | [[/papers-read.org/#emil-post][Emil Post]] | Alasdair Urquhart | 2008 | 50 | May 2020 |
 | [[/papers-read.org/#geometry-of-negation][Geometry of Negation]] | Achille C. Varzi, Massimo Warglien | 2003 | 11 | June 2020 |
 | [[/papers-read.org/#leibnizs-image-of-creation][Leibniz’s Image of Creation]] | Florian Cajori | 1916 | 9 | June 2020 |
-| [[/papers-read.org/#introduction-article-to-Origins-of-Boolean-Algebra-in-the-logic-of-classes][Introduction article to Origins of Boolean Algebra in the logic of classes]] | Janet Heine Barnett | 2013 | ? | July 2020 |
+| [[/papers-read.org/#introduction-article-to-origins-of-boolean-algebra-in-the-logic-of-classes][Introduction article to Origins of Boolean Algebra in the logic of classes]] | Janet Heine Barnett | 2013 | ? | July 2020 |
 | [[/papers-read.org/#charles-peirces-reading-of-Richard-Whatelys-elements-of-logic][Charles Peirce’s Reading of Richard Whately’s Elements of Logic]] | Charles H. Seibert | 2004 | 32 | July 2020 |
 | [[/papers-read.org/#the-logical-work-of-leibniz][The Logical Work of Leibniz]] | Philip E. B. Jourdain | 1916 | 20 | 11 July 2020 |
 | [[/papers-read.org/#leibniz-and-the-picture-theory-of-language][Leibniz and the Picture Theory of Language]] | William Kneale | 1966 | 12 | July 2020? |
-| [[/paper-read/#boole-and-the-revival-of-logic][Boole and the Revival of Logic]] | William Kneale | 1948 | 27 | July 2020? |
-| [[/papers-read/#h-maccoll-and-l-carroll-crosscurrents-in-geometry-and-logic][H. MacColl and L. Carroll: Crosscurrents in geometry and logic]] | Francine F. Abeles and Amirouche Moktefi | 1 April 2011 | 22 | 18 July 2020 |
+| [[/paper-read.org/#boole-and-the-revival-of-logic][Boole and the Revival of Logic]] | William Kneale | 1948 | 27 | July 2020? |
+| [[/papers-read.org/#h-maccoll-and-l-carroll-crosscurrents-in-geometry-and-logic][H. MacColl and L. Carroll: Crosscurrents in geometry and logic]] | Francine F. Abeles and Amirouche Moktefi | 1 April 2011 | 22 | 18 July 2020 |
 | [[/papers-read.org/#some-modern-advances-in-logic][Some Modern Advances in Logic]] | Philip E. B. Jourdain | 1911 | 3 | 18 July 2020 |
-| [[/papers-read.org/#the-logical-significance-of-ockhams-razor][The Logical Significance of “Okham’s Razor”]] | Philip E. B. Jourdain | 1919 | 2 | 18 July 2020 |
+| [[/papers-read.org/#the-logical-significance-of-okhams-razor][The Logical Significance of “Okham’s Razor”]] | Philip E. B. Jourdain | 1919 | 2 | 18 July 2020 |
 | [[/papers-read.org/#mathematicians-and-philosophers][Mathematicians and Philosophers]] | Philip E. B. Jourdain | 1915 | 6 | 19 July 2020 |
 | [[/papers-read.org/#mr-bertrand-russells-first-work-on-the-principles-of-mathematics][Mr. Bertrand Russell’s first work on the principles of mathematics]] | Philip E. B. Jourdain | 1912 | 9 | 19 July 2020 |
 | [[/papers-read.org/#richard-whately-and-the-rise-of-modern-Logic][Richard Whately and the Rise of Modern Logic]] | James van Evra | 1983 | 18 | 22 July 2020 |
