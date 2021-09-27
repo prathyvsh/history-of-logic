@@ -10,7 +10,7 @@
 | [[/papers-read.org/#the-logical-work-of-leibniz][The Logical Work of Leibniz]] | Philip E. B. Jourdain | 1916 | 20 | 11 July 2020 |
 | [[/papers-read.org/#leibniz-and-the-picture-theory-of-language][Leibniz and the Picture Theory of Language]] | William Kneale | 1966 | 12 | July 2020? |
 | [[/paper-read/#boole-and-the-revival-of-logic][Boole and the Revival of Logic]] | William Kneale | 1948 | 27 | July 2020? |
-| [[/papers-read/#h-macColl-and-l-carroll-crosscurrents-in-geometry-and-logic][H. MacColl and L. Carroll: Crosscurrents in geometry and logic]] | Francine F. Abeles and Amirouche Moktefi | 1 April 2011 | 22 | 18 July 2020 |
+| [[/papers-read/#h-maccoll-and-l-carroll-crosscurrents-in-geometry-and-logic][H. MacColl and L. Carroll: Crosscurrents in geometry and logic]] | Francine F. Abeles and Amirouche Moktefi | 1 April 2011 | 22 | 18 July 2020 |
 | [[/papers-read.org/#some-modern-advances-in-logic][Some Modern Advances in Logic]] | Philip E. B. Jourdain | 1911 | 3 | 18 July 2020 |
 | [[/papers-read.org/#the-logical-significance-of-ockhams-razor][The Logical Significance of “Okham’s Razor”]] | Philip E. B. Jourdain | 1919 | 2 | 18 July 2020 |
 | [[/papers-read.org/#mathematicians-and-philosophers][Mathematicians and Philosophers]] | Philip E. B. Jourdain | 1915 | 6 | 19 July 2020 |
@@ -21,7 +21,7 @@
 | [[/papers-read.org/#what-is-a-number-that-a-man-may-know-it-and-a-man-that-he-may-know-a-number][What is a number, that a man may know it, and a man, that he may know a number?]] | Warren McCulloch | 1960 | 13 | 5 February 2021 |
 | [[/papers-read.org/#calculus-ratiocinator-vs-characteristica-universalis-the-two-tradions-in-logic-revisited][Calculus Ratiocinator vs. Characteristica Universalis? The Two Traditions in Logic, Revisited]] | Volker Peckhaus | 2004 | 15 | 7 February 2021 |
 | [[/papers-read.org/#the-rise-of-modern-logic][The Rise of Modern Logic]] | Rolf George and James Vans Evra | 2006 | 14 | 17 February 2021 |
-| [[/papers-read.org/#history-of-logic:-medieval][History of Logic: Medieval]] | E.P. Bos and B. G. Sundholm | 2006 | 11 | 19 February 2021 |
+| [[/papers-read.org/#history-of-logic-medieval][History of Logic: Medieval]] | E.P. Bos and B. G. Sundholm | 2006 | 11 | 19 February 2021 |
 | [[/papers-read.org/#ancient-greek-philosophical-logic][Ancient Greek Philosophical Logic]] | Robin Smith | 2006 | 13 | 22 February 2021 |
 | [[/papers-read.org/#19th-century-logic-between-philosophy-and-mathematics][19th Century Logic between Philosophy and Mathematics]] |  Volker Peckhaus | 1999 | 16 | 25 April 2021 |
 | [[/papers-read.org/#the-mystery-of-the-fifth-logical-notion-alice-in-the-wonderful-land-of-logical-notions][The Mystery of the Fifth Logical Notion (Alice in the Wonderful Land of Logical Notions)]] | Jean-Yves Bèziau | 2020 | 18 | 30 March 2021 |
@@ -37,8 +37,11 @@
 ** May 2020
 
 *** [[https://sites.ualberta.ca/~francisp/Phil428.526/UrquhartPost.pdf][Emil Post]]
+
 Alasdair Urquhart
+
 2008
+
 50 pages
 
 ** June 2020
