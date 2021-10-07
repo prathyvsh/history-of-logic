@@ -2628,6 +2628,62 @@ Further, Raatikainen thinks that Hilbert did not aim to prove finitistically jus
 
 But certainly this idea appears to be highly problematic, to put it mildly, for consistency is known to be as strongly undecidable as a Π⁰₁ property can be. That is, it is Π⁰₁-complete property, and every Π⁰₁ property can be reduced to it. Consequently, if finitistic mathematics would be able to prove the consistency of every consistent theory, it would be complete for all Π⁰₁-statements (and for all real statements) — under the plausible assumption that finitistic mathematics is effectively axiomatizable, this would contradict Gödel's first theorem. This more abstract, recursion-theoretic way of viewing the matter also emphasizes the basic difficulty in Hilbert’s consistency program: Whatever puzzling technical details there are in Gödel’s second theorem, it is an unquestionable logical fact that no consistent effectively axiomatizable theory can prove the consistency of every consistent theory — this would also entail a decision procedure for the logical validity and contradict the classical undecidability theorem of Church and Turing.
 
+Raatikainen adds in contradistinction to certain more charitable interpretations, that he thinks that Hilbert and most of his collaborators really expected there to be a decision method for the first-order logic. For, even if Hilbert did allow, in his 1900 talk on open problems, also a proof of the impossibility of solution as a possible settlement of a mathematical problem, this seems to apply only to a problem formulated in terms of some definite, restricted methods. But there simply was no definition of a general decision method in the 1920s. Moreover, the classical formulation of the Decision Problem by Hilbert and Ackermann, in 1928, strongly suggest that only a positive solution was expected:  “The Decision Problem is solved when one knows a procedure which will permit one to decide, for any given logical expression, its validity or satisfiability … The Decision Problem must be considered the main problem of mathematical logic”.
+
+*** 2.3 Reflection Principles  —  Logician’s Interpretations of Hilbert’s Program
+
+There is a widely accepted, rather sophisticated logical explication of Hilbert’s program that is essentially due to Kreisel:
+
+1958a: Hilbert’s Programme
+1958b: Mathematical Significance of Consistency Proofs
+1968: A Survey of Proof Theory
+1976: What have we Learned from Hilbert’s Second Problem?
+
+and endorsed by various distinguished logicians, e.g., by Feferman
+
+1988: Hilbert’s Program Relativized: Proof-Theoretical and foundational Reductions
+1994: ?
+
+Sieg
+
+1984: Foundations for Analysis and Proof Theory
+1988: Hilbert’s Program Sixty Years Later
+1990a: Relative Consistency and Accessible Domains
+1999: Hilbert’s Programs: 1917–1922
+
+Prawitz 1981: Philosophical Aspects of Proof Theory
+
+Smorynski 1977: The Incompleteness Theorems
+1985: Self-Reference and Modal Logic
+1988: Hilbert’s Programme
+
+Simpson 1988: Partial Realizations of Hilbert’s Program
+Kitcher 1976: Hilbert’s Epistemology
+Giaquinto 1983: Hilbert’s Philosophy of Mathematics
+
+This interpretation relates Hilbert’s requirement of consistency proof closely to the soundness and conservativity properties. It is based essentially on the so-called reflection principles, which may be considered as a sort of soundness statements (“a provable sentence is true”). More exactly, reflection principles are instances of the scheme:
+
+Prov_T(⌜ϕ⌝)→ϕ
+
+Most closely related to Hilbert’s program is the reflection scheme that is restricted to Π⁰₁-sentences, in short, Π⁰₁-Ref. Under rather weak assumptions, it is the case that Π⁰₁-Ref and Cons(T) are equivalent. See e.g., Smorynski (1977)
+
+Note, however, that whereas Cons(T) is a Π⁰₁ sentences, Ref is a scheme and not a particular sentences (instances of Π⁰₁-Ref and Π⁰₁ sentences). Note moreover — and apparently this has not been generally noted that — that the sentences expressing naturally the basic properties of being an extension of a theory and being conservative over another theory are not Π⁰₁ but only Π⁰₂ and thus ideal, not real sentences; more exactly these properties are expressed by forAll(x, thereExists(y, Prf_F(y,x) → thereExists(z, Prf_T(z,x)) and forAll(x, thereExists(y, Prf_t(y,x) → thereExists(z, Prf_F(z,x)) respectively.
+
+Moreover, reflection principles allow one to eliminate ideal elements from a proof of real statements. For, assume that F ⊢ Prov_T(⌜ϕ⌝) → ϕ. If T ⊢ ϕ and Prov_T(x) formalizes (weakly represents) in F provability-in-T, then F ⊢ Prov_T(⌜ϕ⌝); by Modus Ponens, one obtains ϕ in F. This approach thus manages to explicate Hilbert’s claim that a finitistic consistency proof would also entail soundness and conservativity for all real statements. Note, however, that Hilbert’s program, thus viewed, is refuted by Gödel’s theorems.
+
+This is certainly a very interesting rational reconstruction of Hilbert’s program. Nevertheless, Raatikainen thinks that it is somewhat anachronistic to attributed such sophisticated logical ideas to Hilbert. For, if such a line of thought really were behind his consistency program, one would certainly expect Hilbert to explain it in detail. But there is hardly any hint of such reasoning in Hilbert’s work. The only exception is Hilbertś relatively late discussion in his 1927 Hamburg address where there is indeed an informal sketch of the idea of how the consistency proof would allow one to eliminate the infinistic elements from a proof of a real sentence. This passage seems to be the only basis for the later logical interpretation.
+
+But certainly, if Hilbert’s reasons were as ingenious as the later proof-theoretical tradition tends to interpret them, there would be more traces of it in Hilbert’s publications. And yet, for example in his paper ‘On the Infinite’ from 1926, which is the most extensive mature exposition of Hilbertś program, Hilbert simply stated that a proof of consistency amounts to real-soundness and real conservativity, without a word of explanation (the ideal “objects” here are just ideal statements):
+
+#_BEGIN_QUOTE
+
+For there is a condition, a single but absolutely necessary one, to which the use of the method of ideal elements is subject, and that is the proof of consistency; for, extension by the addition of ideals is legitimate only if no contradiction is thereby brought about in the old, narrower domain, that is, if the relations that result for the old objects whenever the ideal objects are eliminated are valid in the old domain.
+
+#_END_QUOTE
+
+It is important to note that the reflection principles etc. occur neither in this paper nor elsewhere in Hilbert’s writing (the first occurrence of anything like the reflection principles Raatikainen have been able to find in the literature is in Gödel’s paper on intuitionistic and modal logic in Einen Intepretation des intuitionistischen Assagenkalküls 1933).
+
+
 * On Process
 
 ** Conceptual Roots of Mathematics
