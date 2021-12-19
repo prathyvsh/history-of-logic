@@ -2978,6 +2978,10 @@ Helmut Pulte
 
 Jeremy Avigad and Erich H. Reck
 
+** [[https://halshs.archives-ouvertes.fr/halshs-00299868/document][Which arithmeticisation for which logicism? Russell on relations and quantities in The Principles of Mathematics]]
+Sébastian Gandon
+17 July 2008
+
 ** [[http://home.uchicago.edu/~wwtx/frege.cantor.dedekind.pdf][Frege versus Cantor and Dedekind: On the Concept of Number]]
 
 W. W. Tait
