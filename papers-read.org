@@ -2965,6 +2965,7 @@ Volker Peckhaus (2000)
 17 Pages
 
 * Reads on foundational period
+
 ** [[https://www.jstor.org/stable/23917979][Notes on Types, Sets and Logicism, 1930-1950]]
 José Ferreirós
 
@@ -2997,6 +2998,9 @@ Gregory H. Moore
 ** [[https://cdm16608.contentdm.oclc.org/digital/api/collection/p16608coll22/id/3715/download][The Rhetoric of Mathematical Logicism, Intuitionism, and Formalism]]
 
 John Travis Shrontz
+
+** [[https://core.ac.uk/download/pdf/194445556.pdf][Dedekind and Hilbert on the Foundations of Deductive Sciences]]
+Ansten Klev (2011)
 
 ** [[http://www.unipune.ac.in/snc/cssh/ipq/english/IPQ/21-25%20volumes/21%2002/PDF/21-2-4.pdf][Remarks on Wittgenstein’s Philosophy of Mathematics]]
 
@@ -3076,3 +3080,6 @@ Janet Heine Barnett
 
 ** [[https://digitalcommons.ursinus.edu/cgi/viewcontent.cgi?article=1003&context=triumphs_number][Gaussian Integers and Dedekind’s Creation of an Ideal: A Number Theory Project (2017)]]
 Janet Heine Barnett
+
+** [[https://www.researchgate.net/profile/Emmylou-Haffner/publication/329749554_From_modules_to_lattices_Insight_into_the_genesis_of_Dedekind%27s_Dualgruppen/links/5d57fdaa299bf151badb3a72/From-modules-to-lattices-Insight-into-the-genesis-of-Dedekinds-Dualgruppen.pdf?origin=publication_detail][From modules to lattices: Insight into the genesis of Dedekind’s Dualgruppen]]
+Emmylou Haffner (December 2018)
