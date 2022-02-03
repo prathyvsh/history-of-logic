@@ -2979,6 +2979,9 @@ Helmut Pulte
 
 Jeremy Avigad and Erich H. Reck
 
+** [[http://faculty.ucr.edu/~reck/Reck-%22F.,%20NN.,%20...%22.pdf][Frege, Natural Numbers, and Arithmetic’s Umblical Cord]]
+Erich H. Reck (2004)
+
 ** [[https://halshs.archives-ouvertes.fr/halshs-00299868/document][Which arithmeticisation for which logicism? Russell on relations and quantities in The Principles of Mathematics]]
 Sébastian Gandon
 17 July 2008
