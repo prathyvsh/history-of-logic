@@ -2983,6 +2983,10 @@ Jeremy Avigad and Erich H. Reck
 Sébastian Gandon
 17 July 2008
 
+** [[https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-62/issue-3/What-Problem-Did-Ladd-Franklin-Think-She-Solved/10.1215/00294527-2021-0026.short][What Problem Did Ladd-Franklin (Think She) Solve(d)?]]
+Sara L. Uckelman
+August 2021
+
 ** [[http://home.uchicago.edu/~wwtx/frege.cantor.dedekind.pdf][Frege versus Cantor and Dedekind: On the Concept of Number]]
 
 W. W. Tait
