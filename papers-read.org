@@ -3090,3 +3090,21 @@ Janet Heine Barnett
 
 ** [[https://www.researchgate.net/profile/Emmylou-Haffner/publication/329749554_From_modules_to_lattices_Insight_into_the_genesis_of_Dedekind%27s_Dualgruppen/links/5d57fdaa299bf151badb3a72/From-modules-to-lattices-Insight-into-the-genesis-of-Dedekinds-Dualgruppen.pdf?origin=publication_detail][From modules to lattices: Insight into the genesis of Dedekind’s Dualgruppen]]
 Emmylou Haffner (December 2018)
+
+* Works to read on Aristotle
+
+** Marko Malink
+
+*** [[https://as.nyu.edu/content/dam/nyu-as/philosophy/documents/faculty-documents/malink/Malink_Reconstruction-Aristotle.pdf][A Reconstruction of Aristotle’s Modal Syllogistic (2006)]]
+
+*** [[https://as.nyu.edu/content/dam/nyu-as/philosophy/documents/faculty-documents/malink/Malink_Aristotle-Proof.pdf][Aristotle on Circular Proof (2013)]]
+
+*** [[https://as.nyu.edu/content/dam/nyu-as/philosophy/documents/faculty-documents/malink/Malink_Beginnings-Formal-Logic.pdf][Beginnings of Formal Logic: Deduction in Aristotle’s Topics vs. Prior Analytics (2015)]]
+
+*** [[https://as.nyu.edu/content/dam/nyu-as/philosophy/documents/faculty-documents/malink/Malink_Principles-as-Elements.pdf][Aristotle on Principles as Elements (2017)]]
+
+*** [[https://as.nyu.edu/content/dam/nyu-as/faculty/documents/The%20Peripatetic%20Program%20in%20Categorical%20Logic.pdf][The Peripatetic Program in Categorical Logic: Leibniz on Propositional Terms (2019)]]
+
+** John Corcoran
+
+TODO: Add works on Aristotle by Corcoran
