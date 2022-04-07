@@ -34,6 +34,7 @@
 | [[/papers-read.org/#history-of-constructivism-in-the-20th-century][History of Constructivism in the 20th Century]] | A. S. Troelstra | 1991 | 32 | 20 August 2021 |
 | [[/papers-read.org/#a-century-of-controversy-over-the-foundations-of-mathematics][A Century of Controversy Over the Foundations of Mathematics]] | Gregory J. Chaitin | 2000 | 10 | 21 August 2021 |
 | [[/papers-read.org/#hilberts-program-revisited][Hilbert’s Program Revisited]] | Panu Raatikainen | 2003 | 22 | ? |
+| [[/papers-read.org/#leibnizs-interpretation-of-his-logical-calculi][Leibniz’s Interpretation of his Logical Calculi]] | Nicholas Rescher | 1954 | 13 | |
 
 ** May 2020
 
@@ -2683,6 +2684,37 @@ For there is a condition, a single but absolutely necessary one, to which the us
 
 It is important to note that the reflection principles etc. occur neither in this paper nor elsewhere in Hilbert’s writing (the first occurrence of anything like the reflection principles Raatikainen have been able to find in the literature is in Gödel’s paper on intuitionistic and modal logic in Einen Intepretation des intuitionistischen Assagenkalküls 1933).
 
+* Leibniz’s Interpretation of His Logical Calculi
+Nicholas Rescher
+13 pages
+
+The paper says that Couturat held the view that extensional logic is the only correct one and hence his review of the system fell into the problem of finding Leibniz’ intensional approach defective.
+
+Leibniz’ logic is said to be close to having a logistic system approach. In my mind, this is close to a syntactic treatment, where purely symbolic manipulation of the system leads us to do calculations.
+
+1. Variables are terms
+2. Singularly/binary operators on terms yielding terms
+3. Binary relations between terms, including equality
+4. Rule of inference
+It is said that Leibniz possessed to an insufficient extent the distinction between object and metalanguage.
+
+But he distinguishes between verae propositions, i.e. assertions of the system and principiae calculi i.e., rules for obtaining further assertions from given ones.
+
+Leibniz’ original definition: “Eadem sunt quorum unum in alterius locum subtitui potst, salve veritate”
+i. Equality is obtained between term-denoting complexes iff they are inter-substitutable in asserted statements.
+
+Authors say that Leibniz’ classic definition of equality is defective with respect to distinction of use/mention and object/meta-language. I doubt this claim and has a feeling that Leibniz’ conception could be different from the current object/metalanguage distinction in vogue. That is not a claim that Leibniz is infallible, but in many significant cases, such claims of defects results from an aberration in the viewpoint of authors interpreting the work than the source work.
+
+ii. In any asserted statement involving some term-variable this may be replaced throughout by another term-variable, or by some other term-denoting complex, and the result will again be an asserted statement.
+
+iii. The modus ponens rule
+
+Leibniz is said to not have provided an adequate statement of this rule.
+
+Proposition vera ~ Asserted statement
+If it is an implication, it is a consequentia
+
+5. A group of asserted statements which provides the axiomatic basis for the system
 
 * On Process
 
@@ -2720,6 +2752,7 @@ It is important to note that the reflection principles etc. occur neither in thi
 ** [[https://www.researchgate.net/publication/251471196_Richard_Whately_and_logical_theory][Richard Whately and logical theory]]
 ** [[https://www.researchgate.net/publication/251471201_John_Venn_and_logical_theory][John Venn and logical theory]]
 ** [[https://www.researchgate.net/publication/251471201_John_Venn_and_logical_theory][The Influence of Aristotelian Logic on Boole’s Philosophy of Logic: The Reduction of Hypotheticals to Categoricals]]
+TODO: Correct URL
 ** [[https://www.researchgate.net/publication/267469436_Equations_from_God_Pure_mathematics_and_Victorian_Faith][Equations from God: Pure Mathematics and Victorian Faith]]
 ** [[https://www.researchgate.net/publication/268662409_The_Mathematical_Background_of_George_Boole's_Mathematical_Analysis_of_Logic_1847][The Mathematical Background of George Boole’s Mathematical Analysis of Logic (1847)]]
 ** [[https://www.researchgate.net/publication/287236695_The_logical_foundations_of_Bradley's_metaphysics_Judgment_inference_and_truth][The logical foundations of Bradley’s metaphysics: Judgement, Inference, and Truth]]
