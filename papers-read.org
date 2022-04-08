@@ -2716,6 +2716,55 @@ If it is an implication, it is a consequentia
 
 5. A group of asserted statements which provides the axiomatic basis for the system
 
+Leibniz constructed 3 different logical systems
+
+System in Specimen calculi universalis / Ad specimen calculi universalis 248526343_Minds_machines_and_economic_agents_Cambridge_receptions_of_Boole_and_Babbage
+
+1. a est A
+2. a = non-non-A
+3. a est b iff non-b est non-A
+4. If a est b and b est c, then a est C
+5. a est b and b est a iff a = b
+6. a ≠ b iff not a = b
+7. a non est b iff not a est b
+8. If a = b, then b = a
+9. If a = b, b = c, then a = c
+10. a = aa
+11. ab = ba
+12. a est bc iff a est b and a est c
+13. If a est b, then ca est cb
+14. If b est a and c est a, then bc est a (this is said to be wrong on Couturat’s interpretation)
+15. If a est b and c est d, then ac est bd
+16. ab est a
+17. ab est b
+18. If a is proper: a non est non-a
+19. If a is proper: If a est non-b then a non est b
+
+Leibniz does not always state the propriety condition explicitly.
+He indicates in his writings that he understands the traditional categorical propositions always contain the tacit assumption thaht the terms which enter are proper.
+
+Set theoretical interpretation
+
+Terms ~ Sets
+non ~ Complementation
+Juxtaposition ~ intersection
+est ~ inclusion
+Propriety ~ non-nullity
+
+TODO: How is Leibniz’ logic related to modern class logic a la Boole?
+
+One interpretation given by Leibniz for this system is obtained by letting “terms” be predicats taken in intension, i.e., properties. The result of operating on a “term” (property) by non is the property of not having the property in question — non represents the negatio or negation of properties. The result of juxtaposing two terms is the property of possesing both of the properties in question — juxtaposition represents the additio or conjunction, the joining of properties.
+
+A term/property is proper if it is not of universal comprehension (i.e., null extension).
+
+Finally, the result of linking two “term” names by ‘est’ is the statement that theh former property contains the latter in its intension or comprehension. Thus ‘a est b’ symbolizes the universal affirmative proposition that whhatever is characterized by the property a is also characterized by theh porperty b, i.e., that all a's are b's.
+
+A second interpretation is given by Leibniz for this sytem. This is obtained by letting terms be predicates taken in extension, i.e., classes. The result of operating on a “term”/class by non is the class of all objects not belonging to the class in question. The result of juxtaposing terms is the class of all objects belonging to both of the classes in question. A term/property is proper if it is not of null extension / universal comprehension.
+
+Finally a est b symbolizes the universal affirmative proposition thhat all a's are b. Taht is all extensions of class a are contained in class b.
+
+It is plain that in thhese two interpretations of his first system Leibniz treats adjectives / property names and subtantives / class names in a dual fashion. He justifies this by remarking thhat to any adjectival property such as (is an) animal, there is a corresponding substantival class, in this case, the animals. And he asserts that as regards symbolic treatment the distinction between these is irrelevant. By exploiting this duality of property intension / class extension Leibniz is able to provide a twin-interpretation for his first system of logical calculus and so to develop its possibilities of interpretation.
+
 * On Process
 
 ** Conceptual Roots of Mathematics
