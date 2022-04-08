@@ -2763,7 +2763,34 @@ A second interpretation is given by Leibniz for this sytem. This is obtained by 
 
 Finally a est b symbolizes the universal affirmative proposition thhat all a's are b. Taht is all extensions of class a are contained in class b.
 
-It is plain that in thhese two interpretations of his first system Leibniz treats adjectives / property names and subtantives / class names in a dual fashion. He justifies this by remarking thhat to any adjectival property such as (is an) animal, there is a corresponding substantival class, in this case, the animals. And he asserts that as regards symbolic treatment the distinction between these is irrelevant. By exploiting this duality of property intension / class extension Leibniz is able to provide a twin-interpretation for his first system of logical calculus and so to develop its possibilities of interpretation.
+It is plain that in these two interpretations of his first system Leibniz treats adjectives / property names and subtantives / class names in a dual fashion. He justifies this by remarking thhat to any adjectival property such as (is an) animal, there is a corresponding substantival class, in this case, the animals. And he asserts that as regards symbolic treatment the distinction between these is irrelevant. By exploiting this duality of property intension / class extension Leibniz is able to provide a twin-interpretation for his first system of logical calculus and so to develop its possibilities of interpretation.
+
+In the first system, Leibniz is able to treate the entire classical doctrine of categorical propositions. Thus, S a P, S e P, S i P, and S o P are rendered (in either interpretation) as S est P, S est non_P, S non est non-P, and S non est P, respectively.
+
+The symbolic version of the entire classical theory of immediate inference and the syllogism is available in the assertions of the system. It is at this point that the propriety condition acquires significance. The assertions which guarantee the validity of two of the classical modes of inference, subalternation and partial conversion are dependent on the propriety of the terms involved. And Leibniz is throughout all of his logical work concerned to preserve the validity of the entire classical theory of immediate inference and of the syllogism.
+
+Leibniz’s second system was developed in the 1685–6 period during whichh hhis metaphysical system assumed its final and completed form. This system played a central role in Leibniz’ solution of a logical problem o whhich he felt the progress of his metaphysics to depend: the problem of reconciling his belief thhat there are true, contingent propositions with his conviction that all true propositions are analytic.
+
+This system is an extension of the first as it includes all those of the first system but with notational changes.
+
+A new element, the term-constant Ens or Res is introduced.
+
+Propriety is given by the definition: A is proper iff A non est non-Ens.
+
+20. If A is proper: A est B iff AB = A
+21. If A non est non-Ens, then A est Ens
+22. A est non-Ens iff A non est Ens
+23. If A is proper: A est B iff A non-B est non-Ens
+24. If A est Bnon-B, then A est non-Ens
+
+A est B is A = non-Ens or A ⊂ B & AB = non-Ens (Verify)
+
+Interpretations of the classical theory of immediate inference and of the syllogism:
+
+a: Snon-P est non-Ens | S est P | SP = S
+e: SP est non-Ens | S est non-P | SP ≠ SPEns
+i: SP est Ens | S non est non-P | SP = SPEns
+o: Snon-P est Ens | S non est P | SP ≠ S
 
 * On Process
 
