@@ -34,7 +34,7 @@
 | [[/papers-read.org/#history-of-constructivism-in-the-20th-century][History of Constructivism in the 20th Century]] | A. S. Troelstra | 1991 | 32 | 20 August 2021 |
 | [[/papers-read.org/#a-century-of-controversy-over-the-foundations-of-mathematics][A Century of Controversy Over the Foundations of Mathematics]] | Gregory J. Chaitin | 2000 | 10 | 21 August 2021 |
 | [[/papers-read.org/#hilberts-program-revisited][Hilbert’s Program Revisited]] | Panu Raatikainen | 2003 | 22 | ? |
-| [[/papers-read.org/#leibnizs-interpretation-of-his-logical-calculi][Leibniz’s Interpretation of his Logical Calculi]] | Nicholas Rescher | 1954 | 13 | |
+| [[/papers-read.org/#leibnizs-interpretation-of-his-logical-calculi][Leibniz’s Interpretation of his Logical Calculi]] | Nicholas Rescher | 1954 | 13 | 10 April 2022 |
 
 ** May 2020
 
@@ -2792,6 +2792,59 @@ Interpretations of the classical theory of immediate inference and of the syllog
 | e: SP est non-Ens | S est non-P | SP ≠ SPEns |
 | i: SP est Ens | S non est non-P | SP = SPEns |
 | o: Snon-P est Ens | S non est P | SP ≠ S |
+
+Leibniz employs only the usage of continet for est when dealing with the intensional interpretation, which is quite proper since the fact that A contains B in its intension or comprehension — i.e., that all A’s are B’s — is represented by “A est B.’ On the other hand, if est is to be intrepreted in terms of containment in the extensional interpretation, then “A st B” must be read “A is contained in B,” or else, if est is to be read as “contains,” then A and B must be interchanged. This is explicitly stated by Leibniz in several places. It has been  misconstrued as being a statement on Leibniz’s part to the effect that “A est B” may be taken as symbolizing “A contains B (in extension)”, and thus as stating in an extensional interpretation of the system, or rather more accurately, it could be correct only if juxtaposition were to represent alternation (i.e., set union or addition), where it is uniformly and consistently used by Leibniz to represent conjunction (i.e., set intersection or multiplication). Couturat is guilty of this misconstruction, and on this basis he accuses Leibniz of falling into error by misguided adherance to an intensional point of view. The purported error in question is that Leibniz fails, because of intensional prejudice, to take juxtaposition as extensional — rather than intensional — union or addition.
+
+Leibniz offers still another interpretation of this second system, one which makes it the forerunner of C. I. Lewis’s systems of strict implication. In this interpretation “terms” are propositions, non represents negation, juxtaposition represents conjunction, and est stands for the relation of entailment. Ens represents logical necessity or logical truth, and so propriety is logical consistency. Leibniz rightly views this system, thus interpreted, as modal logic, and thus merits Lewis’s estimation of him as a precursor.
+
+In this interpretation, and in it alone, the result of linking terms (propositions) by est is again a term. Thus formulas such as (A est B) est (C est D) are meaningful in this interpretation.
+
+Leibniz’s third and final system of logical calculus was developed in 1690. The writer conjectures that the motivating force underlying its development was Leibniz’s growing conviction that the notions of part, whole, and containment are the fundamental concepts of logic.
+
+Its principal expositions are the tract De formae logicae comprobatione per linearum ductus, as well as several brief, untitled essays reproduced in the seventh volume of Gerhardt’s edition of Leibniz’s philosophical works.
+
+N (sometimes Nihil) is a term-constant. non is a singularly term-operator, + (sometimes ⊕) and - (sometimes ∵) are binary term-operators. A inest B is an alternative form of A est in B or B continnt A. The notation for = is ∞ or half ∞ and for A ≠ B Leibniz uses non A ∞ B. There is also A ⌅ B and its negate A ∧ B, where A ⌅ B is written “communicant A et B” or “communicantia sunt A et B” or “compatibilia sunt A t B”.
+
+Assertions of this system:
+
+Group I: Assertions 1 through 9 of the first system, with “inest” in place of “est”.
+Group II: 25. A = A + A
+26. A + B = B +A
+27. (A + B) + C = A + (B + C) { This is not written down explicitly by Leibniz and he uses it without brackets. }
+28. IF A inest B and C inest B, then A + C inest B
+29. If A inest B, then C + A inest C + B
+30. If A inest B and C inest D, then A + C inest B + D
+31. A inest B iff B + A = B
+32. A ∧ B iff not A ⌅ B
+33. A ∧ B iff B ∧ A
+34. A ∧ B iff A inest non-B
+35. A ⌅ b iff there is a C, C ≠ N, such that C inest A and C inest B
+36. A - B = C iff A = B + C and C ∧ B
+37. A - B ∧ B
+38. A - A = N
+39. A + N = A
+40. N inest A.
+
+The consistency of this system follows from the existence of the following interpretation: Let “terms” be classes, N the null class, non complementation, + class union, inest class inclusion, and let ⌅, ∧, and - be defined by 35, 32, and 36, respectively.
+
+Leibniz explicitly intends this system to provide an abstract theory of containment. Given a sound application of the concepts of whole and of part, an interpretation of this third system is, Leibniz claims, available. For if such a notion of containing is given, then “A inest B” can be taken to represent “B contains A (in the sense in question),” “non-A” represents that containing everything not contained in A, N is that which contains nothing, A + B contains everything contained in A or in B or both, and all else may be interpreted correspondingly.
+
+In this system, extensionally:
+a: S inest P
+e: S ∧ P
+i: S ⌅ P
+o: S non inest P
+
+intensionally:
+a: P inest S
+e: P ∧ S
+i: P ⌅ S
+o: P non inest S
+
+Again, the classical theory of immediate inference and the syllogism is available in the assertions of the system. However, assertion 35 is required both for subalternation and partial conversion, and so both of these inferences must be conjoined with an explicit statement of the non-nullity of the terms involved. In this feature of explicitness, together with its more abstract and general nature, resides the superiority of Leibniz’s third system over the first two.
+
+If Leibniz’s logical calculi do not posses the symmetry and elegance of later algebras of logic it is not because of his intensional conception of logic, but because his greater commitment to traditional logic inclines him to weigh more heavily the logical, rather than algebraic, considerations.
+
 
 * On Process
 
