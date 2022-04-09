@@ -2741,7 +2741,7 @@ System in Specimen calculi universalis / Ad specimen calculi universalis 2485263
 19. If a is proper: If a est non-b then a non est b
 
 Leibniz does not always state the propriety condition explicitly.
-He indicates in his writings that he understands the traditional categorical propositions always contain the tacit assumption thaht the terms which enter are proper.
+He indicates in his writings that he understands the traditional categorical propositions always contain the tacit assumption that the terms which enter are proper.
 
 Set theoretical interpretation
 
@@ -2753,23 +2753,23 @@ Propriety ~ non-nullity
 
 TODO: How is Leibniz’ logic related to modern class logic a la Boole?
 
-One interpretation given by Leibniz for this system is obtained by letting “terms” be predicats taken in intension, i.e., properties. The result of operating on a “term” (property) by non is the property of not having the property in question — non represents the negatio or negation of properties. The result of juxtaposing two terms is the property of possesing both of the properties in question — juxtaposition represents the additio or conjunction, the joining of properties.
+One interpretation given by Leibniz for this system is obtained by letting “terms” be predicates taken in intension, i.e., properties. The result of operating on a “term” (property) by non is the property of not having the property in question — non represents the negatio or negation of properties. The result of juxtaposing two terms is the property of possessing both of the properties in question — juxtaposition represents the additio or conjunction, the joining of properties.
 
 A term/property is proper if it is not of universal comprehension (i.e., null extension).
 
-Finally, the result of linking two “term” names by ‘est’ is the statement that theh former property contains the latter in its intension or comprehension. Thus ‘a est b’ symbolizes the universal affirmative proposition that whhatever is characterized by the property a is also characterized by theh porperty b, i.e., that all a's are b's.
+Finally, the result of linking two “term” names by ‘est’ is the statement that the former property contains the latter in its intension or comprehension. Thus ‘a est b’ symbolizes the universal affirmative proposition that whatever is characterized by the property a is also characterized by the property b, i.e., that all a's are b's.
 
-A second interpretation is given by Leibniz for this sytem. This is obtained by letting terms be predicates taken in extension, i.e., classes. The result of operating on a “term”/class by non is the class of all objects not belonging to the class in question. The result of juxtaposing terms is the class of all objects belonging to both of the classes in question. A term/property is proper if it is not of null extension / universal comprehension.
+A second interpretation is given by Leibniz for this system. This is obtained by letting terms be predicates taken in extension, i.e., classes. The result of operating on a “term”/class by non is the class of all objects not belonging to the class in question. The result of juxtaposing terms is the class of all objects belonging to both of the classes in question. A term/property is proper if it is not of null extension / universal comprehension.
 
-Finally a est b symbolizes the universal affirmative proposition thhat all a's are b. Taht is all extensions of class a are contained in class b.
+Finally a est b symbolizes the universal affirmative proposition that all a's are b. That is all extensions of class a are contained in class b.
 
-It is plain that in these two interpretations of his first system Leibniz treats adjectives / property names and subtantives / class names in a dual fashion. He justifies this by remarking thhat to any adjectival property such as (is an) animal, there is a corresponding substantival class, in this case, the animals. And he asserts that as regards symbolic treatment the distinction between these is irrelevant. By exploiting this duality of property intension / class extension Leibniz is able to provide a twin-interpretation for his first system of logical calculus and so to develop its possibilities of interpretation.
+It is plain that in these two interpretations of his first system Leibniz treats adjectives / property names and subtantives / class names in a dual fashion. He justifies this by remarking that to any adjectival property such as (is an) animal, there is a corresponding substantival class, in this case, the animals. And he asserts that as regards symbolic treatment the distinction between these is irrelevant. By exploiting this duality of property intension / class extension Leibniz is able to provide a twin-interpretation for his first system of logical calculus and so to develop its possibilities of interpretation.
 
-In the first system, Leibniz is able to treate the entire classical doctrine of categorical propositions. Thus, S a P, S e P, S i P, and S o P are rendered (in either interpretation) as S est P, S est non_P, S non est non-P, and S non est P, respectively.
+In the first system, Leibniz is able to treat the entire classical doctrine of categorical propositions. Thus, S a P, S e P, S i P, and S o P are rendered (in either interpretation) as S est P, S est non_P, S non est non-P, and S non est P, respectively.
 
 The symbolic version of the entire classical theory of immediate inference and the syllogism is available in the assertions of the system. It is at this point that the propriety condition acquires significance. The assertions which guarantee the validity of two of the classical modes of inference, subalternation and partial conversion are dependent on the propriety of the terms involved. And Leibniz is throughout all of his logical work concerned to preserve the validity of the entire classical theory of immediate inference and of the syllogism.
 
-Leibniz’s second system was developed in the 1685–6 period during whichh hhis metaphysical system assumed its final and completed form. This system played a central role in Leibniz’ solution of a logical problem o whhich he felt the progress of his metaphysics to depend: the problem of reconciling his belief thhat there are true, contingent propositions with his conviction that all true propositions are analytic.
+Leibniz’s second system was developed in the 1685–6 period during which his metaphysical system assumed its final and completed form. This system played a central role in Leibniz’ solution of a logical problem o which he felt the progress of his metaphysics to depend: the problem of reconciling his belief that there are true, contingent propositions with his conviction that all true propositions are analytic.
 
 This system is an extension of the first as it includes all those of the first system but with notational changes.
 
@@ -2787,10 +2787,11 @@ A est B is A = non-Ens or A ⊂ B & AB = non-Ens (Verify)
 
 Interpretations of the classical theory of immediate inference and of the syllogism:
 
-a: Snon-P est non-Ens | S est P | SP = S
-e: SP est non-Ens | S est non-P | SP ≠ SPEns
-i: SP est Ens | S non est non-P | SP = SPEns
-o: Snon-P est Ens | S non est P | SP ≠ S
+
+| a: Snon-P est non-Ens | S est P | SP = S |
+| e: SP est non-Ens | S est non-P | SP ≠ SPEns |
+| i: SP est Ens | S non est non-P | SP = SPEns |
+| o: Snon-P est Ens | S non est P | SP ≠ S |
 
 * On Process
 
