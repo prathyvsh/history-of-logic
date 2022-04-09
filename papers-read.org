@@ -35,6 +35,7 @@
 | [[/papers-read.org/#a-century-of-controversy-over-the-foundations-of-mathematics][A Century of Controversy Over the Foundations of Mathematics]] | Gregory J. Chaitin | 2000 | 10 | 21 August 2021 |
 | [[/papers-read.org/#hilberts-program-revisited][Hilbert’s Program Revisited]] | Panu Raatikainen | 2003 | 22 | ? |
 | [[/papers-read.org/#leibnizs-interpretation-of-his-logical-calculi][Leibniz’s Interpretation of his Logical Calculi]] | Nicholas Rescher | 1954 | 13 | 10 April 2022 |
+| [[/papers-read.org/#reminiscences of Alonzo Church]][Reminiscences of Alonzo Church]] | Nicholas Rescher | 2017 | 3 | 10 April 2022 |
 
 ** May 2020
 
@@ -2845,6 +2846,11 @@ Again, the classical theory of immediate inference and the syllogism is availabl
 
 If Leibniz’s logical calculi do not posses the symmetry and elegance of later algebras of logic it is not because of his intensional conception of logic, but because his greater commitment to traditional logic inclines him to weigh more heavily the logical, rather than algebraic, considerations.
 
+* [[http://www.collegepublications.co.uk/downloads/ifcolog00020.pdf][Reminiscences of Alonzo Church]]
+Nicholas Rescher
+3 pages
+
+A short piece on how Alonzo Church influenced Rescher’s career
 
 * On Process
 
