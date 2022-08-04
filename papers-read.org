@@ -36,6 +36,7 @@
 | [[/papers-read.org/#hilberts-program-revisited][Hilbert’s Program Revisited]] | Panu Raatikainen | 2003 | 22 | ? |
 | [[/papers-read.org/#leibnizs-interpretation-of-his-logical-calculi][Leibniz’s Interpretation of his Logical Calculi]] | Nicholas Rescher | 1954 | 13 | 10 April 2022 |
 | [[/papers-read.org/#reminiscences of Alonzo Church][Reminiscences of Alonzo Church]] | Nicholas Rescher | 2017 | 3 | 10 April 2022 |
+| [[/papers-read.org/#relational-closure][Relational Closure: A Mathematical Concept for Distinction-Making and Complexity Analysis]] | Francis Heylighen | 1990 | 10 pages | |
 
 ** May 2020
 
@@ -2851,6 +2852,132 @@ Nicholas Rescher
 3 pages
 
 A short piece on how Alonzo Church influenced Rescher’s career
+
+* [[http://pespmc1.vub.ac.be/Papers/RelClosure.html][Relational Closure: A Mathematical Concept for Distinction Making and Complexity Analysis]]
+Francis Heylighen
+1990
+
+Complexity as the combination of distinction and connection. A formal concept reformulating closure in a relational language based on connections is introduced allowing to reduce low level internal distinctions and highlight high level external distincitons in a network of connections, thus diminishing the complexity of the description.
+
+1. Complexity and Distinction-Making
+
+Current definitions of complexity are quantitative in nature. Heylighen goes to the etymological root of complexus = entwined / twisted together to create a definition.
+
+Complexity’s definition given has two aspects: distinction and connection.
+
+Distinction corresponds to variety, to heterogeneity, to the fact that different parts of the complex behave differentl. Connection corresponds to relational constraint, to redundancy, to the fact that different parts are not independent, but that the knowledge of one part allows to determine features of the other parts.
+
+Distinction in the limit leads to disorder and entropy, connection leads to order and negentropy. Complexity can only exist if both aspects are present: neither perfect disorder (statistically studies under law of large numbers) nor perfect order (studied under traditional deterministic methods) are really complex. A provisional quantitative definition of complexity might express this as the product of variety (or entropy which corresponds roughly to the logarithm of variety) with redundancy R (corresponding to the difference between actual variety of entropy, and maximum potential variety).
+C = V . R where R = Vmax - V
+C = 0 when V = Vmax { Maximum Variety }
+C = 0 when V = 0 { Minimum Variety / Total order }
+
+Complexity reaches a maximum when R = V
+V is a measure of distinction and R of connection
+
+V is an observer dependent factor.
+
+In thermodynamics, V is thermodynamical entropy.
+For a strange attractor, it might represent fractal dimension.
+Finite state automaton, the number of different states reachable.
+
+What might look like a variety on a micro level may become a redundancy on macro level.
+
+The complexity of the description will depend on how many distinctions the observer makes, and on how many connections exist between these distinctions.
+
+A model with adequate complexity will be one which is complex enough so that all the properties of teh system relevant to the problem are included, yet minimally complex so as to simplify the problem-solving process.
+
+2. Definitionsl of Closure
+
+C: A -> A* with monotonicity, idempotence, inclusion preservation
+
+A set is called closed if A* = A
+
+In cybernetics, a system is said to be organizationally closed if its internal processes produce its own organization, thus continuously rebuilding the system’s identity in a changing environment. The connotation is that of a cyclical, self-referential, self-producing process.
+
+Concept of closure of an algebraic system of transformations:
+
+ForAll(f, g) in F, f o g in F
+ForAll(a in A, f in F), f(a) in A
+
+If A represents the state space of a system, and F its dynamical processes, then the closure of the system means that the state space is invariant under the internal dynamics.
+
+This representation allows for representing A and F by using recursive starting elements F0 and A0.
+
+The system (A, F) is organizationally closed in the sense that its organization, defined by the set A and teh agebra F with composition as binary operation, is maintained or (re)produced under the application of its internal processes, defined by the transformations f in F.
+
+Closure allows to make a more sharp separation between the inside of a system and its outside or environment.
+
+A can be considered as the closure of some A0 subset of A: A0* = A, equivalently F0* = F. What we achieve by adding the missing elements to (A0, F0) is that all internal processes and structures stay within the system, they can no longer produce elements outside of it. 
+
+In the open system, it is possible to transgress the boundary between inside and outside, in the closed system it is not. Hence this boundary becomes an important feature to ditinguish the system (A, F) from its environment in a meaningful way, rather than by an arbitrary convention.
+
+Intuitively, the idea of a closed system as one which you cannot leave or entery from the outside may be generalized to a system whose inside elements cannot be individually distiguished from the outside. Thugh the inside as a whole can be distinguished from the outside. In other words, the inside-outside distinction becomes more important, more invariant, since it can be perceived from all points of view, while the distinction between the inside elements, can only be perceived from the inside itself. Hence closure would be a means of highlighting or singling out distinction between elements of a class and its complement while ignoring other distinctions (eg, the one between a1 in A and a2 in A), thus preferring class A to any other subclass (e.g. A0) of the whole of all elements under consideration.
+
+The simplest way to formulate this is using an equivalence relation E, expressing the lack of external distinction between elements of A.
+
+ForAll(a1, a2 in A), a1 E a2, but forAll(a in A, b not in A, not(a E b))
+
+Think this is much like an abstraction, where if you say children, all children under a parent becomes equivalent under that abstraction. There is no external distinction between them. But internally, the children could be different and this will be represented by their equivalence class.
+
+The closed set A is an equivalence class of relation E and the distinction induced by closure correspond to the partition of the initial universe of discourse U by E.
+
+3. Closure in a Relational Language
+
+Instead of starting from a set A with an algebra F, it can be constructed by usin ga set S of “connections”, meaning elements which are defined by the other elements they are connected to.
+
+Connections can be represented by means of a directed graph consisting of nodes (similar to the elements of the set A) and arrows (similar to transformatinos in F mapping elements of A onto elements of A) connecting the nodes. The nodes can also be viewed as connections between the arrows, so that at the lowest level there is no real distinction between node and arrow elements. This is like in category theory where objects are merely a special kind of identity morphisms.
+
+A connection a -> b can be instantiated by a node or connecting element c: a -> b => thereExists(c, such that a -> , c -> b) The inverse implication is only true if there is no branching between a and c (and equivalently c and b). That is, there is no intermediary d such that a -> d, but not d -> c or c -> d.
+
+The rationale for this relational/structural language is to have a representatino system without primitive level, i.e., a level consisting of the elements out of which all the other elements or structures are generated. The system is bootstrapping: each element is determined by the other elements. This can be expressed formally by introducing the input and output set of an element:
+
+I[a] = { c in S | c -> a } and O[a] = { c in S | a in c }
+
+a is then completely determined or defined by (I, O):
+forAll(a, b in S): (I[a], O[a]) = (I[b], O[b]) => a = b
+
+This axiom allows to formulate a relationship between distinction and connection: two elements a and b are distinct iff they are connected to distinct elements.
+
+This definition is bootstrapping because the distinct elements in I[a] and I[b] are of course themselves only distiguished by virtue of their own connections with distinct elements, including the original a and b. It is not recursive in the conventional sense, because there is no privileged starting set whose elements are used to generate the distinctions between the other elements. Remark also that empty input and output sets cannot be distinguished at all.
+
+Ontological interpretatino: You can only discern something by relating it to something else.
+Operationally it means that you cannot observe or measure some property without letting the system you observe interact with some other sytsem (your measuring instrument) and comparing the results of that interaciton with other results (your standards).
+
+the postulated identity of a and b is a special case of an equivalence relation. In this sense a and b taken together in one class is a kind of primitive closure operation, defining distinctions of the lowest order. Next the way to distinguish higher order distinctions are touched upon:
+
+We would like to derive another, smaller or simpler set of connections which could replace the lower order one, without any loss of relevant information. What allows us to do this is that A does not consist of independent elements, but of elements in relation, that is to say that there is in general some kind of constraint or redundancy involved.
+
+Not sure why it is said that there is a constraint or redundancy involved.
+
+The set A can be represented as a relation on a set of nodes. IF this relation is transitive and symmetric, then it defines an equivalence relation partitioning the nodes into distinct subclasses. This is the most perfect kind of closure we could imagine. By weakening the requirements defining an equivalence class, we may try to generate “less perfect” types of closure which however still determine essential redundancies. Obvious candidates are relations which are just transitively closed, but not symmetrically, or vice-versa.
+
+By specifying a symmetric relation we can reduce the redundancy that can be obtained by using the fact that it is symmeetricall closed. This means that it is not necessary to give all the inverse connections and can be automatically added to it by using the closure operation.
+
+Relational closure in a network S of connections means that a subnetwork or subrelation A subset of S contains all the connnections which commplement the connections in some non-closed subset A0 in A, so that the knowledge of A0, together with the closure operation, determines A completely. Moreover, the closure of A signifies the internal structure of A becomes less distinct, in the sense that it is no longer nnecessary to explicitly make certain distinctions. For example, if A is symmetrically closed, it is not necessary to distinguish between a closure in one direction and a closure in the inverse direction, since you know that once you have the one, you automatically have the other one. In a transitively closed network, you do not have to distinguish between a simple connection and a path of subsequent connections, because each path has an associated simple connection. Because of the diminished internal distinguishability the closed network as a whole will be more sharply distinguished from its background or environment, thus forming a gestalt.
+
+The absence of all possible connections is similar to the presence of all possible connections: both determine an equivalence relation preventing to make any distinction. Analogously, the absence of a certain type of connections will have a similar, distinction reducing effect as the presence of all connections of that type.
+
+Antitransitive closure as Transitive kernel or complement of a closure.
+
+The type of connections which are present/absent may be defined by what they are connected to, hence, depends upon the point of view from which distinctions are made.
+
+O[a] = { c } I[a] = { d, e }
+O[b] = { c } I[b] = { s, l }
+
+a and b are absolutely distinct but indistinguishable from teh point of view of their input c alone.
+
+Different types of closures may be recursively combined, generating other types of closure. Transitive and symmetric closure together define equivalence closure. Fourth, certain types of closure may be seen as generalizations or specialization of other types of closure, in the sense that a more general closure is characterized by less strict requirements, and hence is less distinction-reducing or redundancy-generating. For example, a symmetric closure is a specialization of cyclical closure, defined as a connection network where each connection a has an inverse path of connections, forming a cycle leading back to the starting connection. The associated distinction-reduction is that which makes it impossible to distinguish whether a connection in a cyclically closed network comes “before” or “after” another one.
+
+Starting from a few elementary closures, new closure types can be generated by specialization, generalization, complementation, combination and restriction of point of view.
+
+All essential mathematical structures, such as partitions, partial or linear orderings, functions, hierarchies, symmetries, can be reconstructed as combinations of elementary closures.
+
+The closure we will choose will be the one which eliminates the maximum of distinctions. Hence we will prefer more specialized closures (equivalence) to more general ones (cyclical closure), and large ones (involving large set of connections) to small ones. As to the point of view, this is determined by the objective noe has in mind while solving the problem. In a problem representation, distinctions can be ordered hierarchically in a sequence leading from ends to means.
+
+The distinctions higher in the hierarchy will determine the prieleged point of view from which lower-order structures may or may not be distingushed.
+
+For example, it is useless to distinguish between means which have the same effect on the ends one tries to achieve.
 
 * On Process
 
