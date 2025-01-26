@@ -36,7 +36,7 @@
 | [[/papers-read.org/#hilberts-program-revisited][Hilbert’s Program Revisited]] | Panu Raatikainen | 2003 | 22 | ? |
 | [[/papers-read.org/#leibnizs-interpretation-of-his-logical-calculi][Leibniz’s Interpretation of his Logical Calculi]] | Nicholas Rescher | 1954 | 13 | 10 April 2022 |
 | [[/papers-read.org/#reminiscences of Alonzo Church][Reminiscences of Alonzo Church]] | Nicholas Rescher | 2017 | 3 | 10 April 2022 |
-| [[/papers-read.org/#relational-closure][Relational Closure: A Mathematical Concept for Distinction-Making and Complexity Analysis]] | Francis Heylighen | 1990 | 10 pages | |
+| [[/papers-read.org/#relational-closure][Relational Closure: A Mathematical Concept for Distinction-Making and Complexity Analysis]] | Francis Heylighen | 1990 | 10 pages | 4 August 2022 |
 
 ** May 2020
 
