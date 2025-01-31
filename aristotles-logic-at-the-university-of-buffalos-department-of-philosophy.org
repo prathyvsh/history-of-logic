@@ -1,0 +1,333 @@
+* Aristotle's Logic at the University of Buffalo's Department of Philosophy
+
+There is a half-century-long tradition of contributing to understanding Aristotle's Prior Analytics.
+
+William Parry's "Quantification of the Predicate and Many-Sorted Logic" shows how Aristotle's categorical syllogistic can be faithfully represented as logic in modern symbolic logic.
+
+Corcoran's "Aristotle's Many-sorted logic" builds on Parry's paper.
+
+Central figures of Buffalo Syllogistic Group:
+George Boger
+James Gasser
+John Kearns
+John Mulhern
+Mary Mulhern
+William Parry
+Lynn Rose
+Michael Scanlan
+John Corcoran
+J. Anton
+N. Garver
+J Glanville
+C S. Gould
+E. Hacker
+S. Iverson
+D. Levin
+L. Mohler
+S. Nambiar
+J. Richards
+M. V. Rorty
+J. M. Sangüillo
+J. Swiniarski
+D. M. Tress
+R. Zirin
+
+Due to the collective efforts of this group, it is no longer generally believed that Aristotle's syllogistic was an axiomatic theory like Euclid's geometry, Peano's arithmetic, a theory of linear order of points on a line, or a theory of class inclusion.
+
+The earliest rigorous presentation of this viewpoint was made in 1929 by Łukasiewicz. Similar theory was advanced independently by James Wilkinson Miller in The Structure of Aristotelian Logic (1938). Further discussion in Corcoran The Founding of Logic (1994).
+
+Paul Rosenbloom mentions the general idea in Elements of Mathematical Logic 1950 without referencing Łukasiewicz or Miller.
+
+The dominant view before 1970s was that Aristotle's system was not really an underlying logic: it was thought to be an axiomatic theory that presupposed an underlying logic never articulated by Aristotle. This calls into question the view that Aristotle was the founder of logic.
+
+Today's dominant view has two main theses. The first is that Aristotle's Prior Analytics articulated a rigrous formal logic for deducing conclusions from arbitrarily large premise sets.  This was not endorsed or discussed by Łukasiewicz. Barnes is also another notable example. He describes the syllogistic as an underlying logic in Truth etc.: Six Lectures on Ancient Logic (2007) work that is used to deduce conclusions from arbitrarily many premises, not just the traditional two.
+
+The second thesis is that Aristotle had proposed a rule-based natural deduction logic as opposed to an axiom-based logic. Both of these points were pioneered by UB scholars.
+
+George Boger in his Aristotle's Underlyin gLogic in 200 proclaimed allegiance to this distinctively modern revolutionary interpretation. Timothy Smiley's paper published in 1973 was completed the same time as Corcoran's.
+
+The new interpretation emerged independently and simultaneously in the spring of 1971 in two different continents: University of Buffalo and the University of Cambridge. Peter Malcomlmson discovered a key lemma in the completeness proof used in 1972 JSL paper of Corcoran. The story is recounted in 1994 paper Founding of Logic.
+
+Anchoring in the bedrock of Aristotle's definition, the scholars worked towards establishing the fact that Aristotle's basic viewpoint was not artificially restrictive rather it was intentionally broad enough to encompass almost all of the logic that has been developed in the two millennia since. This view point is articulated in Corcoran's Aristotle's Demonstrative Logic (2009).
+
+The next discussion is about the nature of categorical propositions and the existential import of universal propositions.
+
+There is no textual justification to equate a two-term Aristotelian universal affirmative such as "Every rectangle is a rhombus" with a three-term restrictive-clause universal such as "Every figure which is a rectangle is a rhombus" or with a proposition about absolutely everything such as "Everything which is a rectangle is a rhombus."
+
+Robin Smith in 1989 commits the following mistake:
+"Everything which is A is B" is not the same as "Every A is a B", which is the original Aristotelian form.
+
+There are 2 mistakes:
+The Aristotelian universal proposition is not about everything
+2. The terms are substantives not attributives.
+
+Łukasiewicz repeatedly makes a third mistake where he took the terms and copula as plurals:
+
+"All things which are A are B" or "All A's are B's".
+
+Every rectangle is a rhombus
+Everything which is a rectangle is a rhombus
+Everything is a rectangle if it's a rhombus (Verify: I think this is an erroneous translation as I think it should have been "Everything is a rhombus if it's a rectangle")
+
+Translators dealing with number in grammatical sense have to be guided by a rule which distinguishes plural and singular grammatical numbers in logical sense.
+
+Illustration given is:
+
+some prime number is even vs. some prime numbers are even
+
+The first one is a true statement, while the second one is false.
+
+Likewise, the singular particular affirmative "some prime is an even" needs to be distinguished from the corresponding plural "some primes are evens".
+
+For Aristotle, the terms rectangle and rhobus were substanntives. They were not attributives such as rectangular and rhombic nor were they complexes such as "every rectangle", "a rhombus", and "no rectangle". For Aristotle, the subjects and predicates were syntactically interchangeable in the sense that everything serving as a subject also serves as a predicate and converselyy.
+
+"Every X is a Y" can be interchanged to "Every Y is an X"
+
+Each categorical proposition contained 2 substantive terms.
+"Every quadrangle that is a square is a rectangle" has 3 substantives and is not categorical 
+
+Also,no categorical proposition contained any attributive terms:
+"Every quadrangle that is square is rectangular" is not categorical.
+
+Each categorical proposition was about the individuals falling under its terms and not about anything else, certainly not everything. This misinterpretation of Aristotle's Prior Analytics is said to be made by Boole and Frege. Cf. Corcoran - The Principle of Wholistic Reference (2004), Wholistic Reference, Truth-Values, Universe of Discourse, and Formal Ontolgy (2005b).
+
+Yet many modern writers took categorical propositions to be about everything. They also took them to have only one substantive instead of Aristotle's two and took them to have two attributives instead of Aristotle's none.
+
+"Everything that is square is rectangular" is not categorical.
+
+The familiar three-step libeling process involves:
+1) Attributing to the victim theses thee victim did not hold
+2) Exhibiting real or imagined flaw in the theses
+3) Blaming the victim for such mistakes
+
+Along with UB Scholars, there were others who defended Aristotle. Paul Rosenbloom said that a great deal of nonsense was written by otherwise competent authors on the relation between Boolean algebra and Aristotelian logic of classes. The latter is consistent and can be formulated as a perfectly good deductive science. Many writers interpret Aristotle's "All A's are Bs" by "A is a subset of B" and "Some As are Bs" by the intersection of A with B is non-empty and find out that some of Aristotle's valid moods do not hold. This they say shows that the logic is fallacious. This then Rosenbloom says that is grounds for rejecting such faulty interpretations as Aristotle's is a consistent system. Corcoran refines this further by saying that Rosenbloom erred in trusting his source to have schematized aristotle correctly. Instead of "All As are Bs", it should have been "Every A is a B". Moreover, if the letters stand for substantives, then they cannot also stand for proper names of sets as required by "A is a subset of B".
+
+
+Among the spurious theses falsely attributed to Aristotle is the false proposition that all arguments in the same form as the following are valid:
+
+Everything is such that if it is rectangular, then it is rhombic
+=>
+Something is such that if it is rectangular and it is rhombic
+
+Everything is such that if it is rectangular, then it is not rhombic
+=>
+Something is such that it is rectangular and not rhombic
+
+In each case, the premise is a universalized conditional and the conclusion is the corresponding existentialized conjunction. The premise is not transformed to the conclusion by replacing every with some, it is also necessary to change "if ... then" into "and".
+
+To see that these are invalid, consider the following arguments with the universe of discourse limited to figures of plane geometry where nothing can be spherical see:
+Everything is such that if it is spherical, then it is rhombic
+=>
+Something is such that it is spherical and it is rhombic
+
+Everything is such that if it is spherical, then it is not rhombic
+=>
+Something is such that it is spherical and it is not rhombic
+
+There are no exemplars for something as the universe of discourse is limited to plane geometry where there exists nothing spherical.
+
+In both cases, the premises are universal propositions having no counterexamples and thus are true. The conclusions are existential porpositions having no proexamples and thus are false. These two arguments are thus invalid, contrary to what was attributed to Aristotle.
+
+Genuine view on Aristotle is that:
+
+Every rectangle is a rhombus
+=>
+Some rectangle is a rhombus
+
+No rectangle is a rhombus
+=>
+Some rectangle is not a rhombus
+
+The premise of the first is obtained from the conclusion by replacing some with every and in the second some is replaced with no and the not is deleted.
+
+The original formal square of opposition that appears in Apuleius admits of indefinitely many concrete instantiations each of which is naturally called a square of opposition. 
+
+Frege in his 1879 section 12, made the same mistake but since he was quite used to think of subalternation - the deduction of the existential from the corresponding universal - as cogent, he did not criticize the substitude thesis S, even though S was in conflict with his own logic.
+
+UB scholars were instrumental in crediting Aristotle with the method of counterarguments. They were aalso involved in clarifying that this method is a variant of the method of countermodels used in modern mathematical logic.
+
+Some scholars like Łukasiewicz did not know that it was present in Prior Analytics.
+
+W. D. Ross and G. Patzig are examples of mathematicians who were perceptive enough to notice the presence of counterargument model in Aristotle's work and could see that it could be used to establish invalidity, though they did not appreciate its importance or did not see its conneciton to the method of countermodels.
+
+Aristotle's method was to show a given argument invalid by producing a counterargument, an argument in the same logical form, having true premises and a false conclusion. 
+
+There are arguments whose invalidity is transparent: it is obvious that "Something rectangular is rhombic" does not follow from "Nothing is rectangular". Every argument know to be invalid can be used as a lever/catalyst to recognize other invalidities. In any valid one-premise argument, every proposition that implies the premise implies the conclusion. "Nothing is rectangular" implies the premise of the first of the two arguments in question without implying the conclusion. Therefore, the first argument is invalid.
+
+Nothing is rectangular
+=>
+Every rectangle is a rhombus
+
+is valid but
+
+Nothing is rectangular
+=>
+Some rectangle is a rhombus
+
+is an invalid argument
+
+while
+
+Nothing is rectangular => No rectangle is a rhombus
+
+is valid while
+
+Nothing is rectangular =/> Some rectangle is not a rhombus
+
+does not follow. Hence this iss invalid too.
+
+The principle underlying this application of the method of weakened premises is this: nothing that follows from the premises of an invalid argument implies the conclusion.
+
+In order for a given argument whose conclusion is the conclusion of an invalid argument to be invalid, it is sufficient for the premises of the invalid argument to imply those of the given argument. (Ponder this: I am not completely understanding it, it is not of the same form as having invalid argument implies premise, but doesn't imply conclusion as illustrated in the above example but rather I read this as saying that there is a (premiseI, conclusionI) which is invalid and a given argument (premiseG, conclusionG), and to show that conclusionG is invalid, it is enough to show that premiseI => conclusionG and premiseI => premiseG which is not what has happened here, but rather premiseI => premiseG but not premiseI =/> conclusionG). There is another way to interpret this, which requires you to distance a bit from the discussion and instead think of a fresh case, where you found out some argument to be invalid. So let us say we have premiseG =/> conclusionG and you want to prove it invalid. For this, it is enough to show that premiseI => premiseG because premiseI is an invalid one.
+
+* Aristotelian, Boolean, and Modern Logics
+
+Aristotle's doctrine of existential import includes the thesis that every universal proposition implies its corresponding existential. A => I, E => O.
+
+Syllogism and Quantification - Smiley 1962
+Aristotle on the Existential Import of Propositions - Mignucci 2007
+
+A common view is that Aristotle's doctrine of existential import conflicts with modern logic while Boole's doctrine is in agreement with modern logic. This is erroneous as Boole accepted as valid absolutely every argument accepted as valid in Aristotle's system. Thus any conflict with modern logic found in Aristotle's logic would be found in Boole's.
+
+See for instance Aristotle's Prior Analytics and Boole's Laws of Thought (2003)
+
+As noted by Smiley and then by Parry, Aristotle's logic can be embedded into modern many-sorted symbolic logic.
+
+The Logic of Commoun Nouns - Gupta (1980)
+
+W. Parry - Quantification of the Predicate and Many Sorted Logic (1966)
+
+One of the key ideas in many sorted logic is that it is possible (perhaps necessary) to treat substantives and attributes differently: 
+
+The logical forms of "Ann is a women" and "Ben is a man" which are expressed with common nouns 'woman' and 'man', are to be distinguished from the logical forms of "Ann is female" and "Ben is male" which are expressed using the adjectives female and male.
+
+The first two use the 'is' of identity; the second two use the 'is' of predication.
+
+Boger, Corcoran, Rose - Memorial Service for William Tuthill Parry (1988)
+
+identity: John is a wise man
+predication: John is a man who is wise
+
+Parry took "John is a wise man" to express "John is a man who is wise"
+
+Parry pioneered taking Aristotelian logic as many-sorted symbolic logic using sortal variables. The ranges of the sortal vaiarbles are all non-empty like ordinary one-sorted logic. Each range gets assigned independently of others.
+
+If the sortal variable m ranges over men, then John is a man is expressed as:
+
+"John is some man" or "Some man is Jones", "There is a man that is identical to Jones", "There is a man that Jones is identical to"
+thereExists(m: j = m)
+
+This contrasts with that of Peano, where he represented "Jones is a man" by breaking it down into Jones -> J, is a -> elementOf, man -> m giving:
+J elementOf m
+
+Wj would mean "is wise + Jones" but Corcoran argues that pedagogically, linguistically, and heuristically more effective is to reverse the order from Wj to jW. The Wj convention was carried over from Frege who thought of the predication as a truth function W(j).
+
+Then the proposition expressed by Jones is a wise man is paraphrased as:
+"Jones is such that there exists a wise man m that Jones is identical to" or "There exists a man m such that m is wise and Jones is m".
+
+thereExists(m: mW & j = m)
+
+Here s ranges over spheres and p ranges over polygons:
+
+Every sphere is a polygon forAll(s, thereExists(p, s = p))
+Some sphere is a polygon thereExists(s, thereExists(p, s = p))
+No sphere is a polygon forAll(p, forAll(s, s ≠ p))
+Some sphere isn't a polygon thereExists(s, forAll(p, s ≠ p ))
+
+Another approach interprets quantifier phrases 'for every sphere x' and 'for some sphere x' literally as being in the quantifier-noun-variable form taking 'for every' and 'for some' to indicate universal and existential quantifiers. 'sphere' indicates the domain of quantification and 'x' is the variable ranging over the domain. Here, range-idicators (corresponding to common nouns) are used with general (non-sortal) variables. Each variable follows an occurence of a range indicator or comon-noun symbol that determines the range of the variable in its subsequent occurrences.
+
+So the quantifier bounds the range indicators which bounds the variable.
+
+This is reflected in the practice of Tarsk iand others who use variables as pronouns having common nouns as antecedents:
+"For every number x, x precedes x + 1" where the first x refers back to the antecedent. The word 'number' indicates the range of x in all three occurence. To each range indicator a non-empty set is assigned as its extension.
+
+"Jones is a man" is expressed in this language as:
+"some man x is such that Jones is identitical to x"
+thereExists(Mx, j = x)
+
+"Jones is a wise man" is paraphrased as: "Jones is such that there exists a wise man x that Jones is identical to" or "Some man x is such that x is wise and Jones is x"
+thereExists (Mx, Wx & j = x)
+
+With range indicators are S and P, where S is "sphere", and P "polygon":
+
+Every sphere is a polygon
+Every sphere x is a polygon y
+For every sphere x there exists a polygon y such that x = y
+forAll(Sx, thereExists(Py, x = y))
+
+Some sphere is a polygon
+Some sphere x is a polygon
+For some sphere x there exists a polygon y such that x = y
+thereExists(Sx, thereExists(Py, x = y))
+
+No sphere is a polygon
+No sphere x is a polygon
+For no sphere x is there a polygon such that x is y
+For every sphere x, for every polygon y, x isn't y
+forAll(Sx, forAll(Py, x ≠ y))
+
+Some sphere is not a polygon
+Some sphere x is not a polygon y
+For some sphere x, every polygon y is such that x isn't y
+There exists a sphere x such that, for every polygon y, x isn't y
+thereExists(Sx, forAll(Py, x ≠ y))
+
+Many-sorted logic with sortal variables is prominent in Hilbert's Foundation of Geometry (1899/1971)
+
+It is merely described in Hilbert and Ackermann's Principles of mathematical Logic (1938/1950)
+
+Many-sorted logic with range indicators and non sortal variables was pioneered by Anil Gupta in his book from 1980 on the logic of common nouns.
+
+The Logical Form of Quantifier Phrases: Quantifier-sortal-variable (1999)
+
+Corcoran remarks that he doesn't say that Aristotle's categorical propositions are expressible using many-sorted sentences but only that they are logically equivalent to propositions so expressible. He agrees with Barnes (2007) and others that each categorical proposition is a three-part entity composed of a term, a predication, and a term: pCs, where p and s are distinct non-logical terms and C is one of the four Aristotelian copulas.
+
+Sentences like "Every rectangle is a rhombus" and "Some rectangle is a rhombus" over the years have been taken to express propositions in many different forms: Aristotle's categoricals, Ockham's categoricals, Boole's equations, class inclusions, two-sorted prenexes, one-sorted quantifications, etc.
+
+Ockha'm Syllogistic Semantics - Corcoran (1981)
+
+Not quite clear on this bit: The fact that the propositions a given person expresses with the first does not imply the propositions which that person expresses with the second is no evidence about the relation of the propositions someone else expresses with them.
+
+Understanding a statement does not require knowing which proposition was stated and it does not require being able to categorize it's logical form.
+
+When someone says "Alligators bite", a kid doesn't need to recognize that it is an indefinite and not a universal or existential. A listener can understand a speaker and yet be mistaken about the logical form of the proposition stated.
+
+On Aristotle's Principle of Contradiction and its Platonic Antecedents - J. Anton (1996)
+
+Aristotle's Theory of Contrariety - J. Anton (2000)
+
+The Logical Sense of Paradoxon in Aristotle's Sophistical Refutations - G. Boger (1993)
+
+Completion, Reduction, and Analysis: Three Proof-theoretic Processes in Aristotle's Prior Analytics - G. Boger (1998)
+
+The Modernity of Aristotle's Logic - G. Boger (2000)
+
+Aristotle's Underlying Logic - G. Boger (2004)
+
+Aristotle's Logic for the Modern Reader - J. Gasser (1991)
+
+Zabarella and Poinsot on the Object and Nature of Logic - J. Glanville (1958)
+
+Reduction of Aristotelian Syllogism - S. Iverson (1964)
+
+Aristotelian Quantifiers - J. Kearns (1975)
+
+Modern Notations and Ancient Logic - J. Mulhern (1974)
+
+Corcoran on Aristotle's Logical Theory - M. Mulhern (1974)
+
+S. Nambiar - The Influence of Aristotelian Logic on Boole's Philosophy of Logic: the Reduction of Hypotheticals to Categoricals (2000)
+
+Aristotle's Syllogistic and the Fourth Figure - L. Rose (1965)
+
+Premise Order in Aristotle's Syllogistic - L. Rose (1966)
+
+On Finding Compactness in Aristotle - M. Scanlan (1983)
+
+Inarticulate Noises - R. Zirin (1974)
+
+Jaskowski - Rules of Suppositions in Formal Logic (1934)
+
+Aristotle on the Existential Import of Propositions - M. Mignucci (2007)
+
+What is a Syllogism? - Smiley (1973)

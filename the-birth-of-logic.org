@@ -1,0 +1,161 @@
+The Birth of Logic
+John Corcoran
+
+[[https://orb.binghamton.edu/cgi/viewcontent.cgi?article=1180&context=sagp][Reading link]]
+
+* Epistemic vs. Ontic interpretation of Aristotle
+
+The epistemic interpretation of logic sees it as the study of proofs and deductive reasoning, while the ontic interpretation sees it as the study of formal relations such as class inclusion and sees logic as a system of true propositions of a theory of classes. The epistemic interpretation permits the invention of logic as epistemic metascience to be located with Aristotle, while deferring the invention of logic as ontic science to be located with the modern period. But in views, such as that of Łukasiewicz Aristotle’s invention of logic was ontic, with the epistemic view of logic as metascience of inquiry relegated to the modern period. Corcoran sees the epistemic view as the more plausible one when informed by the knowledge and appreciation of the scientific and philosophical achievements of Ancient Greece, rather than when seen from the perspective of the modern Frege-Russell paradigm.
+
+Epistemic interpretations are given in Robin Smith's translation of Prior Analytics (1989).
+Corcoran (1972)
+Smiley (1973)
+
+Discussions, criticisms, modifications, and refinements are found in:
+Clark 1980
+Smith 1983
+Smith 1984.
+
+Ontically oriented interpretation was developed by Łukasiewicz before World War II and presented in (1957) and Patzig in his (1968).
+
+* The subject matter of Prior Analytics
+
+The subject matter of Prior Analytics is apodeixis (ἀπόδειξις) which translates to demonstration, proof, or demonstrative proof. The nature of proof is ideal in that it deals with idealized or abstracted objects. The side of a square is incommensurable with its diagonal. There is no such thing in the real world because engineers / carpenters will measure both the side and the diagonal within their limits of tolerance of their tools of choice. This is a consequence of the Pythagorean theorem. This is closely related to a theorem that Corcoran calls the Double Square Number theorem. It also contrasts to the idea of doubling the square idea, which Corcoran calls as the Double Square Figure Theorem. TODO: Locate and understand these
+
+Euclid’s Elements was written after Prior Analytics. The propositions that are proved in Elements have been for the most part known prior to Aristotle undertaking his study of logic.
+
+The function of proof is production of knowledge. Every proposition which is proved to a given person is known to be true. This is what makes demonstrative science possible. Proof makes it possible for us to form responsible belief. (To ponder: Wonder what responsibility means in this context).
+
+Discovering new proofs is an activity that can yield deep inner satisfaction, feeling of accomplishment and feelings of competence, community with other human beings and the aesthetic enjoyment of having proven a theorem. Following a demonstrative proof has similar benefits. The gratification achieved in the course of following and creating proofs rank high among the joys of the intellectual life. It has been referred to as a feeling of being pregnant with a scientific child. In the course of proving, the mind is intensely focused, perhaps riveted, on the subject-matter.
+
+The practice of demonstrative proof is said to have taken root in Ionia during the time of Thales, a little more than 2 centuries before Aristotle undertook its study.
+
+An early step in the founding of a science of proof involves shifting the focus from subject-matter to the process of thought involved in the demonstration.
+
+Aristotelian Revolution is in this sequence of steps in moving from the study of a given subject-matter to a study of proofs about that subject matter and more generally to a study of proofs themselves.
+
+Another step made by Aristotle is the discovery of abstract, timeless, static entities underlying the individual concrete, temporal, dynamic processes of demonstrative proof. When we experience proofs temporally, we may be said to be involved in proof-performance or proof-token as opposed to an abstract proof or proof type. Prior Analytics is credited as the earliest known work which treats proofs as timeless abstractions. The distinction is drawn between allographic and autographic works.
+
+Greeks are credited with making mathematical science possible by discovering how to treat numbers and geometrical figures as abstractions related to but distinct from concrete multitudes and concrete figures. The analogous step can be credited to Aristotle or Prior Analytics is the earliest know work that treats proofs as timeless abstractions amenable to investigations similar to the investigation of objects of arithemtic and geometry as timeless abstractions related to but apart from concrete multitudes and concrete shaped-things.
+
+It was obvious before Aristotle that a single proof involved several concepts or terms and that besides the conclusion or proposition being proved there were premises whose truth needed to be established before the proof could be made.
+
+* Analytic vs. Synthetic proofs
+
+Examination of proofs may give us the impression that many if not all proofs involve manipulation of the entities that the conclusions are about. Proofs in geometry may seem to involve manipulation of geometrical figures and proofs in arithmetic the manipulation of numbers. Aristotle's theory of proof has no manipulation of subject matter. For Aristotle, the only epistemic activities involved once the premises are secured are applying the rules of inference, making suppositions, and clerical activities such as remembering and recognizing.
+
+Later thinkers like Kant while accepted the existence of reasoning in accord with Aristotle's theory, but saw it only as a species of a wider genus which includes synthetic/constructional reasoning; in particular geometrical reasoning and arithmetical reasoning were thought of as involving constructions alien to Aristotle's purely inferential, nonmanipulational view. Today, adherents of this view includes followers of Brouwer.
+
+* The Truth-and-Consequence conception of proof
+
+According to some logicians, the most important discovery by Aristotle was the idea that proof consists in inference of consequences of premises known to be true. This is called the Truth-And-Consequence conception of proof. This distinguishes the inferential/formal aspect of deducing logical consequences from the premises to be separable from the material aspect of epistemic apprehension of the truth of the premises. It allows for universalizing the inferential/formal aspect, the idea that inference is one and the same regardless of subject-matter however much the material aspect may vary from one subject-matter to another.
+
+It is the truth-and-consequence conception of proof that underlies Aristotle's distinction between demonstrations/apodeixis and deduction/sullogismos.
+
+A deduction makes evident that its conclusion follows logically from its premise-set.
+
+A proof is a deduction whose premises are known to be true.
+
+Every demonstration is a deduction but not every deduction is a demonstration.
+
+I think proof is synonymous with demonstration.
+
+Argumentation {True/False Premise Set, Correct/Incorrect Chain of Reasoning, Conclusion} can be cogent/noncogent
+|
+v
+Deduction {True/False Premise Set, Correct Chain of Reasoning, Conclusion}
+|
+v
+Demonstration/Proof {True Premise Set, Correct Chain of Reasoning, Conclusion}
+
+Argument { Premise Set, Conclusion } can be valid/invalid
+
+As a whole it will be cogent/noncogent
+
+         Chain of Reasoning
+   /                     \
+  /                       \
+True/False  Correct/Incorrect
+ /                         \
+/                           \
+Premises --- Valid/Invalid---Conclusion
+
+The word argumentation has been used to refer to the genus that has the class of deductions as a species. Every deduction is an argumentation and but not every argumentation is a deduction.
+
+An argumentation is composed of a premise-set, a conclusion, and a discourse / chain of reasoning which may or may not be fallacious.
+
+Propositions have a semantically static character in that they do not explain or report a process of reasoning while a chain of reasoning may be said to be a recipe for carrying out a mental process. Using Austin's terminology (TODO: who is this?) the premises and conclusions of a demonstration are expressed by declaratives while the chain of reasoning must be expressed by a performative.
+
+Reading a proof-text is not a spectator activity but one that needs active engagement. A proof makes a prediction that the reader must verify actively in order to understand it.
+
+Argument is a two-part system composed of a set of propositions called its premises and a single proposition called its conclusion. Proofs may contain non-propositional discourse or chain of reasoning and thus is not an argument. Every proof contains an arguemnt in the sense that it has a premise set and a conclusion, but it is not itself an argument.
+
+Mates (TODO: who is this?) has alleged that Stoics thought demonstrations were arguments in this sense. Stoics used the word logos as a technical term in logic having the exact sense that we have attached to argument. 
+
+Just as propositions divide exclusively and exhaustively into true and false, arguments divide exclusively and exhaustively into valid/invalid and argumentations into cogent/noncogent. In order for a proposition to be true, it is necessary and sufficient for it to correspond to fact, for an argument it is necessary and sufficient for its premise-set to logically imply its conclusion, or for the negation of the conclusion to be logically incompatible with the premises. According to Mates, the Stoics preferred to define validity in terms of incompatibility rather than implication of the premises. 
+
+In order for an argumentation to be cogent it is necessary and sufficient for its chain of reasoning to make evident that its premise-set implies its conclusion. 
+
+Propositions, arguments, and argumentations form three mutually exclusive ontological categories. Category mistakes ensue when a property appropriate to one is attributed to something in another. 
+
+Incoherent to say:
+Proposition is valid/invalid or cogent/noncogent
+Arguments is true/false or valid/invalid
+
+These remarks apply only when words are used in the senses defined here. There are many logicians like Łukasiewicz and Tarsk who never used argument in this sense.
+
+Deduction is used in English in two (among many) different ways which are relevant to the discussion here. In the first place, deduction is an epistemic process of extracting information implicit in given information. In logic this usage is sharpened up a bit by saying that deduction is the epistemic process of coming to know that a given single proposition is logically implicit in a given set of propositions.
+
+  o_1
+  \  \
+   \   o_4
+    \    \
+    o_3 -> x
+    /
+   /
+  /
+ o_2
+
+Argument {o_1, o_2, o_3} -> {x}
+In other words, deduction amounts to the process by which we determinne a given argument is valid. In this senes, deduction is a process noun which does not pluralize. 
+
+In the second sense, a deduction is a result of application of the process of deduction. In logic, this sense is sharpened in various ways. Here a deduction is a cogent argumentation, an argumentation whose chain of reasoning makes evident that its conclusion is implied by its premise-set. 
+
+According to Aristotle's theory there are certain simple valid arguments which can be seen to be valid without recourse to other valid argumeents. These are called immediate inferences where immediate is taken in its etymological sense of ‘without intermediation’.
+
+* Direct vs. Indirect Proofs
+
+Aristotle's theory of deduction recognizes two ways of coming to see that a given conclusion follows from given premises and accordingly he recognizes two types of deductions: direct and indirect.
+
+1. direct proofs such as Euclid's proof of the Pythagorean Theorem which builds up to the Conclusion
+
+2. indirect proofs such as the usual proof of the Square Incommensurability Theorem which derives an impossibility from the supposition of the opposite of the conclusion.
+
+  o_1
+  \  \
+   \  o_4
+    \    \
+    o_3 -> x
+    / 
+   /
+  /
+ o_2
+
+
+Direct deduction is obtained by chaining together immediate inferences in a sequence starting with  premises and ending with the conclusion.
+
+  o_1
+  \   \
+   \    o_4----------
+    \                 \
+    o_3  ----------- ~o_1
+    /           ______/  
+   /          /
+  /        ~x
+ o_2
+
+Indirect deduction is obtained by chaining together immediate inferences in a sequence starting with premises augmented by the opposite of the conclusion and continuing until reaching a proposition whose opposite has already been reached.
+
+The fact that Aristotle recognized the distinction between logical implication and logical deduction paralleling the distinction between truth and knowing attests to his penetrating analysis of proof and that he devised a theory of deduction as part of his theory of proof is sufficient to secure his reputation as the father of logic. 
+
+TODO: I have to distinguish how knowledge and truth is different in Aristotle's theory of proof.
