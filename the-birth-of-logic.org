@@ -24,7 +24,7 @@ The subject matter of Prior Analytics is apodeixis (ἀπόδειξις) which t
 
 Euclid’s Elements was written after Prior Analytics. The propositions that are proved in Elements have been for the most part known prior to Aristotle undertaking his study of logic.
 
-The function of proof is production of knowledge. Every proposition which is proved to a given person is known to be true. This is what makes demonstrative science possible. Proof makes it possible for us to form responsible belief. (To ponder: Wonder what responsibility means in this context).
+The function of proof is production of knowledge. Every proposition which is proved to a given person is known to be true. This is what makes demonstrative science possible. Proof makes it possible for us to form responsible belief. (Todo: Investigate what responsibility means in Corcoran's terms if it reappears in any paper).
 
 Discovering new proofs is an activity that can yield deep inner satisfaction, feeling of accomplishment and feelings of competence, community with other human beings and the aesthetic enjoyment of having proven a theorem. Following a demonstrative proof has similar benefits. The gratification achieved in the course of following and creating proofs rank high among the joys of the intellectual life. It has been referred to as a feeling of being pregnant with a scientific child. In the course of proving, the mind is intensely focused, perhaps riveted, on the subject-matter.
 
@@ -47,9 +47,9 @@ Examination of proofs may give us the impression that many if not all proofs inv
 Later thinkers like Kant while accepted the existence of reasoning in accord with Aristotle's theory, but saw it only as a species of a wider genus which includes synthetic/constructional reasoning; in particular geometrical reasoning and arithmetical reasoning were thought of as involving constructions alien to Aristotle's purely inferential, nonmanipulational view. Today, adherents of this view includes followers of Brouwer.
 
 * The Truth-and-Consequence conception of proof
-
++
 According to some logicians, the most important discovery by Aristotle was the idea that proof consists in inference of consequences of premises known to be true. This is called the Truth-And-Consequence conception of proof. This distinguishes the inferential/formal aspect of deducing logical consequences from the premises to be separable from the material aspect of epistemic apprehension of the truth of the premises. It allows for universalizing the inferential/formal aspect, the idea that inference is one and the same regardless of subject-matter however much the material aspect may vary from one subject-matter to another.
-
++
 It is the truth-and-consequence conception of proof that underlies Aristotle's distinction between demonstrations/apodeixis and deduction/sullogismos.
 
 A deduction makes evident that its conclusion follows logically from its premise-set.
@@ -79,21 +79,21 @@ True/False  Correct/Incorrect
  /                         \
 /                           \
 Premises --- Valid/Invalid---Conclusion
-
++
 The word argumentation has been used to refer to the genus that has the class of deductions as a species. Every deduction is an argumentation and but not every argumentation is a deduction.
-
++
 An argumentation is composed of a premise-set, a conclusion, and a discourse / chain of reasoning which may or may not be fallacious.
-
++
 Propositions have a semantically static character in that they do not explain or report a process of reasoning while a chain of reasoning may be said to be a recipe for carrying out a mental process. Using Austin's terminology (TODO: who is this?) the premises and conclusions of a demonstration are expressed by declaratives while the chain of reasoning must be expressed by a performative.
 
 Reading a proof-text is not a spectator activity but one that needs active engagement. A proof makes a prediction that the reader must verify actively in order to understand it.
-
++
 Argument is a two-part system composed of a set of propositions called its premises and a single proposition called its conclusion. Proofs may contain non-propositional discourse or chain of reasoning and thus is not an argument. Every proof contains an arguemnt in the sense that it has a premise set and a conclusion, but it is not itself an argument.
 
 Mates (TODO: who is this?) has alleged that Stoics thought demonstrations were arguments in this sense. Stoics used the word logos as a technical term in logic having the exact sense that we have attached to argument. 
-
++
 Just as propositions divide exclusively and exhaustively into true and false, arguments divide exclusively and exhaustively into valid/invalid and argumentations into cogent/noncogent. In order for a proposition to be true, it is necessary and sufficient for it to correspond to fact, for an argument it is necessary and sufficient for its premise-set to logically imply its conclusion, or for the negation of the conclusion to be logically incompatible with the premises. According to Mates, the Stoics preferred to define validity in terms of incompatibility rather than implication of the premises. 
-
++
 In order for an argumentation to be cogent it is necessary and sufficient for its chain of reasoning to make evident that its premise-set implies its conclusion. 
 
 Propositions, arguments, and argumentations form three mutually exclusive ontological categories. Category mistakes ensue when a property appropriate to one is attributed to something in another. 
@@ -102,7 +102,9 @@ Incoherent to say:
 Proposition is valid/invalid or cogent/noncogent
 Arguments is true/false or valid/invalid
 
-These remarks apply only when words are used in the senses defined here. There are many logicians like Łukasiewicz and Tarsk who never used argument in this sense.
+These remarks apply only when words are used in the senses defined here. There are many logicians like Łukasiewicz and Tarski who never used argument in this sense.
+
+* The process of deduction
 
 Deduction is used in English in two (among many) different ways which are relevant to the discussion here. In the first place, deduction is an epistemic process of extracting information implicit in given information. In logic this usage is sharpened up a bit by saying that deduction is the epistemic process of coming to know that a given single proposition is logically implicit in a given set of propositions.
 
@@ -117,6 +119,7 @@ Deduction is used in English in two (among many) different ways which are releva
  o_2
 
 Argument {o_1, o_2, o_3} -> {x}
+
 In other words, deduction amounts to the process by which we determinne a given argument is valid. In this senes, deduction is a process noun which does not pluralize. 
 
 In the second sense, a deduction is a result of application of the process of deduction. In logic, this sense is sharpened in various ways. Here a deduction is a cogent argumentation, an argumentation whose chain of reasoning makes evident that its conclusion is implied by its premise-set. 

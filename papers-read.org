@@ -3072,6 +3072,27 @@ Emmylou Haffner (December 2018)
 
 * Works to read on Aristotle
 
+* [[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2569082][The Roots of Logical Hylomorphism]]
+Elena Dragalina-Chernaya
+February 24, 2015
+
+Curious paper which claims that Aristotle was not the founder of logical hylomorphism even though he was the founder of formal logic and hylomorphism individually.
+
+* [[https://orb.binghamton.edu/cgi/viewcontent.cgi?article=1177&context=sagp][Prior Analytics and Aristotle's Commitment to Logos]]
+George Boger
+1996
+
+* Proof and the Syllogism (1981)
+J. Barnes
+
+* [[https://web.calstatela.edu/faculty/hmendel/Mendell.MakingSense.pdf][Making Sense of Aristotelian Demonstration (1998)]]
+Henry Mendell
+
+* [[https://www.researchgate.net/publication/287655153_Aristotle's_Theory_of_Demonstration][Aristotle's Theory of Demonstration]]
+
+* [[https://www.jstor.org/stable/638573][The Relationship of Aristotle's Two Analytics]]
+Robin Smith (1982)
+
 ** Marko Malink
 
 *** [[https://as.nyu.edu/content/dam/nyu-as/philosophy/documents/faculty-documents/malink/Malink_Reconstruction-Aristotle.pdf][A Reconstruction of Aristotle’s Modal Syllogistic (2006)]]
