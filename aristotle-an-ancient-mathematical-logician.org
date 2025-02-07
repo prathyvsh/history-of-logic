@@ -3,7 +3,7 @@ George Boger
 
 Brief summary
 --------------
-In what sense is Aristotle's logic modern? This paper gives a crisp and surface level overview without getting into the nitty gritty of the representation of syllogisms and deduction rules. In that, it is a commenable effor.t on the part of Boger.
+In what sense is Aristotle's logic modern? This paper gives a crisp and surface level overview without getting into the nitty gritty of the representation of syllogisms and deduction rules. In that, it is a commenable effort on the part of Boger.
 
 
 Detailed review
@@ -13,22 +13,44 @@ There are many aspects of Aristotle's logic which are modern.
 
 Five salient features:
 1) Aristotle took logic to be part of epistemology used to establish knowledge of logical consequence. The science of logic takes this as its principal concern
+
 2) Prior Analytics is a metalogical treatise on the syllogistic deduction system. He exhaustively treated all possible combinations of argument patterns to determine which have only valid argument instances
+
 3) Aristotle recognized the epistemic efficacy of certain elemental argument patterns having only valid instances, and formulated them as rules of natural deduction in corresponding sentences.
+
 4) Prior Analytics is a proof-theoretic treatise in which Aristotle describes a natural deduction system and demonstrates certain logical relationships among syllogistic deduction rules. He modelled his syllogistic logic in a rudimentary way for this purpose and metasystematically established the independence of a set of deduction rules
+
 5) Aristotle worked with a notion of substitution sufficient for distinguishing logical syntax and semantics. He also distinguished validity from deducibility sufficiently well to note the completeness of his logic.
 
-TODO: I have to revisit each of these after completing reading the essay
-
-As a result of studies since 1920s, the genius of Aristotle as a logician of considerable originality and insght has been recognized. We can see that many aspects of his logical investigations are modern.
-
 1) Logic is taken as part of epistemology
+
+- Made logic into a field of its own
+- Topic neutral deductions
+- Distinction between syllogisms and demonstrations
+- Syllogisms are the valid ones. Demonstrations are the true and valid ones.
+- Logic as the system used to establish true valid knowledge. It is a system that allows one to establish knowledge from the first principles of a demonstrative science.
+
 2) Syllogistic deduction is treated metalogically
+
+- Determined how every syllogistic is generated using inductive methods.
+- The minimal 2 premise sets were examined exhaustively
+- Method of Completion and Method of Contrasted Instances
+- A syllogism is treated as a relatively uninterpreted object. It was treated as an elemental argument pattern with only valid argument instances.
+- Employed semantic principle of form in that he established a link between argument's pattern and its validity/invalidity
+
+
 3) Rules of natural deduction are explicitly formulated
+
+- Aristotle understood the epistemic efficacy of syllogisms.
+- He explicitly formulated them as rules of deduction
+
 4) The Syllogistic System is modeled to demonstrate logical relationships among its rules
 5) Logical syntax is distinguished from semantics
 
-Traditionally, (formal) logic is concerned with the analysis of sentences or of propositions and of proof with attention to the form in abstraction from the matter.
+
+As a result of studies since 1920s, the genius of Aristotle as a logician of considerable originality and insght has been recognized. We can see that many aspects of his logical investigations are modern.
+
+Traditionally, (formal) logic is concerned with the analysis of sentences or of propositions and of proof with attention to the form in abstraction from the matter. - Alonzo Church, Introduction to Mathematical Logic (1956)
 
 Aristotle's philosophical genius is having established a formal logic and making the study of logic a science. He recognized that deductions about a given subject matter are topic specific and pertain to a given universe of discourse say geometry / arithmetic / biology, but that such deductions employ a topic neutral deduction sytem to establish knowledge of logical consequence.
 
@@ -39,7 +61,6 @@ Categories, On Interpretation, Prior Analytics, Posterior Analytics, Topics, and
 1) Logic as part of epistemology
 
 Prior Analytics established a formal deduction system that could serve as an instrument for demonstrative science, or (apodeiktikê epistêmê) as this is outlined in Posterior Analytics.
-
 
 Aristotle notes that syllogisms should be discussed before demonstration because syllogisms are more universal. A demonstration is a kind of syllogism, but not every syllogism is an apodexis. 
 
@@ -53,24 +74,26 @@ A deduction system for Aristotle is an epistemic instrument of the mind by means
 
 Aristotle attempted to determine how every syllogism is generated. He accomplished this by exhaustively treating every possible categorical argument pattern having a premise-set of 2 categorical sentence patterns with places for three different terms. They were studied because of their minimality in that "something different than what was initially taken results necessarily".
 
-Aristotle used metalogical processes of 1) method of completion (teleiousthai or teleiosis) in his deduciton process. This process employs four teleioi/perfect syllogisms of the first figure as rules of deduction to establish which second a third figure argument patterns are syllogisms and 2) method of contrasted instances to separate the valid instances from the invalid instances.
+Aristotle used metalogical processes to establish the validity and invalidity of his deduction processes:
+1) method of completion (teleiousthai or teleiosis). This process employs four teleioi/perfect syllogisms of the first figure as rules of deduction to establish which second and third figure argument patterns are syllogisms. Every argument with semantically precise terms fitting these patterns are valid. This process of identifying them was by treating them individually not axiomatically; his metasystematic treatment is inductive and not deductive.
 
-Aristotle identified argument patterns with only invalid argument instances by the method of contrasted instances. This treatment is also inductive and not axiomatic. This is different from the modern method of counterargument or the method of counterinterpretation as it invalidates argument patterns and not argument instances. It is noteworthy that there isn't even one instance of the method of counter argument in Prior Analytic A4-7.
+2) method of contrasted instances to separate the invalid instances from the valid instances. Aristotle identified argument patterns with only invalid argument instances by this method. This treatment is also inductive and not axiomatic. This is different from the modern method of counterargument or the method of counterinterpretation found in modern logic as it invalidates argument patterns and not argument instances. It is noteworthy that there isn't even one instance of the method of counter argument in Prior Analytic A4-7.
 
-His method of invalidating argument patterns consists in substituting two sets of 3 different terms into two argument patterns to produce 2 arguments all of whose sentence instances are true. Each argument has premises fitting the same premise-pair pattern, but one has a universal affirmative (a) sentence as a conclusion and the other a universal privative (e) sentence as conclusion. It is straightforward to adapt his method to the method of counterargument and to produce 2 arguments each with true premises and a false conclusion by switching his substitution instances.
+His method of invalidating argument patterns consists in substituting two sets of 3 different terms into two argument patterns to produce 2 arguments all of whose sentence instances are true. Each argument has premises fitting the same premise-pair pattern, but one has a universal affirmative (a) sentence as a conclusion and the other a universal privative (e) sentence as conclusion. It is straightforward to adapt his method to the method of counterargument and to produce 2 arguments each with true premises and a false conclusion by switching his substitution instances. An example can be seen at A4, 26a11-13.
 
-In this way, we get at the formal nature of the study. A syllogism then as treated in Prior Analytics is a relatively uninterpreted object. It is an elemental argument pattern with only valid argument instances. This is similar to the way in which a geometer treats triangles in the abstract than being concerned with the concrete multitude of possibilities in which they can be instantiated. It is worth noting here that Aristotle employed, at least implicitly, the semantic principle of form, that two arguments having the same form, that is, fitting the same strict syllogistic pattern, are both valid or both invalid.
+I think the patterns were called moods in the figure and the valid moods in the figures as syllogisms.
 
-It is important to recognize that Aristotle treated the syllogisms individually and not axiomatically. His metasystematic treatment is inductive and not deductive.
+In this way, we get at the formal nature of the study. A syllogism then as treated in Prior Analytics is a relatively uninterpreted object. It is an elemental argument pattern with only valid argument instances. This is similar to the way in which a geometer treats triangles in the abstract than being concerned with the concrete multitude of possibilities in which they can be instantiated.
 
+TODO: There is an interesting point that Aristotle didn't apprehend the form of the syllogisms Platonistically. I have to dig into this further.
 
-For there to be a syllogism it is necessary and sufficient that terms be formally related as Aristotle stated in a set of rules and the converse is also true. He formulated rules for how there not to be a syllogism, the terms be related in particular ways.
+Aristotle employed at least implicitly the semantic principle of form that two arguments having the same form fitting the same strict syllogistic pattern are both valid or both invalid. He established a relationship between an argument's pattern and its validity and invalidity. For there to be a syllogism, it is necessary and sufficient that terms be formally related as Aristotle stated in a set of rules. He formulated rules for how there not to be a syllogism, the terms be related in particular ways.
 
 Aristotle recognized 14 syllogisms in 3 figures whereas traditional logicians or logicians referring to traditional logic, consider there to be 24 syllogisms in four figures.
 
 3) Rules of Natural Deduction are epistemically formulated
 
-Aristotle recognized the epistemic efficacy of syllogism that the elemental argumental patterns have the only valid instances and he formulated them explicitly as rules of deduction in corresponding sentences.
+Aristotle recognized the epistemic efficacy of syllogism, the elemental argumental patterns have the only valid instances. He formulated them explicitly as rules of deduction in corresponding sentences. In Prior Analytics A4-7, he established a set of deduction rules as part of his natural deduction system.
 
 One process of deduction is accomplished by taking pairs of given categorical sentences to generate immediate inferences according to prescribed rules; these inferences are then added to the given sentences and then taken in pairs repeatedly until a final conclusion is reached. Aristotle treated this exactly analogous to chaining immediate inferences when using rules of propositional logic.
 
@@ -147,4 +170,40 @@ It is said to be astonishing that for hundreds of years, perhaps dating to befor
 
 Jan Łukasiewicz can be credited with shedding light on the syllogistic by examining it with the theoretical apparatus of mathematical logic. But he and his followers only 'improved' the traditionalist interpretation with a sophistication afforded by mathematical logic. Both lines of interpretation took Aristotle's presentation to be an axiomatization of the syllogistic. While traditionalists drew lines between sentences in different syllogisms to indicate their logical relationships (ther analyses or transformations), axiomaticists such as Łukasiewicz cleverly turned a syllogism into a logically true conditional proposition that could be processed by a propositional logic. This way, the axiomaticists indicated the logical relationships among the syllogisms. Again, the epistemic process of deduction was overlooked.
 
-It was from the early 1970s, with the work of Timothy Smiley and John Corcoran that the case for Aristotle's reputation as a logician of consummate intelligence and originality became well argued. They established Aristotle to be concrened with the deduction process just as many modern mathematical logicians. Corcoran and Smiley also modelled Aristotle's logic using mathematical logic. However, instead of finding an axiomatization, they discovered a natural deduction system. Boger's interpretation builds on the work of Corcoran and Smiley and the new translation of Prior Analytics (1989) by Robin Smith and argues that Aristotle did model his own system in particular treating a syllogism as a rule of deduction at Prior Analytics A4-7, and that he himself was able proof-theoretically to determine certain properties of his deduction system refining the system by eliminating redundant rules, and affirming the system's completeness. 
+It was from the early 1970s, with the work of Timothy Smiley and John Corcoran that the case for Aristotle's reputation as a logician of consummate intelligence and originality became well argued. They established Aristotle to be concrened with the deduction process just as many modern mathematical logicians. Corcoran and Smiley also modelled Aristotle's logic using mathematical logic. However, instead of finding an axiomatization, they discovered a natural deduction system. Boger's interpretation builds on the work of Corcoran and Smiley and the new translation of Prior Analytics (1989) by Robin Smith and argues that Aristotle did model his own system in particular treating a syllogism as a rule of deduction at Prior Analytics A4-7, and that he himself was able proof-theoretically to determine certain properties of his deduction system refining the system by eliminating redundant rules, and affirming the system's completeness.
+
+Outline of this essay:
+
+Logic is taken as epistemology
+
+Syllogistic deduction is treated metalogically
+
+- Completion
+- Contrasted Instances
+
+Rules of deduction are explicitly formulated
+
+Syllogistic system is modelled to demonstrate logical relationships among its rules
+
+Syntax is distinguished from semantics
+
+Material for first essay:
+Since antiquity, Aristotle's logic had exchanged hands of many civilizations. Key ones that I have noticed as the Arabs to Medieval logicians to Classical philosophers to Renaissance philosophers to the modern logicians and finally to the period when mathematical logic was firmly established.
+
+In these periods, it is noteworthy that it is quipped in Boger's essay that may be even to the period before Port Royale Logic and up until late 1960s, Aristotle's logic was taught without understanding it to be a natural deduction system was treated without explicit mention of the process of deduction.
+
+The axiomatists attempted to 
+Investigations by Timothy Smiley and Corcoran in the 1960s revealed the system to be a natural deduction system. Prior to this the axio
+
+Material for second essay:
+
+ A syllogism then as treated in Prior Analytics is a relatively uninterpreted object. It is an elemental argument pattern with only valid argument instances. This is similar to the way in which a geometer treats triangles in the abstract than being concerned with the concrete multitude of possibilities in which they can be instantiated. This is the hypostatization aspect touched upon in the first part of the essay.
+
+ I think the patterns were called moods in the figure and the valid moods in the figures as syllogisms. This kind of terminology is perhaps better introduced in the second essay.
+
+ Formal nature of Aristotle's Logic
+ Aristotle employed at least implicitly the semantic principle of form that two arguments having the same form fitting the same strict syllogistic pattern are both valid or both invalid. He established a relationship between an argument's pattern and its validity and invalidity. For there to be a syllogism, it is necessary and sufficient that terms be formally related as Aristotle stated in a set of rules. He formulated rules for how there not to be a syllogism, the terms be related in particular ways.
+
+
+* [[https://scholar.uwindsor.ca/cgi/viewcontent.cgi?article=1791&context=ossaarchive][Reply by John Woods]]
+
