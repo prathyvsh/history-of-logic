@@ -3087,6 +3087,12 @@ George Boger
 * Proof and the Syllogism (1981)
 J. Barnes
 
+* [[https://philpapers.org/archive/ALEWAA-3.pdf]Was Aristotle a non-classical logician?]]
+Luis F. Bartolo Alegre (2024)
+
+* [[https://philpapers.org/archive/VLAPDA.pdf][Platonic Divisions and the Origins of Aristotlelian Logic]]
+Justin Joseph Vlastis (2017)
+
 * [[https://web.calstatela.edu/faculty/hmendel/Mendell.MakingSense.pdf][Making Sense of Aristotelian Demonstration (1998)]]
 Henry Mendell
 
@@ -3115,8 +3121,8 @@ Robin Smith (1982)
 - Aristotle's Logic at the University of Buffalo's Department of Philosophy (2009)
 
 *** To Read Next
-- [[https://philpapers.org/archive/CORCSO.pdf][The Conceptual Structure of Classical Logic (22 pages) (1972)]]
 - [[https://philpapers.org/archive/CORTCR-3.pdf][Contemporary Relevance of Ancient Logical Theory / Review of Lear's work - Corcoran and Scanlan (1982)]]
+- [[https://philpapers.org/archive/CORCSO.pdf][The Conceptual Structure of Classical Logic (22 pages) (1972)]]
 - [[https://philpapers.org/archive/CORAAL.pdf][Argumentations and Logic (1989) (26 pages)]]
 - [[https://philpapers.org/archive/CORTIO-15.pdf][The inseparability of logic and ethics (4 pages/2 sided) (1989)]]
 - [[https://philpapers.org/archive/CORTFO-2.pdf][The Founding of Logic (1994) (13 pages)]]
