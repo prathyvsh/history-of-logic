@@ -3,8 +3,8 @@ George Boger
 
 Brief summary
 --------------
-In what sense is Aristotle's logic modern? This paper gives a crisp and surface level overview without getting into the nitty gritty of the representation of syllogisms and deduction rules. In that, it is a commenable effort on the part of Boger.
 
+In what sense is Aristotle's logic modern? This paper gives a crisp and surface level overview without getting into the nitty gritty of the representation of syllogisms and deduction rules. In that, it is a commenable effort on the part of Boger.
 
 Detailed review
 -----------------
@@ -37,7 +37,6 @@ Five salient features:
 - Method of Completion and Method of Contrasted Instances
 - A syllogism is treated as a relatively uninterpreted object. It was treated as an elemental argument pattern with only valid argument instances.
 - Employed semantic principle of form in that he established a link between argument's pattern and its validity/invalidity
-
 
 3) Rules of natural deduction are explicitly formulated
 
@@ -188,6 +187,7 @@ Syllogistic system is modelled to demonstrate logical relationships among its ru
 Syntax is distinguished from semantics
 
 Material for first essay:
+
 Since antiquity, Aristotle's logic had exchanged hands of many civilizations. Key ones that I have noticed as the Arabs to Medieval logicians to Classical philosophers to Renaissance philosophers to the modern logicians and finally to the period when mathematical logic was firmly established.
 
 In these periods, it is noteworthy that it is quipped in Boger's essay that may be even to the period before Port Royale Logic and up until late 1960s, Aristotle's logic was taught without understanding it to be a natural deduction system was treated without explicit mention of the process of deduction.
@@ -204,6 +204,56 @@ Material for second essay:
  Formal nature of Aristotle's Logic
  Aristotle employed at least implicitly the semantic principle of form that two arguments having the same form fitting the same strict syllogistic pattern are both valid or both invalid. He established a relationship between an argument's pattern and its validity and invalidity. For there to be a syllogism, it is necessary and sufficient that terms be formally related as Aristotle stated in a set of rules. He formulated rules for how there not to be a syllogism, the terms be related in particular ways.
 
-
 * [[https://scholar.uwindsor.ca/cgi/viewcontent.cgi?article=1791&context=ossaarchive][Reply by John Woods]]
 
+In Woods' view, 2), 3), and 4) claims of Boger are correct but have doubts about 1) and 5).
+
+As per Jon Barwise, Mathematical logic is traditionally divided into:
+Model theory
+Set theory
+Recursion theory
+Proof theory
+
+By Kleen's light:
+Study of mathematical logic beigns properly only in the theory of computability and decidability.
+Shoenfield sees things in the same way as Barwise:
+The central topics of mathematical logic are proof theory, model thery, recursion theory, axiomatic number theory, and set theory.
+
+Woods wonders if the sort of proof theory found in Aristotle's theory of natural deduction one in the modern sense of an exercise in logical syntax.
+
+Logical consequence enters Aristotle's account in 3 ways:
+As converse of the primitive notion of necessitation or entailment.
+Converse of the defined relation of syllogistic implication
+Drives the non-syllogistic perfection proofs of the metalogic in the Prior Analytics.
+
+It is noted that in no case is it discernible that consequence is an artefact of logical syntax.
+
+As the converse of necessitation, it imbibes the overtly semantic character of that relation. As the converse of syllogistic implication, it is a restriction of a core semantic relation, even though some of the restrictions might be seen as purely syntactic constraints.
+
+As the relation that drives the perfection proofs of the Prior analytics, it makes use of deduction rules which embed the notion of syllogistic implication.
+
+These facts are then used to conclude that the logical consequence that there is no modern syntax-semantics in Aristotle's logic.
+
+Aristotle's logic is in no sense a logic of validity. Its principal target is the syllogism.
+
+Syllogisms are restrictions of valid arguments. They are valid arguments satisfying further conditions. One is that there be no idle premises, another that conclusions not repeat a premise. Third is that syllogisms have no multiple conclsions (in the manner of Gentzen). These constraints make the core theory of syllogism an intuitionistic, relevant, nonmonotonic logic.
+
+Hintikka on Aristotle's fallacies - John Woods and Hans Hansen
+
+Woods doubt whether Boger's comments on ARistotle having a sufficient distinction between syntax and semantics. Woods sees Aristotle's theory of syllogisms tied to a canonical language which is a strict sublanguage of Greek. He says that there is no proposition containing any expression which is not either a general term of Greek, or a symbol for predicate negation (or term complementation) or a quantifier expression. What makes categorical Greek Aristotle's choice of canonical logical notation is the thesis of propositional simplification which asserts that anything statable in Greek is statable without relevant loss in the language of [categorical] propositions. Lack of variables in the language of metalogic is also taken to be a hint that this syntax-semantics distinction is missing.
+
+In modern terms, a natural language argument's logical form is its reconstruction in a semi-interpreted artificial language. There is nothing in Aristotle which shows such conception of logical form. Logical forms embed variables irreducibly. There are no variables in Aristotle's logic. These suggest that in Aristotle there is a lack of an implicit understanding of logical form. To the extent that there is no notion of logical form and artificial/uninterpreted canonical language, it is difficult to make the case for syntax/semantics distinction in Aristotle's logic.
+
+Woods is doubtful of whether modern logic sees itself as part of epistemology and that Aristotle's logic can be seen as part of epistemology. Frege's second order logic has an epistemological motivation. Frege wanted to demonstrate the analyticity of arithmetic which is clearly an epistemological objective. He thought that he could fulfill it by showing that number theory can be reproducible without relevant loss in a theory of pure sets embedded in a quantification theory of second order. Both these theories he took to be analytic, bu tthere is little in Frege that counts as a case for this assumption. In like fashion, constructionist logics are dirven by a certain conception of the conditions under which mathematical knowledge is possible for us. It is one thing to have an epistemological motivation and another to be part of epistemology.
+
+When designing a course, in Woods' opinion, we might include writings characteristic of the main positions in the theory of knowledge, both historically and contemporaneously. It would have referrals to correspondenc/coherenc theories to pragmatic theories, to internalism/externalism, to naturalism/reliabilism, to the problem of a priori knowledge, to the nature of evidence and justification. But would we direct the student to a system of logic? Woods does not think so. By modern standards, logic is said to be not a part of epistemology. Heidegger is said to be an exception. He says logic is the conditions of knowing in general.
+
+This is similar to that of certain informal logicians like Harvey Siegel and John Biro in "Epistemic Normativity, Argumentation, and Fallacies", Mark Weinstein in "Entailment in Argumentation" and James Freeman in "An Unrecognized Part of the Informal Program".
+
+By reading Topics and Sophistical Refutations, we see that Aristotle wanted logic to be the theoretical core of a wholly general theory of argument, but with Prior Analytics, the objective narrowed and Aristotle sought a tehory of demonstration of which he deferred the development to the Posterior Analytics.
+
+As conceived of by Aristotle, demonstrations embed two epistemological significant notions - of first principles and the idea of certainty. Though, Woods says that the theoretical accounts of these things are missing in his work.
+
+Of first principles, one learns that they neither require nor admit of demonstration. And of certainty, we learn that demonstrations preserve truth but not certainty. So Woods claims that it is a substantial overstatement to claim that Aristotle's logic is a part of epistemology.
+
+For the rest of the three points, Woods has admiration and support for Boger and that these are far and away the most important points on which Aristotle's reputation as a logician of astonishing prescience is secured.

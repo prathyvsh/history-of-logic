@@ -39,7 +39,8 @@
 | [[/papers-read.org/#relational-closure][Relational Closure: A Mathematical Concept for Distinction-Making and Complexity Analysis]] | Francis Heylighen | 1990 | 10 pages | 4 August 2022 |
 | [[/the-birth-of-logic.org][The Birth of Logic]] | John Corcoran | 1991 | 10 pages | 27 January 2025 |
 | [[/aristotle-logic-at-the-university-of-buffalos-department-of-philosophy.org][Aristotle's Logic at the University of Buffalo's Department of Philosophy]] | John Corcoran | 2009 | 19 pages | 28 January 2025 |
-| [[/aristotle-an-ancient-mathematical-logician.org][Aristotle: An Ancient Mathematical Logician]] | George Boger | 1989 | 8 pages | 3 February 2025 |
+| [[/aristotle-an-ancient-mathematical-logician.org][Aristotle: An Ancient Mathematical Logician]] | George Boger | 1999 | 8 pages | 3 February 2025 |
+| [[/aristotle-an-ancient-mathematical-logician.org#reply-by-john-woods][Reply to Boger by John Woods]] | John Woods | 1999 | 5 pages | 8 February 2025 |
 
 ** May 2020
 
