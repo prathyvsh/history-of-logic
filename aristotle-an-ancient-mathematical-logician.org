@@ -42,9 +42,29 @@ Five salient features:
 
 - Aristotle understood the epistemic efficacy of syllogisms.
 - He explicitly formulated them as rules of deduction
+- Analogous to modern propositional logic process of chaining immediate inferences
 
 4) The Syllogistic System is modeled to demonstrate logical relationships among its rules
+- Prior Analytics as a proof theoretic treatise where logical relationships among deduction rules are explored
+- Syllogistic logic is modelled to establish theorems about the system's properties.
+- Aristotle developed an artificial language though not a formal language. There is a move in the direction to invent an uninterpreted language
+- Focussed on questions that compass the foundations of deductive sciences
+- Metalogical processes of completion vs. Method of contrasted instances
+- Atelês vs. Teleios syllogisms
+- Reduction / anagein / anagôgê which establishes certain deduction rules to be redundant
+- Treated logical relationships among all the syllogisms taken as rules
+- Metasystematic process of establishing the preeminence of teleioi syllogisms is inductive that employs a deductive step. Treats each step individually and not axiomatically
+- Established the logical independence of the 2 universal syllogisms of the first figure
+
 5) Logical syntax is distinguished from semantics
+- A modern theory of language is not fully developed in Aristotle, but logical patterns involved in sentences are identified
+- Way to determine logical syntax and semantics are distinguished is to ascertain whether a logician works with a notion of interpretation or reinterpretation
+- Another way is to see if they worked with a notion of substitution
+- Aristotle employed schematic letters (not variables) to mark places for terms and used substitution
+- The idea of apparent syllogisms
+- Idea of logical consequence or following necessarily in Aristotle's work
+- Distinction between truth and validity and deducibility
+- Idea of completeness
 
 
 As a result of studies since 1920s, the genius of Aristotle as a logician of considerable originality and insght has been recognized. We can see that many aspects of his logical investigations are modern.
@@ -92,48 +112,44 @@ Aristotle recognized 14 syllogisms in 3 figures whereas traditional logicians or
 
 3) Rules of Natural Deduction are epistemically formulated
 
-Aristotle recognized the epistemic efficacy of syllogism, the elemental argumental patterns have the only valid instances. He formulated them explicitly as rules of deduction in corresponding sentences. In Prior Analytics A4-7, he established a set of deduction rules as part of his natural deduction system.
+Aristotle recognized the epistemic efficacy of syllogism, the elemental argumental patterns have the only valid instances. He formulated them explicitly as rules of deduction in corresponding sentences. In Prior Analytics A4-7, he established a set of deduction rules as part of his natural deduction system. This system consists in four kinds of categorical sentence, two pairs of contradictories and one pair of contraries, three conversion rules, 4 syllogism rules (reduced to two at A7), and direct and indirect proofs.
 
 One process of deduction is accomplished by taking pairs of given categorical sentences to generate immediate inferences according to prescribed rules; these inferences are then added to the given sentences and then taken in pairs repeatedly until a final conclusion is reached. Aristotle treated this exactly analogous to chaining immediate inferences when using rules of propositional logic.
 
-It is interesting to see that syllogistic process is noted to be roughly analogous to adding a series of single digit numbers until the sum is calculated. This is used to surmise that Aristotle likely incorporetd into his conception of an extended duction process, the possibility of one or more indirect deductions as nested steps.
+It is interesting to see that syllogistic process is noted to be roughly analogous to adding a series of single digit numbers until the sum is calculated. This is used to surmise that Aristotle likely incorporated into his conception of an extended deduction process, the possibility of one or more indirect deductions as nested steps.
 
-Aristotle treated syllogisms exactly as a topic neutral rule of deduction.
+Aristotle treated syllogisms exactly as a topic neutral rule of deduction. He used the expression technê sullogistikê or the syllogistic art in Sophistical Refutations 11 (172a35) to capture his thinking.
 
 4) Relationship among syllogistic rules
 
-Prior Analytics is a proof-theoretic treatise where logical relationships among syllogistic deduction rules are explored. Aristotle modelled his syllogistic, although in a rudimentary way, to describe and study the system in order to establish theorems about system's properties. Boger is cautious when saynig that Aristotle worked in the direction of inventing an uninterpreted language. He goes so far as to say that an artificial language was developed to help model his logic better to reveal its properties and says its a stretch to claim that it is an uninterpreted language in the modern sense. It is said to be doubtful that Aristotle did this to model natural language but rather to bring rigor to scientific discourse or to model his logic.
+Prior Analytics is a proof-theoretic treatise where logical relationships among syllogistic deduction rules are explored. Aristotle modelled his syllogistic, although in a rudimentary way, to describe and study the system in order to establish theorems about system's properties. Boger is cautious when saying that Aristotle worked in the direction of inventing an uninterpreted language. He goes so far as to say that an artificial language was developed to help model his logic better to reveal its properties and says its a stretch to claim that it is an uninterpreted language in the modern sense. It is said to be doubtful that Aristotle did this to model natural language but rather to bring rigor to scientific discourse or to model his logic.
 
 In Prior Analytics, Aristotle's interests were not focussed on the practice of performing object language deductions but on questions that compass the foundations of deductive sciences. 
 
-Aristotle's proof theoretic theorem concerning completion is that "all the atelês syllogisms are completed by means of the first figure syllogism using probative and reductio proofs". Teleios and ateles are epistemic terms referring to the evidency of a sentence following from other two sentences. A teleios syllogism is completed through itself and in such a case, the necessity of the conclusion following necessarily from the premises is immediately evident. In the case of an atelês syllogism, evidence of necessity is not immediate as something else is needed. Here a deduction is required to establish knowledge of logical consequence.
+Aristotle's proof theoretic theorem concerning completion is that "all the atelês syllogisms are completed by means of the first figure syllogism using probative and reductio proofs". Aristotle used metalogical deductions to establish the syllogism. Teleios and ateles are epistemic terms referring to the evidency of a sentence following from other two sentences. A teleios syllogism is completed through itself and in such a case, the necessity of the conclusion following necessarily from the premises is immediately evident. In the case of an atelês syllogism, evidence of necessity is not immediate as something else is needed. Here a deduction is required to establish knowledge of logical consequence. The method of contrasted instances has as its epistemic import to eliminate certain elemental argument patterns as rules of deduction.
 
-The method of contrasted instances has as its epistemic import to eliminate certain elemental argument patterns as rules of deduction.
+Aristotle treated reduction (anagein or anagôgê) of syllogisms. This has caused difficulty for interpreters as they have confused reduction with analysis (analuein or analusis) in their zeal to axiomatize Aristotle's syllogistic. Łukasiewicz believes that he helps to illuminate Aristotle's own axiomatization of the syllogistic and J. W. Miller (1938) believes that he completed an undertaking that Aristotle himself had begun. Traditionalists have tried to deduce all the syllogisms from the dictum de omni et null, while the axiomaticists have tried variously to deduce them as theorems from others taken as axioms.
 
-Aristotle treated reduction (anagein or anagôgê) of syllogisms. This has caused difficulty for interpreters as they have confused reduction with analysis (analuein or analusis) in their zeal to axiomatize Aristotle's syllogistic. A careful reading is said to show that Aristotle's reduction is a proof-theoretic process that establishes certain rules to be rudendant or unnecessary in his deduction system. Łukasiewicz believes that he helps to illuminate Aristotle's own axiomatization of the syllogistic and J. W. Miller (1938) believes that he completed an undertaking that Aristotle himself had begun. Traditionalists have tried to deduce all the syllogisms from the dictum de omni et null, while the axiomaticists have tried variously to deduce them as theorems from others taken as axioms.
+Aristotelian reduction is said to be a proof-theoretic process that establishes certain deduction rules to be redundant or unnecessary in his deduction system: The same deductive results can be obtained through a select number of rules. In A7, he treats the logical relationships among all the syllogisms taken as rules. Thus Aristotle was not concerned to demonstrate the validity/invalidity of a given argument or to show that a given argument pattern is a syllogism. Rather he was concerned to demonstrate that a conclusion is shown to follow for each of the established syllogism by using only the two universal teleioi syllogism as deduction rules. While the process of reducing the syllogism is metasystematic, it is nevertheless an inductive process that employs a deductive step. Aristotle tests each possible result individually and exhaustively and not axiomatically. Aristotle's theorem is that "All the syllogisms can be reduced to the two universal syllogisms in the first figure". Expressing this in modern terms, we can identify that Aristotle demonstrated the logical independence of the two universal syllogisms of the first figure.
 
-Aristotelian reduction is said to be a proof-theoretic process that establishes certain deduction rules to be edundant or unnecessary in his deduction system:. The same deductive results can be obtained by using a select number of rules. In A7, he treats the logical relationships among all the syllogisms taken as rules. Thus Aristotle was not concerned to demonstrate the validity/invalidity of a given argument or to show that a given argument pattern is a syllogism. Rather he was concerned to demonstrate that a conclusion is shown to follow for each of the established syllogism by using only the two universal teleioi syllogism as deduction rules. While the process of reducing the syllogism is metasystematic, it is nevertheless an inductive process that employs a deductive step. Aristotle tests each possible result individually and exhaustively and not axiomattically. Aristotle's theorem is that "All the syllogisms can be reduced to the two universal syllogisms in the first figure". Expressing this in modern terms, we can identify that Aristotle demonstrated the logical independence of the two universal syllogisms of the first figure.
-
-Reduction is a deduction process that employs deduction. Aristotle at A7 performs edductions with the objective to eliminate redundant rules in order to simplify his deduction system. Aristotle demonstrated that each of the second and third figure syllogism, as well as the two particular syllogism of the first figure can be completed by using only the two universal syllogisms of the first figures as deduction rules.
+Reduction is a deduction process that employs deduction. Aristotle at A7 performs deductions with the objective to eliminate redundant rules in order to simplify his deduction system. Aristotle demonstrated that each of the second and third figure syllogism, as well as the two particular syllogism of the first figure can be completed by using only the two universal syllogisms of the first figures as deduction rules.
 
 At 4-6, he established the preeminence of the teleioi syllogism (first figure) among the syllogisms and implicitly established that the ateleis syllogisms of second and third figures are redundant rules in his deduction system.
 
 5) Logical syntax and semantics are sufficiently distinguished
 
-One suffcient way to determine whether a logician distinguishes logical syntax from semantics is to ascertain whether they work with a nation of interpretation or re-interpretation. Boger believes that Aristotle worked with neither notion. Another equally sufficient way is to determine whether they works with a nation of substitution, a process by which one changes the language, or the content words in a given argument while leaving their meanings and logical form fixed.
-
-Aristotle pervasively used schematic letters to mark places for terms, his naming terms by their schematic positions, and his practice of substitution indicate that he distinguished between syntax and semantics.
+While Aristotle didn't have a solid modern theory of language, he recognized different logical patterns to underlie sentences involving ambiguity and equivocation among others. One sufficient way to determine whether a logician distinguishes logical syntax from semantics is to ascertain whether they work with a notion of interpretation or re-interpretation. Boger believes that Aristotle worked with neither notion. Another equally sufficient way is to determine whether they work with a notion of substitution, a process by which one changes the language, or the content words in a given argument while leaving their meanings and logical form fixed. Aristotle pervasively used schematic letters to mark places for terms, his naming terms by their schematic positions, and his practice of substitution indicate that he distinguished between syntax and semantics.
 
 It is curious to note that these schematic letters were not variables. It is said to be similar to Quine's meaning of "a dummy to mark a position".
 
-I think to make it a variable, there needs to be the conception of a function, but rather, this is something more like a blank which is not acted upon by anything, but rather something is filled in. A function can surely model this, but the notion of function being absent is what doesn't make it a variable.
+I think to make it a variable, there needs to be the conception of a function, but rather, this is something more like a blank which is not acted upon by anything, but something which gets filled in. A function can surely model this, but the notion of function being absent is what doesn't make it a variable in my thinking.
 
-In Sophistical Refutations Aristotle used the word syllogisms to denote an argument that fits an argument pattern having only valid instances and he used the expression apparent syllogism to denote an argument that appears to fit such a pattern but which really fits another, non-syllogistic pattern. An example would be one with four terms as in the case of an equivocation. Thus, while a two-premise categorical argument with an equivocal term has a grammatical pattern that makes it appear to be a syllogism, but it really has a logical pattern different from a syllogism. These logical patterns were precisely Aristotle's concern in Prior Analytics and these are strictly formal and independent of a given object language. These patterns are independent of the particular use to which a given object language might be put whether as a hypothesis, or as a dialectical, a didactic, a demonstrative, or an eristic, or even a modal syllogistic argument.
+In Sophistical Refutations, Aristotle used the word syllogisms to denote an argument that fits an argument pattern having only valid instances and he used the expression apparent syllogism (phainomenos sullogismos) to denote an argument that appears to fit such a pattern but which really fits another, non-syllogistic pattern. An example would be one with four terms as in the case of an equivocation. Thus, a two-premise categorical argument with an equivocal term can seem like it possesses a grammatical pattern that makes it appear to be a syllogism, it really has a logical pattern different from a syllogism. These logical patterns were precisely Aristotle's concern in Prior Analytics and these are strictly formal and independent of a given object language. These patterns are independent of the particular use to which a given object language might be put whether as a hypothesis, or as a dialectical, a didactic, a demonstrative, or an eristic, or even a modal syllogistic argument.
 
 Some modern mathematical logicians believe that Aristotle was not sophisticated enough to make the syntax and semantics distinction and as a result he did not define logical consequence or "following necessarily". However, in Metaphysics 5.5 there is a sophistication precisely in his defining "necessary" just as he used the concept in Prior Analytics: "that which is necessary is that having no other relationship".
 
 He also said:
-"demonstration is of necessary things, because, if there is a demonstration proper, it is not pssible for there to be any other relations; the reason for this is the premises, for if there is a syllogism, it is [logically] impossible for there to be another relationship among them."
+"demonstration is of necessary things, because, if there is a demonstration proper, it is not pssible for there to be any other relations; the reason for this is the premises, for if there is a syllogism, it is [logically] impossible for there to be another relationship among them." (1015b7-9)
 
 Thus a syllogism is such that no other relationship is logically possible. This holds notwithstanding that a weakened a or e (i.e. an i or o) is a different sentence.
 
@@ -145,7 +161,7 @@ He also grasped the difference between the necessity in each case and in additio
 
 The passage at Prior Analytics A30:
 
-"For if nothing that truly belongs to the subjects has been left out of our collection of facts, then concerning every fact, if a demonstration for it exists, we will be able to find that demonstration and demonstrate it, while if it does not naturalyl haev a demonstration, we will be able to make that evident."
+"For if nothing that truly belongs to the subjects has been left out of our collection of facts, then concerning every fact, if a demonstration for it exists, we will be able to find that demonstration and demonstrate it, while if it does not naturally have a demonstration, we will be able to make that evident."
 
 This statement points to Aristotle's concern with the practical power of his syllogistic system as an epistemic instrument for obtaining scientific knowledge. It also suggests a modern concern with the completeness of a deduction system, that is, with whether every logical consequence of a set of sentences is deducible using a set of deduction rules. 
 
@@ -159,50 +175,19 @@ Every extended syllogistic discourse, (sic. a deduction) is reducible to a chain
 
 Every valid categorical argument having more than two premises can be completed, that is, its conclusion can be deduced by generating a chain of immediate inferences, to wit, a chain of syllogisms.
 
-Aristotle was thought to be confused, by Günther Patzig, about the distinction between "following necessarily" and "being necessary". This is not so as he distinguished between a syllogism, or a deduction, and a demonstration and also between assertoric logic and modal logic. Aristotle clearly distinguished between 1) a given sentence's following necessarily from other sentences and 2) a given sentence dennoting a state of affairs to be necessary/possible. 
+Aristotle was thought to be confused, by Günther Patzig, about the distinction between "following necessarily" and "being necessary". This is not so as he distinguished between a syllogism, or a deduction, and a demonstration and also between assertoric logic and modal logic. Aristotle clearly distinguished between 1) a given sentence's following necessarily from other sentences and 2) a given sentence denoting a state of affairs to be necessary/possible.  Understanding him to be concerned with the deduction process helps to avoid such errors.
 
-Aristotle recognized that while the conclusion of a given argument follows necessarily from it spremises, this necessity may not be evident to a participant. He knew that the epistemic process of deduction produces knowledge, or makes evident, that a given sentence follows necessarily from others. He considered the product of this epistemic process to be an argumentation that includes a deductive chain of reasoning in addition to the given premises and conclusion.
+Aristotle recognized that while the conclusion of a given argument follows necessarily from its premises, this necessity may not be evident to a participant. He knew that the epistemic process of deduction produces knowledge, or makes evident, that a given sentence follows necessarily from others. He considered the product of this epistemic process to be an argumentation that includes a deductive chain of reasoning in addition to the given premises and conclusion.
+
+He also recognized using deduction rules in the epistemic process for establishing validity.
 
 Aristotle distinguished 1. the subject matter of a given argument from 2. the use to which a given argument might be put from 3. the varying expertise of a participant, all of which are distinct from 4. formal matters underlying any of them. To examine these formal matters was his project in Prior Analytics. In this connection, Aristotle distinguished two kinds of knowledge 1) knowledge of what is true/false which pertains to sentences and 2) knowledge of what is valid or invalid which pertains to arguments.
 
-It is said to be astonishing that for hundreds of years, perhaps dating to before the Port Royal Logic, Aristotelian logic or traditional logic has been taught without a single reference to the process of deduction. It is said to have been the practice of R. Whately, W. S. Jevons, H. W. B Joseph, J. N. Keynes, R. M. Eatton, and many others. It is said to be still the practice in many introductory textbooks on categorical logic that test a syllogism according to rules of quality, quantity and distribution and entirely to overlook the deduction process of chaining syllogisms, not to mention the glaring error to take a syllogism to be either a valid or invalid argument.
+It is said to be astonishing that for hundreds of years, perhaps dating to before the Port Royal Logic, Aristotelian logic or traditional logic has been taught without a single reference to the process of deduction. It is said to have been the practice of R. Whately, W. S. Jevons, H. W. B Joseph, J. N. Keynes, R. M. Eaton, and many others. It is said to be still the practice in many introductory textbooks on categorical logic that test a syllogism according to rules of quality, quantity and distribution and entirely to overlook the deduction process of chaining syllogisms, not to mention the glaring error of taking a syllogism to be either a valid or invalid argument.
 
-Jan Łukasiewicz can be credited with shedding light on the syllogistic by examining it with the theoretical apparatus of mathematical logic. But he and his followers only 'improved' the traditionalist interpretation with a sophistication afforded by mathematical logic. Both lines of interpretation took Aristotle's presentation to be an axiomatization of the syllogistic. While traditionalists drew lines between sentences in different syllogisms to indicate their logical relationships (ther analyses or transformations), axiomaticists such as Łukasiewicz cleverly turned a syllogism into a logically true conditional proposition that could be processed by a propositional logic. This way, the axiomaticists indicated the logical relationships among the syllogisms. Again, the epistemic process of deduction was overlooked.
+Jan Łukasiewicz can be credited with shedding light on the syllogistic by examining it with the theoretical apparatus of mathematical logic. But he and his followers only 'improved' the traditionalist interpretation with a sophistication afforded by mathematical logic. Both lines of interpretation took Aristotle's presentation to be an axiomatization of the syllogistic. While traditionalists drew lines between sentences in different syllogisms to indicate their logical relationships (their analyses or transformations), axiomaticists such as Łukasiewicz cleverly turned a syllogism into a logically true conditional proposition that could be processed by a propositional logic. This way, the axiomaticists indicated the logical relationships among the syllogisms. Again, the epistemic process of deduction was overlooked.
 
-It was from the early 1970s, with the work of Timothy Smiley and John Corcoran that the case for Aristotle's reputation as a logician of consummate intelligence and originality became well argued. They established Aristotle to be concrened with the deduction process just as many modern mathematical logicians. Corcoran and Smiley also modelled Aristotle's logic using mathematical logic. However, instead of finding an axiomatization, they discovered a natural deduction system. Boger's interpretation builds on the work of Corcoran and Smiley and the new translation of Prior Analytics (1989) by Robin Smith and argues that Aristotle did model his own system in particular treating a syllogism as a rule of deduction at Prior Analytics A4-7, and that he himself was able proof-theoretically to determine certain properties of his deduction system refining the system by eliminating redundant rules, and affirming the system's completeness.
-
-Outline of this essay:
-
-Logic is taken as epistemology
-
-Syllogistic deduction is treated metalogically
-
-- Completion
-- Contrasted Instances
-
-Rules of deduction are explicitly formulated
-
-Syllogistic system is modelled to demonstrate logical relationships among its rules
-
-Syntax is distinguished from semantics
-
-Material for first essay:
-
-Since antiquity, Aristotle's logic had exchanged hands of many civilizations. Key ones that I have noticed as the Arabs to Medieval logicians to Classical philosophers to Renaissance philosophers to the modern logicians and finally to the period when mathematical logic was firmly established.
-
-In these periods, it is noteworthy that it is quipped in Boger's essay that may be even to the period before Port Royale Logic and up until late 1960s, Aristotle's logic was taught without understanding it to be a natural deduction system was treated without explicit mention of the process of deduction.
-
-The axiomatists attempted to 
-Investigations by Timothy Smiley and Corcoran in the 1960s revealed the system to be a natural deduction system. Prior to this the axio
-
-Material for second essay:
-
- A syllogism then as treated in Prior Analytics is a relatively uninterpreted object. It is an elemental argument pattern with only valid argument instances. This is similar to the way in which a geometer treats triangles in the abstract than being concerned with the concrete multitude of possibilities in which they can be instantiated. This is the hypostatization aspect touched upon in the first part of the essay.
-
- I think the patterns were called moods in the figure and the valid moods in the figures as syllogisms. This kind of terminology is perhaps better introduced in the second essay.
-
- Formal nature of Aristotle's Logic
- Aristotle employed at least implicitly the semantic principle of form that two arguments having the same form fitting the same strict syllogistic pattern are both valid or both invalid. He established a relationship between an argument's pattern and its validity and invalidity. For there to be a syllogism, it is necessary and sufficient that terms be formally related as Aristotle stated in a set of rules. He formulated rules for how there not to be a syllogism, the terms be related in particular ways.
+It was from the early 1970s, with the work of Timothy Smiley and John Corcoran that the case for Aristotle's reputation as a logician of consummate intelligence and originality became well argued. They established Aristotle to be concrened with the deduction process just as many modern mathematical logicians. Corcoran and Smiley also modelled Aristotle's logic using mathematical logic. However, instead of finding an axiomatization, they discovered a natural deduction system. They are said to have been puzzled about reduction because in Boger's view, they didn't think that Aristotle modeled his own system of deduction rules or that Aristotle could envision distinguishing syntax and semantics. Boger's interpretation builds on the work of Corcoran and Smiley and the new translation of Prior Analytics (1989) by Robin Smith and argues that Aristotle did model his own system in particular treating a syllogism as a rule of deduction at Prior Analytics A4-7, and that he himself was able proof-theoretically to determine certain properties of his deduction system refining the system by eliminating redundant rules, and affirming the system's completeness.
 
 * [[https://scholar.uwindsor.ca/cgi/viewcontent.cgi?article=1791&context=ossaarchive][Reply by John Woods]]
 
