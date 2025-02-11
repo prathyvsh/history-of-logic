@@ -1,0 +1,115 @@
+* The Founding of Logic
+Modern Interpretations of Aristotle's Logic
+
+Since the time of Aristotle's students interpreters have considered Prior Analytics to be a treatise on deductive reasoning - about methods of determining the validity / invalidity of premise-conclusion arguments.
+
+Some thought that deductive reasoning described by Aristotle was inadequate for derivation of theorems of geometry from the basic premises.
+
+Perceptive people like Boole were insightful about the lack of comprehensiveness in the rules of deduction and understood Aristotle to be treating the process of deducing conclusions implied by given premise-sets.
+
+They understood Aristotle to be focusing on two epistemic processes: 1/ The process of establishing knowledge that a conclusion follows necessarily from a set of premises (that is, the process of extracting information implicit in explicitly given information) 2/ The process of establishing knowledge that a conclusion does not follow.
+
+Though the overwhelming tendency was to interpret the syllogistic as formal epistemology, it was only discovered in the early 1970s, Aristotle may have developed a theory of deductive reasoning with a well worked-out system of deductions comparable in rigor and precision with modern systems such as propositional/equational logic.
+
+When modern logicians in the 1920s and 1930s studied Aristotle's contribution to logic in modern terms, they were guided both by the Frege-Russell conception of logic as formal ontology and by a desire to protect Aristotle from the charges of psychologism. They misinterpreted Aristotle applying the informal axiomatic method to formal ontology, not as making the first steps into formal epistemology. They missed Aristotle's description of deductive reasoning.
+
+Ironically, the formal axiomatic method in which one explicitly presents not merely the substantive axioms but also the deductive processes for deriving theorems from them is incipient in Aristotle's presentation.
+
+Partly in opposition to the axiomatic, ontically-oriented approach to Aristotle's logic and partly as a result of attempting to increase the degree of fit between interpretation and text, logicians in the 1970s independently came to the conclusion that Aristotle produced the first system of formal deductions.
+
+Though simple and rudimentary compared to modern systems, the new analysis concluded that Arisotle had analyzed the process of deduction that included a semantically complete system of natural deductions including both direct and indirect deductions.
+
+The interpretations of 1920s and 1930s attribute to Aristotle a system of propositions organized deductively while the ones of 1970s attribute to Aristotle a system of deductions, extended deductive discourses, concatenations of propositions, organized epistemically.
+
+The 1970s interpretations reveal Aristotle to be describing deductions themselves, both those deductions that are proofs based on axiomatic premises and those that, though deductively cogent, do not establish the truth of the conclusion but only that conclusion is implied by the premise-set.
+
+The issue at stake between these opposed interpretations is Aristotle's place in the history of logic and his orientation in philosophy of logic. A by-product of this study of Aristotle's accomplishments in logic is a clarification in the distinction implicit in discourses among logicians - that between logic as formal ontology vs. logic as formal epistemology.
+
+Advances were made by Jan Łukasiewicz in 1929 and James Wilkinson Miller in 1938 in interpreting Aristotle. Penetrating examination and critical evaluation of the Łukasiewicz-Miller viewpoint in the 1950s-60s (TODO: What were these works that critically reviewed Łukasiewicz-Miller interpretation?) set the stage for the work by Timothy Smiley and John Corcoran in 1970s. A culminating point of the subsequent work can be found in the 1989 translation and commentary on Prior Analytics by Robin Smith.
+
+It is noted that there is no such thing as a unique fixed contemporary doctrine on Aristotle's logic, though there is a wide agreement on loose, general principles.
+
+Łukasiewicz-Miller view vs. Smiley-Corcoran view
+
+The ontic view of Łukasiewicz-Miller says that the logic of Prior Analytics has nothing to do with thinking that it concerns thought per se no more than does a mathematical theory. This line of argumentation was developed in order to defend Aristotle from false charges of psychologism. The Smiley-Corcoran view takes Aristotle's main focus to be on epistemic concerns, as opposed to but not excluding ontic concerns. According to this view, a concern of Aristotle was with how human beings deduce a conclusion from premises that logically imply it.
+
+Aristotle was concerned with the methodology of deduction and counterargumentation: how a conclusion follows or does not follow from premises. These questions, were motivated largely by Aristotle's concern to understand the axiomatic method that he treats in the Posterior Analytics and was practiced in Plato's Academy. While Prior Analytics studies an aspect of the axiomatic method; it does not use the axiomatic method.
+
+Lukasiewicz-Miller interpretation did not attempt to recreate the system originally presented by Aristotle in Prior Analytics.
+
+Instead of having as a goal understanding the processes of determining whether or not a given conclusion follows from a given premise-set, Łukasiewicz and Miller think that Aristotle's goal is the establishing as truth or falsity of certain universally quantified conditional propositions, viz. those that 'correspond' to what have been called valid/invalid categorical arguments with arbitrarily large premise sets.
+
+This includes arguments like:
+1/ if A belongs to every B and C belongs to no A, then B belongs to no C
+2/ If A belongs to every B and B belongs to every C, then C belongs to every A.
+
+In contrast, in the Smiley-Corcoran interpretation, Aristotle's goal was to develop and apply a method of deductive reasoning to deduce a proposition 'B belongs to no C' from propositions 'A belongs to every B' and 'C belongs to no A' and in regard to the second example, in this view, Aristotle's goal was to exhibit a method for establishing that a proposition 'C belongs to every A' is not a necessary consequence of propositions 'A belongs to every B' and 'B belongs to every C'. 
+
+Establishing that a given conclusion follows from give premises that actually imply it, like in the first example, and handled by Aristotle's method of deduction which involves both direct(ostensive) deductions and indirect (per impossible) deductions.
+
+Corcoran says that Łukasiewicz does not realize what Aristotle was doing with indirect deductions and thought that Aristotle does not understand per impossible reasoning. He thinks that Aristotle's misunderstanding of indirect reasoning was so defective that Aristotle commits a fallacy every time it is used in syllogistic.
+
+In the Smiley-Corcoran viewpoint, examples of the second sort, i.e. establishing that a given conclusion does not follow from given premises actually not implying it, are handled by Aristotle's method of counterarguments which consist in exhibiting another argument in the same form having premises known to be true and conclusion known to be false. Łukasiewicz thinks that this method too is fundamentally flawed.
+
+In the two interpretations, there is concord that Aristotle's syllogisms are not abstract forms (whether they be forms of propositions, forms of arguments, or forms of deductions). In the case of Łukasiewicz-Miller view, the terms of the syllogism indicated by A, B, C above are object-language variables, not placeholders in forms. In the Smiley-Corcoran view, they are concrete substantives such as 'human', 'animal', 'plant' etc. There is no evidence to support the widespread belief that Aristotle postulated abstract forms over and above concrete propositions, concrete arguments, or concrete deductions. Such postulations would have been characteristically platonistic and non-aristotelian.
+
+An important fact worth bearing in mind is that an axiomatically organized geomeotry text was used in Academy when Aristotle was a student which probably resembled the book by Euclid that came to replace it.
+
+There were two kinds of proofs. Direct proofs which erased doubt and established knowledge of their conclusions by roughly building up the conclusion from material already established and the indirect proofs which erased doubt and established their conclusions roughly by first inviting the doubt to be openly embraced for purposes of reasoning and then showing that such embrace was in conflict with already established results.
+
+In a typical axiomatization of a science, there is an orientation toward the ontology of science, toward the class of objects comprising the subject matter or genus of the science, rather than on the process or processes of knowledge being employed. Euclid is said to set forth the basic axioms and definitions first, and then without saying about the processes of deduction to be used, proceeds to elaboration of one chain of reasoning after the other. This pattern of articulating the ontic whil leaving the epistemic in an unarticulated and tacit state is repeated i axiomatization after axiomatization extending to present day.
+
+This can be seen in Hilbert's 1899 axiomatization of geometry, which proceeds to deduce consequence after consequence without any discussion of the methods used. Geometrical axioms are presented but the rules of deduction from the underlying logic are left tacit.
+
+Alonzo Church speaks of the informal axiomatic method when the underlying system of deductions is left tacit as in Euclid's Elements and hilbert's Grundlagen. This is contrasted with the formal axoiamtic method wherein the deductions themselves are formally analyzed and made explicit.
+
+Using this terminology, one can say that Łukasiewicz and Miller are on firm ground when they imply that Aristotle did not use the formal axiomatic method. They think that Aristotle's syllogistic is aan application of the informal axiomatic method and thus, in particular, that Aristotle does not articulate the rules of deduction of his syllogistic.
+
+According to the Smiley Corcoran view, Aristotle did not employ the formal axiomatic method in the syllogistic because he did not employ any axiomatic method. However, in Prior Analytics, Aristotle does indeed present a fully explicit and self-contained system of deductions with meticulously described rules of deduction and with what amounts to a definion of a complete set of formal deductions including direct/indirect methods. In this view, though Aristotle does not apply any axiomatic method he does make the essential first step beyond the informal axiomatic method toward the formal axiomatic method by clearly indicating the possibility of articulating the means of deduction.
+
+Notes for essay 1:
+
+- Ontic vs. Epistemic Views of Aristotle's
+-- Łukasiewicz-Miller Ontic Interpretation
+-- Smiley-Corcoran Epistemic Interpretation
+
+When modern logicians in the 1920s and 1930s studied Aristotle's contribution to logic in modern terms, they were guided both by the Frege-Russell conception of logic as formal ontology and by a desire to protect Aristotle from the charges of psychologism. They misinterpreted Aristotle applying the informal axiomatic method to formal ontology, not as making the first steps into formal epistemology. They missed Aristotle's description of deductive reasoning.
+
+Partly in opposition to the axiomatic, ontically-oriented approach to Aristotle's logic and partly as a result of attempting to increase the degree of fit between interpretation and text, logicians in the 1970s independently came to the conclusion that Aristotle produced the first systeem of formal deductions. The new analysis concluded that Arisotle had analyzed the process of deduction that included a semantically complete system of natural deductions including both direct and indirect deductions. It is notable in Boger's thinking that such an identification of Aristotle's work with deductions went unnoticed as far back as the time before Port Royal Logic.
+
+It is also interesting to note that even today there is no canonical fixed contemporary doctrine on Aristotle's logic rather only a wide agreement on loose, general principles.
+
+Logic as ontology view takes Aristotle as attempting to construct logic on an axiomatic foundation. Łukasiewicz found axiomatic method in Aristotle's work and Miller thought of bringing to conclusion a project Aristotle started. Borrow ideas from Boger's essay here.
+
+Describe the aspect of dissociating between the aspect of form of the argument (deductions) and proof/apodeixis:
+The 1970s interpretations reveal Aristotle to be describing deductions themselves, both those deductions that are proofs based on axiomatic premises and those that, though deductively cogent, do not establish the truth of the conclusion but only that conclusion is implied by the premise-set.
+
+The issue at stake between these opposed interpretations is Aristotle's place in the history of logic and his orientation in philosophy of logic. It brings about a clarification in the distinction implicit in discourses among logicians - that between logic as formal ontology vs. logic as formal epistemology.
+
+Advances were made by Jan Łukasiewicz in 1929 and James Wilkinson Miller in 1938 in interpreting Aristotle. Penetrating examination and critical evaluation of the Łukasiewicz-Miller viewpoint in the 1950s-60s set the stage for the work by Timothy Smiley and John Corcoran in 1970s. A culminating point of the subsequent work can be found in the 1989 translation and commentary on Prior Analytics by Robin Smith.
+
+Though there was an overwhelming tendency to interpret the syllogistic as formal epistemology historically, it was only discovered in these early 1970s research that, Aristotle may have developed a theory of deductive reasoning with a well worked-out system of deductions comparable in rigor and precision with modern systems such as propositional/equational logic. The 1970s interpretations reveal Aristotle to be describing deductions themselves, both those deductions that are proofs based on axiomatic premises and those that, though deductively cogent, do not establish the truth of the conclusion but only that conclusion is implied by the premise-set.
+
+*** Łukasiewicz-Miller view vs. Smiley-Corcoran view
+
+The ontic view of Łukasiewicz-Miller says that the logic of Prior Analytics has nothing to do with thinking that it concerns thought per se no more than does a mathematical theory. This line of argumentation was developed in order to defend Aristotle from false charges of psychologism. The Smiley-Corcoran view takes Aristotle's main focus to be on epistemic concerns, as opposed to but not excluding ontic concerns. According to this view, a concern of Aristotle was with how human beings deduce a conclusion from premises that logically imply it.
+
+Instead of having as a goal understanding the processes of determining whether or not a given conclusion follows from a given premise-set, Łukasiewicz and Miller think that Aristotle's goal is the establishing as truth or falsity of certain universally quantified conditional propositions, viz. those that 'correspond' to what have been called valid/invalid categorical arguments with arbitrarily large premise sets.
+
+Aristotle was concerned with the methodology of deduction and counterargumentation: how a conclusion follows or does not follow from premises. These questions, were motivated largely by Aristotle's concern to understand the axiomatic method that he treats in the Posterior Analytics and was practiced in Plato's Academy. While Prior Analytics studies an aspect of the axiomatic method; it does not use the axiomatic method.
+
+*** Ontic Science
+In a typical axiomatization of a science, there is an orientation toward the ontology of science, toward the class of objects comprising the subject matter or genus of the science, rather than on the process or processes of knowledge being employed. Euclid is said to set forth the basic axioms and definitions first, and then without saying about the processes of deduction to be used, proceeds to elaboration of one chain of reasoning after the other.
+
+Notes for essay 2:
+Bring out the difference between direct vs. indirect proof for establishing consequence and the method of counterargument or contrasted instances(?) in the second essay.
+
+In contrast, in the Smiley-Corcoran interpretation, Aristotle's goal was to develop and apply a method of deductive reasoning to deduce a proposition 'B belongs to no C' from propositions 'A belongs to every B' and 'C belongs to no A' and in regard to the second example, in this view, Aristotle's goal was to exhibit a method for establishing that a proposition 'C belongs to every A' is not a necessary consequence of propositions 'A belongs to every B' and 'B belongs to every C'. 
+
+Establishing that a given conclusion follows from give premises that actually imply it, like in the first example, and handled by Aristotle's method of deduction which involves both direct(ostensive) deductions and indirect (per impossible) deductions.
+
+In the Smiley-Corcoran viewpoint, examples of the second sort, i.e. establishing that a given conclusion does not follow from given premises actually not implying it, are handled by Aristotle's method of counterarguments which consist in exhibiting another argument in the same form having premises known to be true and conclusion known to be false. Łukasiewicz thinks that this method too is fundamentally flawed.
+
+The nature of variables and the use of substantives vs. object-language variables and the Aristotelian nature of forms:
+
+In the two interpretations, there is concord that Aristotle's syllogisms are not abstract forms (whether they be forms of propositions, forms of arguments, or forms of deductions). In the case of Łukasiewicz-Miller view, the terms of the syllogism indicated by A, B, C above are object-language varibalse, not placeholders in forms. In the Smiley-Corcoran view, they are concrete substantives such as 'human', 'animal', 'plant' etc. This is a good point where the overarching philosophical view on the subject shines light on how Aristotle conceives of the arguments. He doesn't posit Platonic formality to the structure rather they are thought of in terms of concrete structures. (TODO: Work out what the exact nuances are and bonus points if I can show how one interpretation over the other will have reflection on the working of the logic or change in the meaning when interpreting the results). There is no evidence to support the widespread belief that Aristotle postulated abstract forms over and above concrete propositions, concrete arguments, or concrete deductions. Such postulations would have been characteristically platonistic and non-aristotelian.

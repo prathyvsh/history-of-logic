@@ -3127,6 +3127,8 @@ Robin Smith (1982)
 - [[https://philpapers.org/archive/CORTIO-15.pdf][The inseparability of logic and ethics (4 pages/2 sided) (1989)]]
 - [[https://philpapers.org/archive/CORTFO-2.pdf][The Founding of Logic (1994) (13 pages)]]
 - [[https://philpapers.org/archive/CORADL.pdf][Aristotle's Demonstrative Logic (2007) (19 pages)]]
+- [[https://www.researchgate.net/publication/31462055_Aristotelian_Syllogisms_Valid_Arguments_or_True_Universalized_Conditionals][Aristotelian syllogism, etc. - John Corcoran (1974)]]
+- [[https://www.researchgate.net/publication/276132774_Gaps_Between_Logical_Theory_and_Mathematical_Practice][Gaps between logical theory and mathematical practice (1973)]]
 
 *** Technical work
 - [[https://philpapers.org/archive/CORAMM.pdf][A Mathematical Model of Aristotle's Syllogistic (27 pages) (1973)]]
