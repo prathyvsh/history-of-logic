@@ -1,0 +1,7 @@
+* Truth Preserving and Consequence Preserving Deduction rules
+
+Neat short paper that says that every consequence-preserving ystem is truth-preserving, but it is not well-known that the conveles fails.
+
+Example given is of the ordinary first-order Peano-Arithmetic, where the induction rule yields the conclusion 'every number x is such that: x is zero or x is a successor' which is not a consequence of the null set, from the two tautalogical premises, which are consequences of the null set.
+
+Truth-preserving rules which are not consequence-preserving are non-logical or extralogical rules. It is said that such rules are unacceptable to persons espousing traditional truth-and-consequence conceptions of demonstration.
