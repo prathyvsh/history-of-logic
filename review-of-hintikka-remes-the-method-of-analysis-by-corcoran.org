@@ -1,0 +1,18 @@
+* [[https://philpapers.org/archive/CORROH-2.pdf][Review of Hintikka / Remes - The Method of Analysis]]
+John Corcoran
+
+Interesting discussion on whether the method of analysis sought implications of the assumption or the implicants.
+
+Mathematical objects (not propositions or deductions) are the primary focus of analysis, both when the result being sought is a construction or a theorem.
+
+Traditional distinction between theoretical analysis and problematic analysis is taken to be a distinction between logical forms of theorems rather than between propositions and figures.
+
+Analysis in the view of Hintikka and Remes is not "running the syllogism backward" (or, in a more modern sense, it is not an attempt to construct a natural deduction by simultaneously working forward from the premises and backward from the conclusion).
+
+They hold that it is not an attempt to develop a chain of equivalences starting with theorem and ending with the axioms, which is then convertible into a direct deduction, rather within geometry, the main thrust of the method of analysis is a special kind of manipulation of geometric figures.
+
+Previous writers have made a distinction between heuristics: the logic of discovery vs. deduction: the logic of justification. They have understood the method of analysis as belonging totally to heuristics. Hintikka and Remes argue that the method of analysis bridges heuristics and deduction at least to the extent that the heuristic aspect of the method carries with it a distinctive style of deductive justification - the analytical proof system.
+
+Corcoran thinks this might prove to be a major breakthrough in our understanding of the method of analysis which is likely to influence future research in this area.
+
+The book is said to be a fresh and sophisticated examination of historically and philosophically important issues but Corcoran feels it is not as successful as it could have been. Some examples are hard to follow because of the intrinsic complexity and partly because they are incompletely stated and large steps of reasoning are omitted. Negative analysis (leading to indirect proofs) are missing entirely and there are no examples of cases where analysis fails. The book falls short because of lack of a clear and complete formulation of its results. Nevertheless, it is a solid contribution, and it is probably the most learned and most creative treatise ever written on the method of analysis.
