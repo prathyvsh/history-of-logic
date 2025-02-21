@@ -1,4 +1,4 @@
-* Truth Preserving and Consequence Preserving Deduction rules
+* [[https://philpapers.org/archive/CORTAC-4.pdf][Truth Preserving and Consequence Preserving Deduction rules]]
 
 Neat short paper that says that every consequence-preserving ystem is truth-preserving, but it is not well-known that the conveles fails.
 

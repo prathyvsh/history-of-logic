@@ -1,4 +1,4 @@
-* The Founding of Logic
+* [[https://philarchive.org/archive/CORTFO-2][The Founding of Logic]]
 Modern Interpretations of Aristotle's Logic
 
 Since the time of Aristotle's students interpreters have considered Prior Analytics to be a treatise on deductive reasoning - about methods of determining the validity / invalidity of premise-conclusion arguments.
