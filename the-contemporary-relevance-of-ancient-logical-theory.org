@@ -1,0 +1,190 @@
+* The Contemporary Relevance of Ancient Logical Theory
+John Corcoran and Michael Scanlan
+
+Summary
+There is some penetrating critique of where Lear has gone wrong and how subtleties is defining the terms can lead to entanglements, which will be a bit tough to unknot without giving explicit definitions.
+
+TODO: I have to revisit this paper after reading Lear's work.
+
+This work is influenced by the work of Timothy Smiley. Treatise on philosophy of logic and Aristotle's logical system. Core issues in the philosophy of logic are related to Aristotle's system and to controversies concerning interpretation of the Analytics. The degree of success of this book in the opinion of the reviewers makes it clear that further contribution can be made by the example set here.
+
+Though there is much that a non-specialist can gain from this work, due to the doctoral thesis nature of this work, it presupposes considerable acquaintance with mathematical and philosophical logic.
+
+
+Lear shares the view that simple logical systems can be used to gain insight into the nature of logic because they exemplify the key notions such as consequence, deducibility, satisfiability, consistency, truth, proof etc. without mathematical/philosophical entanglements. Lear shares with historically informed logicians the view that Aristotle has much to contribute to perennial and therefore contemporary issues in philosophy of logic. Lear is the first to combine these two viewpoints. It is quipped that such a combination was scarcely conceivable before 1970s.
+
+Boole, Whitehead, Łukasiewicz, Beth, Geach, Mates, Smiley, and others studied Aristotle's logic.
+
+It took until 1970s to recognize that Aristotle's Prior Analytics contained a logical theory with a well-developed logical system which is self-contained (not presupposing a prior underlying logic) and comparable with standard systems of propositional logic in simplicity, precision, correctness, and comprehensiveness. Until the early 1930s, Aristotle's logic was taken to be largely exhausted by his classification of the 256 two-premise categorical forms into valid/invalid. Thus expect for a few side issues, Aristotle's logic was thought to be codifiable by the rules of the syllogism. This attitude persists to some extent even today in works like that of Lemmon (1965).
+
+Aristotelian existential import was criticized without noticing that the same principles apply in modern many-sorted logics and are mirrored in the first-order principle that ∀xPx ⇒ ∃xPx. Aristotle was criticised for failing to give systematic treatment of arguments involving relations without noticing that Aristotle may have been consciously restricting himself to a special case in the same way that Archimedes' study of buoyance was a special case of mechanics.
+
+
+TODO: Study this further
+
+J. W. Miller's work The Structure of Aristotelian Logic influenced Strawson in formulating his understanding of the structure of traditional logic.
+
+Neither Miller no Łukasiewicz claim to articulate a logical system originally presented by Aristotle. Neither attempts to use the exact primitive terms, propositions and rules used by Aristotle nor do they reconstruct the logical structure of Aristotle's own deductions. Miller claims to carry to completion an undertaking which Aristotle himself began and Łukasiewicz claims that the actual Aristotelian system presupposes but does not explicitly include propositional logic and a bit of the logic of free variables / suppressed universal quantifiers.
+
+Dissonance between the Łukasiewicz view and the text of the Analytics was noticed by J. L. Austin in his review and W. T. Parry and his students.
+
+S. L. Iverson - Reduction of the Aristotelian System (1964)
+
+Though, the Łukasiewicz view dominated in the next 20 years, adopted into the works of logicians like Mates Elementary Logic (1964) and in spirit with minor variations by others such as Patzig in Aristotle's Theory of the Syllogism (1968).
+
+One logician has quipped that "to get the Smiley-Corcoran system from the Łukasiewicz system you simply replace all of the variables with constants and throw away the propositional logic."
+
+This is not precise. The languae of the new system is a syntactic analogue of the class of categorical propositions - the set of sentences of the four types: Aab, Eab, Iab, Oab where a and b are term constants. The semantic interpretations are assignments of non-empty sets to the term constants.
+
+In Corcoran 1974b, the system is described as System I with the language L, deductive system D, and semantics S.
+
+Lear's book demonstrates that System I is an apt vehicle for the discussion of core issues in philosophy of logic. System I is apparently the first logical system and Aristotle used it as the vehicle for presentation of much of his own logical theory.
+
+It is said that the reason it took so long for modern logicians to become aware of System I is the dominance of viewpoint alien to that represented by System I. My suspicion is that it might have been discovered and then forgotten in a few cycles during the transit period. The historical research needed to corroborate this is on me. A reason that it took so long is that the central concept in logic in modern view is the monadic property "logical truth" rather than the dyadic relation "logical consequence". The logical-truth viewpoint which apparently originated with Frege and was adopted by Russell (who influenced Łukasiewicz), Lewis (who influenced Miller), Quine and others. It suggests that the true form of a logical system includes not a system of deductions of consequences from arbitrary (and therefore sometimes false) premises, as in System I, but rather a system of proofs of logical truths based on logical axioms and rules. Given that there are no logical truths expressible as categorical sentences (or only trivial ones if Axx and Ixx are so regarded), from this viewpoint the most natural system capable of reconciliation with the Prior Analytics is the one devised by Miller-Łukasiewicz.
+
+Lear writes that Frege's formalization of logic as an axiomatized system has colored the vision of logic held by philosophers and logicians in this century. Łukasiewicz's formalization of the syllogistic as an axiomatic system is said to be an extreme example of this. Another example is said to be Quine who defined logic as "the systematic study of logical truth".
+
+It is said that Aristotle subscribed to the consequence viewpoint and Lear has contributed in almost every chapter to these goals.
+
+An argument is a two-part system composed of a set of propositions, the premises and a single proposition called its conclusion. If the conclusion is a logical consequence of the premises then the argument is valid. Otherwise it is considered invalid. It is assumed that each argument is valid/invalid in itself without regard to whether anyone believes or knows. Logic as a discipline is concerned (in part) with methods for determining validity/invalidity.
+
+Some valid arguments, mostly having one/two premises are obviously valid in the sense that each of them can be seen to be so without considering any other arguments already known to be valid.
+Example:
+Socrates is a human.
+Socrates is not a logician.
+---------------------------
+Not every human is a logician.
+
+Just because a certain valid argument is not obvious, it does not follow that its validity can be seen by considering other valid arguments. Just because a certain treu arithmetic proposition cannot be seen to be true without a proof, it does not follow that it can be seen to be true with a proof; perhaps it cannot be seen to be true at all.
+
+The procedure for establishing validity contains a "kernel + process" structure. There is a kernel of valid arguments, whose validity is seen ab initio and there is a process which produces knowledge of validity from knowledge of validity.
+
+If the premises are known to be true and the conclusion is known to be false, then the argument can be known to be invalid.
+
+Aristotle seem to establish that "some pleasure is not good" does not follow from "some good is not pleasure" (even though both are true). He does this by observing that "some man is not an animal" (false) does not follow from "some animal is not a man" (true). This procedure of establishment of invalidity also contains a familiar "kernel+process" structure. There is a kernel of invalid arguments whose invalidity established ab initio and there is process which produces the knowledge of invalidity from knowledge of invalidity.
+
+A person correctly inferring a conclusion from premises is engaged in the process of deducing by which s/he gains knowledge that a conclusion follows from premises. It is by means of a deduction (a chain of reasoning including the endpoints) that the argument is valid.
+
+Every deduction contains a valid argument but no argument contains a deduction. One might be inclined to say that an obviously valid argument is a trivial deduction, but it might be better to keep deductions separate from valid arguments and to say in such cases that it would be trivial to construct a deduction.
+
+A deduction in which the premises are known to be true is a proof of its conclusion. Anyone who knows the premises gains knowledge of the conclusion by following the deduction. Likewise, anyone who knows the conclusion to be false can gain the knowledge taht one of the premises is false by following the deduction.
+
+Every proof is a deduction but not every deduction is a proof.
+
+The class of syllogisms includes the valid arguments and the correct deductions. The imperfect syllogisms are the valid arguments that are not obvious in their validity.
+
+"A syllogism is imperfect if it needs additional propositions set out, which are necessary conesquences of the premises, in order to make it evident that the conclusion follows from the premises"
+
+Perfect syllogisms include the valid arguments that are obviously valid and the deduction. In both cases there is nothing to be added to make evident the fact that the conclusion follows from the premises. Imperfect syllogisms are perfected by chaining together (simple) perfect syllogisms. Aristotle's process of perfecting imperfect syllogisms is identified with the process of deducing.
+
+It is said that Lear does not establish his own terminology. There is no definition for argument. Sometimes he expresses the notion by inference. Sometimes deductions include valid arguments. Sometimes proofs are proofs and sometimes they are deductions.
+
+It is said that important points Lear makes seem to get out of focus. Lear takes deductions to have genuine and essential epistemic status. In his view, a deduction makes evident that the conclusion follows from the premises. It follows then that a deduction cannot be reduced to a string of uninterpreted symbols, but on the same page Lear writes as if what is lost in abstrracting from the meanings of the lines in a deduction is merely semantic rather than semantic and epistemic.
+
+Lear writes that "A syllogism is imperfect if it needs additional propositions set out, which are necessary consequences of the premises, in order to make it evident that the conclusion follows from the premises...Patzig has noted that this definition presupposes that all imperfect syllogisms can be perfected."
+
+In the opinion of Scanlan and Corcoran, this definition does not pressupose that all imperfect syllogisms can be perfected. This is the fallacy of thinking that because an argument cannot be seen to be valid without considering other arguments, it follows that the argument can be seen to be valid by such consideration. The reviewers say that Aristotle might have thought that the definition carried this presupposition but if he did then he was making a mistake of incorrectly inferring the completeness of his system of deductions from a mere definition. It requires intricate argumentation to establish that every valid argument in the system is deducible. Lear is said to attribute this incorrect inference to Aristotle without criticism.
+
+Lear also says: "Aristotle does not admit a category of unobvious syllogisms per se; syllogisms are divided exhaustively into those that are obvious and those that can be made obvious." This suggests that Lear himself makes the same inference. Further evidence for this is said to be the statement "Any imperfect syllogism already has a structure such that it is possible to interpolate deductive steps designed to make evident that the conclusion is a consequence of the premises."
+
+Chapter 4 of Lear is about how to determine that a given invalid inference is not valid. But there is ambiguity in Lear's use of 'inference'. This leads to two questions.
+
+1/ If an inference is a concrete argument composed of actual propositions or interpreted sentences, then how to determine that the conclusion of a given invalid argument does not follow of necessity from its premises?
+
+This question broadly taken is not trivial, although it does have trivial special cases.
+
+Let p: every human is an animal (true), q: every animal is a human (false). Since having all true premises, and a false conclusion is a sufficient condition for invalidity, one can easily determine that p =/=> q. But complications arise with the converse argument which has a false premise and a true conclusion, since falsehood can imply anything. Determining q does not imply p is determining that it is logically possible that every animal is human but some human is not an animal. Here, we must determine the logical possibility of the truth of a proposition which is actually false.
+
+2/ If an inference is an argument form, then the question is how to determine if a given form is invalid. This question broadly taken is trivial, though it has non-trivial special cases. To determine the invalidity of a form, it is sufficient to exhibit a counter-instance, an instance having true premises and false conclusion. Lear does not define what it means to be an invalid form. He does make it clear both that having a concrete counterinstance is sufficient for a form to be invalid and that some invalid forms have some valid instance. Eg: Every human is a human / Every human is a human is an instance of Axy|Ayx.
+
+There is a long discussion dealing with the observation that our belief in the truth of the premises and the falisity of the conclusion might not be genuine knowledge and the reviewers say that in this passage, Lear shows sound judgement and good sense.
+
+It is said that on page 68, he deals with oppositely motivated objections and on dealing with one, he slips into the fallacy which motivated the other despite the fact that neither represents his own view. I would have to read the book to find out what this is.
+
+Some philosophers suspicious of a prior belief take observationally derived belief to be a touchstone of certainty while those suspicious of a posteriori beliefs take rationally derived beliefs to be a touchstone. Each is overlooking the trivial observations that may have motivated the other namely, in one case we are apt to err in forming a priori beliefs for example, when we make mistakes in calculations and deductions and in the other we err in forming a posteriori beliefs, for example, when we make errors in perception and our inductions are incomplete. Lear does recognise that our determinations of invalidity of forms are not infallible but he fails to point out that our judgements of validity are equally subject to error. For Lear the danger is in misjudging a valid form to be invalid which is curious because traditional logic books ignore this type of fallacy instead concentrating on those involved in misjudging invalid forms to be valid (e.g., affirming the consequent, denying the antecedent).
+
+In the entire book, it is said that there is no mention of how one determines the invalidity of a concrete argument except for the case where the premises are true and the conclusion false. If someone wanted to know what ground can be given for claiming that "Every anmial is a human" does not imply "Every human is an animal" s/he could not find out by reading this book.
+
+Lear uses form in the broad sense in which:
+1/ each argument is an instance of several different forms
+2/ a valid form has only valid instances but an invalid form has an invalid instance but not necessarily only such.
+
+In this sense of form, it is improper to speak of the form of a given concrete argument, although one can say "this argument has the form...". Sharing a form is a very weak equivalence relation because any two arguments having the same number of premises share one.
+
+3/ Every argument sharing a form with a valid argument is valid and every argument sharing a form with an invalid argument is invalid. Both of these propositions are false under the interpretation of Lear. Thus there is no way to establish validity by showing that there is a valid argument sharing one of its forms and similarly, there is no way to establish invalidity of a given argument by showing that there is an invalid argument sharing one of its forms. In this sense, validity is not a matter of form.
+
+There is a narrow sense of form for which:
+1/ Each actual argument has a unique form, so we may properly speak of the form of an argument
+2/ Sharing form is a strong equivalence relation
+3/ Every argument in the form of a valid argument is valid and every argument in the form of an invalid argument is invalid.
+
+In this narrow sense of form, validity is determined by form and one can show that an argument is invalid by showing that an argument is invalid by showing that its form has a concrete instance having true premises and a false conclusion.
+
+For Aristotle's system, the definition of narrow form is straightforward: two arguments are in the same narrow form if there is a one-to-one correspondence between their respective sets of terms which transforms one into the other.
+
+It is by the tacit use of the narrow concept of form that we see that the argument, "Every animal is human" / "Every human is an animal" is invalid.
+
+Lear intends to discuss the first question raised above which involves the narrow sense of form when in fact his actual prose focuses on the second question which involves the broad sense of form and is trivial.
+
+Aristotle's method of establishing invalidity involves the narrow sense of form and not the broad sense as Lear claims. The nature of the Aristotelian method can be seen from virtualy any of his applications of it provided that suffcient context is taken into account (e.g., Pr. An. 25b30-26a10)
+
+"When three terms are so related that ... the first term applies to all the middle and the middle to none of the last ... no conclusion follows."
+
+Aristotle is claiming that all of the actual instances of Amp, Esm | Asp are invalid. His grounds for this claim is the fact that taking animal, human, stone for p, m, and s yields an argument with actually true premises and an actually false conclusion.
+
+All humans are animals, No stones are humans (Invalid)
+Some humans are animals, No stones are humans (Invalid)
+
+It is clear that Aristotle's invalidity determinations involve proof via the narrow concept of form, from the actual truth of a proposition p to the logical possibility of the truth of another q (which may infact be false). It is important to note that this is not the triviality of proof from the actual truth of one to the logical possibility of the truth of the very same proposition. But here, Lear characterises Aristotle's invalidity determinations as involving the principle: "Actual states of affairs are a fortiori possible ones". He also dwells on the fact that there is no problem with a proof from the actuality of p to the logical possibility of p. I think there is a contradiction here that if actual states of affairs are a fortiori possible ones, then how can there be a proof from the actuality of p to the logical possibility of p backwards?
+
+In this discussion, Lear thinks that someone will be puzzled that such proofs produce a posteriori knowledge of necessary propositions. He responds with what appears to be the point that just because a proposition is necessary does not mean that the knowledge of it must be a priori. Instead of keeping with this sensible point, which has become a commonplace of contemporary philosophy, he maneouvres himself into suggesting the opposite of his own view which is that some necessary propositions can only be known a posteriori. The reviewers think that this could have been clarified by noting explicitly that a prior and a posteriori are epistemic terms but that necessary/possible are non-epistemic. I think the point here is that necessary terms can be come to be known both a posteriori / a priori. There is no privileged way that some necessary things can only be known a posteriori as Lear claims. It is just that one came to know of it a posteriori, and there might have been an a priori path to access the same, but was not revealed to them that way. I think the necessary things are usually tracked by a priori knowledge.
+
+An original contribution of Lear is the observation that Aristotle took "following of necessity" (logical consequence/implication/validity of arguments) as a primitive concept.
+
+It is neither necessary nor sufficient to refrain from defining a concept when taking it as a primitive.
+I wonder if this could have had a better formulation, there is a double negative in the form of refraining from defining.
+
+It is necessary to be able to make positive and negative determinations involving a concept. In modern terms, it is necessary to be able to make correct assertion (that it holds, where it does) and to make correct denails (that it does not hold, where it does not). Assertion and denial require knowing of a positive criterion P_1 and knowing of a negative criterion N_1.
+
+Normally, use of a concept C_1 presupposes that P_1 is sufficient for C_1 and N_1 is sufficient for not-C_1 (not having C_1). Some philosophers identify a concept with a criterion for its use. Lear's view agrees with Aristotle's writings as Aristotle neither defined 'following of necessity' nor did he identify it with one of its criteria.
+
+Let A_1 be the raneg of applicability of the concept C_1, i.e. the class of objects that C_1 applies positively or negatively to. Once A_1, P_1, and N_1 are settled the natural question is whether P_1 and N_1 are exhaustive of A_1. In other words, whether every object in A_1 exhibits P_1 or exhibits N_1. Since P_1 entails C_1 and C_1 entails not-N_1, it follows that P_1 entails not-N_1, so no object in A_1 exhibits both. I think it is terser to say N_1 and P_1 partitions C_1, but this can't be so since it is only mutually exclusive, not collectively exhaustive as seen below.
+
+Thus exclusiveness of P_1 and N_1 is presupposed. This of course does not entail exhaustiveness. Since exclusiveness of P_1 and N_1 is presupposed, exhaustiveness would entail that P_1 and not-N_1 are co-extensive relative to A_1.
+
+In discussing the primitive concept C, validity, the first thing to settle is its applicability range A. Lear seems to be clear that validity applies to actual arguments composed of propositions or interpreted sentences rather than to complexes of uninterpreted strings. It is necessary then to explain how the word is used in connection with argument forms/patterns to block the mistake of thinking that a concept has two ranges of applicability. Lear doesn't do this. If one takes validity to apply primarily to forms and derivatively to actual arguments (like Quine does in his 1970 Philosophy of Logic work), then one gets a philosophy of logic different from that of Aristotle.
+
+Aristotle's logical system is taken to consist of his primitive concept C of "following of necessity" together with the range of applicability A, his positive criterion P and his negative criterion N. As far as known to Corcoran and Scanlan, this acceptation of the terms "Aristotle's logical system" has not previously been stated explicitly but it certainly accords with writings of Smiley and Corcoran and also Łukasiewicz.
+
+Without using the terms above, Lear is clear that Aristotle took perfectibility to be the mark P of validity. The primary mark of validity is being a perfect syllogism and/or being a conversion. The perfect syllogisms and conversions are perfectible trivially. Being perfectible with a chain of perfect syllogisms and conversions is the secondary mark of validity.
+
+Lear also seems to notice that there is something illegitimate/confused about asking fo a justification of this critical procedure. The idea seems to be that a request for a justification of criterion P for the concept C seems to presuppose another independent and established criterion for the concept. If use of the concept is manifest only through the criterion P, then a request for its justification is an improper question involving a false presupposition.
+
+Lear does not seem to realise fully that Aristotle took having true permises and a false conclusion to be the primary mark of invalidity. That, having the same narrow form as a primary invalid argument to be the secondary mark of invalidity. If we say that a counter-argument for a given argument is an argument that has true premises and false conclusion and having the same form as the given argument, then Aristotle's criterion for invalidity, N, is having a counter-argument. A primary invalid argument is trivially its own counter-argument.
+
+Lear does not notice that the impropriety of asking for a justification of a critical procedure applies equally to the negative criteria case. If the use of the concept not-C (not-being-valid) is manifest only through the criterion N, then a request for its justification is likewise an improper question. He does emphasize repeatedly that other criteria for invalidity are in fact felt to be correct because, and only in so far as, they accord with the counter-argument criterion N (taking inference as actual argument). TODO: Which is the other criteria here? I think I might have to read the book.
+
+Let A stand for the class of actual arguments. Once the criteria P and N for validity C are clear, the obvious question is that of the exhuastiveness of P and N. That is whether every argument is perfect or has a counter-argument. A way to begin to deal with this question is to delimit a manageable subclass B of A and inquire whether P and N exhuasts B.
+
+This is what lear says Aristotle does with a class of two-premise arguments he calls syllogistic inferences. Lear says twice that it is a test of the adequacy of the means of perfection, the procedure of the positive criterion. But in the opinion of Scanlan and Corcoran, it is just as much a test of the procedure of the negative criterion.
+
+"Every B which is not N is P" <=> "Every B which is not P is N"
+
+It is a partial test of the exhaustiveness of P and N together: it is a test of the system, not a test of a component in isolation.
+
+Moreover, if Lear was correct in his assertion that Aristotle thought that his definition of imperfect syllogism carried the presupposition that every valid argument is either perfect in itself or perfectible by perfect syllogisms, then the above test could have only been regarded by Aristotle as a test of the negative criterion. I think this is because perfect/perfectible arguments already satisfy the positive criterion by definition. TODO: I have to read the book thoroughly to understand the problem raised here.
+
+Once a subclass of the domain has been used to test the exhaustiveness of P and N, the natural next step is to expand the subclass aiming at the general result that every argument is either perfectible or has a counter-argument. Lear is aware that this question is the Aristotelian analogue of modern completeness questions. Lear says that form the perspective of modern logic, the point of a completeness theorem is to establish the extensional equivalence of two distinct relations. The two relations are deducibility and having no counter-intepretations. In the opinion of Scanlan and Corcoran, Lear fails to see that the possibility of this kind of question transcends the peculiar artifacts of modern logic and can be raised in any situation involving a positive and a negative criterion. He seems to think that the possibility of raising a question of exhaustiveness/completeness depends on the syntactical character of deducibility and the model-theoretic character of no counter-interpretations.
+
+Thus Learn has two arguments why Aristotle could not have raised the question of completeness, neither of which posseses true premises. It seems to be clear that Aristotle could have indeed raised the question; whether he did so is anothe matter.
+
+In modern logic there is a tendency to identify the concept of consequence with one of its criteria.
+
+Strict-formalists tend to identify consequence with the positive criterion of deducibility
+Model-theorists following Tarski tend to identify consequence with the non-holding of the negative criterion (i.e., to identify consequence with no counter-arguments or no counter-interpretations).
+
+Conceptual Structure of Classical Logic - Corcoran (1972)
+
+It is an interesting question to wonder whether Aristotle made either or both. Lear seems to argue that Aristotle does not identify "following of necessity" with perfectibility and Aristotle didn't identify "following of necessity" with not having a counter argument. However, if Lear were correct in thinking that Aristotle's definition of imperfect syllogism carried the presupposition that every valid argument is perfectable, this amounts to a kind of identification of validity and perfectibility.
+
+In summary, the reviewers think this is a valuable and provocative work. Despite some technical flaws and inconsistiencies, it makes original and worthwhile contribution to the growing understanding and appreciaion of Aristotle's logic theory. It provides a new map for the exploration of the Analytics.
